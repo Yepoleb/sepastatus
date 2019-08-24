@@ -16,22 +16,22 @@ BLZ_MAP = {
   "35029": "RVSAAT2S029",
   "35010": "RVSAAT2S010",
   "35053": "RVSAAT2S053",
-  "19530": "SPAEAT2SXXX",
-  "19965": "FAZFAT21XXX",
-  "19750": "BAWOATW1XXX",
-  "15030": "OBKLAT2LXXX",
-  "15031": "OBKLAT2LXXX",
-  "15040": "OBKLAT2LXXX",
-  "15041": "OBKLAT2LXXX",
-  "15042": "OBKLAT2LXXX",
-  "15060": "OBKLAT2LXXX",
-  "15061": "OBKLAT2LXXX",
-  "15062": "OBKLAT2LXXX",
-  "15080": "OBKLAT2LXXX",
-  "15081": "OBKLAT2LXXX",
-  "15092": "OBKLAT2LXXX",
-  "15093": "OBKLAT2LXXX",
-  "15094": "OBKLAT2LXXX",
+  "19530": "SPAEAT2S",
+  "19965": "FAZFAT21",
+  "19750": "BAWOATW1",
+  "15030": "OBKLAT2L",
+  "15031": "OBKLAT2L",
+  "15040": "OBKLAT2L",
+  "15041": "OBKLAT2L",
+  "15042": "OBKLAT2L",
+  "15060": "OBKLAT2L",
+  "15061": "OBKLAT2L",
+  "15062": "OBKLAT2L",
+  "15080": "OBKLAT2L",
+  "15081": "OBKLAT2L",
+  "15092": "OBKLAT2L",
+  "15093": "OBKLAT2L",
+  "15094": "OBKLAT2L",
   "34613": "RZOOAT2L613",
   "34633": "RZOOAT2L633",
   "36279": "RZTIAT22279",
@@ -44,22 +44,22 @@ BLZ_MAP = {
   "35043": "RVSAAT2S043",
   "35044": "RVSAAT2S044",
   "35046": "RVSAAT2S046",
-  "56000": "HYSTAT2GXXX",
-  "20334": "SMWRAT21XXX",
-  "19620": "CBMUAT21XXX",
-  "19100": "DEUTATWWXXX",
-  "15095": "OBKLAT2LXXX",
-  "15110": "OBKLAT2LXXX",
-  "15120": "OBKLAT2LXXX",
-  "15121": "OBKLAT2LXXX",
-  "15122": "OBKLAT2LXXX",
-  "15123": "OBKLAT2LXXX",
-  "15130": "OBKLAT2LXXX",
-  "15135": "OBKLAT2LXXX",
-  "15131": "OBKLAT2LXXX",
-  "15132": "OBKLAT2LXXX",
-  "15133": "OBKLAT2LXXX",
-  "15022": "OBKLAT2LXXX",
+  "56000": "HYSTAT2G",
+  "20334": "SMWRAT21",
+  "19620": "CBMUAT21",
+  "19100": "DEUTATWW",
+  "15095": "OBKLAT2L",
+  "15110": "OBKLAT2L",
+  "15120": "OBKLAT2L",
+  "15121": "OBKLAT2L",
+  "15122": "OBKLAT2L",
+  "15123": "OBKLAT2L",
+  "15130": "OBKLAT2L",
+  "15135": "OBKLAT2L",
+  "15131": "OBKLAT2L",
+  "15132": "OBKLAT2L",
+  "15133": "OBKLAT2L",
+  "15022": "OBKLAT2L",
   "34637": "RZOOAT2L637",
   "34530": "RZOOAT2L530",
   "36220": "RZTIAT22220",
@@ -71,24 +71,24 @@ BLZ_MAP = {
   "35060": "RVSAAT2S060",
   "35064": "RVSAAT2S064",
   "35065": "RVSAAT2S065",
-  "19240": "MEINATWWXXX",
-  "19650": "ESBKATWWXXX",
-  "19150": "KTBKATWWXXX",
-  "58000": "HYPVAT2BXXX",
-  "12000": "BKAUATWWXXX",
-  "14200": "EASYATW1XXX",
-  "15150": "OBKLAT2LXXX",
-  "15134": "OBKLAT2LXXX",
-  "15023": "OBKLAT2LXXX",
-  "15024": "OBKLAT2LXXX",
-  "15151": "OBKLAT2LXXX",
-  "15025": "OBKLAT2LXXX",
-  "15013": "OBKLAT2LXXX",
-  "17400": "BFKKAT2KXXX",
-  "17100": "BFKKAT2KXXX",
-  "17200": "BFKKAT2KXXX",
-  "17300": "BFKKAT2KXXX",
-  "17500": "BFKKAT2KXXX",
+  "19240": "MEINATWW",
+  "19650": "ESBKATWW",
+  "19150": "KTBKATWW",
+  "58000": "HYPVAT2B",
+  "12000": "BKAUATWW",
+  "14200": "EASYATW1",
+  "15150": "OBKLAT2L",
+  "15134": "OBKLAT2L",
+  "15023": "OBKLAT2L",
+  "15024": "OBKLAT2L",
+  "15151": "OBKLAT2L",
+  "15025": "OBKLAT2L",
+  "15013": "OBKLAT2L",
+  "17400": "BFKKAT2K",
+  "17100": "BFKKAT2K",
+  "17200": "BFKKAT2K",
+  "17300": "BFKKAT2K",
+  "17500": "BFKKAT2K",
   "34080": "RZOOAT2L080",
   "32647": "RLNWATW1647",
   "32660": "RLNWATW1660",
@@ -100,21 +100,21 @@ BLZ_MAP = {
   "39257": "RZKTAT2K257",
   "34540": "RZOOAT2L540",
   "39267": "RZKTAT2K267",
-  "31500": "NTBAATWWXXX",
-  "54000": "OBLAAT2LXXX",
-  "75100": "SBOSATWWXXX",
-  "16310": "BTVAAT22XXX",
-  "16320": "BTVAAT22XXX",
-  "16460": "BTVAAT22XXX",
-  "16330": "BTVAAT22XXX",
-  "16340": "BTVAAT22XXX",
-  "16350": "BTVAAT22XXX",
-  "16360": "BTVAAT22XXX",
-  "16370": "BTVAAT22XXX",
-  "16380": "BTVAAT22XXX",
-  "16390": "BTVAAT22XXX",
-  "16400": "BTVAAT22XXX",
-  "16410": "BTVAAT22XXX",
+  "31500": "NTBAATWW",
+  "54000": "OBLAAT2L",
+  "75100": "SBOSATWW",
+  "16310": "BTVAAT22",
+  "16320": "BTVAAT22",
+  "16460": "BTVAAT22",
+  "16330": "BTVAAT22",
+  "16340": "BTVAAT22",
+  "16350": "BTVAAT22",
+  "16360": "BTVAAT22",
+  "16370": "BTVAAT22",
+  "16380": "BTVAAT22",
+  "16390": "BTVAAT22",
+  "16400": "BTVAAT22",
+  "16410": "BTVAAT22",
   "34669": "RZOOAT2L669",
   "34356": "RZOOAT2L356",
   "39271": "RZKTAT2K271",
@@ -131,17 +131,17 @@ BLZ_MAP = {
   "44480": "VBOEATWWSAL",
   "35009": "RVSAAT2S047",
   "35050": "RVSAAT2S063",
-  "20815": "STSPAT2GXXX",
-  "20228": "SPKDAT21XXX",
-  "20505": "SPKIAT2KXXX",
-  "20506": "SPKUAT22XXX",
-  "11000": "BKAUATWWXXX",
-  "33135": "RLBBAT2EXXX",
-  "60000": "BAWAATWWXXX",
-  "14900": "BAWAATWWXXX",
-  "42750": "VBOEATWWXXX",
-  "43210": "VBWEAT2WXXX",
-  "33035": "RLBBAT2EXXX",
+  "20815": "STSPAT2G",
+  "20228": "SPKDAT21",
+  "20505": "SPKIAT2K",
+  "20506": "SPKUAT22",
+  "11000": "BKAUATWW",
+  "33135": "RLBBAT2E",
+  "60000": "BAWAATWW",
+  "14900": "BAWAATWW",
+  "42750": "VBOEATWW",
+  "43210": "VBWEAT2W",
+  "33035": "RLBBAT2E",
   "36218": "RZTIAT22218",
   "36245": "RZTIAT22245",
   "34100": "RZOOAT2L100",
@@ -149,7 +149,7 @@ BLZ_MAP = {
   "36333": "RZTIAT22333",
   "38372": "RZSTAT2G103",
   "38010": "RZSTAT2G187",
-  "36000": "RZTIAT22XXX",
+  "36000": "RZTIAT22",
   "38001": "RZSTAT2G001",
   "38186": "RZSTAT2G186",
   "38023": "RZSTAT2G023",
@@ -159,9 +159,9 @@ BLZ_MAP = {
   "32025": "RLNWATWWAMS",
   "33072": "RLBBAT2E072",
   "36248": "RZTIAT22248",
-  "19510": "PIAGAT2SXXX",
-  "18170": "OKOMATWWXXX",
-  "20833": "SPPLAT21XXX",
+  "19510": "PIAGAT2S",
+  "18170": "OKOMATWW",
+  "20833": "SPPLAT21",
   "38460": "RZSTAT2G460",
   "38041": "RZSTAT2G041",
   "38043": "RZSTAT2G043",
@@ -182,12 +182,12 @@ BLZ_MAP = {
   "38128": "RZSTAT2G128",
   "38129": "RZSTAT2G129",
   "34114": "RZOOAT2L114",
-  "45710": "VOVBAT2BXXX",
-  "18130": "BWFBATW1XXX",
+  "45710": "VOVBAT2B",
+  "18130": "BWFBATW1",
   "38367": "RZSTAT2G367",
-  "43600": "VBOEATWWXXX",
-  "100": "NABAATWWXXX",
-  "18190": "BAWAATWWXXX",
+  "43600": "VBOEATWW",
+  "00100": "NABAATWW",
+  "18190": "BAWAATWW",
   "32679": "RLNWATW1477",
   "32455": "RLNWATW1477",
   "44770": "VBOEATWWGRA",
@@ -204,23 +204,23 @@ BLZ_MAP = {
   "35147": "RVSAAT2S047",
   "35160": "RVSAAT2S060",
   "35164": "RVSAAT2S064",
-  "20315": "ASPKAT2LXXX",
-  "20256": "SPSPAT21XXX",
-  "20263": "SPZWAT21XXX",
+  "20315": "ASPKAT2L",
+  "20256": "SPSPAT21",
+  "20263": "SPZWAT21",
   "35013": "RVSAAT2S003",
-  "40000": "VBOEATWWXXX",
-  "18160": "VBOEATWWXXX",
-  "40074": "IMMIAT21XXX",
+  "40000": "VBOEATWW",
+  "18160": "VBOEATWW",
+  "40074": "IMMIAT21",
   "37410": "RVVGAT2B468",
-  "19490": "MHCBATWWXXX",
+  "19490": "MHCBATWW",
   "35014": "RVSAAT2S007",
-  "49220": "VBOEATWWXXX",
+  "49220": "VBOEATWW",
   "44020": "VBOEATWWSAL",
   "44300": "VBOEATWWSAL",
   "43530": "VBOEATWWNOM",
   "44820": "VBOEATWWNOM",
-  "42630": "VBWEAT2WXXX",
-  "42550": "VBWEAT2WXXX",
+  "42630": "VBWEAT2W",
+  "42550": "VBWEAT2W",
   "36265": "RZTIAT22322",
   "36236": "RZTIAT22358",
   "36216": "RZTIAT22358",
@@ -229,7 +229,7 @@ BLZ_MAP = {
   "47150": "VBOEATWWNOM",
   "41210": "VBOEATWWNOM",
   "32778": "RLNWATWWAMS",
-  "52300": "HSEEAT2KXXX",
+  "52300": "HSEEAT2K",
   "38075": "RZSTAT2G075",
   "38077": "RZSTAT2G077",
   "33033": "RLBBAT2E033",
@@ -242,7 +242,7 @@ BLZ_MAP = {
   "32367": "RLNWATWW367",
   "34030": "RZOOAT2L030",
   "34118": "RZOOAT2L118",
-  "76040": "VIAUATW1XXX",
+  "76040": "VIAUATW1",
   "38094": "RZSTAT2G094",
   "38151": "RZSTAT2G151",
   "33038": "RLBBAT2E038",
@@ -254,10 +254,10 @@ BLZ_MAP = {
   "36315": "RZTIAT22315",
   "32395": "RLNWATWWKOR",
   "34135": "RZOOAT2L135",
-  "76000": "PORCAT21XXX",
-  "33000": "RLBBAT2EXXX",
-  "20245": "SPPOAT21XXX",
-  "20218": "SPHAAT21XXX",
+  "76000": "PORCAT21",
+  "33000": "RLBBAT2E",
+  "20245": "SPPOAT21",
+  "20218": "SPHAAT21",
   "38102": "RZSTAT2G102",
   "33002": "RLBBAT2E002",
   "38103": "RZSTAT2G103",
@@ -274,10 +274,10 @@ BLZ_MAP = {
   "34127": "RZOOAT2L127",
   "34129": "RZOOAT2L129",
   "34250": "RZOOAT2L250",
-  "39000": "RZKTAT2KXXX",
-  "39100": "VSGKAT2KXXX",
-  "20205": "SPBDAT21XXX",
-  "20230": "SPLSAT21XXX",
+  "39000": "RZKTAT2K",
+  "39100": "VSGKAT2K",
+  "20205": "SPBDAT21",
+  "20230": "SPLSAT21",
   "38206": "RZSTAT2G206",
   "38210": "RZSTAT2G210",
   "38215": "RZSTAT2G215",
@@ -290,8 +290,8 @@ BLZ_MAP = {
   "34460": "RZOOAT2L460",
   "34155": "RZOOAT2L155",
   "36337": "RZTIAT22337",
-  "74200": "SFIVATW1XXX",
-  "35000": "RVSAAT2SXXX",
+  "74200": "SFIVATW1",
+  "35000": "RVSAAT2S",
   "38227": "RZSTAT2G227",
   "38238": "RZSTAT2G238",
   "38402": "RZSTAT2G402",
@@ -304,8 +304,8 @@ BLZ_MAP = {
   "32397": "RLNWATWWKRE",
   "36339": "RZTIAT22339",
   "32413": "RLNWATWWLAA",
-  "20402": "SPMIAT21XXX",
-  "20331": "SPPRAT21XXX",
+  "20402": "SPMIAT21",
+  "20331": "SPPRAT21",
   "38249": "RZSTAT2G249",
   "38252": "RZSTAT2G252",
   "32099": "RLNWATW1099",
@@ -313,9 +313,9 @@ BLZ_MAP = {
   "38420": "RZSTAT2G420",
   "36386": "RZTIAT22386",
   "36347": "RZTIAT22347",
-  "37000": "RVVGAT2BXXX",
+  "37000": "RVVGAT2B",
   "34680": "RZOOAT2L680",
-  "20507": "LISPAT21XXX",
+  "20507": "LISPAT21",
   "33065": "RLBBAT2E065",
   "38282": "RZSTAT2G282",
   "38285": "RZSTAT2G285",
@@ -327,37 +327,37 @@ BLZ_MAP = {
   "36349": "RZTIAT22349",
   "36351": "RZTIAT22351",
   "34160": "RZOOAT2L160",
-  "34000": "RZOOAT2LXXX",
-  "19970": "BRASATWWXXX",
-  "18600": "VKBLAT2LXXX",
-  "20267": "WINSATWNXXX",
-  "20603": "SPEGAT21XXX",
-  "20607": "SSBLAT21XXX",
+  "34000": "RZOOAT2L",
+  "19970": "BRASATWW",
+  "18600": "VKBLAT2L",
+  "20267": "WINSATWN",
+  "20603": "SPEGAT21",
+  "20607": "SSBLAT21",
   "36342": "RZTIAT22342",
   "36378": "RZTIAT22378",
   "34126": "RZOOAT2L080",
-  "19250": "DIRAAT2SXXX",
-  "46660": "VBOEATWWXXX",
-  "49460": "VBOEATWWXXX",
+  "19250": "DIRAAT2S",
+  "46660": "VBOEATWW",
+  "49460": "VBOEATWW",
   "33085": "RLBBAT2E055",
-  "44220": "BWFBATW1XXX",
+  "44220": "BWFBATW1",
   "38335": "RZSTAT2G170",
-  "19430": "UBSWATWWXXX",
-  "15006": "OBKLAT2LXXX",
-  "15005": "OBKLAT2LXXX",
-  "15008": "OBKLAT2LXXX",
-  "15009": "OBKLAT2LXXX",
-  "15010": "OBKLAT2LXXX",
-  "15011": "OBKLAT2LXXX",
-  "15021": "OBKLAT2LXXX",
+  "19430": "UBSWATWW",
+  "15006": "OBKLAT2L",
+  "15005": "OBKLAT2L",
+  "15008": "OBKLAT2L",
+  "15009": "OBKLAT2L",
+  "15010": "OBKLAT2L",
+  "15011": "OBKLAT2L",
+  "15021": "OBKLAT2L",
   "43920": "VBOEATWWNOM",
   "32447": "RLNWATWWLFD",
   "40630": "VBOEATWWNOM",
   "41050": "VBOEATWWNOM",
-  "43610": "VBOEATWWXXX",
-  "44570": "VBOEATWWXXX",
+  "43610": "VBOEATWW",
+  "44570": "VBOEATWW",
   "39483": "RZKTAT2K496",
-  "19540": "BKCHATWWXXX",
+  "19540": "BKCHATWW",
   "32127": "RLNWATW1127",
   "32715": "RLNWATW1715",
   "37401": "RVVGAT2B401",
@@ -366,31 +366,31 @@ BLZ_MAP = {
   "37420": "RVVGAT2B420",
   "37422": "RVVGAT2B422",
   "37423": "RVVGAT2B423",
-  "19520": "KRECAT2GXXX",
-  "19810": "SANTATWWXXX",
+  "19520": "KRECAT2G",
+  "19810": "SANTATWW",
   "34608": "RZOOAT2L608",
   "34545": "RZOOAT2L545",
-  "18150": "SGABATWWXXX",
-  "16420": "BTVAAT22XXX",
-  "16430": "BTVAAT22XXX",
-  "16440": "BTVAAT22XXX",
-  "16450": "BTVAAT22XXX",
-  "16300": "BTVAAT22XXX",
+  "18150": "SGABATWW",
+  "16420": "BTVAAT22",
+  "16430": "BTVAAT22",
+  "16440": "BTVAAT22",
+  "16450": "BTVAAT22",
+  "16300": "BTVAAT22",
   "34390": "RZOOAT2L390",
   "37429": "RVVGAT2B429",
   "37435": "RVVGAT2B435",
-  "37438": "RANMAT21XXX",
+  "37438": "RANMAT21",
   "34363": "RZOOAT2L363",
-  "20216": "SPHBAT21XXX",
-  "19330": "AIAGATWWXXX",
-  "20503": "SPIHAT22XXX",
-  "19190": "BSSWATWWXXX",
-  "20320": "ASPKAT2LXXX",
-  "20706": "KSPKAT2KXXX",
-  "20508": "SPRTAT21XXX",
-  "19880": "WUIBATWWXXX",
-  "57000": "HYPTAT22XXX",
-  "19340": "EUAAATWWXXX",
+  "20216": "SPHBAT21",
+  "19330": "AIAGATWW",
+  "20503": "SPIHAT22",
+  "19190": "BSSWATWW",
+  "20320": "ASPKAT2L",
+  "20706": "KSPKAT2K",
+  "20508": "SPRTAT21",
+  "19880": "WUIBATWW",
+  "57000": "HYPTAT22",
+  "19340": "EUAAATWW",
   "36352": "RZTIAT22352",
   "36354": "RZTIAT22354",
   "34180": "RZOOAT2L180",
@@ -404,18 +404,18 @@ BLZ_MAP = {
   "37458": "RVVGAT2B458",
   "37461": "RVVGAT2B461",
   "37468": "RVVGAT2B468",
-  "20272": "SPZWAT21XXX",
+  "20272": "SPZWAT21",
   "34170": "RZOOAT2L170",
   "34383": "RZOOAT2L383",
   "34277": "RZOOAT2L277",
   "34710": "RZOOAT2L710",
   "34303": "RZOOAT2L303",
-  "19690": "TVBAATWWXXX",
-  "19400": "BOTKATWXXXX",
-  "19210": "INGBATWWXXX",
-  "20246": "SPPDAT21XXX",
-  "74000": "SABRATWWXXX",
-  "38000": "RZSTAT2GXXX",
+  "19690": "TVBAATWW",
+  "19400": "BOTKATWX",
+  "19210": "INGBATWW",
+  "20246": "SPPDAT21",
+  "74000": "SABRATWW",
+  "38000": "RZSTAT2G",
   "38261": "RZSTAT2G368",
   "35068": "RVSAAT2S039",
   "34321": "RZOOAT2L380",
@@ -430,20 +430,20 @@ BLZ_MAP = {
   "32278": "RLNWATWW278",
   "36232": "RZTIAT22232",
   "34370": "RZOOAT2L370",
-  "17000": "BFKKAT2KXXX",
-  "16000": "BTVAAT22XXX",
-  "40730": "OVLIAT21XXX",
-  "36791": "ALPEAT22XXX",
+  "17000": "BFKKAT2K",
+  "16000": "BTVAAT22",
+  "40730": "OVLIAT21",
+  "36791": "ALPEAT22",
   "32501": "RLNWATWWMIB",
-  "20257": "SPSBAT21XXX",
+  "20257": "SPSBAT21",
   "32667": "RLNWATWWPRB",
   "33041": "RLBBAT2E041",
   "33125": "RLBBAT2E125",
   "32286": "RLNWATW1286",
   "32769": "RLNWATWW769",
-  "10000": "OEKOATWWXXX",
-  "20314": "SKBIAT21XXX",
-  "20702": "SPFNAT21XXX",
+  "10000": "OEKOATWW",
+  "20314": "SKBIAT21",
+  "20702": "SPFNAT21",
   "34200": "RZOOAT2L200",
   "36263": "RZTIAT22263",
   "36336": "RZTIAT22336",
@@ -455,8 +455,8 @@ BLZ_MAP = {
   "36240": "RZTIAT22240",
   "36252": "RZTIAT22252",
   "45010": "VBOEATWWSAL",
-  "19120": "SPBAATWWXXX",
-  "20333": "SPRHAT21XXX",
+  "19120": "SPBAATWW",
+  "20333": "SPRHAT21",
   "39500": "RZKTAT2K500",
   "39461": "RZKTAT2K461",
   "33055": "RLBBAT2E055",
@@ -465,8 +465,8 @@ BLZ_MAP = {
   "36272": "RZTIAT22272",
   "36362": "RZTIAT22362",
   "36241": "RZTIAT22241",
-  "20602": "DOSPAT2DXXX",
-  "20604": "SPFKAT2BXXX",
+  "20602": "DOSPAT2D",
+  "20604": "SPFKAT2B",
   "38133": "RZSTAT2G133",
   "33010": "RLBBAT2E010",
   "33012": "RLBBAT2E012",
@@ -474,7 +474,7 @@ BLZ_MAP = {
   "36367": "RZTIAT22367",
   "38497": "RZSTAT2G497",
   "38499": "RZSTAT2G499",
-  "52200": "RZBAATWWXXX",
+  "52200": "RZBAATWW",
   "42600": "VBOEATWWKLA",
   "42820": "VBOEATWWKLA",
   "46900": "VBOEATWWKLA",
@@ -487,24 +487,24 @@ BLZ_MAP = {
   "32250": "RLNWATWWGTD",
   "34161": "RZOOAT2L161",
   "34165": "RZOOAT2L165",
-  "15000": "OBKLAT2LXXX",
-  "19200": "SCHOATWWXXX",
-  "19930": "CENBATWWXXX",
-  "42110": "MVOGAT22XXX",
-  "31303": "RBSKATW1XXX",
+  "15000": "OBKLAT2L",
+  "19200": "SCHOATWW",
+  "19930": "CENBATWW",
+  "42110": "MVOGAT22",
+  "31303": "RBSKATW1",
   "73700": "",
-  "20241": "SPNGAT21XXX",
+  "20241": "SPNGAT21",
   "38311": "RZSTAT2G023",
-  "15004": "OBKLAT2LXXX",
-  "15007": "OBKLAT2LXXX",
-  "15012": "OBKLAT2LXXX",
-  "15096": "OBKLAT2LXXX",
-  "15097": "OBKLAT2LXXX",
+  "15004": "OBKLAT2L",
+  "15007": "OBKLAT2L",
+  "15012": "OBKLAT2L",
+  "15096": "OBKLAT2L",
+  "15097": "OBKLAT2L",
   "45850": "VBOEATWWINN",
-  "20219": "SPHEAT21XXX",
+  "20219": "SPHEAT21",
   "38503": "RZSTAT2G056",
-  "43000": "VBOEATWWXXX",
-  "52000": "HAABAT2KXXX",
+  "43000": "VBOEATWW",
+  "52000": "HAABAT2K",
   "32291": "RLNWATW1002",
   "38076": "RZSTAT2G346",
   "33046": "RLBBAT2E065",
@@ -514,23 +514,23 @@ BLZ_MAP = {
   "34606": "RZOOAT2L380",
   "39505": "RZKTAT2K475",
   "39465": "RZKTAT2K481",
-  "43380": "OVLIAT21XXX",
-  "18100": "GEBAATWWXXX",
-  "30000": "RZBAATWWXXX",
+  "43380": "OVLIAT21",
+  "18100": "GEBAATWW",
+  "30000": "RZBAATWW",
   "40850": "VBOEATWWNOM",
   "34380": "RZOOAT2L380",
   "34318": "RZOOAT2L380",
-  "19940": "DOBAATWWXXX",
+  "19940": "DOBAATWW",
   "42740": "VBOEATWWSAL",
   "37424": "RVVGAT2B458",
   "32374": "RLNWATWWASP",
   "43770": "VBOEATWWINN",
-  "44430": "VBOEATWWXXX",
-  "43690": "VBOEATWWXXX",
+  "44430": "VBOEATWW",
+  "43690": "VBOEATWW",
   "32633": "RLNWATWWGTD",
   "32356": "RLNWATWW769",
   "32198": "RLNWATW1322",
-  "36305": "RBRTAT22XXX",
+  "36305": "RBRTAT22",
   "32731": "RLNWATW1438",
   "32368": "RLNWATW1477",
   "32944": "RLNWATWWLFD",
@@ -590,14 +590,14 @@ BLZ_MAP = {
   "39404": "RZKTAT2K404",
   "39411": "RZKTAT2K411",
   "39412": "RZKTAT2K412",
-  "19370": "AUTOATW1XXX",
-  "19380": "DENEATW1XXX",
-  "19390": "BMASAT21XXX",
-  "14000": "BAWAATWWXXX",
-  "51000": "EHBBAT2EXXX",
-  "20502": "SPIMAT21XXX",
-  "73800": "LEGMATW1XXX",
-  "20510": "SPSCAT22XXX",
+  "19370": "AUTOATW1",
+  "19380": "DENEATW1",
+  "19390": "BMASAT21",
+  "14000": "BAWAATWW",
+  "51000": "EHBBAT2E",
+  "20502": "SPIMAT21",
+  "73800": "LEGMATW1",
+  "20510": "SPSCAT22",
   "32426": "RLNWATWW426",
   "32438": "RLNWATW1438",
   "34226": "RZOOAT2L226",
@@ -612,15 +612,15 @@ BLZ_MAP = {
   "39272": "RZKTAT2K272",
   "39288": "RZKTAT2K288",
   "39292": "RZKTAT2K292",
-  "20404": "SBGSAT2SXXX",
-  "20306": "SPFRAT21XXX",
-  "20326": "SPNKAT21XXX",
-  "20221": "SPHNAT21XXX",
-  "32000": "RLNWATWWXXX",
-  "20330": "SPPBAT21XXX",
-  "20112": "GIBAAT21XXX",
-  "19440": "WIPBATWWXXX",
-  "20111": "GIBAATWWXXX",
+  "20404": "SBGSAT2S",
+  "20306": "SPFRAT21",
+  "20326": "SPNKAT21",
+  "20221": "SPHNAT21",
+  "32000": "RLNWATWW",
+  "20330": "SPPBAT21",
+  "20112": "GIBAAT21",
+  "19440": "WIPBATWW",
+  "20111": "GIBAATWW",
   "34330": "RZOOAT2L330",
   "34231": "RZOOAT2L231",
   "34437": "RZOOAT2L437",
@@ -640,11 +640,11 @@ BLZ_MAP = {
   "39543": "RZKTAT2K543",
   "39546": "RZKTAT2K546",
   "39559": "RZKTAT2K559",
-  "24012": "BAOSATWWXXX",
-  "20828": "SPMZAT21XXX",
+  "24012": "BAOSATWW",
+  "20828": "SPMZAT21",
   "18120": "",
-  "20509": "SPREAT21XXX",
-  "19470": "CRESATWWXXX",
+  "20509": "SPREAT21",
+  "19470": "CRESATWW",
   "32477": "RLNWATW1477",
   "36359": "RZTIAT22359",
   "36260": "RZTIAT22260",
@@ -653,16 +653,16 @@ BLZ_MAP = {
   "32842": "RLNWATWWSTO",
   "32865": "RLNWATWWNSM",
   "39561": "RZKTAT2K561",
-  "19600": "RSBUAT2KXXX",
+  "19600": "RSBUAT2K",
   "39320": "RZKTAT2K320",
   "39322": "RZKTAT2K322",
   "39340": "RZKTAT2K340",
   "39364": "RZKTAT2K364",
   "39381": "RZKTAT2K381",
   "39384": "RZKTAT2K384",
-  "18400": "BGENATWWXXX",
+  "18400": "BGENATWW",
   "76032": "TEAMDE71TAT",
-  "20227": "SSKOAT21XXX",
+  "20227": "SSKOAT21",
   "34510": "RZOOAT2L510",
   "36262": "RZTIAT22262",
   "34110": "RZOOAT2L110",
@@ -674,15 +674,15 @@ BLZ_MAP = {
   "34442": "RZOOAT2L442",
   "39390": "RZKTAT2K390",
   "35031": "RVSAAT2S031",
-  "19140": "GUTBATWWXXX",
+  "19140": "GUTBATWW",
   "35005": "RVSAAT2S005",
   "35012": "RVSAAT2S012",
   "35015": "RVSAAT2S015",
   "35019": "RVSAAT2S019",
-  "55000": "SLHYAT2SXXX",
+  "55000": "SLHYAT2S",
   "42390": "VBOEATWWINN",
-  "20202": "SPAMAT21XXX",
-  "19950": "WUBUAT2SXXX",
+  "20202": "SPAMAT21",
+  "19950": "WUBUAT2S",
   "32497": "RLNWATW1497",
   "36264": "RZTIAT22264",
   "32551": "RLNWATWWNSD",
@@ -704,18 +704,18 @@ BLZ_MAP = {
   "35062": "RVSAAT2S062",
   "35069": "RVSAAT2S069",
   "35072": "RVSAAT2S072",
-  "19170": "IBAGAT21XXX",
-  "20601": "SPBRAT2BXXX",
-  "19410": "WELCATW1XXX",
-  "20317": "SPLAAT21XXX",
-  "20839": "SPVOAT21XXX",
-  "19675": "COBAATWXXXX",
-  "76520": "COPRATWWXXX",
-  "19480": "BIIWATWWXXX",
-  "18250": "CAIBATWWXXX",
-  "31000": "RZBAATWWXXX",
-  "44800": "VBWEAT2WXXX",
-  "19420": "RCNOATW1XXX",
+  "19170": "IBAGAT21",
+  "20601": "SPBRAT2B",
+  "19410": "WELCATW1",
+  "20317": "SPLAAT21",
+  "20839": "SPVOAT21",
+  "19675": "COBAATWX",
+  "76520": "COPRATWW",
+  "19480": "BIIWATWW",
+  "18250": "CAIBATWW",
+  "31000": "RZBAATWW",
+  "44800": "VBWEAT2W",
+  "19420": "RCNOATW1",
   "32614": "RLNWATWWODO",
   "36267": "RZTIAT22267",
   "32951": "RLNWATWWWDF",
@@ -729,15 +729,15 @@ BLZ_MAP = {
   "35018": "RVSAAT2S018",
   "35045": "RVSAAT2S045",
   "35004": "RVSAAT2S004",
-  "20100": "GIBAATWGXXX",
-  "37434": "RANJAT2BXXX",
-  "19460": "BLFLATWWXXX",
-  "44960": "WSPKATW1XXX",
+  "20100": "GIBAATWG",
+  "37434": "RANJAT2B",
+  "19460": "BLFLATWW",
+  "44960": "WSPKATW1",
   "19915": "FFBKDEFFAUT",
   "42130": "VBOEATWWKLA",
-  "34922": "RZOOAT2LXXX",
-  "34920": "RZOOAT2LXXX",
-  "34921": "RZOOAT2LXXX",
+  "34922": "RZOOAT2L",
+  "34920": "RZOOAT2L",
+  "34921": "RZOOAT2L",
   "36268": "RZTIAT22268",
   "36269": "RZTIAT22269",
   "34312": "RZOOAT2L312",
@@ -752,47 +752,47 @@ BLZ_MAP = {
   "35054": "RVSAAT2S054",
   "35003": "RVSAAT2S003",
   "35039": "RVSAAT2S039",
-  "47050": "VOHGATW1XXX",
-  "15090": "OBKLAT2LXXX",
-  "15091": "OBKLAT2LXXX",
-  "15003": "OBKLAT2LXXX",
-  "15001": "OBKLAT2LXXX",
-  "15002": "OBKLAT2LXXX",
-  "42830": "VBWEAT2WXXX",
-  "19160": "WIPBATWWXXX",
+  "47050": "VOHGATW1",
+  "15090": "OBKLAT2L",
+  "15091": "OBKLAT2L",
+  "15003": "OBKLAT2L",
+  "15001": "OBKLAT2L",
+  "15002": "OBKLAT2L",
+  "42830": "VBWEAT2W",
+  "19160": "WIPBATWW",
   "32936": "RLNWATWWOWS",
   "43030": "VBOEATWWGRA",
   "48150": "VBOEATWWGRA",
   "32651": "RLNWATWW939",
-  "43510": "ABVRATW1XXX",
+  "43510": "ABVRATW1",
   "32631": "RLNWATWWASP",
   "33092": "RLBBAT2E012",
   "38262": "RZSTAT2G102",
   "38104": "RZSTAT2G497",
-  "40430": "VBOEATWWXXX",
+  "40430": "VBOEATWW",
   "35075": "RVSAAT2S047",
-  "19220": "WISMATWWXXX",
+  "19220": "WISMATWW",
   "33074": "RLBBAT2E116",
-  "39104": "VSGKAT2KXXX",
-  "39130": "VSGKAT2KXXX",
-  "39109": "VSGKAT2KXXX",
-  "39116": "VSGKAT2KXXX",
-  "39102": "VSGKAT2KXXX",
-  "39117": "VSGKAT2KXXX",
-  "39101": "VSGKAT2KXXX",
-  "40100": "VBOEATWWXXX",
-  "19360": "INGBATWWXXX",
+  "39104": "VSGKAT2K",
+  "39130": "VSGKAT2K",
+  "39109": "VSGKAT2K",
+  "39116": "VSGKAT2K",
+  "39102": "VSGKAT2K",
+  "39117": "VSGKAT2K",
+  "39101": "VSGKAT2K",
+  "40100": "VBOEATWW",
+  "19360": "INGBATWW",
   "40170": "VBOEATWWNOM",
-  "41600": "VBOEATWWXXX",
+  "41600": "VBOEATWW",
   "44780": "VBOEATWWGRA",
   "46590": "VBOEATWWGRA",
-  "36990": "RBRTAT22XXX",
-  "43830": "VBWEAT2WXXX",
-  "20225": "SPBDAT21XXX",
+  "36990": "RBRTAT22",
+  "43830": "VBWEAT2W",
+  "20225": "SPBDAT21",
   "38407": "RZSTAT2G056",
   "38171": "RZSTAT2G075",
   "33104": "RLBBAT2E002",
-  "18140": "CITIATWXXXX",
+  "18140": "CITIATWX",
   "75910": "",
   "36276": "RZTIAT22336",
   "36254": "RZTIAT22263",
@@ -802,10 +802,10 @@ BLZ_MAP = {
   "38120": "RZSTAT2G151",
   "38240": "RZSTAT2G186",
   "38462": "RZSTAT2G347",
-  "34795": "RZOOAT2LXXX",
-  "34796": "RZOOAT2LXXX",
-  "19660": "INVOATWWXXX",
-  "45330": "VBWEAT2WXXX",
+  "34795": "RZOOAT2L",
+  "34796": "RZOOAT2L",
+  "19660": "INVOATWW",
+  "45330": "VBWEAT2W",
   "36249": "RZTIAT22218",
   "36303": "RZTIAT22203",
   "33004": "RLBBAT2E033",
@@ -815,8 +815,8 @@ BLZ_MAP = {
   "36213": "RZTIAT22358",
   "40720": "VBOEATWWSAL",
   "35042": "RVSAAT2S039",
-  "36345": "RBRTAT22XXX",
-  "43180": "VBWEAT2WXXX",
+  "36345": "RBRTAT22",
+  "43180": "VBWEAT2W",
   "38211": "RZSTAT2G487",
   "38131": "RZSTAT2G497",
   "38266": "RZSTAT2G249",
@@ -828,13 +828,13 @@ BLZ_MAP = {
   "38348": "RZSTAT2G215",
   "35111": "RVSAAT2S039",
   "35070": "RVSAAT2S039",
-  "53000": "HYPNATWWXXX",
+  "53000": "HYPNATWW",
   "35170": "RVSAAT2S039",
-  "44400": "OVLIAT21XXX",
+  "44400": "OVLIAT21",
   "38477": "RZSTAT2G477",
   "38072": "RZSTAT2G477",
   "32414": "RLNWATWWPRB",
-  "44790": "VBWEAT2WXXX",
+  "44790": "VBWEAT2W",
   "34362": "RZOOAT2L380",
   "34481": "RZOOAT2L380",
   "34543": "RZOOAT2L114",
@@ -846,7 +846,7 @@ BLZ_MAP = {
   "38375": "RZSTAT2G043",
   "35008": "RVSAAT2S015",
   "35108": "RVSAAT2S015",
-  "39358": "RZKTAT2KXXX",
+  "39358": "RZKTAT2K",
   "35037": "RVSAAT2S063",
   "38292": "RZSTAT2G499",
   "37439": "RVVGAT2B431",
@@ -858,7 +858,7 @@ BLZ_MAP = {
   "35261": "RVSAAT2S063",
   "35361": "RVSAAT2S063",
   "38026": "RZSTAT2G282",
-  "19450": "COPRATWWXXX",
+  "19450": "COPRATWW",
   "37445": "RVVGAT2B474",
   "38481": "RZSTAT2G113",
   "33124": "RLBBAT2E065",
@@ -866,19 +866,19 @@ BLZ_MAP = {
   "39383": "RZKTAT2K496",
   "34535": "RZOOAT2L300",
   "34361": "RZOOAT2L300",
-  "1000": "BUNDATWWXXX",
-  "57100": "HYPTAT22XXX",
-  "34923": "RZOOAT2LXXX",
-  "14210": "EASYATW1XXX",
-  "55500": "SLHYAT2SXXX",
-  "12005": "BKAUATWWXXX",
-  "12004": "BKAUATWWXXX",
-  "12002": "BKAUATWWXXX",
-  "34950": "RZOOAT2LXXX"
+  "01000": "BUNDATWW",
+  "57100": "HYPTAT22",
+  "34923": "RZOOAT2L",
+  "14210": "EASYATW1",
+  "55500": "SLHYAT2S",
+  "12005": "BKAUATWW",
+  "12004": "BKAUATWW",
+  "12002": "BKAUATWW",
+  "34950": "RZOOAT2L"
 }
 
 SEPA_INFO = {
-  "BACAADADXXX": {
+  "BACAADAD": {
     "country": "Andorra",
     "name": "Andorra Bank Agricol Reig, S.A.",
     "address": "Carrer Manuel Cerqueda i Escaler 4-6",
@@ -886,7 +886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-05",
     "instant_readiness": null
   },
-  "BSANADADXXX": {
+  "BSANADAD": {
     "country": "Andorra",
     "name": "Bancsabadell D'Andorra S.A.",
     "address": "Av. Del Fener 7",
@@ -894,7 +894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "CRDAADADXXX": {
+  "CRDAADAD": {
     "country": "Andorra",
     "name": "Credit Andorra S.A.",
     "address": "Av. Meritxell 80",
@@ -902,7 +902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-05",
     "instant_readiness": null
   },
-  "BINAADADXXX": {
+  "BINAADAD": {
     "country": "Andorra",
     "name": "Mora Banc Grup SA",
     "address": "Av. Meritxell 96",
@@ -910,7 +910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-05",
     "instant_readiness": null
   },
-  "VALBADADXXX": {
+  "VALBADAD": {
     "country": "Andorra",
     "name": "Vall Banc, SAU",
     "address": "Av. Carlemany 119",
@@ -918,7 +918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "HSEEAT2KXXX": {
+  "HSEEAT2K": {
     "country": "Austria",
     "name": "Addiko Bank AG",
     "address": "Wipplingerstrasse 34/4",
@@ -926,7 +926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "ASPKAT2LXXX": {
+  "ASPKAT2L": {
     "country": "Austria",
     "name": "Allgemeine Sparkasse Oberoesterreich Bankaktiengesellschaft",
     "address": "Promenade 11-13",
@@ -934,7 +934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "AIAGATWWXXX": {
+  "AIAGATWW": {
     "country": "Austria",
     "name": "Allianz Investmentbank AG",
     "address": "Hietzinger KAI 101- 105",
@@ -942,7 +942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "ALPEAT22XXX": {
+  "ALPEAT22": {
     "country": "Austria",
     "name": "Alpenbank A.G.",
     "address": "Kaiser Jaegerstrasse 9",
@@ -950,7 +950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-08",
     "instant_readiness": null
   },
-  "HAABAT2KXXX": {
+  "HAABAT2K": {
     "country": "Austria",
     "name": "Austrian Anadi Bank AG",
     "address": "Domgasse 5",
@@ -958,7 +958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AUTOATW1XXX": {
+  "AUTOATW1": {
     "country": "Austria",
     "name": "Autobank AG",
     "address": "Gertrude-Fr\u00f6hlich-Sandner-Stra\u00dfe 3",
@@ -966,7 +966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BRASATWWXXX": {
+  "BRASATWW": {
     "country": "Austria",
     "name": "Banco DO Brasil AG",
     "address": "Praterstrasse 31/4.OG",
@@ -974,7 +974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BWFBATW1XXX": {
+  "BWFBATW1": {
     "country": "Austria",
     "name": "Bank Fuer Aerzte UND Freie Berufe A.G.",
     "address": "4, Kolingasse",
@@ -982,7 +982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BTVAAT22XXX": {
+  "BTVAAT22": {
     "country": "Austria",
     "name": "Bank Fuer Tirol UND Vorarlberg A.G.",
     "address": "Stadtforum",
@@ -990,7 +990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "OPSKATWWXXX": {
+  "OPSKATWW": {
     "country": "Austria",
     "name": "Bank fur Arbeit und Wirtschaft und Osterreichische Postsparkasse AG",
     "address": "Georg Coch Platz 2",
@@ -998,7 +998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GUTBATWWXXX": {
+  "GUTBATWW": {
     "country": "Austria",
     "name": "Bank Gutmann AG",
     "address": "Schwarzenbergplatz 16",
@@ -1006,7 +1006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "WISMATWWXXX": {
+  "WISMATWW": {
     "country": "Austria",
     "name": "Bank Winter UND CO. Aktiengesellschaft",
     "address": "10, Singerstrasse",
@@ -1014,7 +1014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPAEAT2SXXX": {
+  "SPAEAT2S": {
     "country": "Austria",
     "name": "Bankhaus Carl Spaengler & Co. AG",
     "address": "Schwarzstrasse  1",
@@ -1022,7 +1022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-08"
   },
-  "DENEATW1XXX": {
+  "DENEATW1": {
     "country": "Austria",
     "name": "Bankhaus Denzel Aktiengesellschaft",
     "address": "Erdbergstrasse 189-193",
@@ -1030,7 +1030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-07-05",
     "instant_readiness": null
   },
-  "KRECAT2GXXX": {
+  "KRECAT2G": {
     "country": "Austria",
     "name": "Bankhaus Krentschker & Co Aktiengesellschaft",
     "address": "Am Eisernen Tor 3",
@@ -1038,7 +1038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BSSWATWWXXX": {
+  "BSSWATWW": {
     "country": "Austria",
     "name": "Bankhaus Schelhammer & Schattera AG",
     "address": "Goldschmiedgasse 3",
@@ -1046,7 +1046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAOSATWWXXX": {
+  "BAOSATWW": {
     "country": "Austria",
     "name": "Bausparkasse der oesterreichischen Sparkassen AG",
     "address": "Beatrixgasse 27",
@@ -1054,7 +1054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": "2017-11-21"
   },
-  "WUBUAT2SXXX": {
+  "WUBUAT2S": {
     "country": "Austria",
     "name": "Bausparkasse Wustenrot AG",
     "address": "Alpenstrasse 70",
@@ -1062,7 +1062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BAWAATWWXXX": {
+  "BAWAATWW": {
     "country": "Austria",
     "name": "Bawag P.S.K.(Bank fuer Arbeit und Wirtschaft und Oesterreichische Postsparkasse Aktiengesellschaft)",
     "address": "Wiedner G\u00fcrtel 11",
@@ -1070,7 +1070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BFKKAT2KXXX": {
+  "BFKKAT2K": {
     "country": "Austria",
     "name": "BKS Bank AG",
     "address": "43, ST. Veiter Ring",
@@ -1078,7 +1078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BMASAT21XXX": {
+  "BMASAT21": {
     "country": "Austria",
     "name": "BMW Austria Bank Gmbh",
     "address": "24 Siegfried Marcus Strasse",
@@ -1086,7 +1086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "SPBAATWWXXX": {
+  "SPBAATWW": {
     "country": "Austria",
     "name": "Bruell Kallmus Bank AG",
     "address": "Burgring 16",
@@ -1094,7 +1094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "RSBUAT2KXXX": {
+  "RSBUAT2K": {
     "country": "Austria",
     "name": "Capital Bank Grawe Gruppe AG",
     "address": "16, Burgring",
@@ -1102,7 +1102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VIAUATW1XXX": {
+  "VIAUATW1": {
     "country": "Austria",
     "name": "Card Complete Service Bank AG",
     "address": "Lassallestrasse 3",
@@ -1110,7 +1110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-09",
     "instant_readiness": null
   },
-  "CBMUAT21XXX": {
+  "CBMUAT21": {
     "country": "Austria",
     "name": "Commerzialbank Mattersburg im Burgenland AG",
     "address": "Judengasse 11",
@@ -1118,7 +1118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "ESBKATWWXXX": {
+  "ESBKATWW": {
     "country": "Austria",
     "name": "DenizBank AG",
     "address": "Thomas-Klestil-Platz 1",
@@ -1126,7 +1126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GIBAAT21XXX": {
+  "GIBAAT21": {
     "country": "Austria",
     "name": "Die Zweite Wiener Vereins-Sparcasse",
     "address": "Glockengasse 3",
@@ -1134,7 +1134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": "2017-11-21"
   },
-  "OVLIAT21XXX": {
+  "OVLIAT21": {
     "country": "Austria",
     "name": "Dolomitenbank Osttirol-Westkaernten EG",
     "address": "Suedtiroler Platz 9",
@@ -1142,7 +1142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-04"
   },
-  "DOSPAT2DXXX": {
+  "DOSPAT2D": {
     "country": "Austria",
     "name": "Dornbirner Sparkasse Bank AG",
     "address": "Bahnhofstrasse 2",
@@ -1150,7 +1150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "EASYATW1XXX": {
+  "EASYATW1": {
     "country": "Austria",
     "name": "easybank AG",
     "address": "51-55, Quellenstr.",
@@ -1158,7 +1158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GIBAATWWXXX": {
+  "GIBAATWW": {
     "country": "Austria",
     "name": "Erste Bank DER Oesterreichischen Sparkassen AG",
     "address": "Am Graben 21",
@@ -1166,7 +1166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "GIBAATWGXXX": {
+  "GIBAATWG": {
     "country": "Austria",
     "name": "Erste Group Bank AG",
     "address": "Am Graben 21",
@@ -1174,7 +1174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "EUAAATWWXXX": {
+  "EUAAATWW": {
     "country": "Austria",
     "name": "European American Investment Bank AG",
     "address": "4, Wallnerstrasse",
@@ -1182,7 +1182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BGENATWWXXX": {
+  "BGENATWW": {
     "country": "Austria",
     "name": "Generali Bank AG",
     "address": "Landskrongasse 1-3",
@@ -1190,7 +1190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HYPNATWWXXX": {
+  "HYPNATWW": {
     "country": "Austria",
     "name": "Hypo NOE Landesbank f\u00fcr Nieder\u00f6sterreich und Wien AG",
     "address": "Hypogasse 1",
@@ -1198,7 +1198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HYPTAT22XXX": {
+  "HYPTAT22": {
     "country": "Austria",
     "name": "Hypo Tirol Bank AG",
     "address": "Hypo Passage 2",
@@ -1206,7 +1206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-09-02"
   },
-  "HYPVAT2BXXX": {
+  "HYPVAT2B": {
     "country": "Austria",
     "name": "Hypo Vorarlberg Bank AG",
     "address": "1 Hypo-Passage",
@@ -1214,7 +1214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-08"
   },
-  "EHBBAT2EXXX": {
+  "EHBBAT2E": {
     "country": "Austria",
     "name": "Hypo-Bank Burgenland Aktiengesellschaft",
     "address": "33, Neusiedlerstrasse",
@@ -1222,7 +1222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KSPKAT2KXXX": {
+  "KSPKAT2K": {
     "country": "Austria",
     "name": "Kaerntner Sparkasse AG",
     "address": "Neuer Platz 14",
@@ -1230,7 +1230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "KTBKATWWXXX": {
+  "KTBKATWW": {
     "country": "Austria",
     "name": "Kathrein Privatbank AG",
     "address": "25, Wipplingerstrasse",
@@ -1238,7 +1238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "INVOATWWXXX": {
+  "INVOATWW": {
     "country": "Austria",
     "name": "Kommunalkredit Austria AG",
     "address": "Tuerkenstrasse 9",
@@ -1246,7 +1246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "SPKDAT21XXX": {
+  "SPKDAT21": {
     "country": "Austria",
     "name": "Kremser Bank und Sparkassen Aktiengesellschaft",
     "address": "Ringstrasse 5-7",
@@ -1254,7 +1254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "HYSTAT2GXXX": {
+  "HYSTAT2G": {
     "country": "Austria",
     "name": "Landes-Hypothekenbank Steiermark AG",
     "address": "Radetzkystrasse 15 - 17",
@@ -1262,7 +1262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BLFLATWWXXX": {
+  "BLFLATWW": {
     "country": "Austria",
     "name": "LGT Bank AG Zweigniederlassung Oesterreich",
     "address": "Bankgasse 9",
@@ -1270,7 +1270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LILAATWWXXX": {
+  "LILAATWW": {
     "country": "Austria",
     "name": "Liechtensteinische Landesbank (Osterreich) AG",
     "address": "Wipplingerstrasse 35",
@@ -1278,7 +1278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-04-04",
     "instant_readiness": null
   },
-  "LISPAT21XXX": {
+  "LISPAT21": {
     "country": "Austria",
     "name": "Lienzer Sparkasse AG",
     "address": "Johannesplatz 6",
@@ -1286,7 +1286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "MVOGAT22XXX": {
+  "MVOGAT22": {
     "country": "Austria",
     "name": "Marchfelder Bank eG",
     "address": "Marchfelder-Platz 1-2",
@@ -1294,7 +1294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-02-06",
     "instant_readiness": null
   },
-  "MEINATWWXXX": {
+  "MEINATWW": {
     "country": "Austria",
     "name": "Meinl Bank A.G.",
     "address": "2, Bauernmarkt",
@@ -1302,7 +1302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NTBAATWWXXX": {
+  "NTBAATWW": {
     "country": "Austria",
     "name": "Notartreuhandbank AG",
     "address": "20, Landesgerichtsstrasse",
@@ -1310,7 +1310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "OBKLAT2LXXX": {
+  "OBKLAT2L": {
     "country": "Austria",
     "name": "Oberbank AG",
     "address": "Untere Donaulande, 28",
@@ -1318,7 +1318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-09-02"
   },
-  "OBLAAT2LXXX": {
+  "OBLAAT2L": {
     "country": "Austria",
     "name": "Oberoesterreichische Landesbank Aktiengesellschaft",
     "address": "38, Landstrasse",
@@ -1334,7 +1334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "OEKOATWWXXX": {
+  "OEKOATWW": {
     "country": "Austria",
     "name": "Oesterreichische Kontrollbank AG",
     "address": "Am Hof 4",
@@ -1342,7 +1342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "NABAATWWXXX": {
+  "NABAATWW": {
     "country": "Austria",
     "name": "Oesterreichische Nationalbank",
     "address": "3, Otto-Wagner Platz",
@@ -1350,7 +1350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IBAGAT21XXX": {
+  "IBAGAT21": {
     "country": "Austria",
     "name": "Partner Bank AG",
     "address": "Goethestrasse 1a",
@@ -1358,7 +1358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-01",
     "instant_readiness": null
   },
-  "PORCAT21XXX": {
+  "PORCAT21": {
     "country": "Austria",
     "name": "Porsche-Bank AG",
     "address": "Vogelweiderstrasse 75",
@@ -1366,7 +1366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-02",
     "instant_readiness": null
   },
-  "VSGKAT2KXXX": {
+  "VSGKAT2K": {
     "country": "Austria",
     "name": "Posojilnica Bank eGen",
     "address": "5-7, Paulitschgasse",
@@ -1382,7 +1382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZBAATWWXXX": {
+  "RZBAATWW": {
     "country": "Austria",
     "name": "Raiffeisen Bank International AG",
     "address": "9, AM Stadtpark",
@@ -1406,7 +1406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RBSKATW1XXX": {
+  "RBSKATW1": {
     "country": "Austria",
     "name": "Raiffeisen Bausparkasse Gesellschaft M.B.H.",
     "address": "94, Wiedner Hauptstrasse",
@@ -1414,7 +1414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CENBATWWXXX": {
+  "CENBATWW": {
     "country": "Austria",
     "name": "Raiffeisen Centrobank AG",
     "address": "Tegetthoffstrasse 1",
@@ -1470,7 +1470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RAVMATW1XXX": {
+  "RAVMATW1": {
     "country": "Austria",
     "name": "Raiffeisen Vermoegensverwaltungsbank",
     "address": "Schwarzenbergplatz 3",
@@ -1502,7 +1502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZSTAT2GXXX": {
+  "RZSTAT2G": {
     "country": "Austria",
     "name": "Raiffeisen-Landesbank Steiermark AG",
     "address": "Kaiserfeldgasse 5",
@@ -1510,7 +1510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZTIAT22XXX": {
+  "RZTIAT22": {
     "country": "Austria",
     "name": "Raiffeisen-Landesbank Tirol AG",
     "address": "Adamgasse 1-7",
@@ -2318,7 +2318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RANMAT21XXX": {
+  "RANMAT21": {
     "country": "Austria",
     "name": "Raiffeisenbank Hohenems",
     "address": "Schillerallee 1",
@@ -3566,7 +3566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RBRTAT22XXX": {
+  "RBRTAT22": {
     "country": "Austria",
     "name": "Raiffeisenbank Reutte reg.Gen.m.b.H.",
     "address": "Untermarkt 3",
@@ -4590,7 +4590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RLBBAT2EXXX": {
+  "RLBBAT2E": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Burgenland und Revisionsverband eGen",
     "address": "Raiffeisenstrasse 1",
@@ -4598,7 +4598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZKTAT2KXXX": {
+  "RZKTAT2K": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Kaernten - Rechenzentrum und Revisionsverband reg.Gen.m.b.H.",
     "address": "Raiffeisenplatz 1",
@@ -4606,7 +4606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RLNWATWWXXX": {
+  "RLNWATWW": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Niederoesterreich-Wien AG",
     "address": "1, Friedrich Wilhelm Raiffeisenplatz",
@@ -4614,7 +4614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZOOAT2LXXX": {
+  "RZOOAT2L": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Oberoesterreich AG",
     "address": "Europaplatz 1a",
@@ -4622,7 +4622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RZOODE77XXX": {
+  "RZOODE77": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Oberoesterreich AG Zweigniederlassung Sueddeutschland",
     "address": "Dr.-Emil-Brichta-Str. 9",
@@ -4630,7 +4630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RVVGAT2BXXX": {
+  "RVVGAT2B": {
     "country": "Austria",
     "name": "Raiffeisenlandesbank Voralberg Waren- UND Revisionsverband REG.GEN.M.B.H.",
     "address": "Rheinstrasse 11",
@@ -4638,7 +4638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RVSAAT2SXXX": {
+  "RVSAAT2S": {
     "country": "Austria",
     "name": "Raiffeisenverband Salzburg eGen",
     "address": "Schwarzstrasse 13-15",
@@ -4646,7 +4646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BUNDATWWXXX": {
+  "BUNDATWW": {
     "country": "Austria",
     "name": "Republik Oesterreich-Bund",
     "address": "Bundesministerium Fuer Finanzen Hintere Zollamtsstrasse 2B",
@@ -4654,7 +4654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "WOHBATWWXXX": {
+  "WOHBATWW": {
     "country": "Austria",
     "name": "S Wohnbaubank",
     "address": "21 Graben",
@@ -4662,7 +4662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-09",
     "instant_readiness": "2017-11-21"
   },
-  "SLHYAT2SXXX": {
+  "SLHYAT2S": {
     "country": "Austria",
     "name": "Salzburger Landes-Hypothekenbank AG",
     "address": "7, Residenzplatz",
@@ -4670,7 +4670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SBGSAT2SXXX": {
+  "SBGSAT2S": {
     "country": "Austria",
     "name": "Salzburger Sparkasse Bank AG",
     "address": "Alter Markt 3",
@@ -4678,7 +4678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SANTATWWXXX": {
+  "SANTATWW": {
     "country": "Austria",
     "name": "Santander Consumer Bank Gmbh",
     "address": "6, Donau City Strasse",
@@ -4686,7 +4686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SABRATWWXXX": {
+  "SABRATWW": {
     "country": "Austria",
     "name": "Sberbank Europe AG",
     "address": "Schwarzenbergplatz 3",
@@ -4694,7 +4694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "SCHOATWWXXX": {
+  "SCHOATWW": {
     "country": "Austria",
     "name": "Schoellerbank AG",
     "address": "3, Renngasse",
@@ -4702,7 +4702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COPRATWWXXX": {
+  "COPRATWW": {
     "country": "Austria",
     "name": "Semper Constantia Privatbank AG",
     "address": "2, Bankgasse",
@@ -4710,7 +4710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPBDAT21XXX": {
+  "SPBDAT21": {
     "country": "Austria",
     "name": "Sparkasse Baden",
     "address": "Hauptplatz 15",
@@ -4718,7 +4718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SSBLAT21XXX": {
+  "SSBLAT21": {
     "country": "Austria",
     "name": "Sparkasse Bludenz Bank AG",
     "address": "Sparkassenplatz 1",
@@ -4726,7 +4726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPBRAT2BXXX": {
+  "SPBRAT2B": {
     "country": "Austria",
     "name": "Sparkasse Bregenz Bank AG",
     "address": "Sparkassenplatz 1",
@@ -4734,7 +4734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPEGAT21XXX": {
+  "SPEGAT21": {
     "country": "Austria",
     "name": "Sparkasse der Gemeinde Egg",
     "address": "Loco 873",
@@ -4742,7 +4742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPAMAT21XXX": {
+  "SPAMAT21": {
     "country": "Austria",
     "name": "Sparkasse der Stadt Amstetten AG",
     "address": "Hauptplatz 31",
@@ -4750,7 +4750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPFKAT2BXXX": {
+  "SPFKAT2B": {
     "country": "Austria",
     "name": "Sparkasse der Stadt Feldkirch",
     "address": "Sparkassenplatz 1",
@@ -4758,7 +4758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPKIAT2KXXX": {
+  "SPKIAT2K": {
     "country": "Austria",
     "name": "Sparkasse der Stadt Kitzbuehel",
     "address": "Bahnhofstrasse 6",
@@ -4766,7 +4766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPPBAT21XXX": {
+  "SPPBAT21": {
     "country": "Austria",
     "name": "Sparkasse Eferding-Peuerbach-Waizenkirchen",
     "address": "Hauptstra\u00dfe 26",
@@ -4774,7 +4774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-12-11"
   },
-  "SPFNAT21XXX": {
+  "SPFNAT21": {
     "country": "Austria",
     "name": "Sparkasse Feldkirchen/Kaernten",
     "address": "Sparkassenstrasse 1a",
@@ -4782,7 +4782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPFRAT21XXX": {
+  "SPFRAT21": {
     "country": "Austria",
     "name": "Sparkasse Frankenmarkt Aktiengesellschaft",
     "address": "Hauptstrasse 94",
@@ -4790,7 +4790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPHBAT21XXX": {
+  "SPHBAT21": {
     "country": "Austria",
     "name": "Sparkasse Hainburg-Bruck-Neusiedl Aktiengesellschaft",
     "address": "Hauptplatz 1",
@@ -4798,7 +4798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPHAAT21XXX": {
+  "SPHAAT21": {
     "country": "Austria",
     "name": "Sparkasse Haugsdorf",
     "address": "Hauptplatz 1",
@@ -4806,7 +4806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPHEAT21XXX": {
+  "SPHEAT21": {
     "country": "Austria",
     "name": "Sparkasse Herzogenburg- Neulengbach",
     "address": "Rathausplatz 9-10",
@@ -4814,7 +4814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPHNAT21XXX": {
+  "SPHNAT21": {
     "country": "Austria",
     "name": "Sparkasse Horn-Ravelsbach-Kirchberg AG",
     "address": "Kirchenplatz 12",
@@ -4822,7 +4822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPIMAT21XXX": {
+  "SPIMAT21": {
     "country": "Austria",
     "name": "Sparkasse Imst AG",
     "address": "Sparkassenplatz 1",
@@ -4830,7 +4830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SSKOAT21XXX": {
+  "SSKOAT21": {
     "country": "Austria",
     "name": "Sparkasse Korneuburg AG",
     "address": "Hauptplatz 28",
@@ -4838,7 +4838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPKUAT22XXX": {
+  "SPKUAT22": {
     "country": "Austria",
     "name": "Sparkasse Kufstein Tiroler Sparkasse von 1877",
     "address": "Oberer Stadtplatz 1",
@@ -4846,7 +4846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPLAAT21XXX": {
+  "SPLAAT21": {
     "country": "Austria",
     "name": "Sparkasse Lambach Bank Aktiengesellschaft",
     "address": "Klosterplatz 3",
@@ -4854,7 +4854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPLSAT21XXX": {
+  "SPLSAT21": {
     "country": "Austria",
     "name": "Sparkasse Langenlois",
     "address": "Kornplatz 2A",
@@ -4862,7 +4862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPMIAT21XXX": {
+  "SPMIAT21": {
     "country": "Austria",
     "name": "Sparkasse Mittersill Bank AG",
     "address": "Stadtplatz 4",
@@ -4870,7 +4870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SMWRAT21XXX": {
+  "SMWRAT21": {
     "country": "Austria",
     "name": "Sparkasse Muehlviertel-West Bank AG",
     "address": "Stadtplatz 24",
@@ -4878,7 +4878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPMZAT21XXX": {
+  "SPMZAT21": {
     "country": "Austria",
     "name": "Sparkasse Muerzzuschlag Aktiengesellschaft",
     "address": "Wiener Strasse 78",
@@ -4886,7 +4886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPNKAT21XXX": {
+  "SPNKAT21": {
     "country": "Austria",
     "name": "Sparkasse Neuhofen Bank Aktiengesellschaft",
     "address": "Marktplatz 18",
@@ -4894,7 +4894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPNGAT21XXX": {
+  "SPNGAT21": {
     "country": "Austria",
     "name": "Sparkasse Neunkirchen",
     "address": "Hauptplatz 2",
@@ -4902,7 +4902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPSPAT21XXX": {
+  "SPSPAT21": {
     "country": "Austria",
     "name": "Sparkasse NIEDERoeSTERREICH Mitte West Aktiengesellschaft",
     "address": "Domgasse 5",
@@ -4910,7 +4910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPPLAT21XXX": {
+  "SPPLAT21": {
     "country": "Austria",
     "name": "Sparkasse Poellau AG",
     "address": "Hauptplatz 2",
@@ -4918,7 +4918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPPOAT21XXX": {
+  "SPPOAT21": {
     "country": "Austria",
     "name": "Sparkasse Pottenstein N.oe.",
     "address": "Hauptplatz 5",
@@ -4926,7 +4926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPPDAT21XXX": {
+  "SPPDAT21": {
     "country": "Austria",
     "name": "Sparkasse Poysdorf AG",
     "address": "Dreifaltigkeitsplatz 2",
@@ -4934,7 +4934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPPRAT21XXX": {
+  "SPPRAT21": {
     "country": "Austria",
     "name": "Sparkasse Pregarten-Unterweissenbach AG",
     "address": "Stadtplatz 19",
@@ -4942,7 +4942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPRTAT21XXX": {
+  "SPRTAT21": {
     "country": "Austria",
     "name": "Sparkasse Rattenberg Bank AG",
     "address": "Sparkassenplatz 69",
@@ -4950,7 +4950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPREAT21XXX": {
+  "SPREAT21": {
     "country": "Austria",
     "name": "Sparkasse Reutte AG",
     "address": "Obermarkt 51",
@@ -4958,7 +4958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPRHAT21XXX": {
+  "SPRHAT21": {
     "country": "Austria",
     "name": "Sparkasse Ried im Innkreis-Haag am Hausruck",
     "address": "Marktplatz 2",
@@ -4966,7 +4966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SKBIAT21XXX": {
+  "SKBIAT21": {
     "country": "Austria",
     "name": "Sparkasse Salzkammergut AG",
     "address": "Sparkassenplatz 1",
@@ -4974,7 +4974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPSBAT21XXX": {
+  "SPSBAT21": {
     "country": "Austria",
     "name": "Sparkasse Scheibbs AG",
     "address": "Hauptstrasse 9",
@@ -4982,7 +4982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPSCAT22XXX": {
+  "SPSCAT22": {
     "country": "Austria",
     "name": "Sparkasse Schwaz AG",
     "address": "Franz-Josef-Strasse 8-10",
@@ -4990,7 +4990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPVOAT21XXX": {
+  "SPVOAT21": {
     "country": "Austria",
     "name": "Sparkasse Voitsberg-Koeflach Bankaktiengesellschaft",
     "address": "Bahnhofstrasse 2",
@@ -4998,7 +4998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "STSPAT2GXXX": {
+  "STSPAT2G": {
     "country": "Austria",
     "name": "Steiermaerkische Bank und Sparkassen Aktiengesellschaft",
     "address": "Sparkassenplatz 4",
@@ -5006,7 +5006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SPIHAT22XXX": {
+  "SPIHAT22": {
     "country": "Austria",
     "name": "Tiroler Sparkasse Bankaktiengesellschaft Innsbruck",
     "address": "Sparkassenplatz 1",
@@ -5014,7 +5014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "UBSWATWWXXX": {
+  "UBSWATWW": {
     "country": "Austria",
     "name": "UBS (Luxembourg) SA Niederlassung Osterreich",
     "address": "1, Waechtergasse",
@@ -5022,7 +5022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKAUATWWXXX": {
+  "BKAUATWW": {
     "country": "Austria",
     "name": "UniCredit Bank Austria AG",
     "address": "Rothschildplatz 1",
@@ -5030,7 +5030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-04"
   },
-  "TVBAATWWXXX": {
+  "TVBAATWW": {
     "country": "Austria",
     "name": "Vakifbank International AG",
     "address": "18, Kaerntner Ring",
@@ -5054,7 +5054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VBWEAT2WXXX": {
+  "VBWEAT2W": {
     "country": "Austria",
     "name": "Volksbank Oberoesterreich AG",
     "address": "Pfarrgasse 5",
@@ -5086,7 +5086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VOVBAT2BXXX": {
+  "VOVBAT2B": {
     "country": "Austria",
     "name": "Volksbank Vorarlberg E.GEN.",
     "address": "27, Ringstrasse",
@@ -5094,7 +5094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VBOEATWWXXX": {
+  "VBOEATWW": {
     "country": "Austria",
     "name": "Volksbank Wien AG",
     "address": "Kolingasse 14-16",
@@ -5102,7 +5102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VKBLAT2LXXX": {
+  "VKBLAT2L": {
     "country": "Austria",
     "name": "Volkskreditbank AG",
     "address": "5-7, Rudigierstrasse",
@@ -5110,7 +5110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPZWAT21XXX": {
+  "SPZWAT21": {
     "country": "Austria",
     "name": "Waldviertler Sparkasse Bank AG",
     "address": "Sparkassenplatz 3",
@@ -5118,7 +5118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RANJAT2BXXX": {
+  "RANJAT2B": {
     "country": "Austria",
     "name": "Walser Privatbank AG",
     "address": "Walserstrasse 263",
@@ -5126,7 +5126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "WUIBATWWXXX": {
+  "WUIBATWW": {
     "country": "Austria",
     "name": "Western Union International Bank Gmbh",
     "address": "Schubertring 11",
@@ -5134,7 +5134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "WINSATWNXXX": {
+  "WINSATWN": {
     "country": "Austria",
     "name": "Wiener Neustaedter Sparkasse",
     "address": "Neunkirchner Strasse 4",
@@ -5142,7 +5142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "WIPBATWWXXX": {
+  "WIPBATWW": {
     "country": "Austria",
     "name": "Wiener Privatbank SE",
     "address": "Parkring 12",
@@ -5150,7 +5150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "WSPKATW1XXX": {
+  "WSPKATW1": {
     "country": "Austria",
     "name": "WSK Bank AG",
     "address": "Weimarer Strasse 26 - 28",
@@ -5158,7 +5158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-09",
     "instant_readiness": null
   },
-  "PIAGAT2SXXX": {
+  "PIAGAT2S": {
     "country": "Austria",
     "name": "Zuercher Kantonalbank Oesterreich AG",
     "address": "Getreidegasse 10",
@@ -5166,7 +5166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "ARSPBE22XXX": {
+  "ARSPBE22": {
     "country": "Belgium",
     "name": "Argenta Spaarbank nv",
     "address": "Belgielei 49-53",
@@ -5174,7 +5174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "AXABBE22XXX": {
+  "AXABBE22": {
     "country": "Belgium",
     "name": "AXA Bank Europe NV",
     "address": "Place DU Trone 1",
@@ -5182,7 +5182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BMPBBEBBXXX": {
+  "BMPBBEBB": {
     "country": "Belgium",
     "name": "Banca Monte Paschi Belgio",
     "address": "24, RUE Joseph II",
@@ -5190,7 +5190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ABERBE22XXX": {
+  "ABERBE22": {
     "country": "Belgium",
     "name": "Bank de Kremer, divisie van Bank J.Van Breda & C\u00b0",
     "address": "Ledeganckkaai 7",
@@ -5198,7 +5198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "DELEBE22XXX": {
+  "DELEBE22": {
     "country": "Belgium",
     "name": "Bank Delen NV",
     "address": "184, JAN VAN Rijswijcklaan",
@@ -5206,7 +5206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "JVBABE22XXX": {
+  "JVBABE22": {
     "country": "Belgium",
     "name": "Bank J. Van Breda & Co NV",
     "address": "Ledeganckkaai 7",
@@ -5214,7 +5214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "DEGRBEBBXXX": {
+  "DEGRBEBB": {
     "country": "Belgium",
     "name": "Banque Degroof Petercam SA",
     "address": "Rue de l'Industrie 44",
@@ -5222,7 +5222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ENIBBEBBXXX": {
+  "ENIBBEBB": {
     "country": "Belgium",
     "name": "Banque ENI S.A.",
     "address": "Rue Guimard 1A",
@@ -5230,7 +5230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BNAGBEBBXXX": {
+  "BNAGBEBB": {
     "country": "Belgium",
     "name": "Banque Nagelmackers S.A.",
     "address": "Avenue DE L ' Astronomie 23",
@@ -5238,7 +5238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "NBBEBEBBXXX": {
+  "NBBEBEBB": {
     "country": "Belgium",
     "name": "Banque Nationale DE Belgique",
     "address": "14, Boulevard DE Berlaimont",
@@ -5254,7 +5254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "GKCCBEBBXXX": {
+  "GKCCBEBB": {
     "country": "Belgium",
     "name": "Belfius Bank SA/NV",
     "address": "Place Charles Rogier 11",
@@ -5262,7 +5262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "CTBKBEBXXXX": {
+  "CTBKBEBX": {
     "country": "Belgium",
     "name": "Beobank (ex Citibank Belgium NV/SA)",
     "address": "Boulevard General Jacques 263 G",
@@ -5270,7 +5270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-08"
   },
-  "GEBABEBBXXX": {
+  "GEBABEBB": {
     "country": "Belgium",
     "name": "BNP Paribas Fortis S.A./N.V.",
     "address": "Montagne DU Parc / Warandeberg 3",
@@ -5278,7 +5278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "PCHQBEBBXXX": {
+  "PCHQBEBB": {
     "country": "Belgium",
     "name": "bpost",
     "address": "Centre Monnaie",
@@ -5286,7 +5286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPOTBEB1XXX": {
+  "BPOTBEB1": {
     "country": "Belgium",
     "name": "bpost banque S.A./bpost bank N.V.",
     "address": "Markiesstraat 1/2",
@@ -5294,7 +5294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BUYWBEBBXXX": {
+  "BUYWBEBB": {
     "country": "Belgium",
     "name": "Buy Way Personal Finance",
     "address": "Centre Monnaie - Muntcentrum  Rue de l\u2019Ev\u00eaque 26",
@@ -5302,7 +5302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "BYBBBEBBXXX": {
+  "BYBBBEBB": {
     "country": "Belgium",
     "name": "Byblos Bank Europe S.A.",
     "address": "RUE Montoyer, 10",
@@ -5310,7 +5310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-01",
     "instant_readiness": null
   },
-  "CREGBEBBXXX": {
+  "CREGBEBB": {
     "country": "Belgium",
     "name": "CBC Banque S.A.",
     "address": "Avenue Albert 1er 60",
@@ -5318,7 +5318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-07"
   },
-  "CPHBBE75XXX": {
+  "CPHBBE75": {
     "country": "Belgium",
     "name": "CPH Banque",
     "address": "7 RUE Perdue",
@@ -5326,7 +5326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "NICABEBBXXX": {
+  "NICABEBB": {
     "country": "Belgium",
     "name": "Crelan NV/SA",
     "address": "Bld Sylvain Dupuis 251",
@@ -5334,7 +5334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "EBPBBEB1XXX": {
+  "EBPBBEB1": {
     "country": "Belgium",
     "name": "Ebury Partners Belgium Limited",
     "address": "37 Boulevard du Regent",
@@ -5342,7 +5342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "EPBFBEBBXXX": {
+  "EPBFBEBB": {
     "country": "Belgium",
     "name": "Epbf SA",
     "address": "Chaussee de la hulpe 181",
@@ -5350,7 +5350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": "2018-10-08"
   },
-  "EURBBE99XXX": {
+  "EURBBE99": {
     "country": "Belgium",
     "name": "Europabank NV",
     "address": "Burgstraat 170",
@@ -5358,7 +5358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "FMMSBEB1XXX": {
+  "FMMSBEB1": {
     "country": "Belgium",
     "name": "Fimaser SA",
     "address": "20 Avenue DES Olympiades",
@@ -5366,7 +5366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-05",
     "instant_readiness": null
   },
-  "HABBBEBBXXX": {
+  "HABBBEBB": {
     "country": "Belgium",
     "name": "Habib Bank Ltd, Brussels Branch",
     "address": "RUE DU Trone 14/16",
@@ -5374,7 +5374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "FXBBBEBBXXX": {
+  "FXBBBEBB": {
     "country": "Belgium",
     "name": "iBanFirst",
     "address": "350 Avenue Louise",
@@ -5382,7 +5382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "BBRUBEBBXXX": {
+  "BBRUBEBB": {
     "country": "Belgium",
     "name": "ING Belgium SA (Head Office)",
     "address": "Marnixlaan 24",
@@ -5390,7 +5390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "TUNZBEB1XXX": {
+  "TUNZBEB1": {
     "country": "Belgium",
     "name": "Ingenico Financial Solutions NV/SA",
     "address": "Boulevard de la Woluwe 102",
@@ -5398,7 +5398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "CHASBEBXXXX": {
+  "CHASBEBX": {
     "country": "Belgium",
     "name": "JPMorgan Chase Bank, N.A., Brussels Branch",
     "address": "Boulevard DU ROI Albert II, 1",
@@ -5406,7 +5406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "KREDBEBBXXX": {
+  "KREDBEBB": {
     "country": "Belgium",
     "name": "KBC Bank N.V.",
     "address": "Havenlaan 2",
@@ -5414,7 +5414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "KEYTBEBBXXX": {
+  "KEYTBEBB": {
     "country": "Belgium",
     "name": "Keytrade Bank",
     "address": "Boulevard du Souverain 100",
@@ -5422,7 +5422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LOCYBEBBXXX": {
+  "LOCYBEBB": {
     "country": "Belgium",
     "name": "Lombard Odier (Europe) SA Luxembourg - Belgium",
     "address": "Avenue Louise 81 box 12",
@@ -5430,7 +5430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "MBWMBEBBXXX": {
+  "MBWMBEBB": {
     "country": "Belgium",
     "name": "MeDirect Bank SA",
     "address": "Boulevard de l\u2019Imp\u00e9ratrice 66",
@@ -5438,7 +5438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "MTPSBEBBXXX": {
+  "MTPSBEBB": {
     "country": "Belgium",
     "name": "Moneytrans Payment Services SA",
     "address": "Boulevard de Waterloo 77",
@@ -5446,7 +5446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-10-02",
     "instant_readiness": null
   },
-  "OONXBEBBXXX": {
+  "OONXBEBB": {
     "country": "Belgium",
     "name": "Oonex SA",
     "address": "Avenue Louise 367",
@@ -5454,7 +5454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-03-07",
     "instant_readiness": null
   },
-  "PANXBEB1XXX": {
+  "PANXBEB1": {
     "country": "Belgium",
     "name": "PAY - NXT SA",
     "address": "Avenue reine Astrid 92A",
@@ -5462,7 +5462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-06",
     "instant_readiness": null
   },
-  "PESOBEB1XXX": {
+  "PESOBEB1": {
     "country": "Belgium",
     "name": "PPS EU SA",
     "address": "Boulevard du Souverain 165, Plan de ville, Boite 9, Auderghem",
@@ -5470,7 +5470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-10",
     "instant_readiness": null
   },
-  "HBKABE22XXX": {
+  "HBKABE22": {
     "country": "Belgium",
     "name": "Record Bank SA/NV",
     "address": "Avenue Henri Mattise 16",
@@ -5478,7 +5478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BSCHBEBBXXX": {
+  "BSCHBEBB": {
     "country": "Belgium",
     "name": "Santander Benelux S.A./N.V.",
     "address": "Avenue des Nerviens 85",
@@ -5486,7 +5486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "SGPBBE99XXX": {
+  "SGPBBE99": {
     "country": "Belgium",
     "name": "SG Private Banking NV",
     "address": "Kortrijksesteenweg 302",
@@ -5494,7 +5494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SHIZBEBBXXX": {
+  "SHIZBEBB": {
     "country": "Belgium",
     "name": "Shizuoka Bank (Europe) S.A.",
     "address": "Rue Jules Cockx 8-10 box 9",
@@ -5502,7 +5502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SMBCBEBBXXX": {
+  "SMBCBEBB": {
     "country": "Belgium",
     "name": "Sumitomo Mitsui Banking Corporation Brussels Branch",
     "address": "Rue Montoyerstraat 51/6",
@@ -5510,7 +5510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IRVTBEBBXXX": {
+  "IRVTBEBB": {
     "country": "Belgium",
     "name": "THE Bank OF NEW York Mellon SA/NV",
     "address": "Montoyerstraat 46 RUE Montoyer",
@@ -5518,7 +5518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "TRWIBEB1XXX": {
+  "TRWIBEB1": {
     "country": "Belgium",
     "name": "Transferwise Europe SA/NV",
     "address": "Multiburo parliament, Square de Meeus 38/40",
@@ -5526,7 +5526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-04",
     "instant_readiness": "2019-06-04"
   },
-  "UBSWBEBBXXX": {
+  "UBSWBEBB": {
     "country": "Belgium",
     "name": "UBS Belgium SA/NV",
     "address": "300, Avenue DE Tervueren",
@@ -5534,7 +5534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VAPEBE21XXX": {
+  "VAPEBE21": {
     "country": "Belgium",
     "name": "VAN DE PUT EN Co Effectenbank - Banque DE Titres Comm.VA/SCA",
     "address": "Van Putlei 74-76",
@@ -5542,7 +5542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "VDSPBE91XXX": {
+  "VDSPBE91": {
     "country": "Belgium",
     "name": "VDK Bank",
     "address": "Sint-Michielsplein 16",
@@ -5550,7 +5550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-18"
   },
-  "BUINBGSFXXX": {
+  "BUINBGSF": {
     "country": "Bulgaria",
     "name": "Allianz Bank Bulgaria AD",
     "address": "79 Maria Louisa Blvd.",
@@ -5558,7 +5558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "NASBBGSFXXX": {
+  "NASBBGSF": {
     "country": "Bulgaria",
     "name": "Bulgarian Development Bank AD",
     "address": "1, Dyakon Ignatiy Street",
@@ -5566,7 +5566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "BNBGBGSFXXX": {
+  "BNBGBGSF": {
     "country": "Bulgaria",
     "name": "Bulgarian National Bank",
     "address": "1, Knyaz Alexander 1 Sq.",
@@ -5574,7 +5574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-05",
     "instant_readiness": null
   },
-  "BGUSBGSFXXX": {
+  "BGUSBGSF": {
     "country": "Bulgaria",
     "name": "Bulgarian-American Credit Bank",
     "address": "2 Slavyanska Street",
@@ -5582,7 +5582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CECBBGSFXXX": {
+  "CECBBGSF": {
     "country": "Bulgaria",
     "name": "Central Cooperative Bank PLC",
     "address": "87 Tsarigradsko Shosse Blvd.",
@@ -5590,7 +5590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "DEMIBGSFXXX": {
+  "DEMIBGSF": {
     "country": "Bulgaria",
     "name": "D Commerce Bank AD",
     "address": "8 Gen. Totleben Blvd.",
@@ -5598,7 +5598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "STSABGSFXXX": {
+  "STSABGSF": {
     "country": "Bulgaria",
     "name": "DSK Bank PLC",
     "address": "19, Moskovska Street",
@@ -5606,7 +5606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPBIBGSFXXX": {
+  "BPBIBGSF": {
     "country": "Bulgaria",
     "name": "Eurobank Bulgaria AD",
     "address": "1 Bulgaria Square",
@@ -5614,7 +5614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FINVBGSFXXX": {
+  "FINVBGSF": {
     "country": "Bulgaria",
     "name": "First Investment Bank LTD.",
     "address": "81 G Bulgaria Blvd.",
@@ -5622,7 +5622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "INTFBGSFXXX": {
+  "INTFBGSF": {
     "country": "Bulgaria",
     "name": "iCard AD",
     "address": "76A James Bouchier Blvd. District OF Lozenets",
@@ -5630,7 +5630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": "2018-01-09"
   },
-  "IABGBGSFXXX": {
+  "IABGBGSF": {
     "country": "Bulgaria",
     "name": "International Asset Bank AD",
     "address": "81-83, Todor Alexandrov Blvd.",
@@ -5638,7 +5638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "IORTBGSFXXX": {
+  "IORTBGSF": {
     "country": "Bulgaria",
     "name": "Investbank PLC",
     "address": "85 Bulgaria Blvd.",
@@ -5646,7 +5646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SOMBBGSFXXX": {
+  "SOMBBGSF": {
     "country": "Bulgaria",
     "name": "Municipal Bank AD",
     "address": "6, Vrabcha Street",
@@ -5654,7 +5654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "PATCBGSFXXX": {
+  "PATCBGSF": {
     "country": "Bulgaria",
     "name": "Paynetics Ltd",
     "address": "76A James Bourchier",
@@ -5662,7 +5662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-08-07",
     "instant_readiness": null
   },
-  "PIRBBGSFXXX": {
+  "PIRBBGSF": {
     "country": "Bulgaria",
     "name": "Piraeus Bank Bulgaria AD",
     "address": "115E Tsarigradsko Shosse Blvd.",
@@ -5670,7 +5670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "PRCBBGSFXXX": {
+  "PRCBBGSF": {
     "country": "Bulgaria",
     "name": "ProCredit Bank (Bulgaria) EAD",
     "address": "26 Todor Alexandrov Blvd.",
@@ -5678,7 +5678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "RZBBBGSFXXX": {
+  "RZBBBGSF": {
     "country": "Bulgaria",
     "name": "Raiffeisenbank (Bulgaria) EAD",
     "address": "55, Vaptzarov Blvd. Expo 2000",
@@ -5686,7 +5686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TTBBBG22XXX": {
+  "TTBBBG22": {
     "country": "Bulgaria",
     "name": "Societe Generale Expressbank AD - Varna",
     "address": "92, VL. Varnenchik Blvd",
@@ -5694,7 +5694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TCZBBGSFXXX": {
+  "TCZBBGSF": {
     "country": "Bulgaria",
     "name": "T.C. Ziraat Bankasi - Sofia Branch",
     "address": "87 Tsar Samuil str",
@@ -5702,7 +5702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "TBIBBGSFXXX": {
+  "TBIBBGSF": {
     "country": "Bulgaria",
     "name": "TBI Bank EAD",
     "address": "52-54, Dimitar Hadzhikotsev STR",
@@ -5710,7 +5710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": "2019-09-02"
   },
-  "TEXIBGSFXXX": {
+  "TEXIBGSF": {
     "country": "Bulgaria",
     "name": "Texim Bank AD",
     "address": "141, Todor Aleksandrov Blvd.",
@@ -5718,7 +5718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": null
   },
-  "CREXBGSFXXX": {
+  "CREXBGSF": {
     "country": "Bulgaria",
     "name": "Tokuda Bank  AD",
     "address": "21, George Washington Str.",
@@ -5726,7 +5726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "TRUDBG21XXX": {
+  "TRUDBG21": {
     "country": "Bulgaria",
     "name": "Transact Europe EAD",
     "address": "19 Karnigradska str",
@@ -5734,7 +5734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "UNCRBGSFXXX": {
+  "UNCRBGSF": {
     "country": "Bulgaria",
     "name": "Unicredit Bulbank AD",
     "address": "7, Sveta Nedelya Square",
@@ -5742,7 +5742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UBBSBGSFXXX": {
+  "UBBSBGSF": {
     "country": "Bulgaria",
     "name": "United Bulgarian Bank AD (UBB)",
     "address": "89B, Vitosha Blvd.",
@@ -5750,7 +5750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HAABHR22XXX": {
+  "HAABHR22": {
     "country": "Croatia",
     "name": "Addiko Bank d.d.",
     "address": "Slavonska Avenija 6",
@@ -5758,7 +5758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-02-09",
     "instant_readiness": null
   },
-  "KREZHR2XXXX": {
+  "KREZHR2X": {
     "country": "Croatia",
     "name": "Agram banka d.d.",
     "address": "Ulica Grada Vukovara 74",
@@ -5766,7 +5766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "SKOVHR22XXX": {
+  "SKOVHR22": {
     "country": "Croatia",
     "name": "Banka Kovanica D.D.",
     "address": "Petra Preradovica 29",
@@ -5774,7 +5774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "CROAHR2XXXX": {
+  "CROAHR2X": {
     "country": "Croatia",
     "name": "Croatia Banka D.D.",
     "address": "SKY Office Floor 11 Roberta Frangesa Mihanovica 9",
@@ -5782,7 +5782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "ESBCHR22XXX": {
+  "ESBCHR22": {
     "country": "Croatia",
     "name": "Erste AND Steiermaerkische Bank D.D.",
     "address": "Jadranski TRG 3A",
@@ -5790,7 +5790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-08-05",
     "instant_readiness": null
   },
-  "NBHRHR2XXXX": {
+  "NBHRHR2X": {
     "country": "Croatia",
     "name": "Hrvatska Narodna Banka (Croatian National Bank)",
     "address": "TRG Hrvatskih Velikana 3",
@@ -5798,7 +5798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "HPBZHR2XXXX": {
+  "HPBZHR2X": {
     "country": "Croatia",
     "name": "Hrvatska Postanska Banka D.D.",
     "address": "Jurisiceva 4",
@@ -5806,7 +5806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "IMXXHR22XXX": {
+  "IMXXHR22": {
     "country": "Croatia",
     "name": "Imex Banka D.D.",
     "address": "Tolstojeva 6",
@@ -5814,7 +5814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "ISKBHR2XXXX": {
+  "ISKBHR2X": {
     "country": "Croatia",
     "name": "Istarska Kreditna Banka Umag D.D.",
     "address": "Ernesta Milosa 1",
@@ -5822,7 +5822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "VBVZHR22XXX": {
+  "VBVZHR22": {
     "country": "Croatia",
     "name": "J and T banka d.d.",
     "address": "Aleja Kralja Zvonimira 1",
@@ -5830,7 +5830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "KALCHR2XXXX": {
+  "KALCHR2X": {
     "country": "Croatia",
     "name": "Karlovacka Banka D.D.",
     "address": "Ivana Gorana Kovacica 1",
@@ -5838,7 +5838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "KENBHR22XXX": {
+  "KENBHR22": {
     "country": "Croatia",
     "name": "Kentbank D.D.",
     "address": "Gunduliceva 1",
@@ -5846,7 +5846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "OTPVHR2XXXX": {
+  "OTPVHR2X": {
     "country": "Croatia",
     "name": "OTP Banka Hrvatska D.D.",
     "address": "Domovinskog Rata 61",
@@ -5854,7 +5854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "PAZGHR2XXXX": {
+  "PAZGHR2X": {
     "country": "Croatia",
     "name": "Partner Banka D.D. Zagreb",
     "address": "Voncinina 2",
@@ -5862,7 +5862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "PDKCHR2XXXX": {
+  "PDKCHR2X": {
     "country": "Croatia",
     "name": "Podravska Banka D.D.",
     "address": "Opaticka 3",
@@ -5870,7 +5870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "PBZGHR2XXXX": {
+  "PBZGHR2X": {
     "country": "Croatia",
     "name": "Privredna Banka Zagreb D.D.",
     "address": "Radnicka Cesta 50",
@@ -5878,7 +5878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "RZBHHR2XXXX": {
+  "RZBHHR2X": {
     "country": "Croatia",
     "name": "Raiffeisenbank Austria D.D. Zagreb",
     "address": "Magazinska Cesta 69",
@@ -5886,7 +5886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "SMBRHR22XXX": {
+  "SMBRHR22": {
     "country": "Croatia",
     "name": "Samoborska Banka D.D.",
     "address": "TRG Kralja Tomislava 8",
@@ -5894,7 +5894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "VBCRHR22XXX": {
+  "VBCRHR22": {
     "country": "Croatia",
     "name": "Sberbank D.D.",
     "address": "Varsavska 9",
@@ -5902,7 +5902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "SBSLHR2XXXX": {
+  "SBSLHR2X": {
     "country": "Croatia",
     "name": "Slatinska Banka D.D.",
     "address": "Vladimira Nazora 2",
@@ -5910,7 +5910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "ZABAHR2XXXX": {
+  "ZABAHR2X": {
     "country": "Croatia",
     "name": "Zagrebacka Banka DD",
     "address": "TRG Bana Josipa Jelacica 10",
@@ -5918,7 +5918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "ABKLCY2NXXX": {
+  "ABKLCY2N": {
     "country": "Cyprus",
     "name": "Alpha Bank Cyprus Limited",
     "address": "3 Lemesou Avenue, PO Box 21661",
@@ -5926,7 +5926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ANCOCY2NXXX": {
+  "ANCOCY2N": {
     "country": "Cyprus",
     "name": "Ancoria Bank LTD",
     "address": "10-12 Demostheni Severi",
@@ -5934,7 +5934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-09-07",
     "instant_readiness": null
   },
-  "PIRBCY2NXXX": {
+  "PIRBCY2N": {
     "country": "Cyprus",
     "name": "AstroBank Limited",
     "address": "1 Spyrou Kyprianou Avenue",
@@ -5942,7 +5942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "BCYPCY2NXXX": {
+  "BCYPCY2N": {
     "country": "Cyprus",
     "name": "Bank OF Cyprus Public Company Limited",
     "address": "51, Stassinos Street: Agia Paraskevi  - Strovolos",
@@ -5950,7 +5950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CARDCY2LXXX": {
+  "CARDCY2L": {
     "country": "Cyprus",
     "name": "CardPay Ltd",
     "address": "226 Arch. Makariou III",
@@ -5958,7 +5958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "CBCYCY2NXXX": {
+  "CBCYCY2N": {
     "country": "Cyprus",
     "name": "Central Bank OF Cyprus",
     "address": "80 Kennedy Avenue",
@@ -5966,7 +5966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "CYDBCY2NXXX": {
+  "CYDBCY2N": {
     "country": "Cyprus",
     "name": "Cyprus Development Bank Public Company LTD, THE",
     "address": "Alfa House 50, Arch. Makarios III Avenue",
@@ -5974,7 +5974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "ECBXCY2NXXX": {
+  "ECBXCY2N": {
     "country": "Cyprus",
     "name": "Ecommbx Limited",
     "address": "1 Methonis str, 4th floor",
@@ -5982,7 +5982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-04",
     "instant_readiness": null
   },
-  "ERBKCY2NXXX": {
+  "ERBKCY2N": {
     "country": "Cyprus",
     "name": "Eurobank Cyprus LTD",
     "address": "41, Arch. Makarios III Avenue",
@@ -5990,7 +5990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "HEBACY2NXXX": {
+  "HEBACY2N": {
     "country": "Cyprus",
     "name": "Hellenic Bank Public Company LTD.",
     "address": "Corner Limassol and Athalassas AVE.",
@@ -5998,7 +5998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HFICCY2NXXX": {
+  "HFICCY2N": {
     "country": "Cyprus",
     "name": "Housing Finance Corporation",
     "address": "Prodromou & Lefkonos 2",
@@ -6006,7 +6006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "ISEMCY22XXX": {
+  "ISEMCY22": {
     "country": "Cyprus",
     "name": "iSignthis Emoney Ltd T/As ISXPay",
     "address": "Athalassas 26, 3rd floor, Strovolos",
@@ -6014,7 +6014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": "2019-05-06"
   },
-  "ETHNCY2NXXX": {
+  "ETHNCY2N": {
     "country": "Cyprus",
     "name": "National Bank OF Greece (Cyprus) LTD.",
     "address": "15 Arch. Makarios III Avenue",
@@ -6022,7 +6022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RCBLCY2IXXX": {
+  "RCBLCY2I": {
     "country": "Cyprus",
     "name": "RCB Bank Ltd",
     "address": "2 Amathountos Street",
@@ -6030,7 +6030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "SEPMCY2NXXX": {
+  "SEPMCY2N": {
     "country": "Cyprus",
     "name": "Sepaga E.M.I. LTD",
     "address": "Stasikratous Str, 29 - 3rd Floor - Samico House",
@@ -6038,7 +6038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-17",
     "instant_readiness": null
   },
-  "SOGECY2NXXX": {
+  "SOGECY2N": {
     "country": "Cyprus",
     "name": "Societe Generale Cyprus Limited",
     "address": "20 Ayias Paraskevis Street, Strovolos",
@@ -6046,7 +6046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNVKCY2NXXX": {
+  "UNVKCY2N": {
     "country": "Cyprus",
     "name": "USB Bank Public LTD",
     "address": "83, Digeni Akrita Avenue",
@@ -6054,7 +6054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BEFKCZP1XXX": {
+  "BEFKCZP1": {
     "country": "Czech Republic",
     "name": "B-Efekt a.s.",
     "address": "Sokolovsk\u00e1 126/40",
@@ -6062,7 +6062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-09",
     "instant_readiness": null
   },
-  "CTASCZ22XXX": {
+  "CTASCZ22": {
     "country": "Czech Republic",
     "name": "Banka Creditas a.s.",
     "address": "Sokolovska 675/9",
@@ -6070,7 +6070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-10",
     "instant_readiness": null
   },
-  "GIBACZPXXXX": {
+  "GIBACZPX": {
     "country": "Czech Republic",
     "name": "Ceska Sporitelna A.S.",
     "address": "Olbrachtova   1929/62",
@@ -6078,7 +6078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CEKOCZPPXXX": {
+  "CEKOCZPP": {
     "country": "Czech Republic",
     "name": "Ceskoslovenska Obchodni Banka, A.S.",
     "address": "333/150, Radlicka",
@@ -6086,7 +6086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CITFCZPPXXX": {
+  "CITFCZPP": {
     "country": "Czech Republic",
     "name": "Citfin, Sporitelni Druzstvo",
     "address": "Radlicka 751/113E",
@@ -6094,7 +6094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "CITICZPXXXX": {
+  "CITICZPX": {
     "country": "Czech Republic",
     "name": "Citibank A.S. Praha",
     "address": "Bucharova 2641/14",
@@ -6102,7 +6102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EQBKCZPPXXX": {
+  "EQBKCZPP": {
     "country": "Czech Republic",
     "name": "Equa Bank A.S.",
     "address": "Karolinskai 661 / 4",
@@ -6110,7 +6110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "EXPNCZPPXXX": {
+  "EXPNCZPP": {
     "country": "Czech Republic",
     "name": "Expobank CZ A.S.",
     "address": "Vitezna 126/1",
@@ -6118,7 +6118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "FAPOCZP1XXX": {
+  "FAPOCZP1": {
     "country": "Czech Republic",
     "name": "FairPlay Pay s.r.o.",
     "address": "Revolucni 762/13",
@@ -6126,7 +6126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-12-16",
     "instant_readiness": null
   },
-  "FIOBCZPPXXX": {
+  "FIOBCZPP": {
     "country": "Czech Republic",
     "name": "FIO Banka A.S.",
     "address": "V Celnici 10",
@@ -6134,7 +6134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "JTBPCZPPXXX": {
+  "JTBPCZPP": {
     "country": "Czech Republic",
     "name": "J & T Banka, a.s.",
     "address": "Pobrezni 297/14",
@@ -6142,7 +6142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "KOMBCZPPXXX": {
+  "KOMBCZPP": {
     "country": "Czech Republic",
     "name": "Komercni Banka A.S.",
     "address": "Praha 1, Na Prikope 33/969",
@@ -6150,7 +6150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "AGBACZPPXXX": {
+  "AGBACZPP": {
     "country": "Czech Republic",
     "name": "Moneta Money Bank",
     "address": "BB Centrum Vyskocilova 1422/1A",
@@ -6158,7 +6158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "ORRRCZP1XXX": {
+  "ORRRCZP1": {
     "country": "Czech Republic",
     "name": "OrangeTrust s.r.o.",
     "address": "Stetkova 1001/5",
@@ -6166,7 +6166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-12",
     "instant_readiness": null
   },
-  "PAERCZP1XXX": {
+  "PAERCZP1": {
     "country": "Czech Republic",
     "name": "Payment Execution s.r.o.",
     "address": "K Lochkovu 30/4",
@@ -6174,7 +6174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-06",
     "instant_readiness": null
   },
-  "PMBPCZPPXXX": {
+  "PMBPCZPP": {
     "country": "Czech Republic",
     "name": "PPF Banka A.S.",
     "address": "Evropska 2690/17",
@@ -6182,7 +6182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "RZBCCZPPXXX": {
+  "RZBCCZPP": {
     "country": "Czech Republic",
     "name": "Raiffeisenbank A.S.",
     "address": "Hvezdova 1716/2B",
@@ -6190,7 +6190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": null
   },
-  "VBOECZ2XXXX": {
+  "VBOECZ2X": {
     "country": "Czech Republic",
     "name": "Sberbank CZ A.S.",
     "address": "U Trezorky 921/2",
@@ -6198,7 +6198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-05-09",
     "instant_readiness": null
   },
-  "BACXCZPPXXX": {
+  "BACXCZPP": {
     "country": "Czech Republic",
     "name": "Unicredit Bank Czech Republic AND Slovakia A. S.",
     "address": "\u017deletavsk\u00e1 1525/1",
@@ -6206,7 +6206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MONSDK21XXX": {
+  "MONSDK21": {
     "country": "Denmark",
     "name": "A/S Mons Bank",
     "address": "Storegade 29",
@@ -6214,7 +6214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "NSBKDK21XXX": {
+  "NSBKDK21": {
     "country": "Denmark",
     "name": "A/S Nordfyns Bank",
     "address": "Adelgade 49",
@@ -6222,7 +6222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LOBADK21XXX": {
+  "LOBADK21": {
     "country": "Denmark",
     "name": "Aktieselskabet Lollands Bank",
     "address": "Nybrogade 3",
@@ -6230,7 +6230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-12-11",
     "instant_readiness": null
   },
-  "ALMBDKKKXXX": {
+  "ALMBDKKK": {
     "country": "Denmark",
     "name": "Alm. Brand Bank A/S",
     "address": "Midtermolen 7",
@@ -6238,7 +6238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SAXODKKKXXX": {
+  "SAXODKKK": {
     "country": "Denmark",
     "name": "Alm. Brand Bank A/S",
     "address": "Philip Heymans Alle 15",
@@ -6246,7 +6246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "FAELDKK1XXX": {
+  "FAELDKK1": {
     "country": "Denmark",
     "name": "Andelskassen F\u00e6lleskassen",
     "address": "Bernhard Bangs All\u00e9 27",
@@ -6254,7 +6254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "ALBADKKKXXX": {
+  "ALBADKKK": {
     "country": "Denmark",
     "name": "Arbejdernes Landsbank A/S",
     "address": "Vesterbrogade 5",
@@ -6262,7 +6262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BOBJDK21XXX": {
+  "BOBJDK21": {
     "country": "Denmark",
     "name": "Borbjerg Sparekassse",
     "address": "Bukdalvej 5, Borbjerg",
@@ -6270,7 +6270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "BRSLDK21XXX": {
+  "BRSLDK21": {
     "country": "Denmark",
     "name": "Broager Sparekasse",
     "address": "Storegade 27",
@@ -6278,7 +6278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "DANBDK22XXX": {
+  "DANBDK22": {
     "country": "Denmark",
     "name": "Danske Andelskassers Bank A/S",
     "address": "Baneskellet 1, Hammershoj",
@@ -6286,7 +6286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "DABADKKKXXX": {
+  "DABADKKK": {
     "country": "Denmark",
     "name": "Danske Bank A/S",
     "address": "2-12 Holmens Kanal",
@@ -6294,7 +6294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-04-01"
   },
-  "JYSPDK2GXXX": {
+  "JYSPDK2G": {
     "country": "Denmark",
     "name": "Den Jyske Sparekasse",
     "address": "Borgergade 3",
@@ -6302,7 +6302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "DJURDK22XXX": {
+  "DJURDK22": {
     "country": "Denmark",
     "name": "Djurslands Bank A/S",
     "address": "Torvet 5",
@@ -6310,7 +6310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DRAGDK21XXX": {
+  "DRAGDK21": {
     "country": "Denmark",
     "name": "Dragsholm Sparekasse",
     "address": "Asn\u00e6s Centret 23",
@@ -6318,7 +6318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "DRONDK21XXX": {
+  "DRONDK21": {
     "country": "Denmark",
     "name": "Dronninglund Sparekasse",
     "address": "Slotsgade 42",
@@ -6326,7 +6326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "FASLDK21XXX": {
+  "FASLDK21": {
     "country": "Denmark",
     "name": "Fano Sparekasse",
     "address": "Tinghustorvet 51",
@@ -6334,7 +6334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "FAANDK21XXX": {
+  "FAANDK21": {
     "country": "Denmark",
     "name": "Faster Andelskasse",
     "address": "Hojevej 18, Astrup",
@@ -6342,7 +6342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "FOSPDK21XXX": {
+  "FOSPDK21": {
     "country": "Denmark",
     "name": "Folkesparekassen",
     "address": "Herningvej 37",
@@ -6350,7 +6350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "FROPDK21XXX": {
+  "FROPDK21": {
     "country": "Denmark",
     "name": "Frorup Andelskasse",
     "address": "Sportsv\u00e6nget 2",
@@ -6358,7 +6358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "FROSDK21XXX": {
+  "FROSDK21": {
     "country": "Denmark",
     "name": "Fros Herreds Sparekasse",
     "address": "Frosvej 1",
@@ -6366,7 +6366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "FRMODK21XXX": {
+  "FRMODK21": {
     "country": "Denmark",
     "name": "Froslev-Mollerup Sparekasse",
     "address": "Froslev Byvej 3",
@@ -6374,7 +6374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-09-08",
     "instant_readiness": null
   },
-  "VESBDK22XXX": {
+  "VESBDK22": {
     "country": "Denmark",
     "name": "Fynske Bank",
     "address": "ostergade 42",
@@ -6382,7 +6382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HVBADK21XXX": {
+  "HVBADK21": {
     "country": "Denmark",
     "name": "Hvidbjerg Bank A/S",
     "address": "ostergade 2",
@@ -6390,7 +6390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "JYBADKKKXXX": {
+  "JYBADKKK": {
     "country": "Denmark",
     "name": "Jyske Bank A/S",
     "address": "Vestergade 8-16",
@@ -6398,7 +6398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KLIMDK21XXX": {
+  "KLIMDK21": {
     "country": "Denmark",
     "name": "Klim Sparekasse",
     "address": "Oddevej 25, Klim",
@@ -6406,7 +6406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "AAKRDK22XXX": {
+  "AAKRDK22": {
     "country": "Denmark",
     "name": "Kreditbanken A/S",
     "address": "H.P. Hanssens Gade 17",
@@ -6414,7 +6414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LAPNDKK1XXX": {
+  "LAPNDKK1": {
     "country": "Denmark",
     "name": "Laegernes Bank",
     "address": "Dirch Passer Alle 76",
@@ -6422,7 +6422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "LOSADKKKXXX": {
+  "LOSADKKK": {
     "country": "Denmark",
     "name": "LAn & Spar Bank A/S",
     "address": "Hojbro Plads 9-11",
@@ -6430,7 +6430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "LASADK21XXX": {
+  "LASADK21": {
     "country": "Denmark",
     "name": "LangA Sparekasse",
     "address": "Bredgade 10",
@@ -6438,7 +6438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "MEKUDK21XXX": {
+  "MEKUDK21": {
     "country": "Denmark",
     "name": "Merkur Andelskasse",
     "address": "Vesterbrogade 40",
@@ -6446,7 +6446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-09-08",
     "instant_readiness": null
   },
-  "MISPDK21XXX": {
+  "MISPDK21": {
     "country": "Denmark",
     "name": "Middelfart Sparekasse",
     "address": "Algade 69",
@@ -6454,7 +6454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "NYKBDKKKXXX": {
+  "NYKBDKKK": {
     "country": "Denmark",
     "name": "Nykredit Bank A/S",
     "address": "Kalvebod Brygge 1-3",
@@ -6462,7 +6462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BANODKKKXXX": {
+  "BANODKKK": {
     "country": "Denmark",
     "name": "P/F Banknordik Copenhagen Branch",
     "address": "Amagerbrogade 25",
@@ -6470,7 +6470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "PSBSDK21XXX": {
+  "PSBSDK21": {
     "country": "Denmark",
     "name": "PenSam Bank A/S",
     "address": "Jorgen Knudsens Vej 2",
@@ -6478,7 +6478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "NRSBDK24XXX": {
+  "NRSBDK24": {
     "country": "Denmark",
     "name": "Ringkjobing Landbobank A/S",
     "address": "Torvet 4",
@@ -6486,7 +6486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RINGDK22XXX": {
+  "RINGDK22": {
     "country": "Denmark",
     "name": "Ringkjobing Landbobank A/S",
     "address": "Torvet 1",
@@ -6494,7 +6494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RISEDK21XXX": {
+  "RISEDK21": {
     "country": "Denmark",
     "name": "Rise Flemlose Sparekasse",
     "address": "St. Rise Landevej 10",
@@ -6502,7 +6502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "RSPKDK21XXX": {
+  "RSPKDK21": {
     "country": "Denmark",
     "name": "Ronde og Omegns Sparekasse",
     "address": "Hovedgaden 33",
@@ -6510,7 +6510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SALLDK22XXX": {
+  "SALLDK22": {
     "country": "Denmark",
     "name": "Salling Bank A/S",
     "address": "Frederiksgade 6",
@@ -6518,7 +6518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "SXPYDKKKXXX": {
+  "SXPYDKKK": {
     "country": "Denmark",
     "name": "Saxo Payments A/S",
     "address": "Philip Heymans Alle 15",
@@ -6526,7 +6526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-12",
     "instant_readiness": null
   },
-  "SKJBDK22XXX": {
+  "SKJBDK22": {
     "country": "Denmark",
     "name": "Skjern Bank A/S",
     "address": "Banktorvet 3",
@@ -6534,7 +6534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SOHODK21XXX": {
+  "SOHODK21": {
     "country": "Denmark",
     "name": "SonderhA-Horsted Sparekasse",
     "address": "Legindvej 86",
@@ -6542,7 +6542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SPNODK22XXX": {
+  "SPNODK22": {
     "country": "Denmark",
     "name": "Spar Nord Bank A/S",
     "address": "Skelagervej 15",
@@ -6550,7 +6550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BALLDK21XXX": {
+  "BALLDK21": {
     "country": "Denmark",
     "name": "Sparekassen Balling",
     "address": "Sondergade 12a, Balling",
@@ -6558,7 +6558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "BBRODK21XXX": {
+  "BBRODK21": {
     "country": "Denmark",
     "name": "Sparekassen Bredebro",
     "address": "Storegade 25",
@@ -6566,7 +6566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "LIBIDK21XXX": {
+  "LIBIDK21": {
     "country": "Denmark",
     "name": "Sparekassen Den lille Bikube",
     "address": "Byagervej 6 C",
@@ -6574,7 +6574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "VIVIDK21XXX": {
+  "VIVIDK21": {
     "country": "Denmark",
     "name": "Sparekassen Djursland",
     "address": "Langgade 42, Vivild",
@@ -6582,7 +6582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "NRNEDK21XXX": {
+  "NRNEDK21": {
     "country": "Denmark",
     "name": "Sparekassen for Norre Nebel og Omegn",
     "address": "Bredgade 46",
@@ -6590,7 +6590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "KRONDK22XXX": {
+  "KRONDK22": {
     "country": "Denmark",
     "name": "Sparekassen Kronjylland",
     "address": "Tronholmen 1",
@@ -6598,7 +6598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SWESDK22XXX": {
+  "SWESDK22": {
     "country": "Denmark",
     "name": "Sparekassen Sjaelland",
     "address": "Isefjords Alle 5",
@@ -6606,7 +6606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "STHYDK21XXX": {
+  "STHYDK21": {
     "country": "Denmark",
     "name": "Sparekassen Thy",
     "address": "Storetorv 1",
@@ -6614,7 +6614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "OSBADK22XXX": {
+  "OSBADK22": {
     "country": "Denmark",
     "name": "Sparekassen Vendsyssel",
     "address": "ostergade 6-8",
@@ -6622,7 +6622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VRAADK21XXX": {
+  "VRAADK21": {
     "country": "Denmark",
     "name": "Sparekassen Vendsyssel",
     "address": "ostergade 15",
@@ -6630,7 +6630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-08",
     "instant_readiness": null
   },
-  "SYBKDK22XXX": {
+  "SYBKDK22": {
     "country": "Denmark",
     "name": "Sydbank A/S",
     "address": "Peberlyk 4",
@@ -6638,7 +6638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAAADK21XXX": {
+  "BAAADK21": {
     "country": "Denmark",
     "name": "Totalbanken A/S",
     "address": "Bredgade 95",
@@ -6646,7 +6646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "VEHODK22XXX": {
+  "VEHODK22": {
     "country": "Denmark",
     "name": "vestjyskBANK A/S",
     "address": "Torvet 4-5",
@@ -6654,7 +6654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "LHVBEE22XXX": {
+  "LHVBEE22": {
     "country": "Estonia",
     "name": "AS LHV Pank",
     "address": "Tartu MNT. 2",
@@ -6662,7 +6662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": "2018-11-20"
   },
-  "AKELEE21XXX": {
+  "AKELEE21": {
     "country": "Estonia",
     "name": "AS Pocopay",
     "address": "Paernu Maantee 102C",
@@ -6670,7 +6670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-10-05",
     "instant_readiness": null
   },
-  "EEUHEE2XXXX": {
+  "EEUHEE2X": {
     "country": "Estonia",
     "name": "AS SEB Pank",
     "address": "Floor 10: 2, Tornimae",
@@ -6678,7 +6678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BIGKEE2BXXX": {
+  "BIGKEE2B": {
     "country": "Estonia",
     "name": "Bigbank AS",
     "address": "Ruutli 23",
@@ -6686,7 +6686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-01-06",
     "instant_readiness": null
   },
-  "EKRDEE22XXX": {
+  "EKRDEE22": {
     "country": "Estonia",
     "name": "Coop Pank AS",
     "address": "Narva mnt. 4",
@@ -6694,7 +6694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-03",
     "instant_readiness": "2019-04-09"
   },
-  "EPBEEE2XXXX": {
+  "EPBEEE2X": {
     "country": "Estonia",
     "name": "Eesti Pank",
     "address": "Estonia pst 13",
@@ -6702,7 +6702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-02-09",
     "instant_readiness": null
   },
-  "GFCBEE22XXX": {
+  "GFCBEE22": {
     "country": "Estonia",
     "name": "GFC Good Finance Company AS",
     "address": "Rotermanni 5",
@@ -6710,7 +6710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "RIKOEE22XXX": {
+  "RIKOEE22": {
     "country": "Estonia",
     "name": "Luminor Bank AS",
     "address": "Tartu MNT. 10",
@@ -6718,7 +6718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-08",
     "instant_readiness": null
   },
-  "MAEHEE21XXX": {
+  "MAEHEE21": {
     "country": "Estonia",
     "name": "Maaelu Edendamise Hoiu-Iaenuuhistu",
     "address": "1 Kase St.",
@@ -6726,7 +6726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "HABAEE2XXXX": {
+  "HABAEE2X": {
     "country": "Estonia",
     "name": "Swedbank AS",
     "address": "8, Liivalaia",
@@ -6734,7 +6734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-11"
   },
-  "TABUEE22XXX": {
+  "TABUEE22": {
     "country": "Estonia",
     "name": "Tallinn Business Bank LTD",
     "address": "Vana-Viru 7",
@@ -6742,7 +6742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "HELSFIHHXXX": {
+  "HELSFIHH": {
     "country": "Finland",
     "name": "Aktia Bank p.l.c.",
     "address": "P.O. BOX 207",
@@ -6750,7 +6750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AABAFI22XXX": {
+  "AABAFI22": {
     "country": "Finland",
     "name": "Bank OF Aland PLC",
     "address": "2, Nygatan",
@@ -6758,7 +6758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POPFFI22XXX": {
+  "POPFFI22": {
     "country": "Finland",
     "name": "Bonum Bank Ltd.",
     "address": "Hevosenkenka 3",
@@ -6766,7 +6766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": "2019-05-02"
   },
-  "HOLVFIHHXXX": {
+  "HOLVFIHH": {
     "country": "Finland",
     "name": "Holvi Payment Services Oy",
     "address": "Lapinlahdenpolku 8 E",
@@ -6774,7 +6774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-06",
     "instant_readiness": null
   },
-  "NDEAFIHHXXX": {
+  "NDEAFIHH": {
     "country": "Finland",
     "name": "Nordea Bank Abp",
     "address": "Satamaradankatu 5",
@@ -6782,7 +6782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-01",
     "instant_readiness": "2018-10-01"
   },
-  "OKOYFIHHXXX": {
+  "OKOYFIHH": {
     "country": "Finland",
     "name": "OP Corporate Bank plc",
     "address": "Gebhardinaukio 1,",
@@ -6790,7 +6790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-04-09"
   },
-  "SBANFIHHXXX": {
+  "SBANFIHH": {
     "country": "Finland",
     "name": "S-Bank LTD",
     "address": "P.O.Box 77",
@@ -6798,7 +6798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ITELFIHHXXX": {
+  "ITELFIHH": {
     "country": "Finland",
     "name": "Saastopankkien Keskuspankki Suomi OY",
     "address": "Teollisuuskatu 33",
@@ -6806,7 +6806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-12-01",
     "instant_readiness": "2019-05-02"
   },
-  "AFOPFR21XXX": {
+  "AFOPFR21": {
     "country": "France",
     "name": "Afone Paiement",
     "address": "11 Place Francois Mitterrand",
@@ -6814,7 +6814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-05",
     "instant_readiness": null
   },
-  "LICOFRPPXXX": {
+  "LICOFRPP": {
     "country": "France",
     "name": "Al Khaliji France SA",
     "address": "49-51, Avenue George V",
@@ -6822,7 +6822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AGFBFRCCXXX": {
+  "AGFBFRCC": {
     "country": "France",
     "name": "Allianz Banque",
     "address": "Tour Neptune-  20 place de Seine",
@@ -6838,7 +6838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-08"
   },
-  "FTNOFRP1XXX": {
+  "FTNOFRP1": {
     "country": "France",
     "name": "Arkea Direct Bank",
     "address": "Tour Ariane 5, place de la Pyramide",
@@ -6846,7 +6846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-08"
   },
-  "BCMAFRPPXXX": {
+  "BCMAFRPP": {
     "country": "France",
     "name": "Attijariwafa Bank Europe",
     "address": "6/8 RUE Chauchat",
@@ -6854,7 +6854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AXABFRPPXXX": {
+  "AXABFRPP": {
     "country": "France",
     "name": "AXA Banque SA",
     "address": "203 / 205, rue Carnot",
@@ -6862,7 +6862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CPPTFRP1XXX": {
+  "CPPTFRP1": {
     "country": "France",
     "name": "B*Capital",
     "address": "21 Boulevard Haussmann",
@@ -6870,7 +6870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BSABFRPPXXX": {
+  "BSABFRPP": {
     "country": "France",
     "name": "Banco Sabadell",
     "address": "127 Avenue des Champs Elysees",
@@ -6878,7 +6878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AUDIFRPPXXX": {
+  "AUDIFRPP": {
     "country": "France",
     "name": "Bank Audi France",
     "address": "73, Avenue DES Champs Elysees",
@@ -6886,7 +6886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "BKCHFRPPXXX": {
+  "BKCHFRPP": {
     "country": "France",
     "name": "Bank OF China, Paris Branch",
     "address": "23-25, Avenue DE LA Grande Armee",
@@ -6894,7 +6894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "BKIDFRPPXXX": {
+  "BKIDFRPP": {
     "country": "France",
     "name": "Bank OF India Paris Branch",
     "address": "3 RUE Scribe",
@@ -6902,7 +6902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-13",
     "instant_readiness": null
   },
-  "BOTKFRPXXXX": {
+  "BOTKFRPX": {
     "country": "France",
     "name": "Bank OF Tokyo-Mitsubishi UFJ LTD. Paris Branch",
     "address": "4-8 RUE Sainte Anne, BP 2101",
@@ -6910,7 +6910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPSMFRPPXXX": {
+  "BPSMFRPP": {
     "country": "France",
     "name": "Banque BCP",
     "address": "16 rue H\u00e9rold",
@@ -6918,7 +6918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "BIARFRPPXXX": {
+  "BIARFRPP": {
     "country": "France",
     "name": "Banque BIA",
     "address": "67, Avenue Franklin Roosevelt",
@@ -6926,7 +6926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCDMFRPPXXX": {
+  "BCDMFRPP": {
     "country": "France",
     "name": "Banque Chaabi DU Maroc",
     "address": "49 Avenue de Kleber",
@@ -6934,7 +6934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-07-04",
     "instant_readiness": null
   },
-  "BCIBFRP1XXX": {
+  "BCIBFRP1": {
     "country": "France",
     "name": "Banque Chabrieres SA",
     "address": "24 RUE Auguste Chabrieres",
@@ -6942,7 +6942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-09",
     "instant_readiness": null
   },
-  "BCHAFR21XXX": {
+  "BCHAFR21": {
     "country": "France",
     "name": "Banque Chalus",
     "address": "5, Place DE Jaude",
@@ -6990,7 +6990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COURFR2TXXX": {
+  "COURFR2T": {
     "country": "France",
     "name": "Banque Courtois",
     "address": "33, RUE DE Remusat",
@@ -6998,7 +6998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "ESCBFRPPXXX": {
+  "ESCBFRPP": {
     "country": "France",
     "name": "Banque D'Escompte",
     "address": "13 Boulevard Haussmann",
@@ -7006,7 +7006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-07",
     "instant_readiness": null
   },
-  "BDFEFRPPXXX": {
+  "BDFEFRPP": {
     "country": "France",
     "name": "Banque DE France",
     "address": "1 RUE DE LA Vrilliere",
@@ -7014,7 +7014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "REUBRERXXXX": {
+  "REUBRERX": {
     "country": "France",
     "name": "Banque DE LA Reunion",
     "address": "27 Rue Jean Chatel",
@@ -7022,7 +7022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BDILPMPMXXX": {
+  "BDILPMPM": {
     "country": "France",
     "name": "Banque DE Saint Pierre ET Miquelon",
     "address": "2 RUE Jacques Cartier BP 4223",
@@ -7030,7 +7030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-09-06",
     "instant_readiness": null
   },
-  "BSAVFR2CXXX": {
+  "BSAVFR2C": {
     "country": "France",
     "name": "Banque DE Savoie",
     "address": "6 BLD DU Theatre CS 82422",
@@ -7038,7 +7038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "ALTRFRP1XXX": {
+  "ALTRFRP1": {
     "country": "France",
     "name": "Banque Degroof Petercam",
     "address": "44, rue de Lisbonne",
@@ -7046,7 +7046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-08",
     "instant_readiness": null
   },
-  "DELUFR22XXX": {
+  "DELUFR22": {
     "country": "France",
     "name": "Banque Delubac & Cie",
     "address": "16 Place Saleon Terras",
@@ -7054,7 +7054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "BDAFGPGXXXX": {
+  "BDAFGPGX": {
     "country": "France",
     "name": "Banque DES Antiiles Francaises",
     "address": "Parc d.Activite de la Jaille,BP 46,",
@@ -7062,7 +7062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BATIFRP1XXX": {
+  "BATIFRP1": {
     "country": "France",
     "name": "Banque du Batiment et des Travaux Publics",
     "address": "48 RUE LA Perouse CS 51686",
@@ -7078,7 +7078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BDUPFR2SXXX": {
+  "BDUPFR2S": {
     "country": "France",
     "name": "Banque Dupuy DE Parseval",
     "address": "10 RUE General DE Gaulle . BP 168",
@@ -7086,7 +7086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "EDELFRP1XXX": {
+  "EDELFRP1": {
     "country": "France",
     "name": "Banque Edel SNC",
     "address": "60 rue Buissonni\u00e8re CS 17601",
@@ -7102,7 +7102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "CMCIFRPAXXX": {
+  "CMCIFRPA": {
     "country": "France",
     "name": "Banque Federative DU Credit Mutuel (Bfcm)",
     "address": "4 RUE Frederic-Guillaume Raiffeisen",
@@ -7110,7 +7110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "FIDCFR21XXX": {
+  "FIDCFR21": {
     "country": "France",
     "name": "Banque Fiducial",
     "address": "38, Rue Sergent Michel Berthet - CS 40119",
@@ -7118,7 +7118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-04",
     "instant_readiness": null
   },
-  "BFCORERXXXX": {
+  "BFCORERX": {
     "country": "France",
     "name": "Banque Francaise Commerciale DE L'Ocean Indien",
     "address": "60, RUE Alexis DE Villeneuve   BP323",
@@ -7126,7 +7126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FEMUFR21XXX": {
+  "FEMUFR21": {
     "country": "France",
     "name": "Banque Francaise Mutualiste",
     "address": "Flux Financiers 56-60 rue de la Glaciere",
@@ -7134,7 +7134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HRFRFRP1XXX": {
+  "HRFRFRP1": {
     "country": "France",
     "name": "Banque Hottinguer ET CIE",
     "address": "63 rue de la Victoire",
@@ -7142,7 +7142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "BICFFRPPXXX": {
+  "BICFFRPP": {
     "country": "France",
     "name": "Banque Internationale DE Commerce - Bred",
     "address": "18,quai de la Rapee",
@@ -7150,7 +7150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "KOLBFR21XXX": {
+  "KOLBFR21": {
     "country": "France",
     "name": "Banque Kolb S.A.",
     "address": "1 et 3 Place du General de Gaulle",
@@ -7158,7 +7158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "LAYDFR2WXXX": {
+  "LAYDFR2W": {
     "country": "France",
     "name": "Banque Laydernier",
     "address": "10, Avenue DU Rhone",
@@ -7166,7 +7166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "FIPIFRP1XXX": {
+  "FIPIFRP1": {
     "country": "France",
     "name": "Banque Leonardo SA",
     "address": "68  Faubourg Saint Honore",
@@ -7174,7 +7174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "BMMMFR2AXXX": {
+  "BMMMFR2A": {
     "country": "France",
     "name": "Banque Martin-Maurel",
     "address": "43, RUE Grignan",
@@ -7182,7 +7182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BMRZFR21XXX": {
+  "BMRZFR21": {
     "country": "France",
     "name": "Banque Marze",
     "address": "Avenue DE Roqua BP 76",
@@ -7190,7 +7190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "BAMYFR22XXX": {
+  "BAMYFR22": {
     "country": "France",
     "name": "Banque Michel Inchauspe - Bami",
     "address": "13 Place Charles Floquet",
@@ -7198,7 +7198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "BMISFRPPXXX": {
+  "BMISFRPP": {
     "country": "France",
     "name": "Banque Misr S.A.E. Paris branch",
     "address": "9 rue Auber",
@@ -7206,7 +7206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "NSMBFRPPXXX": {
+  "NSMBFRPP": {
     "country": "France",
     "name": "Banque Neuflize OBC",
     "address": "3, Avenue Hoche",
@@ -7214,7 +7214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BNUGFR21XXX": {
+  "BNUGFR21": {
     "country": "France",
     "name": "Banque Nuger",
     "address": "7, Place Michel DE L'Hospital",
@@ -7222,7 +7222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "BSPFFRPPXXX": {
+  "BSPFFRPP": {
     "country": "France",
     "name": "Banque Palatine",
     "address": "42 rue d.Anjou",
@@ -7318,7 +7318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "POUYFR21XXX": {
+  "POUYFR21": {
     "country": "France",
     "name": "Banque Pouyanne",
     "address": "12, Place D ' Armes",
@@ -7334,7 +7334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-04",
     "instant_readiness": null
   },
-  "PREUFRP1XXX": {
+  "PREUFRP1": {
     "country": "France",
     "name": "Banque Privee Europeenne",
     "address": "62, RUE DU Louvre",
@@ -7342,7 +7342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "REVIFRPPXXX": {
+  "REVIFRPP": {
     "country": "France",
     "name": "Banque Revillon",
     "address": "37 rue de la Victoire",
@@ -7350,7 +7350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "RALPFR2GXXX": {
+  "RALPFR2G": {
     "country": "France",
     "name": "Banque Rhone Alpes",
     "address": "20 et 22 Boulevard Edouard Rey",
@@ -7358,7 +7358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "KBLXFRPPXXX": {
+  "KBLXFRPP": {
     "country": "France",
     "name": "Banque Richelieu France",
     "address": "1-3-5 rue Paul C\u00e9zanne",
@@ -7366,7 +7366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-10",
     "instant_readiness": null
   },
-  "BSAOFR21XXX": {
+  "BSAOFR21": {
     "country": "France",
     "name": "Banque Saint Olive SA",
     "address": "84 RUE Duguesclin",
@@ -7374,7 +7374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "SBAAFRPPXXX": {
+  "SBAAFRPP": {
     "country": "France",
     "name": "Banque SBA",
     "address": "68, Avenue DES Champs Elysees",
@@ -7382,7 +7382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BPETFRP1XXX": {
+  "BPETFRP1": {
     "country": "France",
     "name": "Banque Solfea SA",
     "address": "49 Avenue DE L'Opera",
@@ -7390,7 +7390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-07-04",
     "instant_readiness": null
   },
-  "TARNFR2LXXX": {
+  "TARNFR2L": {
     "country": "France",
     "name": "Banque Tarneaud",
     "address": "2-6, RUE Turgot",
@@ -7398,7 +7398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "BDEIFRPPXXX": {
+  "BDEIFRPP": {
     "country": "France",
     "name": "Banque Themis (Formerly Banque DE L'ILE DE France-B.D.E.I.)",
     "address": "20, RUE Treilhard",
@@ -7414,7 +7414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "TRAVFRPPXXX": {
+  "TRAVFRPP": {
     "country": "France",
     "name": "Banque Travelex SA",
     "address": "Route DE LA Reine 19",
@@ -7422,7 +7422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-10",
     "instant_readiness": null
   },
-  "BFBKFRP1XXX": {
+  "BFBKFRP1": {
     "country": "France",
     "name": "BforBANK",
     "address": "Tour Europlaza - 20 Avenue Andr\u00e9 Prothin",
@@ -7430,7 +7430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "BGFIFRPPXXX": {
+  "BGFIFRPP": {
     "country": "France",
     "name": "Bgfi International",
     "address": "10/12 RUE DU General FOY",
@@ -7438,7 +7438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BLOMFRPPXXX": {
+  "BLOMFRPP": {
     "country": "France",
     "name": "Blom Bank France",
     "address": "21 avenue George V",
@@ -7446,7 +7446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "BNPAMQMXXXX": {
+  "BNPAMQMX": {
     "country": "France",
     "name": "BNP Paribas Antilles Guyanne",
     "address": "1 Boulevard Haussmann",
@@ -7454,7 +7454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-30",
     "instant_readiness": null
   },
-  "BNPCFR21XXX": {
+  "BNPCFR21": {
     "country": "France",
     "name": "BNP Paribas Factor",
     "address": "46-52 RUE Arago",
@@ -7462,7 +7462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CETEFRP1XXX": {
+  "CETEFRP1": {
     "country": "France",
     "name": "BNP Paribas Personal Finance",
     "address": "1, BD Hausmann",
@@ -7470,7 +7470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BNPARERXXXX": {
+  "BNPARERX": {
     "country": "France",
     "name": "BNP Paribas Reunion",
     "address": "1 Boulevard Haussmann",
@@ -7478,7 +7478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-31",
     "instant_readiness": null
   },
-  "BNPAFRPPXXX": {
+  "BNPAFRPP": {
     "country": "France",
     "name": "BNP Paribas SA",
     "address": "16 Boulevard DES Italiens",
@@ -7486,7 +7486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "PARBFRPPXXX": {
+  "PARBFRPP": {
     "country": "France",
     "name": "BNP Paribas Securities Services SA",
     "address": "3, RUE D'Antin",
@@ -7494,7 +7494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AFRIFRPPXXX": {
+  "AFRIFRPP": {
     "country": "France",
     "name": "BOA-France",
     "address": "6 Rue Cambaceres",
@@ -7502,7 +7502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-07-05",
     "instant_readiness": null
   },
-  "BOUSFRPPXXX": {
+  "BOUSFRPP": {
     "country": "France",
     "name": "Boursorama Banque",
     "address": "44 rue Traversi\u00e8re",
@@ -7510,7 +7510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": "2018-11-20"
   },
-  "BPCEFRPPXXX": {
+  "BPCEFRPP": {
     "country": "France",
     "name": "Bpce",
     "address": "50 Av Pierre Mendes France",
@@ -7518,7 +7518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-16",
     "instant_readiness": "2018-04-03"
   },
-  "CPMEFRPPXXX": {
+  "CPMEFRPP": {
     "country": "France",
     "name": "Bpifrance Financement",
     "address": "Domaine MVF, 27/31 avenue du  General Leclerc",
@@ -7526,7 +7526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BREDFRPPXXX": {
+  "BREDFRPP": {
     "country": "France",
     "name": "Bred Banque Populaire",
     "address": "18,quai de la Rapee",
@@ -7534,7 +7534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "BRGEFRPPXXX": {
+  "BRGEFRPP": {
     "country": "France",
     "name": "Bred Gestion",
     "address": "18,quai de la Rapee",
@@ -7550,7 +7550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SIBLFRPPXXX": {
+  "SIBLFRPP": {
     "country": "France",
     "name": "CA Indosuez Wealth (France)",
     "address": "17, RUE DU Docteur Lancereaux",
@@ -7558,7 +7558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ISAEFRPPXXX": {
+  "ISAEFRPP": {
     "country": "France",
     "name": "Caceis Bank",
     "address": "1-3, Place Valhubert",
@@ -7566,7 +7566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CCIFFRPPXXX": {
+  "CCIFFRPP": {
     "country": "France",
     "name": "Caisse Centrale Du Credit Immobilier de France - 3CIF",
     "address": "26-28 rue de Madrid",
@@ -7718,7 +7718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "CBCRFR21XXX": {
+  "CBCRFR21": {
     "country": "France",
     "name": "Caisse DE Bretagne DE Credit Agricole Mutuel",
     "address": "1 Rue Louis Lichou",
@@ -7726,7 +7726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CSCAFR21XXX": {
+  "CSCAFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal D'Avignon",
     "address": "2 rue Viala",
@@ -7734,7 +7734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "CCMOFR21XXX": {
+  "CCMOFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Bordeaux",
     "address": "29 RUE DU Mirail",
@@ -7742,7 +7742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "CMUBFR21XXX": {
+  "CMUBFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Boulogne-SUR-MER",
     "address": "2 place Jean Febvay",
@@ -7750,7 +7750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-04-06",
     "instant_readiness": null
   },
-  "CCMLFR21XXX": {
+  "CCMLFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Lyon",
     "address": "221, rue Duguesclin",
@@ -7758,7 +7758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "CCMNFR21XXX": {
+  "CCMNFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Nimes",
     "address": "8 BIS, RUE Guizot",
@@ -7766,7 +7766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CMROFR21XXX": {
+  "CMROFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Roubaix",
     "address": "30, rue de Lille",
@@ -7774,7 +7774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-04",
     "instant_readiness": null
   },
-  "CCUTFR21XXX": {
+  "CCUTFR21": {
     "country": "France",
     "name": "Caisse DE Credit Municipal DE Toulon",
     "address": "10, place Vincent RaspailL",
@@ -7782,7 +7782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "CDCGFRPPXXX": {
+  "CDCGFRPP": {
     "country": "France",
     "name": "Caisse DES Depots ET Consignations",
     "address": "56, RUE DE Lille",
@@ -7798,7 +7798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "CMCIMQM1XXX": {
+  "CMCIMQM1": {
     "country": "France",
     "name": "Caisse Federale DU Credit Mutuel Antilles Guyane",
     "address": "2 RUE DU Professeur R. Garcin",
@@ -7830,7 +7830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-02",
     "instant_readiness": "2018-09-14"
   },
-  "DXMAFRPPXXX": {
+  "DXMAFRPP": {
     "country": "France",
     "name": "Caisse Francaise DE Financement Local",
     "address": "1-3, rue du Passeur de Boulogne",
@@ -7998,7 +7998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "AGRIGPGXXXX": {
+  "AGRIGPGX": {
     "country": "France",
     "name": "Caisse Regionale DE Credit Agricole Mutuel DE LA Guadeloupe",
     "address": "Petit Perou LES Abymes",
@@ -8006,7 +8006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "AGRIMQMXXXX": {
+  "AGRIMQMX": {
     "country": "France",
     "name": "Caisse Regionale DE Credit Agricole Mutuel DE LA Martinique ET DE LA Guyane",
     "address": "Rue Case Negres - Place d'Armes",
@@ -8014,7 +8014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "AGRIRERXXXX": {
+  "AGRIRERX": {
     "country": "France",
     "name": "Caisse Regionale DE Credit Agricole Mutuel DE LA Reunion",
     "address": "Cite DES Lauriers Parc Jean DE Cambiaire",
@@ -8094,7 +8094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "CMMMFR21XXX": {
+  "CMMMFR21": {
     "country": "France",
     "name": "Caisse Regionale DE Credit Maritime Mutuel DE LA Mediterranee",
     "address": "187 Quai d'Orient BP 188",
@@ -8102,7 +8102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "SOAPFR22XXX": {
+  "SOAPFR22": {
     "country": "France",
     "name": "Carrefour Banque",
     "address": "1 Place Copernic",
@@ -8118,7 +8118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CFCLFR21XXX": {
+  "CFCLFR21": {
     "country": "France",
     "name": "Cfcal-Banque",
     "address": "1, RUE DU Dome",
@@ -8126,7 +8126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CHDUFRPPXXX": {
+  "CHDUFRPP": {
     "country": "France",
     "name": "Cholet Dupont",
     "address": "16, Place DE LA Madeleine",
@@ -8150,7 +8150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CMCIFRPBXXX": {
+  "CMCIFRPB": {
     "country": "France",
     "name": "CM-CIC Securities",
     "address": "6, Avenue DE Provence",
@@ -8158,7 +8158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CMPCFRP1XXX": {
+  "CMPCFRP1": {
     "country": "France",
     "name": "CMP Banque SA",
     "address": "55 rue des Francs Bourgeois",
@@ -8166,7 +8166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-04",
     "instant_readiness": null
   },
-  "COFEFR2PXXX": {
+  "COFEFR2P": {
     "country": "France",
     "name": "Cofacredit",
     "address": "Tour Facto",
@@ -8174,7 +8174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": null
   },
-  "CFFIFR21XXX": {
+  "CFFIFR21": {
     "country": "France",
     "name": "Cofidis S.A.",
     "address": "Parc de la Haute Borne 61 avenue Halley",
@@ -8182,7 +8182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": "2018-09-14"
   },
-  "CFFOFRPPXXX": {
+  "CFFOFRPP": {
     "country": "France",
     "name": "Compagnie de Financement Foncier",
     "address": "4,quai de Bercy .",
@@ -8190,7 +8190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COLQFR21XXX": {
+  "COLQFR21": {
     "country": "France",
     "name": "Compagnie DE L'ARC Atlantique",
     "address": "ZA Agoretta",
@@ -8198,7 +8198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "CMBRFR2BXXX": {
+  "CMBRFR2B": {
     "country": "France",
     "name": "Compagnie Financiere DU Credit Mutuel",
     "address": "1 RUE Louis Lichou",
@@ -8206,7 +8206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CGCPFRP1XXX": {
+  "CGCPFRP1": {
     "country": "France",
     "name": "Compagnie Generale DE Credit AUX Particuliers (Credipar)",
     "address": "12, Avenue Andre Malraux",
@@ -8214,7 +8214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CPBIFRPPXXX": {
+  "CPBIFRPP": {
     "country": "France",
     "name": "CP Or Devises",
     "address": "59, RUE Lafayette",
@@ -8222,7 +8222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRTAFR21XXX": {
+  "CRTAFR21": {
     "country": "France",
     "name": "Creatis",
     "address": "Parc de la Haute Borne -  61, Avenue Halley",
@@ -8286,7 +8286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "AGRIFRPPXXX": {
+  "AGRIFRPP": {
     "country": "France",
     "name": "Credit Agricole SA",
     "address": "Building Pasteur, Bloc 1: 91-93, Boulevard Pasteur",
@@ -8310,7 +8310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "BSUIFRPPXXX": {
+  "BSUIFRPP": {
     "country": "France",
     "name": "Credit Agricole-CIB",
     "address": "9, Quai DU President Paul Doumer",
@@ -8318,7 +8318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CCOPFRPPXXX": {
+  "CCOPFRPP": {
     "country": "France",
     "name": "Credit Cooperatif",
     "address": "12 Boulevard Pesaro CS 10002",
@@ -8326,7 +8326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-04"
   },
-  "NORDFRPPXXX": {
+  "NORDFRPP": {
     "country": "France",
     "name": "Credit DU Nord",
     "address": "28 place Rihour",
@@ -8334,7 +8334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "CFFRFRPPXXX": {
+  "CFFRFRPP": {
     "country": "France",
     "name": "Credit Foncier de France",
     "address": "4,quai de Bercy",
@@ -8342,7 +8342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CMCIFRPPXXX": {
+  "CMCIFRPP": {
     "country": "France",
     "name": "Credit Industriel ET Commercial (CIC)",
     "address": "6 avenue de provence",
@@ -8358,7 +8358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "CCMTFR21XXX": {
+  "CCMTFR21": {
     "country": "France",
     "name": "Cr\u00e9dit Municipal de Nantes",
     "address": "2 rue Marcel Paul",
@@ -8366,7 +8366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "CRMPFRP1XXX": {
+  "CRMPFRP1": {
     "country": "France",
     "name": "Credit Municipal DE Paris",
     "address": "55, RUE DES Francs-Bourgeois",
@@ -8414,7 +8414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DALPFR21XXX": {
+  "DALPFR21": {
     "country": "France",
     "name": "Dalenys Payment",
     "address": "55 RUE Raspail",
@@ -8422,7 +8422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-03-06",
     "instant_readiness": null
   },
-  "CLFRFRPPXXX": {
+  "CLFRFRPP": {
     "country": "France",
     "name": "Dexia Credit Local",
     "address": "Tour Dexia LA Defense: 2 1, Passerelle DES Reflets",
@@ -8430,7 +8430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "EDPIFR21XXX": {
+  "EDPIFR21": {
     "country": "France",
     "name": "Edenred Paiement",
     "address": "166-180 boulevard Gabriel P\u00e9ri",
@@ -8438,7 +8438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-08",
     "instant_readiness": null
   },
-  "COFIFRPPXXX": {
+  "COFIFRPP": {
     "country": "France",
     "name": "Edmond DE Rothschild (France)",
     "address": "47, RUE DU Faubourg Saint Honore",
@@ -8446,7 +8446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GAILFRP1XXX": {
+  "GAILFRP1": {
     "country": "France",
     "name": "eZyness",
     "address": "115 rue de S\u00e8vres",
@@ -8454,7 +8454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "FEFIFR21XXX": {
+  "FEFIFR21": {
     "country": "France",
     "name": "Federal Finance Banque",
     "address": "232, RUE General Paulet",
@@ -8462,7 +8462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FPELFR21XXX": {
+  "FPELFR21": {
     "country": "France",
     "name": "Financiere DES Paiements Electroniques",
     "address": "18 avenue Winston Churchill",
@@ -8470,7 +8470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "NBADFRPPXXX": {
+  "NBADFRPP": {
     "country": "France",
     "name": "First Abu Dhabi Bank",
     "address": "10 Rue Magellan",
@@ -8478,7 +8478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "FRAFFRPPXXX": {
+  "FRAFFRPP": {
     "country": "France",
     "name": "Fransabank France S.A. Paris",
     "address": "104 Avenue DES Champs Elysees",
@@ -8486,7 +8486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FACFFRPPXXX": {
+  "FACFFRPP": {
     "country": "France",
     "name": "GE Factofrance SAS",
     "address": "Tour Facto",
@@ -8494,7 +8494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": null
   },
-  "GMACFR21XXX": {
+  "GMACFR21": {
     "country": "France",
     "name": "Gmac Banque",
     "address": "1 Avenue DU Marais",
@@ -8502,7 +8502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "LEGRFRP1XXX": {
+  "LEGRFRP1": {
     "country": "France",
     "name": "Gresham Banque",
     "address": "Rue de la Baume 20, CS 10020",
@@ -8510,7 +8510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-01-13",
     "instant_readiness": null
   },
-  "BFCMFR21XXX": {
+  "BFCMFR21": {
     "country": "France",
     "name": "Groupe Sofemo",
     "address": "34, RUE DU Wacken",
@@ -8518,7 +8518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ELFAFRP1XXX": {
+  "ELFAFRP1": {
     "country": "France",
     "name": "Hsbc Factoring France",
     "address": "4 Place DE LA Pyramide",
@@ -8526,7 +8526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-08-08",
     "instant_readiness": null
   },
-  "CCFRFRPPXXX": {
+  "CCFRFRPP": {
     "country": "France",
     "name": "Hsbc France S.A.",
     "address": "103, avenue des Champs Elysees",
@@ -8534,7 +8534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-08"
   },
-  "INDDFRP1XXX": {
+  "INDDFRP1": {
     "country": "France",
     "name": "Institut D'Emission D'Outre-MER",
     "address": "164 rue de Rivoli",
@@ -8542,7 +8542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "CHASFRPPXXX": {
+  "CHASFRPP": {
     "country": "France",
     "name": "JPMorgan Chase Bank, N.A., Paris Branch",
     "address": "14, Place Vendome",
@@ -8550,7 +8550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "KOEXFRPPXXX": {
+  "KOEXFRPP": {
     "country": "France",
     "name": "Korea Exchange Bank Paris Branch",
     "address": "38, avenue des Champs-Elysees",
@@ -8558,7 +8558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "GRCSFRP1XXX": {
+  "GRCSFRP1": {
     "country": "France",
     "name": "La Banque du Groupe Casino as \"Banque Casino\"\"",
     "address": "6, avenue de Provence",
@@ -8566,7 +8566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-01",
     "instant_readiness": null
   },
-  "PSSTFRPPXXX": {
+  "PSSTFRPP": {
     "country": "France",
     "name": "LA Banque Postale",
     "address": "115 RUE DE Sevres",
@@ -8574,7 +8574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-19"
   },
-  "CRNPFRP1XXX": {
+  "CRNPFRP1": {
     "country": "France",
     "name": "LA Banque Postale Credit Entreprises",
     "address": "CP X214, 115 RUE DE Sevres",
@@ -8582,7 +8582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "LAZPFRPPXXX": {
+  "LAZPFRPP": {
     "country": "France",
     "name": "Lazard Freres Banque",
     "address": "121, Boulevard Haussmann",
@@ -8590,7 +8590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRLYFRPPXXX": {
+  "CRLYFRPP": {
     "country": "France",
     "name": "LCL - LE Credit Lyonnais",
     "address": "19, Boulevard DES Italiens",
@@ -8598,7 +8598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LEWAFRPPXXX": {
+  "LEWAFRPP": {
     "country": "France",
     "name": "Lemon Way SAS",
     "address": "14 rue de la Beaune",
@@ -8614,7 +8614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "LBDIFRP1XXX": {
+  "LBDIFRP1": {
     "country": "France",
     "name": "Ma French Bank",
     "address": "115 rue de S\u00e8vres",
@@ -8622,7 +8622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "ICBCFRPPXXX": {
+  "ICBCFRPP": {
     "country": "France",
     "name": "Mega International Commercial Bank CO. LTD. Paris Branch",
     "address": "131-133 RUE DE Tolbiac",
@@ -8630,7 +8630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRIVFRPPXXX": {
+  "PRIVFRPP": {
     "country": "France",
     "name": "Milleis",
     "address": "32 avenue George V",
@@ -8638,7 +8638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-30",
     "instant_readiness": null
   },
-  "MHCBFRPPXXX": {
+  "MHCBFRPP": {
     "country": "France",
     "name": "Mizuho Bank LTD. Paris Branch",
     "address": "40, RUE Washington",
@@ -8646,7 +8646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MOBQFR22XXX": {
+  "MOBQFR22": {
     "country": "France",
     "name": "Mobilis Banque",
     "address": "64 Boulevard de Cambrai",
@@ -8662,7 +8662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-14"
   },
-  "MONTFRPPXXX": {
+  "MONTFRPP": {
     "country": "France",
     "name": "Monte Paschi Banque S.A.",
     "address": "11 boulevard de la Madeleine",
@@ -8670,7 +8670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MRNGFR21XXX": {
+  "MRNGFR21": {
     "country": "France",
     "name": "Morning",
     "address": "ZA Descallaux",
@@ -8678,7 +8678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "MOEYFRPPXXX": {
+  "MOEYFRPP": {
     "country": "France",
     "name": "My Money Bank",
     "address": "Tour Europlaza: 20, AV Andre Prothin",
@@ -8686,7 +8686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "BESVFRPPXXX": {
+  "BESVFRPP": {
     "country": "France",
     "name": "My Partner bank",
     "address": "45, Avenue Georges Mandel",
@@ -8694,7 +8694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NATXFRPPXXX": {
+  "NATXFRPP": {
     "country": "France",
     "name": "Natixis",
     "address": "Natixis - Cash Management et operations BP4",
@@ -8702,7 +8702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-03"
   },
-  "NOVUFR21XXX": {
+  "NOVUFR21": {
     "country": "France",
     "name": "Nouvelle Vague",
     "address": "1 rue Louis Lichou",
@@ -8710,7 +8710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": "2018-12-03"
   },
-  "ODDOFRPPXXX": {
+  "ODDOFRPP": {
     "country": "France",
     "name": "Oddo ET CIE",
     "address": "12 Boulevard DE LA Madeleine",
@@ -8718,7 +8718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "QNTOFRP1XXX": {
+  "QNTOFRP1": {
     "country": "France",
     "name": "Olinda",
     "address": "8 rue du Sentier",
@@ -8726,7 +8726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "BACCFR22XXX": {
+  "BACCFR22": {
     "country": "France",
     "name": "Oney Bank SA",
     "address": "40 avenue de Flandre",
@@ -8734,7 +8734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "GROTFRP1XXX": {
+  "GROTFRP1": {
     "country": "France",
     "name": "OPS",
     "address": "105-109 RUE DU Faubourg Saint Honore",
@@ -8742,7 +8742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "GPBAFRPPXXX": {
+  "GPBAFRPP": {
     "country": "France",
     "name": "Orange Bank",
     "address": "67 rue Robespierre",
@@ -8750,7 +8750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-01",
     "instant_readiness": null
   },
-  "OUDAFRP1XXX": {
+  "OUDAFRP1": {
     "country": "France",
     "name": "Oudart SA",
     "address": "10A RUE DE LA Paix",
@@ -8758,7 +8758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-03",
     "instant_readiness": null
   },
-  "PAOTFRP1XXX": {
+  "PAOTFRP1": {
     "country": "France",
     "name": "Paytop",
     "address": "5, rue de la baume",
@@ -8766,7 +8766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-05",
     "instant_readiness": null
   },
-  "PROCFRPPXXX": {
+  "PROCFRPP": {
     "country": "France",
     "name": "Procapital",
     "address": "Tour Ariane 5, Place de la Pyramide",
@@ -8774,7 +8774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SFBSFRP1XXX": {
+  "SFBSFRP1": {
     "country": "France",
     "name": "PSA Banque France",
     "address": "9 rue Henri Barbusse",
@@ -8782,7 +8782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "QNBAFRPPXXX": {
+  "QNBAFRPP": {
     "country": "France",
     "name": "Qatar National Bank",
     "address": "65 Avenue D'Iena",
@@ -8790,7 +8790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "SIFBFRP1XXX": {
+  "SIFBFRP1": {
     "country": "France",
     "name": "Quilvest Banque Privee S.A.",
     "address": "243 Boulevard Saint Germain",
@@ -8798,7 +8798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "DISFFRPPXXX": {
+  "DISFFRPP": {
     "country": "France",
     "name": "RBC Investor Services Bank France S.A.",
     "address": "105 RUE Reaumur",
@@ -8806,7 +8806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "RCINFRPPXXX": {
+  "RCINFRPP": {
     "country": "France",
     "name": "RCI Banque S.A.",
     "address": "14, Avenue DU Pave Neuf",
@@ -8814,7 +8814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-05",
     "instant_readiness": null
   },
-  "RCBPFRPPXXX": {
+  "RCBPFRPP": {
     "country": "France",
     "name": "Rothschild Martin Maurel",
     "address": "29, Avenue DE Messine",
@@ -8822,7 +8822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SMOEFRP1XXX": {
+  "SMOEFRP1": {
     "country": "France",
     "name": "S-Money",
     "address": "168bis - 170 rue Raymond Losserand",
@@ -8830,7 +8830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-04",
     "instant_readiness": "2019-09-02"
   },
-  "SXFRFRP1XXX": {
+  "SXFRFRP1": {
     "country": "France",
     "name": "Saxo Banque France",
     "address": "10 RUE DE LA Paix",
@@ -8838,7 +8838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SLMPFRP1XXX": {
+  "SLMPFRP1": {
     "country": "France",
     "name": "Slimpay",
     "address": "12 rue Godot de Mauroy",
@@ -8846,7 +8846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "SOPMFRP1XXX": {
+  "SOPMFRP1": {
     "country": "France",
     "name": "Societe Centrale Pour LE Financement DE L' Immobilier (Socfim)",
     "address": "33, Avenue du Maine",
@@ -8854,7 +8854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "SBEXFRP1XXX": {
+  "SBEXFRP1": {
     "country": "France",
     "name": "Societe DE Banque ET D'Expansion (SBE)",
     "address": "7,rue Auguste Gervais",
@@ -8862,7 +8862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "SOAIMQM1XXX": {
+  "SOAIMQM1": {
     "country": "France",
     "name": "Societe Financiere Antilles-Guyane (Sofiag)",
     "address": "12,boulevard du General de Gaulle",
@@ -8870,7 +8870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "SODIRER1XXX": {
+  "SODIRER1": {
     "country": "France",
     "name": "Societe Financiere DE Developpement DE LA Region (Sofider)",
     "address": "3,rue Labourdonnais",
@@ -8878,7 +8878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-10-08"
   },
-  "STFEFR21XXX": {
+  "STFEFR21": {
     "country": "France",
     "name": "Societe Financiere DE LA NEF",
     "address": "8 avenue des Canuts CS 60032",
@@ -8886,7 +8886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "SFPMFRP1XXX": {
+  "SFPMFRP1": {
     "country": "France",
     "name": "Societe Financiere DU Porte Monnaie Electronique Interbancaire",
     "address": "29 RUE DU Louvre",
@@ -8894,7 +8894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-04-10",
     "instant_readiness": null
   },
-  "SOGEFRPPXXX": {
+  "SOGEFRPP": {
     "country": "France",
     "name": "Societe Generale",
     "address": "29, Boulevard Haussmann",
@@ -8902,7 +8902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "SOGEGPGPXXX": {
+  "SOGEGPGP": {
     "country": "France",
     "name": "Societe Generale DE Banque AUX Antilles",
     "address": "30 RUE Frebault",
@@ -8910,7 +8910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SMCTFR2AXXX": {
+  "SMCTFR2A": {
     "country": "France",
     "name": "Societe Marseillaise de Credit",
     "address": "75 rue du Paradis",
@@ -8918,7 +8918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "SORMFR2NXXX": {
+  "SORMFR2N": {
     "country": "France",
     "name": "Socram Banque",
     "address": "2, rue du 24 Fevrier",
@@ -8926,7 +8926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SBINFRPPXXX": {
+  "SBINFRPP": {
     "country": "France",
     "name": "State Bank OF India, Paris Branch",
     "address": "12-14 Rond Point DES Champs Elysees",
@@ -8934,7 +8934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "SWILFRPPXXX": {
+  "SWILFRPP": {
     "country": "France",
     "name": "Swisslife Banque",
     "address": "7, Place Vendome",
@@ -8942,7 +8942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-12",
     "instant_readiness": null
   },
-  "TRZOFR21XXX": {
+  "TRZOFR21": {
     "country": "France",
     "name": "Treezor SAS",
     "address": "94 rue de Villiers",
@@ -8950,7 +8950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-11",
     "instant_readiness": null
   },
-  "TRPUFRP1XXX": {
+  "TRPUFRP1": {
     "country": "France",
     "name": "Tresor Public Francais",
     "address": "139 RUE DE Bercy",
@@ -8958,7 +8958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-02-08",
     "instant_readiness": null
   },
-  "UTUBFRPPXXX": {
+  "UTUBFRPP": {
     "country": "France",
     "name": "Tunisian Foreign Bank S.A.",
     "address": "19 RUE DES Pyramides",
@@ -8966,7 +8966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "UEDPFR21XXX": {
+  "UEDPFR21": {
     "country": "France",
     "name": "U Etablissement DE Paiement",
     "address": "20 RUE D'Arcueil",
@@ -8974,7 +8974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "UBSWFRPPXXX": {
+  "UBSWFRPP": {
     "country": "France",
     "name": "UBS France S.A.",
     "address": "69, Boulevard Haussmann",
@@ -8982,7 +8982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "WHAWFR21XXX": {
+  "WHAWFR21": {
     "country": "France",
     "name": "W-HA",
     "address": "25 B Avenue Andre Morizet",
@@ -8998,7 +8998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "AABSDE31XXX": {
+  "AABSDE31": {
     "country": "Germany",
     "name": "Aachener Bausparkasse Aktiengesellschaft",
     "address": "Theaterstrasse 92-94",
@@ -9006,7 +9006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "AARBDE5WXXX": {
+  "AARBDE5W": {
     "country": "Germany",
     "name": "Aareal Bank AG",
     "address": "Paulinenstrasse 15",
@@ -9014,7 +9014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "WWBADE3AXXX": {
+  "WWBADE3A": {
     "country": "Germany",
     "name": "Abcbank Gmbh",
     "address": "Kamekestrasse 2-8",
@@ -9030,7 +9030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "ABOCDEFFXXX": {
+  "ABOCDEFF": {
     "country": "Germany",
     "name": "Agricultural Bank of China Ltd Frankfurt Branch",
     "address": "Ulmenstrasse 37-39",
@@ -9038,7 +9038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "AGBMDEMMXXX": {
+  "AGBMDEMM": {
     "country": "Germany",
     "name": "Airbus Bank GmbH",
     "address": "Prannerstrasse 8",
@@ -9046,7 +9046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AUSKDEFFXXX": {
+  "AUSKDEFF": {
     "country": "Germany",
     "name": "AKA Ausfuhrkredit-Gesellschaft mbH",
     "address": "Grosse Gallusstrasse 1 - 7",
@@ -9054,7 +9054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AKBKDEFFXXX": {
+  "AKBKDEFF": {
     "country": "Germany",
     "name": "Akbank AG",
     "address": "Taunustor 2",
@@ -9062,7 +9062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AKFBDE31XXX": {
+  "AKFBDE31": {
     "country": "Germany",
     "name": "AKF Bank Gmbh & CO KG",
     "address": "Am Diek 50",
@@ -9070,7 +9070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AKBADES1XXX": {
+  "AKBADES1": {
     "country": "Germany",
     "name": "Aktivbank AG",
     "address": "Stuttgarter Strasse 20-22",
@@ -9086,7 +9086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "ABKBDEB1XXX": {
+  "ABKBDEB1": {
     "country": "Germany",
     "name": "Allgemeine Beamten Kasse Kreditbank AG",
     "address": "Ivalidenstrasse 28",
@@ -9094,7 +9094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "ALTEDEFAXXX": {
+  "ALTEDEFA": {
     "country": "Germany",
     "name": "Alte Leipziger Bauspar AG",
     "address": "Alte Leipziger-Platz 1",
@@ -9102,7 +9102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "AUGBDE77XXX": {
+  "AUGBDE77": {
     "country": "Germany",
     "name": "Augsburger Aktienbank AG",
     "address": "Halderstrasse 21",
@@ -9118,7 +9118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "AXABDE31XXX": {
+  "AXABDE31": {
     "country": "Germany",
     "name": "AXA Bank AG",
     "address": "Colonia Allee 10-20",
@@ -9126,7 +9126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "METZDEFFXXX": {
+  "METZDEFF": {
     "country": "Germany",
     "name": "B. Metzler seel. Sohn & Co. KGaA",
     "address": "Untermainanlage 1",
@@ -9134,7 +9134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BDWBDEMMXXX": {
+  "BDWBDEMM": {
     "country": "Germany",
     "name": "Baader Bank AG",
     "address": "Weihenstephaner Strasse 4",
@@ -9150,7 +9150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BRASDEFFXXX": {
+  "BRASDEFF": {
     "country": "Germany",
     "name": "Banco do Brasil S. A.",
     "address": "Neue Mainzer Str. 46-50",
@@ -9158,7 +9158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SABADE5SXXX": {
+  "SABADE5S": {
     "country": "Germany",
     "name": "Bank 1 Saar eG",
     "address": "Kaiserstr. 20",
@@ -9166,7 +9166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "WEFZDED1XXX": {
+  "WEFZDED1": {
     "country": "Germany",
     "name": "Bank 11 FUR Privatkunden UND Handel Gmbh",
     "address": "Hammer Landstrasse 91",
@@ -9190,7 +9190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BFSWDE33XXX": {
+  "BFSWDE33": {
     "country": "Germany",
     "name": "Bank fuer Sozialwirtschaft AG",
     "address": "Woerthstr. 15 - 17",
@@ -9206,7 +9206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "SRRADEM1XXX": {
+  "SRRADEM1": {
     "country": "Germany",
     "name": "Bank J. Safra Sarasin (Deutschland) AG",
     "address": "Taunusanlage 17",
@@ -9214,7 +9214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BAERDEF1XXX": {
+  "BAERDEF1": {
     "country": "Germany",
     "name": "Bank Julius B\u00e4r Deutschland AG",
     "address": "An der Welle 1",
@@ -9222,7 +9222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MELIDEHHXXX": {
+  "MELIDEHH": {
     "country": "Germany",
     "name": "Bank Melli Iran",
     "address": "Holzbruecke 2",
@@ -9230,7 +9230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "BKCHDEFFXXX": {
+  "BKCHDEFF": {
     "country": "Germany",
     "name": "Bank of China Ltd. Frankfurt Branch",
     "address": "Bockenheimer Landstrasse 24",
@@ -9238,7 +9238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COMMDEFFXXX": {
+  "COMMDEFF": {
     "country": "Germany",
     "name": "Bank OF Communications CO. LTD Frankfurt Branch",
     "address": "Neue Mainzer Strasse 75",
@@ -9246,7 +9246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "SIHRDEH1XXX": {
+  "SIHRDEH1": {
     "country": "Germany",
     "name": "Bank Saderat Iran Zweigniederlassung Hamburg",
     "address": "Deichstrasse 11",
@@ -9254,7 +9254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "BSHADE71XXX": {
+  "BSHADE71": {
     "country": "Germany",
     "name": "Bank Schilling & Co Aktiengesellschaft",
     "address": "Am Marktplatz 10",
@@ -9262,7 +9262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-02-04"
   },
-  "SEPBDEFFXXX": {
+  "SEPBDEFF": {
     "country": "Germany",
     "name": "Bank Sepah Filiale Frankfurt",
     "address": "Hafen Strasse 54",
@@ -9270,7 +9270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": null
   },
-  "VONTDEM1XXX": {
+  "VONTDEM1": {
     "country": "Germany",
     "name": "Bank Vontobel Europe AG",
     "address": "Alter HOF 5",
@@ -9278,7 +9278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "CUABDED1XXX": {
+  "CUABDED1": {
     "country": "Germany",
     "name": "Bank11direkt GmbH",
     "address": "Hammer Landstrasse 91",
@@ -9286,7 +9286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-01",
     "instant_readiness": null
   },
-  "ANHODE77XXX": {
+  "ANHODE77": {
     "country": "Germany",
     "name": "Bankhaus Anton Hafner KG",
     "address": "Maximilianstrasse 29",
@@ -9294,7 +9294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LENZDEM1XXX": {
+  "LENZDEM1": {
     "country": "Germany",
     "name": "Bankhaus August Lenz & Co. AG",
     "address": "Holbeinstrasse 11",
@@ -9302,7 +9302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BHBADES1XXX": {
+  "BHBADES1": {
     "country": "Germany",
     "name": "Bankhaus Bauer AG",
     "address": "Lautenschlagerstr. 2",
@@ -9310,7 +9310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": "2018-11-20"
   },
-  "BCLSDE21XXX": {
+  "BCLSDE21": {
     "country": "Germany",
     "name": "Bankhaus C. L. Seeliger",
     "address": "Lange Herzogstrasse 63",
@@ -9318,7 +9318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PLUMDE29XXX": {
+  "PLUMDE29": {
     "country": "Germany",
     "name": "Bankhaus Carl F. Plump & CO.GmbH & Co. KG.",
     "address": "Am Markt 19",
@@ -9326,7 +9326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKMADE61XXX": {
+  "BKMADE61": {
     "country": "Germany",
     "name": "Bankhaus E. Mayer AG",
     "address": "Friedrichring 28-30",
@@ -9334,7 +9334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "ELGEDES1XXX": {
+  "ELGEDES1": {
     "country": "Germany",
     "name": "Bankhaus Ellwanger & Geiger KG",
     "address": "Boersenplatz  1",
@@ -9342,7 +9342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MARBDE6GXXX": {
+  "MARBDE6G": {
     "country": "Germany",
     "name": "Bankhaus Gebr. Martin AG",
     "address": "Kirchstrasse 35",
@@ -9350,7 +9350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HALLDE2HXXX": {
+  "HALLDE2H": {
     "country": "Germany",
     "name": "Bankhaus Hallbaum AG",
     "address": "An der Boerse 7",
@@ -9358,7 +9358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HERZDEM1XXX": {
+  "HERZDEM1": {
     "country": "Germany",
     "name": "Bankhaus Herzogpark AG",
     "address": "Pienzenauer STR. 27",
@@ -9366,7 +9366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-06-07",
     "instant_readiness": null
   },
-  "FAITDE66XXX": {
+  "FAITDE66": {
     "country": "Germany",
     "name": "Bankhaus J. Faisst OHG",
     "address": "Hauptstrasse 43-45",
@@ -9374,7 +9374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LAMPDEDDXXX": {
+  "LAMPDEDD": {
     "country": "Germany",
     "name": "Bankhaus Lampe KG",
     "address": "Alter Markt 3",
@@ -9382,7 +9382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LOEBDEBBXXX": {
+  "LOEBDEBB": {
     "country": "Germany",
     "name": "Bankhaus Loebbecke AG",
     "address": "Behrenstrasse 36",
@@ -9390,7 +9390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BHLSDEM1XXX": {
+  "BHLSDEM1": {
     "country": "Germany",
     "name": "Bankhaus Ludwig Sperrer KG",
     "address": "Marienplatz 5-6",
@@ -9398,7 +9398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FLESDEMMXXX": {
+  "FLESDEMM": {
     "country": "Germany",
     "name": "Bankhaus Max Flessa KG",
     "address": "Luitpoldstrasse 2-6",
@@ -9406,7 +9406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "NEELDE22XXX": {
+  "NEELDE22": {
     "country": "Germany",
     "name": "Bankhaus Neelmeyer Zweigniederlassung DER Oldenburische Landesbank AG",
     "address": "Am Markt 14-16",
@@ -9414,7 +9414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FLGMDE77XXX": {
+  "FLGMDE77": {
     "country": "Germany",
     "name": "Bankhaus Obotritia GmbH",
     "address": "Landsbergerstrasse 155, Haus 1",
@@ -9430,7 +9430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BVDHDEMMXXX": {
+  "BVDHDEMM": {
     "country": "Germany",
     "name": "Bankhaus VON DER Heydt Gmbh",
     "address": "Widenmayerstrasse 3",
@@ -9438,7 +9438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "WERHDED1XXX": {
+  "WERHDED1": {
     "country": "Germany",
     "name": "Bankhaus Werhahn GmbH",
     "address": "Koenigstrasse 1",
@@ -9446,7 +9446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "BKMZDE51XXX": {
+  "BKMZDE51": {
     "country": "Germany",
     "name": "Bausparkasse Mainz AG",
     "address": "Kantstrasse 1",
@@ -9462,7 +9462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BYLADEMMXXX": {
+  "BYLADEMM": {
     "country": "Germany",
     "name": "Bayerische Landesbank (BayernLB)",
     "address": "Brienner Str. 18",
@@ -9494,7 +9494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BHYPDEB2XXX": {
+  "BHYPDEB2": {
     "country": "Germany",
     "name": "Berlin HYP AG",
     "address": "Budapester Strasse 1",
@@ -9502,7 +9502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": "2019-01-07"
   },
-  "BELADEBEXXX": {
+  "BELADEBE": {
     "country": "Germany",
     "name": "Berliner Sparkasse Niederlassung der Landesbank Berlin AG",
     "address": "Alexanderplatz 2",
@@ -9510,7 +9510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BEVODEBBXXX": {
+  "BEVODEBB": {
     "country": "Germany",
     "name": "Berliner Volksbank eG",
     "address": "Wittestrasse 30 R",
@@ -9526,7 +9526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "DELBDE33XXX": {
+  "DELBDE33": {
     "country": "Germany",
     "name": "Bethmann Bank AG",
     "address": "Bethmannstrasse 7-9",
@@ -9542,7 +9542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BFWODE71XXX": {
+  "BFWODE71": {
     "country": "Germany",
     "name": "BFW-Bank Fuer Wohnungswirtschaft AG",
     "address": "M7 24",
@@ -9550,7 +9550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": "2019-02-04"
   },
-  "BHWBDE2HXXX": {
+  "BHWBDE2H": {
     "country": "Germany",
     "name": "BHW Bausparkasse",
     "address": "Lubahnstrasse 2",
@@ -9558,7 +9558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-05-09",
     "instant_readiness": null
   },
-  "BMWBDEMUXXX": {
+  "BMWBDEMU": {
     "country": "Germany",
     "name": "BMW Bank GmbH",
     "address": "Heidemannstrasse 164",
@@ -9590,7 +9590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BANVDEHBXXX": {
+  "BANVDEHB": {
     "country": "Germany",
     "name": "Bremer Kreditbank AG",
     "address": "Wachtstrasse 16",
@@ -9614,7 +9614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "QUBADE71XXX": {
+  "QUBADE71": {
     "country": "Germany",
     "name": "BSQ Bauspar AG",
     "address": "Kunigundenstrasse 71",
@@ -9630,7 +9630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "CKVHDE21XXX": {
+  "CKVHDE21": {
     "country": "Germany",
     "name": "Calenberger Kreditverein",
     "address": "An der Borse 2",
@@ -9638,7 +9638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CBSRDE71XXX": {
+  "CBSRDE71": {
     "country": "Germany",
     "name": "CB Bank GmbH",
     "address": "Gabelsbergerstrasse 32",
@@ -9646,7 +9646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": null
   },
-  "PCBCDEFFXXX": {
+  "PCBCDEFF": {
     "country": "Germany",
     "name": "China Construction Bank Corporation, Niederlassung Frankfurt",
     "address": "Bockenheimer Landstrasse 51-53",
@@ -9654,7 +9654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CITIDEFFXXX": {
+  "CITIDEFF": {
     "country": "Germany",
     "name": "Citigroup Global Markets Deutschland AG UND CO Kgaa",
     "address": "16, Reuterweg",
@@ -9662,7 +9662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COBADEHDXXX": {
+  "COBADEHD": {
     "country": "Germany",
     "name": "comdirect bank AG",
     "address": "Pascalkehre 15",
@@ -9670,7 +9670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-05-21"
   },
-  "WKVBDEM1XXX": {
+  "WKVBDEM1": {
     "country": "Germany",
     "name": "Commerz Finanz Gmbh",
     "address": "Schwanthalerstrasse 31",
@@ -9678,7 +9678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "COBADEFFXXX": {
+  "COBADEFF": {
     "country": "Germany",
     "name": "Commerzbank AG",
     "address": "Kaiserstrasse 15 (Kaiserplatz)",
@@ -9686,7 +9686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-05"
   },
-  "CRESDE55XXX": {
+  "CRESDE55": {
     "country": "Germany",
     "name": "Credit Suisse (Deutschland) AG",
     "address": "Postfach 10 03 40",
@@ -9694,7 +9694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CPLUDES1XXX": {
+  "CPLUDES1": {
     "country": "Germany",
     "name": "CreditPlus Bank AG",
     "address": "Augustenstrasse 7",
@@ -9718,7 +9718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEUTDEDBXXX": {
+  "DEUTDEDB": {
     "country": "Germany",
     "name": "DB Privat- und Firmenkundenbank AG (DB PFK AG)",
     "address": "72, Theodor-Heuss-Allee",
@@ -9726,7 +9726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "DEBKDE51XXX": {
+  "DEBKDE51": {
     "country": "Germany",
     "name": "Debeka Bausparkasse AG",
     "address": "18, Ferdinand-Sauerbruch-Strasse",
@@ -9734,7 +9734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEGUDEFFXXX": {
+  "DEGUDEFF": {
     "country": "Germany",
     "name": "Degussa Bank Gmbh",
     "address": "Theodor-Heuss-Allee 74",
@@ -9742,7 +9742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "DGZFDEFFXXX": {
+  "DGZFDEFF": {
     "country": "Germany",
     "name": "DekaBank Deutsche Girozentrale",
     "address": "Mainzer Landstr. 16",
@@ -9758,7 +9758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "DAAEDEDDXXX": {
+  "DAAEDEDD": {
     "country": "Germany",
     "name": "Deutsche Apotheker- und aerztebank eG",
     "address": "Richard-Oskar-Mattern-Str.6",
@@ -9766,7 +9766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEUTDEFFXXX": {
+  "DEUTDEFF": {
     "country": "Germany",
     "name": "Deutsche Bank AG",
     "address": "Theodor-Heuss-Allee 70",
@@ -9774,7 +9774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "DEUTDE5XXXX": {
+  "DEUTDE5X": {
     "country": "Germany",
     "name": "Deutsche Bank Europe Gmbh",
     "address": "Taunusanlage 12",
@@ -9782,7 +9782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-04-04",
     "instant_readiness": "2018-11-20"
   },
-  "BBSPDE6KXXX": {
+  "BBSPDE6K": {
     "country": "Germany",
     "name": "Deutsche Bausparkasse Badenia AG",
     "address": "Badeniaplatz 1",
@@ -9790,7 +9790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "MARKDEFFXXX": {
+  "MARKDEFF": {
     "country": "Germany",
     "name": "Deutsche Bundesbank",
     "address": "14, Wilhelm Epstein Strasse",
@@ -9798,7 +9798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEHYDE2HXXX": {
+  "DEHYDE2H": {
     "country": "Germany",
     "name": "Deutsche Hypothekenbank AG",
     "address": "Osterstrasse 31",
@@ -9806,7 +9806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-10-04",
     "instant_readiness": null
   },
-  "DEKTDE7GXXX": {
+  "DEKTDE7G": {
     "country": "Germany",
     "name": "Deutsche Kontor Privatbank AG",
     "address": "Elsenheimerstrasse 41",
@@ -9822,7 +9822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "DLFGDE51XXX": {
+  "DLFGDE51": {
     "country": "Germany",
     "name": "Deutsche Leasing Finance Gmbh",
     "address": "15-31, Froelingstrasse",
@@ -9830,7 +9830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "REBMDEMMXXX": {
+  "REBMDEMM": {
     "country": "Germany",
     "name": "Deutsche Pfandbriefbank AG",
     "address": "Freisinger Strasse 5",
@@ -9838,7 +9838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-08",
     "instant_readiness": null
   },
-  "DXIADEBBXXX": {
+  "DXIADEBB": {
     "country": "Germany",
     "name": "Dexia Kommunalbank Deutschland GmbH",
     "address": "Charlottenstrasse 82",
@@ -9846,7 +9846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "SBREDE22XXX": {
+  "SBREDE22": {
     "country": "Germany",
     "name": "Die Sparkasse Bremen",
     "address": "Postfach 107880",
@@ -9878,7 +9878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "CHDBDEHHXXX": {
+  "CHDBDEHH": {
     "country": "Germany",
     "name": "Donner & Reuschel Aktiengesellschaft",
     "address": "Ballindamm 27",
@@ -9894,7 +9894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "DHYPDEDDXXX": {
+  "DHYPDEDD": {
     "country": "Germany",
     "name": "Duesseldorfer Hypothekenbank AG",
     "address": "Berliner Allee 41",
@@ -9902,7 +9902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "DVKBDEFFXXX": {
+  "DVKBDEFF": {
     "country": "Germany",
     "name": "DVB Bank SE",
     "address": "Platz der Republik 6",
@@ -9910,7 +9910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GENODEFFXXX": {
+  "GENODEFF": {
     "country": "Germany",
     "name": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
     "address": "Platz der Republik",
@@ -9918,7 +9918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "DGHYDEH1XXX": {
+  "DGHYDEH1": {
     "country": "Germany",
     "name": "DZ HYP AG",
     "address": "2, Rosenstr.",
@@ -9926,7 +9926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DZBMDEF1XXX": {
+  "DZBMDEF1": {
     "country": "Germany",
     "name": "DZB Bank GmbH",
     "address": "Nord-West-Ring-Str.11",
@@ -9950,7 +9950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "EDEKDEHHXXX": {
+  "EDEKDEHH": {
     "country": "Germany",
     "name": "Edekabank AG",
     "address": "New-York-Ring 6",
@@ -9958,7 +9958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "EIEGDEB1XXX": {
+  "EIEGDEB1": {
     "country": "Germany",
     "name": "EIS Einlagensicherungsbank Gmbh",
     "address": "Burgstrasse 28",
@@ -9974,7 +9974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "EQUNDEFFXXX": {
+  "EQUNDEFF": {
     "country": "Germany",
     "name": "Equinet Bank AG",
     "address": "Graefstr. 97",
@@ -9982,7 +9982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-08",
     "instant_readiness": null
   },
-  "ERFBDE8EXXX": {
+  "ERFBDE8E": {
     "country": "Germany",
     "name": "Erfurter Bank eG",
     "address": "Meister-Eckehart-Str. 3",
@@ -9998,7 +9998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "ETRIDE31XXX": {
+  "ETRIDE31": {
     "country": "Germany",
     "name": "Etris Bank Gmbh",
     "address": "Dieselstr. 45",
@@ -10006,7 +10006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "DLGHDEB1XXX": {
+  "DLGHDEB1": {
     "country": "Germany",
     "name": "Eurocity Bank AG",
     "address": "Goetheplatz 4",
@@ -10014,7 +10014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EIHBDEHHXXX": {
+  "EIHBDEHH": {
     "country": "Germany",
     "name": "Europaeisch-Iranische Handelsbank AG",
     "address": "Depenau 2",
@@ -10022,7 +10022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "EBSGDEMXXXX": {
+  "EBSGDEMX": {
     "country": "Germany",
     "name": "European Bank FOR Financial Services Gmbh (Ebase)",
     "address": "Bahnhofstrasse 20",
@@ -10062,7 +10062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "FDDODEMMXXX": {
+  "FDDODEMM": {
     "country": "Germany",
     "name": "Fidor Bank AG",
     "address": "Sandstrasse 33",
@@ -10070,7 +10070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "FFBKDEFFXXX": {
+  "FFBKDEFF": {
     "country": "Germany",
     "name": "FIL Fondsbank Gmbh",
     "address": "Kastanienstrasse 1",
@@ -10078,7 +10078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "BIWBDE33XXX": {
+  "BIWBDE33": {
     "country": "Germany",
     "name": "flatex Bank AG",
     "address": "Hammfelddamm 4",
@@ -10102,7 +10102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "FODBDE77XXX": {
+  "FODBDE77": {
     "country": "Germany",
     "name": "Fondsdepot Bank Gmbh",
     "address": "Windmuehlenweg 12",
@@ -10110,7 +10110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "FDBADE8FXXX": {
+  "FDBADE8F": {
     "country": "Germany",
     "name": "Ford Bank GmbH",
     "address": "Josef-Lammerting-Allee 24-34",
@@ -10118,7 +10118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-04",
     "instant_readiness": null
   },
-  "LRFSDE31XXX": {
+  "LRFSDE31": {
     "country": "Germany",
     "name": "Ford Bank GmbH (Deposit Department)",
     "address": "Josef-Lammerting-Allee 24-34",
@@ -10126,7 +10126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FDBADE3KXXX": {
+  "FDBADE3K": {
     "country": "Germany",
     "name": "Ford Bank, Niederlassung DER FCE Bank PLC.",
     "address": "Josef-Lammerting-Allee 24-34",
@@ -10142,7 +10142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "FBGADEF1XXX": {
+  "FBGADEF1": {
     "country": "Germany",
     "name": "Frankfurter Bankgesellschaft (Deutschland) AG",
     "address": "Junghofstrasse 26",
@@ -10158,7 +10158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "FFVBDEFFXXX": {
+  "FFVBDEFF": {
     "country": "Germany",
     "name": "Frankfurter Volksbank eG",
     "address": "Boersenstrasse 7-11",
@@ -10174,7 +10174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "FUBKDE71XXX": {
+  "FUBKDE71": {
     "country": "Germany",
     "name": "Fuerst Fugger Privatbank AG",
     "address": "Maximilianstrasse 38",
@@ -10182,7 +10182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "FUCEDE77XXX": {
+  "FUCEDE77": {
     "country": "Germany",
     "name": "Fuerstlich Castellsche Bank",
     "address": "Marktplatz 1",
@@ -10190,7 +10190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "GABLDE71XXX": {
+  "GABLDE71": {
     "country": "Germany",
     "name": "Gabler-Saliter Bankgeschaeft AG",
     "address": "Marktplatz 10",
@@ -10198,7 +10198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-06-07",
     "instant_readiness": null
   },
-  "GGABDE31XXX": {
+  "GGABDE31": {
     "country": "Germany",
     "name": "Gefa Bank GmbH",
     "address": "Robert-Daum-Platz 1 E7J720/7700800/53000873",
@@ -10270,7 +10270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "GOGODEH1XXX": {
+  "GOGODEH1": {
     "country": "Germany",
     "name": "Goyer & Goeppel KG",
     "address": "ABC-Strasse 10",
@@ -10286,7 +10286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "NFHBDE21XXX": {
+  "NFHBDE21": {
     "country": "Germany",
     "name": "Greensill Bank AG",
     "address": "Martinistrasse 48",
@@ -10294,7 +10294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GREBDEH1XXX": {
+  "GREBDEH1": {
     "country": "Germany",
     "name": "Grenke Bank AG",
     "address": "Neuer Markt 2",
@@ -10318,7 +10318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "HSHNDEHHXXX": {
+  "HSHNDEHH": {
     "country": "Germany",
     "name": "Hamburg Commercial Bank AG",
     "address": "Gerhart Hauptmann Platz 50",
@@ -10326,7 +10326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-09"
   },
-  "HASPDEHHXXX": {
+  "HASPDEHH": {
     "country": "Germany",
     "name": "Hamburger Sparkasse AG",
     "address": "Ecke Adolphsplatz/Gr. Burstah",
@@ -10342,7 +10342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VOHADE2HXXX": {
+  "VOHADE2H": {
     "country": "Germany",
     "name": "Hannoversche Volksbank eG",
     "address": "Kurt-Schumacher-Str 19",
@@ -10350,7 +10350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "HSTBDEHHXXX": {
+  "HSTBDEHH": {
     "country": "Germany",
     "name": "Hanseatic Bank GmbH & Co KG",
     "address": "Bramfelder Chaussee 101",
@@ -10374,7 +10374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "HAUKDEFFXXX": {
+  "HAUKDEFF": {
     "country": "Germany",
     "name": "Hauck & AUFHaeUSER Privatbankiers",
     "address": "Kaiserstrasse 24",
@@ -10422,7 +10422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HOEBDE61XXX": {
+  "HOEBDE61": {
     "country": "Germany",
     "name": "Hoerner Bank AG",
     "address": "Oststr. 77",
@@ -10438,7 +10438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "TUBDDEDDXXX": {
+  "TUBDDEDD": {
     "country": "Germany",
     "name": "Hsbc Trinkaus & Burkhardt AG",
     "address": "Koenigsallee 21-23",
@@ -10462,7 +10462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "IBKBDES1XXX": {
+  "IBKBDES1": {
     "country": "Germany",
     "name": "IBM Deutschland Kreditbank Gmbh",
     "address": "IBM-Allee 1",
@@ -10470,7 +10470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "IKBDDEDDXXX": {
+  "IKBDDEDD": {
     "country": "Germany",
     "name": "IKB Deutsche Industriebank AG",
     "address": "Wilhelm-Boetzkes-Strasse 1",
@@ -10478,7 +10478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ICBKDEFFXXX": {
+  "ICBKDEFF": {
     "country": "Germany",
     "name": "Industrial and Commercial Bank of China Niederlassung Frankfurt",
     "address": "Bockenheimer Anlage 15",
@@ -10486,7 +10486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "INGDDEFFXXX": {
+  "INGDDEFF": {
     "country": "Germany",
     "name": "ING-DiBa AG",
     "address": "Theodor-Heuss-Allee 2",
@@ -10494,7 +10494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IBBFDE81XXX": {
+  "IBBFDE81": {
     "country": "Germany",
     "name": "Internationales Bankhaus Bodensee AG",
     "address": "Otto-Lilienthal-Str. 8",
@@ -10502,7 +10502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ISBRDE55XXX": {
+  "ISBRDE55": {
     "country": "Germany",
     "name": "Investitions- UND Strukturbank Rheinland-Pfalz (ISB) Gmbh",
     "address": "Holzhofstrasse 4",
@@ -10510,7 +10510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "IBBBDEBBXXX": {
+  "IBBBDEBB": {
     "country": "Germany",
     "name": "Investitionsbank Berlin",
     "address": "Bundesallee 210",
@@ -10518,7 +10518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "ILBXDE8XXXX": {
+  "ILBXDE8X": {
     "country": "Germany",
     "name": "Investitionsbank DES Landes Brandenburg",
     "address": "Babelsberger Strasse 21",
@@ -10526,7 +10526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ISBKDEFXXXX": {
+  "ISBKDEFX": {
     "country": "Germany",
     "name": "Isbank AG",
     "address": "Zeil 123",
@@ -10534,7 +10534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CHASDEFXXXX": {
+  "CHASDEFX": {
     "country": "Germany",
     "name": "J.P.Morgan AG",
     "address": "Taunustor 1",
@@ -10542,7 +10542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-04-04"
   },
-  "JAGUDE31XXX": {
+  "JAGUDE31": {
     "country": "Germany",
     "name": "Jaguar Financial Services, Niederlassung DER FCE Bank PLC.",
     "address": "Josef-Lammerting-Allee 24-34",
@@ -10550,7 +10550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BEGODEHHXXX": {
+  "BEGODEHH": {
     "country": "Germany",
     "name": "JOH. Berenberg Gossler UND CO.KG",
     "address": "Neuer Jungfernstieg 20",
@@ -10574,7 +10574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "KFWIDEFFXXX": {
+  "KFWIDEFF": {
     "country": "Germany",
     "name": "Kfw Bankengruppe",
     "address": "5-9, Palmengartenstrasse",
@@ -10590,7 +10590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "KOEXDEFAXXX": {
+  "KOEXDEFA": {
     "country": "Germany",
     "name": "Korea Exchange Bank (Deutschland) AG",
     "address": "Bockenheimer Landstrasse 51-53",
@@ -10686,7 +10686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SBCRDE66XXX": {
+  "SBCRDE66": {
     "country": "Germany",
     "name": "Kreissparkasse Biberach",
     "address": "Zeppelinring 27 - 29",
@@ -10694,7 +10694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BILADE55XXX": {
+  "BILADE55": {
     "country": "Germany",
     "name": "Kreissparkasse Birkenfeld",
     "address": "Auf der Idar 2",
@@ -10710,7 +10710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BBKRDE6BXXX": {
+  "BBKRDE6B": {
     "country": "Germany",
     "name": "Kreissparkasse Boeblingen",
     "address": "Wolfgang-Brumme-Allee 1",
@@ -10750,7 +10750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "ESSLDE66XXX": {
+  "ESSLDE66": {
     "country": "Germany",
     "name": "Kreissparkasse Esslingen-Nuertingen",
     "address": "Bahnhofstrasse 8",
@@ -10798,7 +10798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "GOPSDE6GXXX": {
+  "GOPSDE6G": {
     "country": "Germany",
     "name": "Kreissparkasse Goeppingen",
     "address": "Marktstrasse 2",
@@ -10854,7 +10854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "HEISDE66XXX": {
+  "HEISDE66": {
     "country": "Germany",
     "name": "Kreissparkasse Heilbronn",
     "address": "Am Wollhaus 14",
@@ -10902,7 +10902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "COKSDE33XXX": {
+  "COKSDE33": {
     "country": "Germany",
     "name": "Kreissparkasse Koeln",
     "address": "Neumarkt 18-24",
@@ -10982,7 +10982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "OASPDE6AXXX": {
+  "OASPDE6A": {
     "country": "Germany",
     "name": "Kreissparkasse Ostalb",
     "address": "Bahnhofstrasse 4",
@@ -11038,7 +11038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "KRSADE55XXX": {
+  "KRSADE55": {
     "country": "Germany",
     "name": "Kreissparkasse Saarlouis",
     "address": "Kleiner Markt",
@@ -11182,7 +11182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "KTAGDEFFXXX": {
+  "KTAGDEFF": {
     "country": "Germany",
     "name": "KT Bank AG",
     "address": "Platz der Einheit 1",
@@ -11214,7 +11214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "SOLADESTXXX": {
+  "SOLADEST": {
     "country": "Germany",
     "name": "Landesbank Baden-Wuerttemberg (Lbbw)",
     "address": "Am Hauptbahnhof 2",
@@ -11222,7 +11222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "HELADEFFXXX": {
+  "HELADEFF": {
     "country": "Germany",
     "name": "Landesbank Hessen-Thueringen (Helaba)",
     "address": "Neue Mainzer Str. 52-58",
@@ -11230,7 +11230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SALADE55XXX": {
+  "SALADE55": {
     "country": "Germany",
     "name": "Landesbank Saar (SaarLB)",
     "address": "Ursulinenstrasse 2",
@@ -11238,7 +11238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "LKBWDE6KXXX": {
+  "LKBWDE6K": {
     "country": "Germany",
     "name": "Landeskreditbank Baden-Wuerttemberg-Foerderbank (L-Bank)",
     "address": "Zahlungsverkehr",
@@ -11246,7 +11246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SLZODE22XXX": {
+  "SLZODE22": {
     "country": "Germany",
     "name": "Landessparkasse zu Oldenburg",
     "address": "Berliner Platz 1",
@@ -11254,7 +11254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "LAREDEFFXXX": {
+  "LAREDEFF": {
     "country": "Germany",
     "name": "Landwirtschaftliche Rentenbank",
     "address": "2, Hochstrasse",
@@ -11270,7 +11270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-03-04",
     "instant_readiness": "2018-07-10"
   },
-  "LBSODEB1XXX": {
+  "LBSODEB1": {
     "country": "Germany",
     "name": "LBS Ostdeutsche Landesbausparkasse AG",
     "address": "AM Luftschiffhafen 1",
@@ -11278,7 +11278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-08-09",
     "instant_readiness": "2018-07-10"
   },
-  "LBSWDE31XXX": {
+  "LBSWDE31": {
     "country": "Germany",
     "name": "LBS Westdeutsche Landesbausparkasse",
     "address": "Himmelreichallee 40",
@@ -11302,7 +11302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "LFFBDEMMXXX": {
+  "LFFBDEMM": {
     "country": "Germany",
     "name": "LFA Foerderbank Bayern",
     "address": "17, Koeniginstrasse",
@@ -11318,7 +11318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BOFSDEB1XXX": {
+  "BOFSDEB1": {
     "country": "Germany",
     "name": "Lloyds Bank GmbH",
     "address": "Karl-Liebknecht Str 5",
@@ -11326,7 +11326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "WBWCDEHHXXX": {
+  "WBWCDEHH": {
     "country": "Germany",
     "name": "M.M. Warburg & CO",
     "address": "Ferdinandstrasse 75",
@@ -11334,7 +11334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MMWHDEH1XXX": {
+  "MMWHDEH1": {
     "country": "Germany",
     "name": "M.M.Warburg & CO Hypothekenbank AG",
     "address": "Colonnaden 5",
@@ -11350,7 +11350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "MVBMDE55XXX": {
+  "MVBMDE55": {
     "country": "Germany",
     "name": "Mainzer Volksbank eG",
     "address": "Neubrunnenstr. 2",
@@ -11358,7 +11358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "MCRDDEHHXXX": {
+  "MCRDDEHH": {
     "country": "Germany",
     "name": "Marcard, Stein & Co AG",
     "address": "Ballindamm 36",
@@ -11366,7 +11366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MHSBDEHBXXX": {
+  "MHSBDEHB": {
     "country": "Germany",
     "name": "MAX Heinr.Sutor OHG",
     "address": "Hermannstrasse 46",
@@ -11374,7 +11374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-09-06",
     "instant_readiness": null
   },
-  "MAZDDED1XXX": {
+  "MAZDDED1": {
     "country": "Germany",
     "name": "Mazda Bank, Niederlassung DER FCE Bank PLC.",
     "address": "73, Hitdorfer Strasse",
@@ -11382,7 +11382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MEGHDE81XXX": {
+  "MEGHDE81": {
     "country": "Germany",
     "name": "mediserv Bank GmbH",
     "address": "Am Halberg 6",
@@ -11406,7 +11406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MEFIDEMMXXX": {
+  "MEFIDEMM": {
     "country": "Germany",
     "name": "Merck Finck Privatbankiers AG",
     "address": "Pacellistrasse 16",
@@ -11422,7 +11422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "MHBFDEFFXXX": {
+  "MHBFDEFF": {
     "country": "Germany",
     "name": "MHB Bank AG",
     "address": "Niedenau 61 \u2013 63",
@@ -11430,7 +11430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KHMIDEMMXXX": {
+  "KHMIDEMM": {
     "country": "Germany",
     "name": "Middle East Bank, Munich Branch",
     "address": "Landsberger Strasse 406",
@@ -11438,7 +11438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-06",
     "instant_readiness": null
   },
-  "MIBEDEFFXXX": {
+  "MIBEDEFF": {
     "country": "Germany",
     "name": "Misr Bank-Europe GmbH",
     "address": "Marienstrasse 15",
@@ -11454,7 +11454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "MHCBDEDDXXX": {
+  "MHCBDEDD": {
     "country": "Germany",
     "name": "Mizuho Bank LTD. Duesseldorf Branch",
     "address": "Benrather Strasse 18-20",
@@ -11462,7 +11462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "MKBKDE51XXX": {
+  "MKBKDE51": {
     "country": "Germany",
     "name": "MKB Mittelrheinische Bank GmbH",
     "address": "Ferdinand-Sauerbruch-Str. 7",
@@ -11478,7 +11478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": "2018-11-27"
   },
-  "MLPBDE61XXX": {
+  "MLPBDE61": {
     "country": "Germany",
     "name": "MLP Banking AG",
     "address": "Alte Heer Str. 40",
@@ -11486,7 +11486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "MHYPDEMMXXX": {
+  "MHYPDEMM": {
     "country": "Germany",
     "name": "Muenchener Hypothekenbank eG",
     "address": "Karl-Scharnagl-Ring 10",
@@ -11518,7 +11518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "NTSBDEB1XXX": {
+  "NTSBDEB1": {
     "country": "Germany",
     "name": "N26 Bank GmbH",
     "address": "Klosterstrasse 62",
@@ -11526,7 +11526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-05",
     "instant_readiness": "2019-11-04"
   },
-  "NASSDE55XXX": {
+  "NASSDE55": {
     "country": "Germany",
     "name": "Nassauische Sparkasse (Naspa)",
     "address": "Rheinstr. 42-46",
@@ -11534,7 +11534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "NBPADEFFXXX": {
+  "NBPADEFF": {
     "country": "Germany",
     "name": "National Bank OF Pakistan, Frankfurt",
     "address": "Holzgraben 31",
@@ -11542,7 +11542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NBAGDE3EXXX": {
+  "NBAGDE3E": {
     "country": "Germany",
     "name": "National-Bank Aktiengesellschaft",
     "address": "Theaterplatz 8",
@@ -11550,7 +11550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NATXDEFPXXX": {
+  "NATXDEFP": {
     "country": "Germany",
     "name": "Natixis Pfandbriefbank AG",
     "address": "Im Trutz Frankfurt 55",
@@ -11558,7 +11558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-04-08",
     "instant_readiness": null
   },
-  "BVWBDE2WXXX": {
+  "BVWBDE2W": {
     "country": "Germany",
     "name": "net-m privatbank 1891 AG",
     "address": "Odeonsplatz 18",
@@ -11582,7 +11582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "NOLADE2HXXX": {
+  "NOLADE2H": {
     "country": "Germany",
     "name": "Norddeutsche Landesbank Girozentrale",
     "address": "Friedrichswall 10",
@@ -11606,7 +11606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "NORSDE51XXX": {
+  "NORSDE51": {
     "country": "Germany",
     "name": "Norisbank GmbH",
     "address": "Reuterstrasse 122",
@@ -11622,7 +11622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-02-01",
     "instant_readiness": "2018-11-20"
   },
-  "NRWBDEDMXXX": {
+  "NRWBDEDM": {
     "country": "Germany",
     "name": "NRW. Bank",
     "address": "Kavalleriestr. 22",
@@ -11630,7 +11630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-05-03",
     "instant_readiness": null
   },
-  "BHFBDEFFXXX": {
+  "BHFBDEFF": {
     "country": "Germany",
     "name": "Oddo BHF Aktiengesellschaft",
     "address": "Bockenheimer Landstrasse 10",
@@ -11638,7 +11638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "OLBODEH2XXX": {
+  "OLBODEH2": {
     "country": "Germany",
     "name": "Oldenburgische Landesbank AG",
     "address": "Stau 15-17",
@@ -11654,7 +11654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "BOURDEFFXXX": {
+  "BOURDEFF": {
     "country": "Germany",
     "name": "Onvista Bank GmbH",
     "address": "Wildunger Strasse 6a",
@@ -11662,7 +11662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "GMGGDE51XXX": {
+  "GMGGDE51": {
     "country": "Germany",
     "name": "Opel Bank Gmbh",
     "address": "Mainzer Strasse 190",
@@ -11678,7 +11678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "OSDDDE81XXX": {
+  "OSDDDE81": {
     "country": "Germany",
     "name": "Ostsaechsische Sparkasse Dresden",
     "address": "Guentzplatz 5",
@@ -11694,7 +11694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "OSCBDEH1XXX": {
+  "OSCBDEH1": {
     "country": "Germany",
     "name": "Otto M. Schroeder Bank AG",
     "address": "Bleichenbruecke 11",
@@ -11702,7 +11702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "OYAKDE5KXXX": {
+  "OYAKDE5K": {
     "country": "Germany",
     "name": "Oyak Anker Bank GmbH",
     "address": "Lyoner Strasse 38",
@@ -11718,7 +11718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "PAGMDEM1XXX": {
+  "PAGMDEM1": {
     "country": "Germany",
     "name": "Paycenter Gmbh",
     "address": "MAX-Lehnerstrasse 1A",
@@ -11734,7 +11734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "PORTDEDDXXX": {
+  "PORTDEDD": {
     "country": "Germany",
     "name": "Portigon AG",
     "address": "Att. Linde Wolke Dept 001-57600 Voelklinger Str. 4",
@@ -11742,7 +11742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRCBDEFFXXX": {
+  "PRCBDEFF": {
     "country": "Germany",
     "name": "Procredit Bank AG",
     "address": "Rohmerplatz 33-37",
@@ -11750,7 +11750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": null
   },
-  "BPNDDE52XXX": {
+  "BPNDDE52": {
     "country": "Germany",
     "name": "PSA Bank Deutschland GmbH",
     "address": "Siemensstrasse 10",
@@ -11878,7 +11878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "QUBKDEBBXXX": {
+  "QUBKDEBB": {
     "country": "Germany",
     "name": "Quirin Privatbank AG",
     "address": "Kurfrstendamm 119",
@@ -14350,7 +14350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "SABUDES1XXX": {
+  "SABUDES1": {
     "country": "Germany",
     "name": "RSB Retail + Service Bank GmbH",
     "address": "Bahnhofstrasse 82",
@@ -14374,7 +14374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "PULSDE5WXXX": {
+  "PULSDE5W": {
     "country": "Germany",
     "name": "S Broker AG und Co. KG",
     "address": "Carl-Bosch-Str. 10",
@@ -14390,7 +14390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SABDDE81XXX": {
+  "SABDDE81": {
     "country": "Germany",
     "name": "Saechsische Aufbaubank Foerderbank",
     "address": "Rechnungswesen, Pirnaische Strasse   9",
@@ -14398,7 +14398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SOPPDE3KXXX": {
+  "SOPPDE3K": {
     "country": "Germany",
     "name": "Sal. Oppenheim jr.  Cie. KGaA",
     "address": "Unter Sachsenhausen 4",
@@ -14414,7 +14414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SCFBDE33XXX": {
+  "SCFBDE33": {
     "country": "Germany",
     "name": "Santander Consumer Bank AG",
     "address": "Santander Platz 1",
@@ -14446,7 +14446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "SCHWDESSXXX": {
+  "SCHWDESS": {
     "country": "Germany",
     "name": "Schwaebische Bank AG",
     "address": "Koenigstrasse 28",
@@ -14454,7 +14454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "ESSEDE5FXXX": {
+  "ESSEDE5F": {
     "country": "Germany",
     "name": "SEB AG",
     "address": "30, Ulmenstrasse",
@@ -14462,7 +14462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SECGDEFFXXX": {
+  "SECGDEFF": {
     "country": "Germany",
     "name": "Secb Swiss Euro Clearing Bank GmbH",
     "address": "18, Solmsstrasse",
@@ -14470,7 +14470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SHBKDEFFXXX": {
+  "SHBKDEFF": {
     "country": "Germany",
     "name": "Shinhan Bank Europe GmbH",
     "address": "Neue Mainzer Strasse 75",
@@ -14478,7 +14478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SIBADEMMXXX": {
+  "SIBADEMM": {
     "country": "Germany",
     "name": "Siemens Bank Gmbh",
     "address": "6 Otto-Hahn-Ring",
@@ -14486,7 +14486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SIBSDEHHXXX": {
+  "SIBSDEHH": {
     "country": "Germany",
     "name": "Signal Iduna Bauspar AG",
     "address": "Postfach 60 09 09",
@@ -14494,7 +14494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "SIKBDE55XXX": {
+  "SIKBDE55": {
     "country": "Germany",
     "name": "Sikb AG-Saarlaendische Investitionskredit-Bank AG",
     "address": "Franz-Josef-Roeder-STR. 17",
@@ -14502,7 +14502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "SMBCDEFFXXX": {
+  "SMBCDEFF": {
     "country": "Germany",
     "name": "Smbc Bank EU AG",
     "address": "Neue Meinzer Strasse 52-58",
@@ -14510,7 +14510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "SOBKDEBBXXX": {
+  "SOBKDEBB": {
     "country": "Germany",
     "name": "Solarisbank AG",
     "address": "Anna-Louisa-Karsch-Str. 2",
@@ -14710,7 +14710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AACSDE33XXX": {
+  "AACSDE33": {
     "country": "Germany",
     "name": "Sparkasse Aachen",
     "address": "Friedrich-Wilhelm-Platz 1-4",
@@ -14942,7 +14942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPBIDE3BXXX": {
+  "SPBIDE3B": {
     "country": "Germany",
     "name": "Sparkasse Bielefeld",
     "address": "Schweriner Str. 5",
@@ -15006,7 +15006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "CHEKDE81XXX": {
+  "CHEKDE81": {
     "country": "Germany",
     "name": "Sparkasse Chemnitz",
     "address": "Bahnhofstr. 51",
@@ -15086,7 +15086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "DORTDE33XXX": {
+  "DORTDE33": {
     "country": "Germany",
     "name": "Sparkasse Dortmund",
     "address": "Freistuhl 2",
@@ -15102,7 +15102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SDUEDE33XXX": {
+  "SDUEDE33": {
     "country": "Germany",
     "name": "Sparkasse Dueren",
     "address": "Ecke Schenkel-/Zehnthofstrasse",
@@ -15110,7 +15110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "DUISDE33XXX": {
+  "DUISDE33": {
     "country": "Germany",
     "name": "Sparkasse Duisburg",
     "address": "Koenigstrasse 23-25",
@@ -15174,7 +15174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPESDE3EXXX": {
+  "SPESDE3E": {
     "country": "Germany",
     "name": "Sparkasse Essen",
     "address": "III Hagen 43",
@@ -15198,7 +15198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "FRSPDE66XXX": {
+  "FRSPDE66": {
     "country": "Germany",
     "name": "Sparkasse Freiburg - Noerdlicher Breisgau",
     "address": "Kaiser-Joseph-strasse 186 - 190",
@@ -15294,7 +15294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SKGIDE5FXXX": {
+  "SKGIDE5F": {
     "country": "Germany",
     "name": "Sparkasse Giessen",
     "address": "Postfach 11 02 49",
@@ -15358,7 +15358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADE3HXXX": {
+  "WELADE3H": {
     "country": "Germany",
     "name": "Sparkasse HagenHerdecke",
     "address": "Sparkassen Karree 1",
@@ -15398,7 +15398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPKHDE2HXXX": {
+  "SPKHDE2H": {
     "country": "Germany",
     "name": "Sparkasse Hannover",
     "address": "Raschplatz 4",
@@ -15446,7 +15446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WLAHDE44XXX": {
+  "WLAHDE44": {
     "country": "Germany",
     "name": "Sparkasse Herford",
     "address": "Auf der Freiheit 20",
@@ -15478,7 +15478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SKHRDE6WXXX": {
+  "SKHRDE6W": {
     "country": "Germany",
     "name": "Sparkasse Hochrhein",
     "address": "Bismarckstrasse 7",
@@ -15574,7 +15574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "KARSDE66XXX": {
+  "KARSDE66": {
     "country": "Germany",
     "name": "Sparkasse Karlsruhe",
     "address": "Kaiserstrasse 223",
@@ -15598,7 +15598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "COLSDE33XXX": {
+  "COLSDE33": {
     "country": "Germany",
     "name": "Sparkasse KoelnBonn",
     "address": "Hahnenstrasse 57",
@@ -15606,7 +15606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BRUSDE66XXX": {
+  "BRUSDE66": {
     "country": "Germany",
     "name": "Sparkasse Kraichgau",
     "address": "Friedrichsplatz 2",
@@ -15614,7 +15614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPKRDE33XXX": {
+  "SPKRDE33": {
     "country": "Germany",
     "name": "Sparkasse Krefeld",
     "address": "Ostwall 155",
@@ -15670,7 +15670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADE8LXXX": {
+  "WELADE8L": {
     "country": "Germany",
     "name": "Sparkasse Leipzig",
     "address": "Humboldtstr. 25",
@@ -15702,7 +15702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SKLODE66XXX": {
+  "SKLODE66": {
     "country": "Germany",
     "name": "Sparkasse Loerrach-Rheinfelden",
     "address": "Haagener strasse 2",
@@ -15822,7 +15822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "MERZDE55XXX": {
+  "MERZDE55": {
     "country": "Germany",
     "name": "Sparkasse Merzig-Wadern",
     "address": "Schankstrasse 7",
@@ -15894,7 +15894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPMHDE3EXXX": {
+  "SPMHDE3E": {
     "country": "Germany",
     "name": "Sparkasse Muelheim an der Ruhr",
     "address": "Berliner Platz 1",
@@ -15966,7 +15966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADEDNXXX": {
+  "WELADEDN": {
     "country": "Germany",
     "name": "Sparkasse Neuss",
     "address": "Oberstrasse 110-124",
@@ -16014,7 +16014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SSKNDE77XXX": {
+  "SSKNDE77": {
     "country": "Germany",
     "name": "Sparkasse Nuernberg",
     "address": "Lorenzer Platz 12",
@@ -16086,7 +16086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "NOLADE22XXX": {
+  "NOLADE22": {
     "country": "Germany",
     "name": "Sparkasse Osnabrueck",
     "address": "Wittekindstr. 17-19",
@@ -16110,7 +16110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADE3LXXX": {
+  "WELADE3L": {
     "country": "Germany",
     "name": "Sparkasse Paderborn Detmold",
     "address": "Hathumarstrasse 15 - 19",
@@ -16142,7 +16142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "PZHSDE66XXX": {
+  "PZHSDE66": {
     "country": "Germany",
     "name": "Sparkasse Pforzheim Calw",
     "address": "Poststrasse 3",
@@ -16222,7 +16222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "MANSDE66XXX": {
+  "MANSDE66": {
     "country": "Germany",
     "name": "Sparkasse Rhein-Neckar Nord",
     "address": "D 1, 1 - 3",
@@ -16254,7 +16254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SAKSDE55XXX": {
+  "SAKSDE55": {
     "country": "Germany",
     "name": "Sparkasse Saarbruecken",
     "address": "Neumarkt 17",
@@ -16342,7 +16342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SPSHDE31XXX": {
+  "SPSHDE31": {
     "country": "Germany",
     "name": "Sparkasse Sprockhoevel",
     "address": "Hauptstrasse 68",
@@ -16414,7 +16414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "TRISDE55XXX": {
+  "TRISDE55": {
     "country": "Germany",
     "name": "Sparkasse Trier",
     "address": "Theodor-Heuss-Allee 1",
@@ -16478,7 +16478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "LUHSDE6AXXX": {
+  "LUHSDE6A": {
     "country": "Germany",
     "name": "Sparkasse Vorderpfalz",
     "address": "Ludwigsstrasse 52",
@@ -16526,7 +16526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADE3WXXX": {
+  "WELADE3W": {
     "country": "Germany",
     "name": "Sparkasse Westmuensterland",
     "address": "Bahnhofstrasse 1",
@@ -16662,7 +16662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SOLSDE33XXX": {
+  "SOLSDE33": {
     "country": "Germany",
     "name": "Stadt-Sparkasse Solingen",
     "address": "Koelner Strasse 68-72",
@@ -16670,7 +16670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "AUGSDE77XXX": {
+  "AUGSDE77": {
     "country": "Germany",
     "name": "Stadtsparkasse Augsburg",
     "address": "Halderstr. 1-5",
@@ -16774,7 +16774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "DUSSDEDDXXX": {
+  "DUSSDEDD": {
     "country": "Germany",
     "name": "Stadtsparkasse Duesseldorf",
     "address": "Berliner Allee 33",
@@ -16830,7 +16830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "MGLSDE33XXX": {
+  "MGLSDE33": {
     "country": "Germany",
     "name": "Stadtsparkasse Moenchengladbach",
     "address": "Bismarckplatz 10",
@@ -16838,7 +16838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SSKMDEMMXXX": {
+  "SSKMDEMM": {
     "country": "Germany",
     "name": "Stadtsparkasse Muenchen",
     "address": "Sparkassenstrasse 2",
@@ -16862,7 +16862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WELADEDRXXX": {
+  "WELADEDR": {
     "country": "Germany",
     "name": "Stadtsparkasse Remscheid",
     "address": "Alleestrasse 76-88",
@@ -16942,7 +16942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WUPSDE33XXX": {
+  "WUPSDE33": {
     "country": "Germany",
     "name": "Stadtsparkasse Wuppertal",
     "address": "Islandufer 15",
@@ -16958,7 +16958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "SCBLDEFXXXX": {
+  "SCBLDEFX": {
     "country": "Germany",
     "name": "Standard Chartered Bank AG",
     "address": "Taunusanlage 16",
@@ -16966,7 +16966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-15",
     "instant_readiness": null
   },
-  "DRBKDEH1XXX": {
+  "DRBKDEH1": {
     "country": "Germany",
     "name": "start:bausparkasse AG",
     "address": "Ludwig-Erhard-Strasse 22",
@@ -16974,7 +16974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-08",
     "instant_readiness": null
   },
-  "SBINDEFFXXX": {
+  "SBINDEFF": {
     "country": "Germany",
     "name": "State Bank of India Zweigniederlassung Frankfurt am Main",
     "address": "Mainzer Landstrasse 61",
@@ -16982,7 +16982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "SBOSDEMXXXX": {
+  "SBOSDEMX": {
     "country": "Germany",
     "name": "State Street Bank International GmbH",
     "address": "Brienner Strasse 59",
@@ -16998,7 +16998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SUFGDE51XXX": {
+  "SUFGDE51": {
     "country": "Germany",
     "name": "Sued-West-Kreditbank Finanzierung Gmbh",
     "address": "AM Ockenheimer Graben 52",
@@ -17006,7 +17006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SWBSDESSXXX": {
+  "SWBSDESS": {
     "country": "Germany",
     "name": "Suedwestbank Aktiengesellschaft",
     "address": "Rotebuehlstrasse 125",
@@ -17014,7 +17014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-02-04"
   },
-  "SMBCDEDDXXX": {
+  "SMBCDEDD": {
     "country": "Germany",
     "name": "Sumitomo Mitsui Banking Corporation Zweigniederlassung Duesseldorf",
     "address": "Prinzenallee 7",
@@ -17030,7 +17030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "CPLADE55XXX": {
+  "CPLADE55": {
     "country": "Germany",
     "name": "Targobank AG",
     "address": "Heinrich-von-Brentano Strasse 2",
@@ -17038,7 +17038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CMCIDEDDXXX": {
+  "CMCIDEDD": {
     "country": "Germany",
     "name": "Targobank AG und Co. KGaA",
     "address": "Kasernenstrasse 10",
@@ -17054,7 +17054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "TEAMDE71XXX": {
+  "TEAMDE71": {
     "country": "Germany",
     "name": "TeamBank AG N\u00fcrnberg",
     "address": "Beuthener Str. 25",
@@ -17062,7 +17062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "TEKRDE71XXX": {
+  "TEKRDE71": {
     "country": "Germany",
     "name": "Teba Kreditbank Gmbh & CO. KG",
     "address": "Lindenstrasse 5",
@@ -17070,7 +17070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": null
   },
-  "IRVTDEFXXXX": {
+  "IRVTDEFX": {
     "country": "Germany",
     "name": "The Bank of New York Mellon Frankfurt Branch",
     "address": "Friedrich-Ebert-Anlage 49",
@@ -17078,7 +17078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "TOBADE33XXX": {
+  "TOBADE33": {
     "country": "Germany",
     "name": "Toyota Kreditbank Gmbh",
     "address": "Toyota Allee 5",
@@ -17086,7 +17086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-04-04",
     "instant_readiness": null
   },
-  "TRUFDE66XXX": {
+  "TRUFDE66": {
     "country": "Germany",
     "name": "Trumpf Financial Services Gmbh",
     "address": "Johan-Maus-Strasse 2",
@@ -17094,7 +17094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "SMHBDEFFXXX": {
+  "SMHBDEFF": {
     "country": "Germany",
     "name": "UBS Deutschland AG",
     "address": "Bockenheimer Landstrasse 2-4",
@@ -17102,7 +17102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UMWEDE7NXXX": {
+  "UMWEDE7N": {
     "country": "Germany",
     "name": "UmweltBank AG",
     "address": "Laufertorgraben 6",
@@ -17110,7 +17110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "HYVEDEMMXXX": {
+  "HYVEDEMM": {
     "country": "Germany",
     "name": "UniCredit Bank AG",
     "address": "Arabellastrasse 11",
@@ -17118,7 +17118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "UNBNDE21XXX": {
+  "UNBNDE21": {
     "country": "Germany",
     "name": "Union-Bank AG",
     "address": "Grosse Strasse 2",
@@ -17134,7 +17134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VBANDEMMXXX": {
+  "VBANDEMM": {
     "country": "Germany",
     "name": "V-Bank AG",
     "address": "Arnulfstr. 58",
@@ -17142,7 +17142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "VABKDE3EXXX": {
+  "VABKDE3E": {
     "country": "Germany",
     "name": "Valovis Bank",
     "address": "Theodor-Althoff-Strasse 7",
@@ -17150,7 +17150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-10-04",
     "instant_readiness": null
   },
-  "VGAGDEHHXXX": {
+  "VGAGDEHH": {
     "country": "Germany",
     "name": "Varengold Bank AG",
     "address": "Grosse Elbstr. 14",
@@ -17182,7 +17182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "DGPBDE3MXXX": {
+  "DGPBDE3M": {
     "country": "Germany",
     "name": "VerbundVolksbank OWL eG",
     "address": "Neuer Platz 1",
@@ -17302,7 +17302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "ICBVDEFFXXX": {
+  "ICBVDEFF": {
     "country": "Germany",
     "name": "Vietnam Joint Stock Commercial Bank",
     "address": "Reuterweg 44",
@@ -17518,7 +17518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VBRADE6KXXX": {
+  "VBRADE6K": {
     "country": "Germany",
     "name": "Volksbank Baden-Baden Rastatt eG",
     "address": "Kaiserstr.74",
@@ -17862,7 +17862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VOLODE66XXX": {
+  "VOLODE66": {
     "country": "Germany",
     "name": "Volksbank Dreilaendereck eG",
     "address": "Tumringer Strasse 237",
@@ -18558,7 +18558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VBRSDE33XXX": {
+  "VBRSDE33": {
     "country": "Germany",
     "name": "Volksbank im Bergischen Land eG",
     "address": "Tenter Weg 1-3",
@@ -18990,7 +18990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "VBMHDE5FXXX": {
+  "VBMHDE5F": {
     "country": "Germany",
     "name": "Volksbank Mittelhessen eG",
     "address": "Schiffenberger Weg 110",
@@ -19190,7 +19190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VBPFDE66XXX": {
+  "VBPFDE66": {
     "country": "Germany",
     "name": "Volksbank Pforzheim eG",
     "address": "Westliche Karl-Friedrich-Str 53",
@@ -19398,7 +19398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VBRTDE6RXXX": {
+  "VBRTDE6R": {
     "country": "Germany",
     "name": "Volksbank Reutlingen eG",
     "address": "Gartenstrasse 33",
@@ -19686,7 +19686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "VOBADESSXXX": {
+  "VOBADESS": {
     "country": "Germany",
     "name": "Volksbank Stuttgart eG",
     "address": "Boersenstr. 3",
@@ -19758,7 +19758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "ULMVDE66XXX": {
+  "ULMVDE66": {
     "country": "Germany",
     "name": "Volksbank Ulm-Biberach eG",
     "address": "Frauenstrasse 60",
@@ -20030,7 +20030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VOWADE2BXXX": {
+  "VOWADE2B": {
     "country": "Germany",
     "name": "Volkswagen Bank GmbH",
     "address": "Gifhorner Strasse 57",
@@ -20038,7 +20038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-01",
     "instant_readiness": null
   },
-  "VONEDE33XXX": {
+  "VONEDE33": {
     "country": "Germany",
     "name": "VON Essen Bank GmbH",
     "address": "Huyssenallee 86-88",
@@ -20318,7 +20318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VRBUDE51XXX": {
+  "VRBUDE51": {
     "country": "Germany",
     "name": "vr bank Untertaunus eG",
     "address": "Wiesbadener Str 12-16",
@@ -20350,7 +20350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "VRDIDEFFXXX": {
+  "VRDIDEFF": {
     "country": "Germany",
     "name": "VR Diskontbank Gmbh",
     "address": "30-34, Ludwig-Erhard-Street",
@@ -20838,7 +20838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "OWHBDEFFXXX": {
+  "OWHBDEFF": {
     "country": "Germany",
     "name": "VTB Bank (Europe) SE",
     "address": "Ruesterstrasse 7-9",
@@ -20846,7 +20846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "DEPDDEMMXXX": {
+  "DEPDDEMM": {
     "country": "Germany",
     "name": "VZ Depotbank Deutschland AG",
     "address": "Maximiliansplatz 12",
@@ -20878,7 +20878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "WEGBDE77XXX": {
+  "WEGBDE77": {
     "country": "Germany",
     "name": "WEG Bank AG",
     "address": "Alte Landstrasse 27",
@@ -20894,7 +20894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "MACODEB1XXX": {
+  "MACODEB1": {
     "country": "Germany",
     "name": "Westend Bank AG",
     "address": "Platanenallee 11",
@@ -20910,7 +20910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "WIBADE5WXXX": {
+  "WIBADE5W": {
     "country": "Germany",
     "name": "Wiesbadener Volksbank eG",
     "address": "Schillerplatz 4",
@@ -20934,7 +20934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "WIREDEMMXXX": {
+  "WIREDEMM": {
     "country": "Germany",
     "name": "Wirecard Bank AG",
     "address": "Einsteinring 35",
@@ -20942,7 +20942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HVBKDEFFXXX": {
+  "HVBKDEFF": {
     "country": "Germany",
     "name": "Woori Bank Europe GmbH",
     "address": "Friedrich Ebert Anlage 49 - 29OG Messeturm",
@@ -20950,7 +20950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "WBAGDEA1XXX": {
+  "WBAGDEA1": {
     "country": "Germany",
     "name": "Wuestenrot Bank AG Pfandbriefbank",
     "address": "Hohenzollernstrasse 76",
@@ -20966,7 +20966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-27"
   },
-  "TCZBDEFFXXX": {
+  "TCZBDEFF": {
     "country": "Germany",
     "name": "Ziraat Bank International AG",
     "address": "AM Hauptbahnhof 16",
@@ -20982,7 +20982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "AEBAGRAAXXX": {
+  "AEBAGRAA": {
     "country": "Greece",
     "name": "Aegean Baltic Bank S.A.",
     "address": "91, Megalou Alexandrou and 25th Street",
@@ -20990,7 +20990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "CRBAGRAAXXX": {
+  "CRBAGRAA": {
     "country": "Greece",
     "name": "Alpha Bank AE",
     "address": "40 Stadiou Str",
@@ -20998,7 +20998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KEDRGRAAXXX": {
+  "KEDRGRAA": {
     "country": "Greece",
     "name": "B AND N Bank Greek Branch",
     "address": "130 Syngrou Avenue",
@@ -21006,7 +21006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "ATTIGRAAXXX": {
+  "ATTIGRAA": {
     "country": "Greece",
     "name": "Bank OF Attica S.A.",
     "address": "23, Omirou Street",
@@ -21014,7 +21014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BNGRGRAAXXX": {
+  "BNGRGRAA": {
     "country": "Greece",
     "name": "Bank OF Greece",
     "address": "21 E. Venizelos Avenue",
@@ -21022,7 +21022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-08",
     "instant_readiness": null
   },
-  "STDRGR21XXX": {
+  "STDRGR21": {
     "country": "Greece",
     "name": "CO-Operative Bank OF Drama",
     "address": "7 M. Alexandrou street",
@@ -21030,7 +21030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "STKAGRA1XXX": {
+  "STKAGRA1": {
     "country": "Greece",
     "name": "CO-Operative Bank OF Karditsa, L.L.C.",
     "address": "Kolokotroni & Taliadourou Street 43",
@@ -21038,7 +21038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-05-03",
     "instant_readiness": null
   },
-  "STXAGRA1XXX": {
+  "STXAGRA1": {
     "country": "Greece",
     "name": "Cooperative Bank OF Chania, CLL",
     "address": "Elevtheriou Venizelou 28-32",
@@ -21046,7 +21046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "STIOGR21XXX": {
+  "STIOGR21": {
     "country": "Greece",
     "name": "Cooperative Bank OF Epirus L.T.D.",
     "address": "Aberof 12",
@@ -21054,7 +21054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-05-03",
     "instant_readiness": null
   },
-  "STEOGR21XXX": {
+  "STEOGR21": {
     "country": "Greece",
     "name": "Cooperative Bank OF Evros",
     "address": "137, Dimokratias Avenue",
@@ -21062,7 +21062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-03",
     "instant_readiness": null
   },
-  "STPIGR21XXX": {
+  "STPIGR21": {
     "country": "Greece",
     "name": "Cooperative Bank OF Pieria - Olympic Credit LTD",
     "address": "5 Ethnikis Antistases STR",
@@ -21070,7 +21070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "COESGR21XXX": {
+  "COESGR21": {
     "country": "Greece",
     "name": "Cooperative Bank OF Serres",
     "address": "V.Vasileiou & N. Plastira",
@@ -21078,7 +21078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-05-03",
     "instant_readiness": null
   },
-  "STTKGR21XXX": {
+  "STTKGR21": {
     "country": "Greece",
     "name": "Cooperative Bank OF Thessaly",
     "address": "Miaouli 3",
@@ -21086,7 +21086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-03",
     "instant_readiness": null
   },
-  "ERBKGRAAXXX": {
+  "ERBKGRAA": {
     "country": "Greece",
     "name": "Eurobank Ergasias S.A.",
     "address": "8, Othonos Street",
@@ -21094,7 +21094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HEPOGR21XXX": {
+  "HEPOGR21": {
     "country": "Greece",
     "name": "Hellenic Post S.A.",
     "address": "1 Apellou Street",
@@ -21102,7 +21102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "IBOGGRAAXXX": {
+  "IBOGGRAA": {
     "country": "Greece",
     "name": "Investment Bank OF Greece S.A.",
     "address": "32 Aigialeias AND Paradissou",
@@ -21110,7 +21110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "ETHNGRAAXXX": {
+  "ETHNGRAA": {
     "country": "Greece",
     "name": "National Bank OF Greece S.A.",
     "address": "86, Aeolou Street",
@@ -21118,7 +21118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "STPGGRA1XXX": {
+  "STPGGRA1": {
     "country": "Greece",
     "name": "Pancretan Cooperative Bank LTD",
     "address": "Ikarou AVE. AND Efesou",
@@ -21126,7 +21126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-05",
     "instant_readiness": null
   },
-  "PIRBGRAAXXX": {
+  "PIRBGRAA": {
     "country": "Greece",
     "name": "Piraeus Bank SA",
     "address": "142, Sygrou AV",
@@ -21134,7 +21134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRXBGRAAXXX": {
+  "PRXBGRAA": {
     "country": "Greece",
     "name": "Praxia Bank S.A.",
     "address": "24B Kifissias Avenue",
@@ -21142,7 +21142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "TCZBGRATXXX": {
+  "TCZBGRAT": {
     "country": "Greece",
     "name": "T.C. Ziraat Bankasi Athens Central Branch",
     "address": "2 Ermou Street",
@@ -21150,7 +21150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "CDLFGRA1XXX": {
+  "CDLFGRA1": {
     "country": "Greece",
     "name": "Tameio Parakatathikon KAI Daneion (Consignments Deposits & Loans Fund)",
     "address": "40, Acadimias",
@@ -21158,7 +21158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "TWSAGRA1XXX": {
+  "TWSAGRA1": {
     "country": "Greece",
     "name": "Tora Wallet Societe Anonyme FOR Electronic Money Services",
     "address": "Athinon AVE. 108 AND Chrimatistiriou ST",
@@ -21166,7 +21166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "VPAYGRAAXXX": {
+  "VPAYGRAA": {
     "country": "Greece",
     "name": "Viva Payment Services S.A.",
     "address": "18-20 Amarousiou-Chalandriou street",
@@ -21174,7 +21174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-26",
     "instant_readiness": null
   },
-  "BKCHHUHBXXX": {
+  "BKCHHUHB": {
     "country": "Hungary",
     "name": "Bank OF China (Hungary) Close LTD",
     "address": "Jozsef Nador TER 7",
@@ -21182,7 +21182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-09-04",
     "instant_readiness": null
   },
-  "BKCHHUHHXXX": {
+  "BKCHHUHH": {
     "country": "Hungary",
     "name": "Bank OF China Limited Hungarian Branch",
     "address": "Jozsef Nador TER 7",
@@ -21190,7 +21190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-09-04",
     "instant_readiness": null
   },
-  "TAKBHUHBXXX": {
+  "TAKBHUHB": {
     "country": "Hungary",
     "name": "Bank of Hungarian Savings Cooperatives Co. Ltd. (Takarekbank Zrt.)",
     "address": "Pethenyi KOZ 10",
@@ -21198,7 +21198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BUDAHUHBXXX": {
+  "BUDAHUHB": {
     "country": "Hungary",
     "name": "Budapest Bank Private Co. Ltd.",
     "address": "193, Vaci UT.",
@@ -21206,7 +21206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CIBHHUHBXXX": {
+  "CIBHHUHB": {
     "country": "Hungary",
     "name": "CIB Bank Ltd.",
     "address": "Medve u. 4-14",
@@ -21214,7 +21214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "CITIHUHXXXX": {
+  "CITIHUHX": {
     "country": "Hungary",
     "name": "Citibank Budapest RT.",
     "address": "7, Szabadsag TER",
@@ -21222,7 +21222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "COBAHUHXXXX": {
+  "COBAHUHX": {
     "country": "Hungary",
     "name": "Commerzbank (Budapest) RT.",
     "address": "8, Szechenyi Rakpart",
@@ -21230,7 +21230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DTBAHUHBXXX": {
+  "DTBAHUHB": {
     "country": "Hungary",
     "name": "Duna Takarek Bank LTD",
     "address": "Arpad Street 93",
@@ -21238,7 +21238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "GIBAHUHBXXX": {
+  "GIBAHUHB": {
     "country": "Hungary",
     "name": "Erste Bank Hungary Nyrt",
     "address": "24-26, Nepfurdo U.",
@@ -21246,7 +21246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FHKBHUHBXXX": {
+  "FHKBHUHB": {
     "country": "Hungary",
     "name": "FHB Commercial Bank Ltd.",
     "address": "Ulloi ut 48",
@@ -21254,7 +21254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-03-31",
     "instant_readiness": null
   },
-  "GNBAHUHBXXX": {
+  "GNBAHUHB": {
     "country": "Hungary",
     "name": "Granit Bank ZRT.",
     "address": "Lechner \u00d6d\u00f6n fasor 8. sz.",
@@ -21262,7 +21262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HUSTHUHBXXX": {
+  "HUSTHUHB": {
     "country": "Hungary",
     "name": "Hungarian State Treasury",
     "address": "Hold. U. 4",
@@ -21270,7 +21270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "OKHBHUHBXXX": {
+  "OKHBHUHB": {
     "country": "Hungary",
     "name": "K & H Bank ZRT.",
     "address": "Lechner Odon Fasor 9",
@@ -21278,7 +21278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KODBHUHBXXX": {
+  "KODBHUHB": {
     "country": "Hungary",
     "name": "KDB Bank (Hungary) LTD.",
     "address": "42-46, Bajcsy-Zsilinszky UT",
@@ -21286,7 +21286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KELRHUHBXXX": {
+  "KELRHUHB": {
     "country": "Hungary",
     "name": "Keler Ltd.",
     "address": "Rakoczi Street 70-72",
@@ -21294,7 +21294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "HBWEHUHBXXX": {
+  "HBWEHUHB": {
     "country": "Hungary",
     "name": "Magnet Magyar Kozossegi Bank ZRT.",
     "address": "Andrassy UT 98",
@@ -21302,7 +21302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "HEXIHUHBXXX": {
+  "HEXIHUHB": {
     "country": "Hungary",
     "name": "Magyar Export Import Bank ZRT.",
     "address": "Nagymezo Utca 46-48",
@@ -21310,7 +21310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "MANEHUHBXXX": {
+  "MANEHUHB": {
     "country": "Hungary",
     "name": "Magyar Nemzeti Bank",
     "address": "Szabadsag TER 8-9",
@@ -21318,7 +21318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "HBIDHUHBXXX": {
+  "HBIDHUHB": {
     "country": "Hungary",
     "name": "MFB Hungarian Development Bank PLC",
     "address": "Nador Street 31",
@@ -21326,7 +21326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-09",
     "instant_readiness": null
   },
-  "MKKBHUHBXXX": {
+  "MKKBHUHB": {
     "country": "Hungary",
     "name": "MKB Bank Zrt.",
     "address": "Vaci utca 38",
@@ -21334,7 +21334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-02",
     "instant_readiness": null
   },
-  "KULBHUHBXXX": {
+  "KULBHUHB": {
     "country": "Hungary",
     "name": "NHB Growth Credit Bank PLC",
     "address": "Kelenhegyi UT 39",
@@ -21342,7 +21342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-03",
     "instant_readiness": null
   },
-  "OTPVHUHBXXX": {
+  "OTPVHUHB": {
     "country": "Hungary",
     "name": "OTP Bank PLC.",
     "address": "16, Nador Street",
@@ -21350,7 +21350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POLBHU22XXX": {
+  "POLBHU22": {
     "country": "Hungary",
     "name": "Polgari Bank LTD",
     "address": "Hosok Street 8",
@@ -21358,7 +21358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "UBRTHUHBXXX": {
+  "UBRTHUHB": {
     "country": "Hungary",
     "name": "Raiffeisen Bank Zrt.",
     "address": "Akademia u. 6",
@@ -21366,7 +21366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-06-01",
     "instant_readiness": null
   },
-  "MAVOHUHBXXX": {
+  "MAVOHUHB": {
     "country": "Hungary",
     "name": "Sberbank Magyarorszag Zrt",
     "address": "Rakoczi U. 1-3",
@@ -21374,7 +21374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-07",
     "instant_readiness": null
   },
-  "EHBBHUHSXXX": {
+  "EHBBHUHS": {
     "country": "Hungary",
     "name": "Sopron Bank Burgenland ZRT.",
     "address": "Kossuth L.U. 19",
@@ -21382,7 +21382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "BACXHUHBXXX": {
+  "BACXHUHB": {
     "country": "Hungary",
     "name": "Unicredit Bank Hungary ZRT.",
     "address": "5-6, Szabadsag TER",
@@ -21390,7 +21390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VIRPHUHBXXX": {
+  "VIRPHUHB": {
     "country": "Hungary",
     "name": "VirPAY Penzforgalmi Szolgaltato Kft",
     "address": "Szent Istvan kiraly ut 49",
@@ -21398,7 +21398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-04",
     "instant_readiness": null
   },
-  "ESJAISREXXX": {
+  "ESJAISRE": {
     "country": "Iceland",
     "name": "Arion Banki",
     "address": "Borgartun 19",
@@ -21406,7 +21406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-04-04",
     "instant_readiness": null
   },
-  "SISLISREXXX": {
+  "SISLISRE": {
     "country": "Iceland",
     "name": "Central Bank OF Iceland",
     "address": "Kalkofnsvegur 1",
@@ -21414,7 +21414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "GLITISREXXX": {
+  "GLITISRE": {
     "country": "Iceland",
     "name": "Islandsbanki HF",
     "address": "Hagasmari 3",
@@ -21422,7 +21422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-09",
     "instant_readiness": null
   },
-  "MPBAISREXXX": {
+  "MPBAISRE": {
     "country": "Iceland",
     "name": "Kvika",
     "address": "Borgartun 25",
@@ -21430,7 +21430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "NBIIISREXXX": {
+  "NBIIISRE": {
     "country": "Iceland",
     "name": "Landsbankinn",
     "address": "Austurstraeti 11",
@@ -21438,7 +21438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-12",
     "instant_readiness": null
   },
-  "ASRNIE21XXX": {
+  "ASRNIE21": {
     "country": "Ireland",
     "name": "A.S.T.I. Credit Union Limited",
     "address": "Wellington House 25 Wellington Quay",
@@ -21446,7 +21446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "ABRUIE21XXX": {
+  "ABRUIE21": {
     "country": "Ireland",
     "name": "Abbeyfeale Credit Union Limited",
     "address": "Bridge Street",
@@ -21454,7 +21454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "CSRUIE21XXX": {
+  "CSRUIE21": {
     "country": "Ireland",
     "name": "Affinity Credit Union LTD.",
     "address": "Main Street",
@@ -21462,7 +21462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "AIBKIE2DXXX": {
+  "AIBKIE2D": {
     "country": "Ireland",
     "name": "Allied Irish Banks plc",
     "address": "Bankcentre, Ballsbridge",
@@ -21470,7 +21470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "GOCIIE21XXX": {
+  "GOCIIE21": {
     "country": "Ireland",
     "name": "Altura Credit Union",
     "address": "Mcdermott Street",
@@ -21478,7 +21478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "PSTSIE21XXX": {
+  "PSTSIE21": {
     "country": "Ireland",
     "name": "AN Post",
     "address": "General Post Office O'Connell Street",
@@ -21486,7 +21486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "EMCNIE21XXX": {
+  "EMCNIE21": {
     "country": "Ireland",
     "name": "AN Post Employees' Credit Union Limited",
     "address": "Charlotte Quay, Ringsend Road NO 12-14 THE Anchorage",
@@ -21494,7 +21494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "ANUNIE21XXX": {
+  "ANUNIE21": {
     "country": "Ireland",
     "name": "Ansac Credit Union Limited",
     "address": "75 Amiens street",
@@ -21502,7 +21502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "ARCUIE21XXX": {
+  "ARCUIE21": {
     "country": "Ireland",
     "name": "Ardee Credit Union Limited",
     "address": "Market Street",
@@ -21510,7 +21510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "ARRUIE21XXX": {
+  "ARRUIE21": {
     "country": "Ireland",
     "name": "Arklow Credit Union Limited",
     "address": "Castlepark",
@@ -21518,7 +21518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-10-05",
     "instant_readiness": null
   },
-  "ATCUIE21XXX": {
+  "ATCUIE21": {
     "country": "Ireland",
     "name": "Athboy Credit Union Limited",
     "address": "Main Street",
@@ -21526,7 +21526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-06-08",
     "instant_readiness": null
   },
-  "ATRUIE21XXX": {
+  "ATRUIE21": {
     "country": "Ireland",
     "name": "Athenry Credit Union Limited",
     "address": "OLD Church Street",
@@ -21534,7 +21534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "ATROIE21XXX": {
+  "ATROIE21": {
     "country": "Ireland",
     "name": "Athlone Credit Union Limited",
     "address": "Credit Union House Northgate Street",
@@ -21542,7 +21542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "AYCUIE21XXX": {
+  "AYCUIE21": {
     "country": "Ireland",
     "name": "Ayrfield Credit Union Limited",
     "address": "Blunden Drive",
@@ -21550,7 +21550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "CRUNIE21XXX": {
+  "CRUNIE21": {
     "country": "Ireland",
     "name": "B AND S Credit Union Limited",
     "address": "Main Street",
@@ -21558,7 +21558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "BDCUIE21XXX": {
+  "BDCUIE21": {
     "country": "Ireland",
     "name": "Ballaghaderreen AND District Credit Union Limited",
     "address": "Main Street",
@@ -21566,7 +21566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "BLCIIE21XXX": {
+  "BLCIIE21": {
     "country": "Ireland",
     "name": "Ballina Credit Union Limited",
     "address": "O'Rahilly Street",
@@ -21574,7 +21574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "BLRUIE21XXX": {
+  "BLRUIE21": {
     "country": "Ireland",
     "name": "Ballinamore Credit Union Limited",
     "address": "Main street",
@@ -21582,7 +21582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "BCUOIE21XXX": {
+  "BCUOIE21": {
     "country": "Ireland",
     "name": "Ballinasloe Credit Union Our Lady of Lourdes Limited",
     "address": "Main Street Ballinasloe",
@@ -21590,7 +21590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-05-06",
     "instant_readiness": null
   },
-  "BLRNIE21XXX": {
+  "BLRNIE21": {
     "country": "Ireland",
     "name": "Ballincollig Credit Union Limited",
     "address": "Credit Union House Harrington Street",
@@ -21598,7 +21598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "BLENIE21XXX": {
+  "BLENIE21": {
     "country": "Ireland",
     "name": "Ballybay Credit Union Ltd",
     "address": "Main street",
@@ -21606,7 +21606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "BLTOIE21XXX": {
+  "BLTOIE21": {
     "country": "Ireland",
     "name": "Ballyconnell Credit Union Limited",
     "address": "Credit Union House",
@@ -21614,7 +21614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-04-03",
     "instant_readiness": null
   },
-  "BLTUIE21XXX": {
+  "BLTUIE21": {
     "country": "Ireland",
     "name": "Ballyfermot Inchicore Credit Union Limited",
     "address": "280 Ballyfermot Road Ballyfermot",
@@ -21622,7 +21622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "BLTNIE21XXX": {
+  "BLTNIE21": {
     "country": "Ireland",
     "name": "Ballygall Credit Union Limited",
     "address": "Glasanaon Road",
@@ -21630,7 +21630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-07-04",
     "instant_readiness": null
   },
-  "BDCLIE21XXX": {
+  "BDCLIE21": {
     "country": "Ireland",
     "name": "Ballymote AND District Credit Union Limited",
     "address": "THE Rock",
@@ -21638,7 +21638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-10-02",
     "instant_readiness": null
   },
-  "BLDIIE21XXX": {
+  "BLDIIE21": {
     "country": "Ireland",
     "name": "Ballyshannon and Killybegs Credit Union Limited",
     "address": "Bridge END",
@@ -21646,7 +21646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "BLDOIE21XXX": {
+  "BLDOIE21": {
     "country": "Ireland",
     "name": "Baltinglass Credit Union Limited",
     "address": "Weaver Square",
@@ -21654,7 +21654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "BNRUIE21XXX": {
+  "BNRUIE21": {
     "country": "Ireland",
     "name": "Bantry Credit Union Limited",
     "address": "Wolfe Tone Square",
@@ -21662,7 +21662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-06-08",
     "instant_readiness": null
   },
-  "BARCIE2DXXX": {
+  "BARCIE2D": {
     "country": "Ireland",
     "name": "Barclays Bank Ireland PLC",
     "address": "2, Park Place Hatch Street",
@@ -21670,7 +21670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BIRNIE21XXX": {
+  "BIRNIE21": {
     "country": "Ireland",
     "name": "Birr Credit Union Limited",
     "address": "O'Connell Street",
@@ -21678,7 +21678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "BIRIIE21XXX": {
+  "BIRIIE21": {
     "country": "Ireland",
     "name": "Bishopstown Credit Union Limited",
     "address": "Wilton Road",
@@ -21686,7 +21686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "BREOIE21XXX": {
+  "BREOIE21": {
     "country": "Ireland",
     "name": "Black Raven Credit Union Limited",
     "address": "County Hall, Belgard Square North",
@@ -21694,7 +21694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "BLIOIE21XXX": {
+  "BLIOIE21": {
     "country": "Ireland",
     "name": "Blackpool Credit Union Limited",
     "address": "5 Great William O'Brien Street Blackpool",
@@ -21702,7 +21702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "BDRNIE21XXX": {
+  "BDRNIE21": {
     "country": "Ireland",
     "name": "Blanchardstown AND District Credit Union Limited",
     "address": "9 Blanchardstown Business Centre Clonsilla Road",
@@ -21710,7 +21710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "BLIIIE21XXX": {
+  "BLIIIE21": {
     "country": "Ireland",
     "name": "Blarney Credit Union Limited",
     "address": "Saint Annes Road",
@@ -21718,7 +21718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-03",
     "instant_readiness": null
   },
-  "BDRIIE21XXX": {
+  "BDRIIE21": {
     "country": "Ireland",
     "name": "Blessington AND District Credit Union Limited",
     "address": "Credit Union House",
@@ -21726,7 +21726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "BORNIE21XXX": {
+  "BORNIE21": {
     "country": "Ireland",
     "name": "Boyle Credit Union Limited",
     "address": "Green Street",
@@ -21734,7 +21734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "BRRUIE21XXX": {
+  "BRRUIE21": {
     "country": "Ireland",
     "name": "Bray Credit Union Limited",
     "address": "Credit Union House Main Street",
@@ -21742,7 +21742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "BURUIE21XXX": {
+  "BURUIE21": {
     "country": "Ireland",
     "name": "Buncrana Credit Union Limited",
     "address": "Cockhill Road",
@@ -21750,7 +21750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "CBRNIE21XXX": {
+  "CBRNIE21": {
     "country": "Ireland",
     "name": "Cabra Credit Union Limited",
     "address": "93 Annamoe Terrace",
@@ -21758,7 +21758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "CHCUIE21XXX": {
+  "CHCUIE21": {
     "country": "Ireland",
     "name": "Cahir Credit Union Limited",
     "address": "Credit Union House Saint Mary'S Road",
@@ -21766,7 +21766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "CNRNIE21XXX": {
+  "CNRNIE21": {
     "country": "Ireland",
     "name": "Cana Credit Union Limited",
     "address": "Cana House 85/93 Lower Mount Street",
@@ -21774,7 +21774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "DURUIE21XXX": {
+  "DURUIE21": {
     "country": "Ireland",
     "name": "Capital Credit Union",
     "address": "Main Street",
@@ -21782,7 +21782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-04-08",
     "instant_readiness": null
   },
-  "TRRIIE21XXX": {
+  "TRRIIE21": {
     "country": "Ireland",
     "name": "Cara Credit Union Limited",
     "address": "45-47 Ashe Street",
@@ -21790,7 +21790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "CDEUIE21XXX": {
+  "CDEUIE21": {
     "country": "Ireland",
     "name": "Carlow District Credit Union Limited",
     "address": "Credit Union House",
@@ -21798,7 +21798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-08-03",
     "instant_readiness": null
   },
-  "CIEOIE21XXX": {
+  "CIEOIE21": {
     "country": "Ireland",
     "name": "Carrick ON Suir Credit Union Limited",
     "address": "Greystone Street CO Tipperary",
@@ -21806,7 +21806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "CDCIIE21XXX": {
+  "CDCIIE21": {
     "country": "Ireland",
     "name": "Carrick-ON-Shannon AND District Credit Union Limited",
     "address": "Summerhill CO Leitrim",
@@ -21814,7 +21814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "CIENIE21XXX": {
+  "CIENIE21": {
     "country": "Ireland",
     "name": "Carrickmacross Credit Union Limited",
     "address": "15 and 17 O Neill Street",
@@ -21822,7 +21822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CSRIIE21XXX": {
+  "CSRIIE21": {
     "country": "Ireland",
     "name": "Castleblayney Credit Union Limited",
     "address": "Main Street Credit Union House",
@@ -21830,7 +21830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "CSENIE21XXX": {
+  "CSENIE21": {
     "country": "Ireland",
     "name": "Castlecomer Credit Union Limited",
     "address": "86 Kilkenny Street",
@@ -21838,7 +21838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "CSEOIE21XXX": {
+  "CSEOIE21": {
     "country": "Ireland",
     "name": "Castlepollard Credit Union Limited",
     "address": "THE Square",
@@ -21846,7 +21846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-05",
     "instant_readiness": null
   },
-  "CDCEIE21XXX": {
+  "CDCEIE21": {
     "country": "Ireland",
     "name": "Castlerea AND District Credit Union Limited",
     "address": "Barrack Street",
@@ -21854,7 +21854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-09-07",
     "instant_readiness": null
   },
-  "CVCUIE21XXX": {
+  "CVCUIE21": {
     "country": "Ireland",
     "name": "Cavan Credit Union Limited",
     "address": "83 Main Street",
@@ -21862,7 +21862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-04",
     "instant_readiness": null
   },
-  "CITIIE2XXXX": {
+  "CITIIE2X": {
     "country": "Ireland",
     "name": "Citibank Europe PLC Ireland",
     "address": "1, North Wall Quay",
@@ -21870,7 +21870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CLIOIE21XXX": {
+  "CLIOIE21": {
     "country": "Ireland",
     "name": "Clanmaurice Credit Union Limited",
     "address": "Lacca Ballyduff",
@@ -21878,7 +21878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "CLROIE21XXX": {
+  "CLROIE21": {
     "country": "Ireland",
     "name": "Clones Credit Union Limited",
     "address": "THE Diamond",
@@ -21886,7 +21886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "CLEUIE21XXX": {
+  "CLEUIE21": {
     "country": "Ireland",
     "name": "Clonmel Credit Union Limited",
     "address": "Credit Union House Parnell Street",
@@ -21894,7 +21894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-04-08",
     "instant_readiness": null
   },
-  "CBRUIE21XXX": {
+  "CBRUIE21": {
     "country": "Ireland",
     "name": "Cobh Credit Union Limited",
     "address": "Harbour ROW",
@@ -21902,7 +21902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "CSCIIE21XXX": {
+  "CSCIIE21": {
     "country": "Ireland",
     "name": "Cois Sionna Credit Union Limited",
     "address": "Church Street",
@@ -21910,7 +21910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "CCHDIE21XXX": {
+  "CCHDIE21": {
     "country": "Ireland",
     "name": "Comhar Chreidmheasa Chorca Dhuibhne Teoranta",
     "address": "Main Street",
@@ -21918,7 +21918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "CCHCIE21XXX": {
+  "CCHCIE21": {
     "country": "Ireland",
     "name": "Comhar Creidmheasa Cholm Cille Teoranta",
     "address": "AN Cnoc",
@@ -21926,7 +21926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "CCGDIE21XXX": {
+  "CCGDIE21": {
     "country": "Ireland",
     "name": "Comhar Creidmheasa Ghaoth Dobhair Teoranta",
     "address": "NA Doiri Beaga",
@@ -21934,7 +21934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "CLIRIE21XXX": {
+  "CLIRIE21": {
     "country": "Ireland",
     "name": "Comhar Linn Into Credit Union Limited",
     "address": "33 Parnell Square",
@@ -21942,7 +21942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "PRCUIE21XXX": {
+  "PRCUIE21": {
     "country": "Ireland",
     "name": "Community Credit Union Limited",
     "address": "Villa Park Gardens Navan Road",
@@ -21950,7 +21950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-08-03",
     "instant_readiness": null
   },
-  "KICNIE21XXX": {
+  "KICNIE21": {
     "country": "Ireland",
     "name": "Connect Credit Union Ltd",
     "address": "Main Street, Kilsaran",
@@ -21958,7 +21958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "CSDUIE21XXX": {
+  "CSDUIE21": {
     "country": "Ireland",
     "name": "Connemara Credit Union Ltd.",
     "address": "Cashel",
@@ -21966,7 +21966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "CTCNIE21XXX": {
+  "CTCNIE21": {
     "country": "Ireland",
     "name": "Cootehill Credit Union Limited",
     "address": "22/24 Market Street",
@@ -21974,7 +21974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-06-08",
     "instant_readiness": null
   },
-  "SBDCIE21XXX": {
+  "SBDCIE21": {
     "country": "Ireland",
     "name": "Core Credit Union",
     "address": "Main Street",
@@ -21982,7 +21982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "MNCUIE21XXX": {
+  "MNCUIE21": {
     "country": "Ireland",
     "name": "Credit Union Plus Ltd",
     "address": "Credit Union Building Kennedy Road",
@@ -21990,7 +21990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "EDCNIE21XXX": {
+  "EDCNIE21": {
     "country": "Ireland",
     "name": "Croi Laighean Credit Union Ltd.",
     "address": "O'Connell Square",
@@ -21998,7 +21998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "CSDNIE21XXX": {
+  "CSDNIE21": {
     "country": "Ireland",
     "name": "Crosshaven-Carrigaline Credit Union Limited",
     "address": "Point Road",
@@ -22006,7 +22006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "CUCUIE21XXX": {
+  "CUCUIE21": {
     "country": "Ireland",
     "name": "Cuchullain Credit Union Limited",
     "address": "THE Ramparts",
@@ -22014,7 +22014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "DEEUIE21XXX": {
+  "DEEUIE21": {
     "country": "Ireland",
     "name": "Derg Credit Union Limited",
     "address": "Market Square",
@@ -22022,7 +22022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-08-08",
     "instant_readiness": null
   },
-  "DERNIE21XXX": {
+  "DERNIE21": {
     "country": "Ireland",
     "name": "Desmond Credit Union Limited",
     "address": "North Quay",
@@ -22030,7 +22030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "DTCUIE21XXX": {
+  "DTCUIE21": {
     "country": "Ireland",
     "name": "Donegal (Town) Credit Union Limited",
     "address": "Tirconaill Street",
@@ -22038,7 +22038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "DORUIE21XXX": {
+  "DORUIE21": {
     "country": "Ireland",
     "name": "Donore Credit Union Limited",
     "address": "22 Rutledge Terrace",
@@ -22046,7 +22046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "DCRUIE21XXX": {
+  "DCRUIE21": {
     "country": "Ireland",
     "name": "Douglas Credit Union Limited",
     "address": "Douglas West, Douglas",
@@ -22054,7 +22054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "DRCUIE21XXX": {
+  "DRCUIE21": {
     "country": "Ireland",
     "name": "Drogheda Credit Union Limited",
     "address": "Clarke House Laurence Street",
@@ -22062,7 +22062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "DRCIIE21XXX": {
+  "DRCIIE21": {
     "country": "Ireland",
     "name": "Drumshanbo Credit Union Limited",
     "address": "THE Square",
@@ -22070,7 +22070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "DUCUIE21XXX": {
+  "DUCUIE21": {
     "country": "Ireland",
     "name": "Dubco Credit Union Limited",
     "address": "Little Green Street",
@@ -22078,7 +22078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "DUCIIE21XXX": {
+  "DUCIIE21": {
     "country": "Ireland",
     "name": "Dundalk Credit Union Limited",
     "address": "Market Street",
@@ -22086,7 +22086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "DURNIE21XXX": {
+  "DURNIE21": {
     "country": "Ireland",
     "name": "Dungarvan Credit Union Limited",
     "address": "3-6 Parnell Street",
@@ -22094,7 +22094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "ECCUIE21XXX": {
+  "ECCUIE21": {
     "country": "Ireland",
     "name": "E-Services AND Communications Credit Union Limited",
     "address": "55 Dawson Street",
@@ -22110,7 +22110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-12-05",
     "instant_readiness": null
   },
-  "USBKIE2DXXX": {
+  "USBKIE2D": {
     "country": "Ireland",
     "name": "Elavon Financial Services DAC",
     "address": "2ND Floor, Block E, Cherrywood Science AND Technology Park Loughlinstown",
@@ -22118,7 +22118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "EDCIIE21XXX": {
+  "EDCIIE21": {
     "country": "Ireland",
     "name": "Emyvale District Credit Union Limited",
     "address": "Main Street",
@@ -22126,7 +22126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "ENCUIE21XXX": {
+  "ENCUIE21": {
     "country": "Ireland",
     "name": "Enfield Credit Union Limited",
     "address": "Main Street",
@@ -22134,7 +22134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "ENCNIE21XXX": {
+  "ENCNIE21": {
     "country": "Ireland",
     "name": "Enniscorthy Credit Union Limited",
     "address": "Abbey Square",
@@ -22142,7 +22142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-09-07",
     "instant_readiness": null
   },
-  "FIRUIE21XXX": {
+  "FIRUIE21": {
     "country": "Ireland",
     "name": "Finglas Credit Union Limited",
     "address": "Seamus Ennis Road",
@@ -22150,7 +22150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "CPAYIE2DXXX": {
+  "CPAYIE2D": {
     "country": "Ireland",
     "name": "Fire Financial Services Limited",
     "address": "The Observatory, 7-11 Sir John Rogersons Quay",
@@ -22158,7 +22158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-01",
     "instant_readiness": null
   },
-  "FITUIE21XXX": {
+  "FITUIE21": {
     "country": "Ireland",
     "name": "Firhouse Credit Union Limited",
     "address": "Ballycullen Avenue",
@@ -22166,7 +22166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "CSRNIE21XXX": {
+  "CSRNIE21": {
     "country": "Ireland",
     "name": "First Choice Credit Union Limited",
     "address": "Market Square Credit Union Office",
@@ -22174,7 +22174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-05-06",
     "instant_readiness": null
   },
-  "BCDUIE21XXX": {
+  "BCDUIE21": {
     "country": "Ireland",
     "name": "First South Credit Union",
     "address": "Lower Friars Walk",
@@ -22182,7 +22182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "GDCNIE21XXX": {
+  "GDCNIE21": {
     "country": "Ireland",
     "name": "Glanmire AND District Credit Union Limited",
     "address": "Crestfield Centre",
@@ -22190,7 +22190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "GLCUIE21XXX": {
+  "GLCUIE21": {
     "country": "Ireland",
     "name": "Glenamaddy Credit Union Limited",
     "address": "Church Street",
@@ -22198,7 +22198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "GOCNIE21XXX": {
+  "GOCNIE21": {
     "country": "Ireland",
     "name": "Goresbridge Credit Union Limited",
     "address": "High Street",
@@ -22206,7 +22206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "GORUIE21XXX": {
+  "GORUIE21": {
     "country": "Ireland",
     "name": "Gort Credit Union Limited",
     "address": "Bridge Street",
@@ -22214,7 +22214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "GRRUIE21XXX": {
+  "GRRUIE21": {
     "country": "Ireland",
     "name": "Granard Credit Union Limited",
     "address": "Barrack Street",
@@ -22222,7 +22222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "GDCUIE21XXX": {
+  "GDCUIE21": {
     "country": "Ireland",
     "name": "Greenhills AND District Credit Union Limited",
     "address": "Saint Peter'S Road Greenhills",
@@ -22230,7 +22230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "GDCIIE21XXX": {
+  "GDCIIE21": {
     "country": "Ireland",
     "name": "Greystones & District Credit Union Limited",
     "address": "Church Road",
@@ -22238,7 +22238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-06",
     "instant_readiness": null
   },
-  "GUCUIE21XXX": {
+  "GUCUIE21": {
     "country": "Ireland",
     "name": "Gurranabraher Credit Union Limited",
     "address": "Bakers Road",
@@ -22246,7 +22246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "HSCNIE21XXX": {
+  "HSCNIE21": {
     "country": "Ireland",
     "name": "Halston Street Credit Union Limited",
     "address": "145 Capel Street",
@@ -22254,7 +22254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "HSSRIE21XXX": {
+  "HSSRIE21": {
     "country": "Ireland",
     "name": "Health Services Staffs Credit Union Limited",
     "address": "5 High Street Christchurch",
@@ -22262,7 +22262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "RDCUIE21XXX": {
+  "RDCUIE21": {
     "country": "Ireland",
     "name": "Heritage Credit Union",
     "address": "Main Street",
@@ -22270,7 +22270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BCITIE2DXXX": {
+  "BCITIE2D": {
     "country": "Ireland",
     "name": "Intesa Sanpaolo Bank Ireland PLC",
     "address": "KBC House 4 George'S Dock, Ifsc",
@@ -22278,7 +22278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "IPBSIE2DXXX": {
+  "IPBSIE2D": {
     "country": "Ireland",
     "name": "Irish Life and Permanent plc",
     "address": "56-59 St Stephens Green",
@@ -22286,7 +22286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CHASIE2XXXX": {
+  "CHASIE2X": {
     "country": "Ireland",
     "name": "J.P. Morgan Bank (Ireland) PLC",
     "address": "Jpmorgan House, 1 Georges Dock, Ifsc",
@@ -22294,7 +22294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KCRUIE21XXX": {
+  "KCRUIE21": {
     "country": "Ireland",
     "name": "Kanturk Credit Union Limited",
     "address": "Strand Street",
@@ -22302,7 +22302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "ICONIE2DXXX": {
+  "ICONIE2D": {
     "country": "Ireland",
     "name": "KBC Bank Ireland plc",
     "address": "Sandwith Street",
@@ -22310,7 +22310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-04-08",
     "instant_readiness": null
   },
-  "KPDCIE21XXX": {
+  "KPDCIE21": {
     "country": "Ireland",
     "name": "Kilcloon Parish AND District Credit Union Limited",
     "address": "THE Square",
@@ -22318,7 +22318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-04-04",
     "instant_readiness": null
   },
-  "KIRIIE21XXX": {
+  "KIRIIE21": {
     "country": "Ireland",
     "name": "Kildare Credit Union Limited",
     "address": "REA House Bride Street",
@@ -22326,7 +22326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "KIROIE21XXX": {
+  "KIROIE21": {
     "country": "Ireland",
     "name": "Killarney Credit Union Limited",
     "address": "Beech Road",
@@ -22334,7 +22334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-07-06",
     "instant_readiness": null
   },
-  "KIEUIE21XXX": {
+  "KIEUIE21": {
     "country": "Ireland",
     "name": "Kilmallock Credit Union Limited",
     "address": "Sarsfield Street",
@@ -22342,7 +22342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "KICIIE21XXX": {
+  "KICIIE21": {
     "country": "Ireland",
     "name": "Kilnamanagh Credit Union Limited",
     "address": "Treepark Road Kilnamanagh",
@@ -22350,7 +22350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "KIENIE21XXX": {
+  "KIENIE21": {
     "country": "Ireland",
     "name": "Kilrush Credit Union Limited",
     "address": "Credit Union House Market Square",
@@ -22358,7 +22358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "KDCUIE21XXX": {
+  "KDCUIE21": {
     "country": "Ireland",
     "name": "Kiltimagh District Credit Union Limited",
     "address": "Main Street",
@@ -22366,7 +22366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "LBCUIE21XXX": {
+  "LBCUIE21": {
     "country": "Ireland",
     "name": "Lanesboro Ballyleague Credit Union Ltd.",
     "address": "Ballyleague",
@@ -22374,7 +22374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "LDCUIE21XXX": {
+  "LDCUIE21": {
     "country": "Ireland",
     "name": "Larkhill AND District Credit Union Limited",
     "address": "234 Swords Road Whitehall",
@@ -22382,7 +22382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "LECIIE21XXX": {
+  "LECIIE21": {
     "country": "Ireland",
     "name": "Leighlin Credit Union Limited",
     "address": "Main Street",
@@ -22390,7 +22390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-07-06",
     "instant_readiness": null
   },
-  "LDCNIE21XXX": {
+  "LDCNIE21": {
     "country": "Ireland",
     "name": "Leixlip AND District Credit Union Limited",
     "address": "44 Main Street",
@@ -22398,7 +22398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-09-07",
     "instant_readiness": null
   },
-  "LECOIE21XXX": {
+  "LECOIE21": {
     "country": "Ireland",
     "name": "Letterkenny Credit Union Limited",
     "address": "High Road",
@@ -22406,7 +22406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "NACUIE21XXX": {
+  "NACUIE21": {
     "country": "Ireland",
     "name": "Life Credit Union Limited",
     "address": "20 North Main Street",
@@ -22414,7 +22414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "LICUIE21XXX": {
+  "LICUIE21": {
     "country": "Ireland",
     "name": "Lifford Credit Union Limited",
     "address": "Bridge Street",
@@ -22422,7 +22422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "CDEIIE21XXX": {
+  "CDEIIE21": {
     "country": "Ireland",
     "name": "Limerick & District Credit Union",
     "address": "Credit Union House",
@@ -22430,7 +22430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-08-03",
     "instant_readiness": null
   },
-  "BIRUIE21XXX": {
+  "BIRUIE21": {
     "country": "Ireland",
     "name": "Link Credit Union",
     "address": "Main Street",
@@ -22438,7 +22438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "LDCOIE21XXX": {
+  "LDCOIE21": {
     "country": "Ireland",
     "name": "Lisduggan District Credit Union Limited",
     "address": "Church Road",
@@ -22446,7 +22446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "LICIIE21XXX": {
+  "LICIIE21": {
     "country": "Ireland",
     "name": "Listowel Credit Union Limited",
     "address": "Church Street",
@@ -22454,7 +22454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "LORNIE21XXX": {
+  "LORNIE21": {
     "country": "Ireland",
     "name": "Longford Credit Union Limited",
     "address": "50 Main Street",
@@ -22462,7 +22462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-10-05",
     "instant_readiness": null
   },
-  "LDCIIE21XXX": {
+  "LDCIIE21": {
     "country": "Ireland",
     "name": "Lucan District Credit Union Limited",
     "address": "3 THE Mall, Main Street",
@@ -22470,7 +22470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "MADOIE21XXX": {
+  "MADOIE21": {
     "country": "Ireland",
     "name": "Macroom Credit Union Limited",
     "address": "Railway View",
@@ -22478,7 +22478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "MDCIIE21XXX": {
+  "MDCIIE21": {
     "country": "Ireland",
     "name": "Malahide AND District Credit Union Limited",
     "address": "4 Main Street",
@@ -22486,7 +22486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "MATNIE21XXX": {
+  "MATNIE21": {
     "country": "Ireland",
     "name": "Mallow Credit Union Limited",
     "address": "135 Bank Place",
@@ -22494,7 +22494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "MDCOIE21XXX": {
+  "MDCOIE21": {
     "country": "Ireland",
     "name": "Manorhamilton AND District Credit Union Limited",
     "address": "Main Street",
@@ -22502,7 +22502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "MADNIE21XXX": {
+  "MADNIE21": {
     "country": "Ireland",
     "name": "Marino Credit Union Limited",
     "address": "1D Griffith Avenue",
@@ -22510,7 +22510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "CLDIIE21XXX": {
+  "CLDIIE21": {
     "country": "Ireland",
     "name": "Member First Credit Union LTD",
     "address": "Artane Roundabout Malahide Road",
@@ -22518,7 +22518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "MIRNIE21XXX": {
+  "MIRNIE21": {
     "country": "Ireland",
     "name": "Midleton Credit Union Limited",
     "address": "23/24 Main Street",
@@ -22526,7 +22526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "MIEUIE21XXX": {
+  "MIEUIE21": {
     "country": "Ireland",
     "name": "Mitchelstown Credit Union Limited",
     "address": "36-38 Lower Cork Street",
@@ -22534,7 +22534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "MODIIE21XXX": {
+  "MODIIE21": {
     "country": "Ireland",
     "name": "Monaghan Credit Union Limited",
     "address": "Castle Meadow Court",
@@ -22542,7 +22542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "MOEIIE21XXX": {
+  "MOEIIE21": {
     "country": "Ireland",
     "name": "Monasterevan Credit Union Limited",
     "address": "Whelan Street",
@@ -22550,7 +22550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-09-04",
     "instant_readiness": null
   },
-  "MOEOIE21XXX": {
+  "MOEOIE21": {
     "country": "Ireland",
     "name": "Mountmellick Credit Union Limited",
     "address": "Sarsfield Street",
@@ -22558,7 +22558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "MSCNIE21XXX": {
+  "MSCNIE21": {
     "country": "Ireland",
     "name": "Muintir Skibbereen Credit Union Limited",
     "address": "Main Street 13",
@@ -22566,7 +22566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "MURNIE21XXX": {
+  "MURNIE21": {
     "country": "Ireland",
     "name": "Mulcair Credit Union Limited",
     "address": "Cork Road",
@@ -22574,7 +22574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-06-06",
     "instant_readiness": null
   },
-  "MURUIE21XXX": {
+  "MURUIE21": {
     "country": "Ireland",
     "name": "Mullingar Credit Union Limited",
     "address": "Saint Colman'S House Oliver Plunkett Street",
@@ -22582,7 +22582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "NBCUIE21XXX": {
+  "NBCUIE21": {
     "country": "Ireland",
     "name": "Naomh Breandain Credit Union Limited",
     "address": "Credit Union Building Dunkellin Street",
@@ -22590,7 +22590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "NERIIE21XXX": {
+  "NERIIE21": {
     "country": "Ireland",
     "name": "Nenagh Credit Union Limited",
     "address": "Kickham Street, Co.Tipperary",
@@ -22598,7 +22598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "NRCUIE21XXX": {
+  "NRCUIE21": {
     "country": "Ireland",
     "name": "NEW Ross Credit Union Limited",
     "address": "26 South Street",
@@ -22606,7 +22606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "NEEUIE21XXX": {
+  "NEEUIE21": {
     "country": "Ireland",
     "name": "Newmarket Credit Union Limited",
     "address": "Church Street",
@@ -22614,7 +22614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-07-09",
     "instant_readiness": null
   },
-  "NLACIE21XXX": {
+  "NLACIE21": {
     "country": "Ireland",
     "name": "North Longford AND Arva Credit Union",
     "address": "Main Street, Arva, Co. Cavan",
@@ -22622,7 +22622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "OLCUIE21XXX": {
+  "OLCUIE21": {
     "country": "Ireland",
     "name": "Oldcastle Credit Union Limited",
     "address": "Millbrook Road",
@@ -22630,7 +22630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "PAEUIE21XXX": {
+  "PAEUIE21": {
     "country": "Ireland",
     "name": "Palmerstown Credit Union Limited",
     "address": "48 Manor Road Palmerstown",
@@ -22638,7 +22638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-05",
     "instant_readiness": null
   },
-  "POCOIE21XXX": {
+  "POCOIE21": {
     "country": "Ireland",
     "name": "People First Credit Union LTD.",
     "address": "James Finton Lawlor Avenue",
@@ -22646,7 +22646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "PDCUIE21XXX": {
+  "PDCUIE21": {
     "country": "Ireland",
     "name": "Phibsboro AND District Credit Union Limited",
     "address": "390-392 North Circular Road Phibsboro",
@@ -22654,7 +22654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "POCUIE21XXX": {
+  "POCUIE21": {
     "country": "Ireland",
     "name": "Portarlington Credit Union Limited",
     "address": "Upper Main Street",
@@ -22662,7 +22662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "PRNSFRP1XXX": {
+  "PRNSFRP1": {
     "country": "Ireland",
     "name": "Prepaid Financial Services Limited",
     "address": "IDA Business and Technology Park, Johnstown",
@@ -22670,7 +22670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-06-08",
     "instant_readiness": null
   },
-  "BLCUIE21XXX": {
+  "BLCUIE21": {
     "country": "Ireland",
     "name": "Progressive Credit Union Limited",
     "address": "43-45 Dublin Street",
@@ -22678,7 +22678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "CSDOIE21XXX": {
+  "CSDOIE21": {
     "country": "Ireland",
     "name": "Public Service Credit Union",
     "address": "Saint Stephen'S Green House Floor 1 Earlsfort Terrace",
@@ -22686,7 +22686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "RDCLIE21XXX": {
+  "RDCLIE21": {
     "country": "Ireland",
     "name": "Rathkeale AND District Credit Union Limited",
     "address": "Main Street",
@@ -22694,7 +22694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "RDRNIE21XXX": {
+  "RDRNIE21": {
     "country": "Ireland",
     "name": "Rathmore AND District Credit Union Limited",
     "address": "Donal Casey Place",
@@ -22702,7 +22702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "RORUIE21XXX": {
+  "RORUIE21": {
     "country": "Ireland",
     "name": "Roscommon Credit Union Limited",
     "address": "Abbey Street",
@@ -22710,7 +22710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "RORNIE21XXX": {
+  "RORNIE21": {
     "country": "Ireland",
     "name": "Roscrea Credit Union Limited",
     "address": "Main Street",
@@ -22718,7 +22718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-07-04",
     "instant_readiness": null
   },
-  "ROCIIE21XXX": {
+  "ROCIIE21": {
     "country": "Ireland",
     "name": "Rowlagh Credit Union Limited",
     "address": "Collinstown Road, Clondalkin",
@@ -22726,7 +22726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "RTCUIE21XXX": {
+  "RTCUIE21": {
     "country": "Ireland",
     "name": "RTE Credit Union Limited",
     "address": "Donnybrook",
@@ -22734,7 +22734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "SRGCIE21XXX": {
+  "SRGCIE21": {
     "country": "Ireland",
     "name": "Saint Raphael'S Garda Credit Union Limited",
     "address": "Saint Raphael'S House 1-2 FOX AND Geese, Naas Road",
@@ -22742,7 +22742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "SADNIE21XXX": {
+  "SADNIE21": {
     "country": "Ireland",
     "name": "Sarsfield Credit Union Limited",
     "address": "Glentworth Street",
@@ -22750,7 +22750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-03-06",
     "instant_readiness": null
   },
-  "PCUEIE21XXX": {
+  "PCUEIE21": {
     "country": "Ireland",
     "name": "Savvi Credit Union Limited",
     "address": "27/28 Herbert Place",
@@ -22758,7 +22758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "SHCUIE21XXX": {
+  "SHCUIE21": {
     "country": "Ireland",
     "name": "Sheephaven Credit Union Limited",
     "address": "Main Street Carrigart",
@@ -22766,7 +22766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "SHRIIE21XXX": {
+  "SHRIIE21": {
     "country": "Ireland",
     "name": "Shercock Credit Union Limited",
     "address": "Main Street",
@@ -22774,7 +22774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "SLCNIE21XXX": {
+  "SLCNIE21": {
     "country": "Ireland",
     "name": "Slane Credit Union Limited",
     "address": "Main Street",
@@ -22782,7 +22782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "SLRUIE21XXX": {
+  "SLRUIE21": {
     "country": "Ireland",
     "name": "Sligo Credit Union Limited",
     "address": "Hyde House Stephen Street",
@@ -22790,7 +22790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "STEIIE21XXX": {
+  "STEIIE21": {
     "country": "Ireland",
     "name": "South Dublin Credit Union Limited",
     "address": "63-65 Lower Kilmacud Road",
@@ -22798,7 +22798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-10-05",
     "instant_readiness": null
   },
-  "BREIIE21XXX": {
+  "BREIIE21": {
     "country": "Ireland",
     "name": "St Brigids Credit Union Limited",
     "address": "Church Street",
@@ -22806,7 +22806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "JACIIE21XXX": {
+  "JACIIE21": {
     "country": "Ireland",
     "name": "ST Jarlaths Credit Union Limited",
     "address": "Hermitage Dublin Road",
@@ -22814,7 +22814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "JACNIE21XXX": {
+  "JACNIE21": {
     "country": "Ireland",
     "name": "ST Joseph'S Irish Airports AND Aviation Credit Union",
     "address": "Cloghran House Corballis WAY Dublin Airport",
@@ -22822,7 +22822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "AGCUIE21XXX": {
+  "AGCUIE21": {
     "country": "Ireland",
     "name": "ST. Agnes Credit Union Limited",
     "address": "Saint Agnes Road, Crumlin",
@@ -22830,7 +22830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-07-04",
     "instant_readiness": null
   },
-  "AICUIE21XXX": {
+  "AICUIE21": {
     "country": "Ireland",
     "name": "ST. Ailbes Credit Union Limited",
     "address": "High Street",
@@ -22838,7 +22838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "ACRUIE21XXX": {
+  "ACRUIE21": {
     "country": "Ireland",
     "name": "ST. Anthony'S AND Claddagh Credit Union Limited",
     "address": "8-9 Mainguard Street",
@@ -22846,7 +22846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "CKCNIE21XXX": {
+  "CKCNIE21": {
     "country": "Ireland",
     "name": "ST. Canice'S Kilkenny Credit Union Limited",
     "address": "78 High Street",
@@ -22854,7 +22854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "CCRNIE21XXX": {
+  "CCRNIE21": {
     "country": "Ireland",
     "name": "ST. Colman'S (Claremorris) Credit Union Limited",
     "address": "THE Square",
@@ -22862,7 +22862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "CKCUIE21XXX": {
+  "CKCUIE21": {
     "country": "Ireland",
     "name": "ST. Colmcille'S (Kells) Credit Union Limited",
     "address": "Headfort Place",
@@ -22870,7 +22870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "CLDOIE21XXX": {
+  "CLDOIE21": {
     "country": "Ireland",
     "name": "ST. Columba'S Credit Union Limited",
     "address": "Walter Macken Road, Mervue",
@@ -22878,7 +22878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "DACNIE21XXX": {
+  "DACNIE21": {
     "country": "Ireland",
     "name": "ST. Declan'S Ashbourne Credit Union Limited",
     "address": "Killegland",
@@ -22886,7 +22886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "DOROIE21XXX": {
+  "DOROIE21": {
     "country": "Ireland",
     "name": "ST. Dominic Credit Union Limited",
     "address": "Credit Union House, Summerhill",
@@ -22894,7 +22894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "FRCUIE21XXX": {
+  "FRCUIE21": {
     "country": "Ireland",
     "name": "ST. Francis' Credit Union Limited",
     "address": "Friars Walk, Clonroadbeg",
@@ -22902,7 +22902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "MICIIE21XXX": {
+  "MICIIE21": {
     "country": "Ireland",
     "name": "ST. Michael'S Credit Union Limited",
     "address": "Skehard Road",
@@ -22910,7 +22910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "PGCUIE21XXX": {
+  "PGCUIE21": {
     "country": "Ireland",
     "name": "ST. Paul'S Garda Credit Union Limited",
     "address": "Floraville, Boreenmanna Road",
@@ -22918,7 +22918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "SWCUIE21XXX": {
+  "SWCUIE21": {
     "country": "Ireland",
     "name": "Swilly-Mulroy Credit Union Limited",
     "address": "Bridgetown Kerrykeel",
@@ -22926,7 +22926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "FECNIE21XXX": {
+  "FECNIE21": {
     "country": "Ireland",
     "name": "Synergy Credit Union",
     "address": "27-29 Patrick Street",
@@ -22934,7 +22934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "TDCOIE21XXX": {
+  "TDCOIE21": {
     "country": "Ireland",
     "name": "Tallaght AND District Credit Union Limited",
     "address": "516 Main Street",
@@ -22942,7 +22942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "TWCUIE21XXX": {
+  "TWCUIE21": {
     "country": "Ireland",
     "name": "Tallaght West Credit Union Limited",
     "address": "Fortunestown Shopping Centre Tallaght",
@@ -22950,7 +22950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "TUIRIE21XXX": {
+  "TUIRIE21": {
     "country": "Ireland",
     "name": "Teachers' Union OF Ireland Credit Union Limited",
     "address": "Number 8, The Exchange, Calmount Park, Ballymount",
@@ -22958,7 +22958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "TERIIE21XXX": {
+  "TERIIE21": {
     "country": "Ireland",
     "name": "Templemore Credit Union Limited",
     "address": "Main Street",
@@ -22966,7 +22966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "BOFIIE2DXXX": {
+  "BOFIIE2D": {
     "country": "Ireland",
     "name": "THE Governor AND Company OF THE Bank OF Ireland",
     "address": "40 Mespil Road",
@@ -22974,7 +22974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LOCIIE21XXX": {
+  "LOCIIE21": {
     "country": "Ireland",
     "name": "THE Lough Credit Union Limited",
     "address": "100-103 Bandon Road",
@@ -22982,7 +22982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "ROCUIE21XXX": {
+  "ROCUIE21": {
     "country": "Ireland",
     "name": "THE Rosses Credit Union Limited",
     "address": "Main Street, Dungloe, CO. Donegal",
@@ -22990,7 +22990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "THCNIE21XXX": {
+  "THCNIE21": {
     "country": "Ireland",
     "name": "Thomastown Credit Union Limited",
     "address": "Market Street",
@@ -22998,7 +22998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "THCUIE21XXX": {
+  "THCUIE21": {
     "country": "Ireland",
     "name": "Thurles Credit Union Limited",
     "address": "Credit Union House Parnell Street",
@@ -23006,7 +23006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "TICUIE21XXX": {
+  "TICUIE21": {
     "country": "Ireland",
     "name": "Tipperary Credit Union Limited",
     "address": "Credit Union House Emmet Street",
@@ -23014,7 +23014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "CLRIIE21XXX": {
+  "CLRIIE21": {
     "country": "Ireland",
     "name": "Tower Credit Union",
     "address": "22 Main Street",
@@ -23022,7 +23022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-08-08",
     "instant_readiness": null
   },
-  "TRRUIE21XXX": {
+  "TRRUIE21": {
     "country": "Ireland",
     "name": "Trinity Credit Union Limited",
     "address": "Newbrook Road Donaghmede",
@@ -23030,7 +23030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-08-07",
     "instant_readiness": null
   },
-  "TDCNIE21XXX": {
+  "TDCNIE21": {
     "country": "Ireland",
     "name": "Tubbercurry AND District Credit Union Limited",
     "address": "THE Square",
@@ -23038,7 +23038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-03-07",
     "instant_readiness": null
   },
-  "TURUIE21XXX": {
+  "TURUIE21": {
     "country": "Ireland",
     "name": "Tullamore Credit Union Limited",
     "address": "Credit Union House Patrick Street",
@@ -23046,7 +23046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "TUCNIE21XXX": {
+  "TUCNIE21": {
     "country": "Ireland",
     "name": "Tullow Credit Union Limited",
     "address": "Bridge Street",
@@ -23054,7 +23054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "ULSBIE2DXXX": {
+  "ULSBIE2D": {
     "country": "Ireland",
     "name": "Ulster Bank Ireland DAC",
     "address": "Ulster Bank Group Centre, George's Quay",
@@ -23062,7 +23062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MPCUIE21XXX": {
+  "MPCUIE21": {
     "country": "Ireland",
     "name": "Unity Credit Union LTD",
     "address": "47 Athlunkard Street",
@@ -23070,7 +23070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "WACIIE21XXX": {
+  "WACIIE21": {
     "country": "Ireland",
     "name": "Waterford Credit Union Limited",
     "address": "1 Parnell Street",
@@ -23078,7 +23078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "WECIIE21XXX": {
+  "WECIIE21": {
     "country": "Ireland",
     "name": "Westport Credit Union Limited",
     "address": "Bridge Street",
@@ -23086,7 +23086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "WECUIE21XXX": {
+  "WECUIE21": {
     "country": "Ireland",
     "name": "Wexford Credit Union Limited",
     "address": "Anne Street",
@@ -23094,7 +23094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "YOCUIE21XXX": {
+  "YOCUIE21": {
     "country": "Ireland",
     "name": "Youghal Credit Union Limited",
     "address": "Grattan Street",
@@ -23102,7 +23102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "ATPIITM1XXX": {
+  "ATPIITM1": {
     "country": "Italy",
     "name": "A-Tono Payment Institute",
     "address": "Corso Buenos Aires, 77",
@@ -23110,7 +23110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-08-08",
     "instant_readiness": null
   },
-  "NIPSITR1XXX": {
+  "NIPSITR1": {
     "country": "Italy",
     "name": "Admiral Pay IP S.r.l.",
     "address": "Via Amsterdam, 125",
@@ -23118,7 +23118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "ALETITMMXXX": {
+  "ALETITMM": {
     "country": "Italy",
     "name": "Aletti e C. Banca di Investimento Mobiliare S.p.A.",
     "address": "Via Roncaglia 12",
@@ -23126,7 +23126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKRAITMMXXX": {
+  "BKRAITMM": {
     "country": "Italy",
     "name": "Allianz Bank Financial Advisors S.P.A.",
     "address": "Piazzale Lodi 3",
@@ -23134,7 +23134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ALPEIT21XXX": {
+  "ALPEIT21": {
     "country": "Italy",
     "name": "Alpen Bank Ag",
     "address": "Piazza del Grano 2",
@@ -23142,7 +23142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ALOAIT21XXX": {
+  "ALOAIT21": {
     "country": "Italy",
     "name": "Alto Adige Banca SPA",
     "address": "VIA DR. Streiter 31",
@@ -23150,7 +23150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-12",
     "instant_readiness": null
   },
-  "ARTCITR1XXX": {
+  "ARTCITR1": {
     "country": "Italy",
     "name": "Artigiancassa SPA",
     "address": "Via Crescenzo del Monte 25",
@@ -23174,7 +23174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SVIUITRRXXX": {
+  "SVIUITRR": {
     "country": "Italy",
     "name": "Banca  Sviluppo S.p.A.",
     "address": "Viale Oceano Indiano 13/c",
@@ -23182,7 +23182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ITBBITMMXXX": {
+  "ITBBITMM": {
     "country": "Italy",
     "name": "Banca 5 SPA",
     "address": "via Giovanni Bensi 11",
@@ -23198,7 +23198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POPRIT3RXXX": {
+  "POPRIT3R": {
     "country": "Italy",
     "name": "Banca Agricola Popolare di Ragusa",
     "address": "Viale Europa 65",
@@ -23206,7 +23206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AKROITMMXXX": {
+  "AKROITMM": {
     "country": "Italy",
     "name": "Banca Akros SPA",
     "address": "Viale Eginardo 29",
@@ -23214,7 +23214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "ALSSITM2XXX": {
+  "ALSSITM2": {
     "country": "Italy",
     "name": "Banca Albertini",
     "address": "VIA Borgonuovo, 14",
@@ -23246,7 +23246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRACIT33XXX": {
+  "CRACIT33": {
     "country": "Italy",
     "name": "Banca Cambiano 1884 SPA",
     "address": "Viale Antonio Gramsci, 34",
@@ -23254,7 +23254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CAOTIT31XXX": {
+  "CAOTIT31": {
     "country": "Italy",
     "name": "Banca Capasso Antonio S.p.A.",
     "address": "Piazza Termini, 1",
@@ -23262,7 +23262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRGEITGGXXX": {
+  "CRGEITGG": {
     "country": "Italy",
     "name": "Banca Carige SPA",
     "address": "VIA Cassa DI Risparmio 15",
@@ -23270,7 +23270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SARCIT2SXXX": {
+  "SARCIT2S": {
     "country": "Italy",
     "name": "Banca Cassa DI Risparmio DI Savigliano S.p.A.",
     "address": "Piazza del Popolo n. 15",
@@ -23302,7 +23302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCEPITMMXXX": {
+  "BCEPITMM": {
     "country": "Italy",
     "name": "Banca Cesare Ponti SPA",
     "address": "Piazza Duomo 19",
@@ -23310,7 +23310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "INPIITM1XXX": {
+  "INPIITM1": {
     "country": "Italy",
     "name": "Banca Consulia S.p.A.",
     "address": "Corso Monforte, 52",
@@ -23342,7 +23342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BITAITRRXXX": {
+  "BITAITRR": {
     "country": "Italy",
     "name": "Banca D'Italia",
     "address": "91, VIA Nazionale",
@@ -23382,7 +23382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAFUITRRXXX": {
+  "BAFUITRR": {
     "country": "Italy",
     "name": "Banca DEL Fucino",
     "address": "VIA Tomacelli, 139",
@@ -23398,7 +23398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "MCENITRRXXX": {
+  "MCENITRR": {
     "country": "Italy",
     "name": "Banca DEL Mezzogiorno - Mediocredito Centrale",
     "address": "Viale America 351",
@@ -23406,7 +23406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": null
   },
-  "BMLUIT3LXXX": {
+  "BMLUIT3L": {
     "country": "Italy",
     "name": "Banca DEL Monte DI Lucca SPA",
     "address": "Piazza S. Martino 4",
@@ -23422,7 +23422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BDCPITTTXXX": {
+  "BDCPITTT": {
     "country": "Italy",
     "name": "Banca DEL Piemonte",
     "address": "VIA Cernaia, 7",
@@ -23430,7 +23430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "SUDNITN1XXX": {
+  "SUDNITN1": {
     "country": "Italy",
     "name": "Banca DEL SUD S.P.A.",
     "address": "Via Calabritto, 20",
@@ -23478,7 +23478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BTERITM1XXX": {
+  "BTERITM1": {
     "country": "Italy",
     "name": "Banca Della Nuova Terra S.P.A.",
     "address": "VIA Cechov 50/2",
@@ -23830,7 +23830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRCBIT22XXX": {
+  "CRCBIT22": {
     "country": "Italy",
     "name": "Banca DI Credito Cooperativo DI Carate Brianza Societa' Cooperativa",
     "address": "VIA F. Cusani, 6",
@@ -24086,7 +24086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ROMAITRRXXX": {
+  "ROMAITRR": {
     "country": "Italy",
     "name": "Banca di Credito Cooperativo di Roma",
     "address": "Via Sardegna 129",
@@ -24294,7 +24294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CEEPIT21XXX": {
+  "CEEPIT21": {
     "country": "Italy",
     "name": "Banca DI Credito Peloritano S.P.A.",
     "address": "VIA Oratorio SAN Francesco 2",
@@ -24302,7 +24302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "BCPTITNNXXX": {
+  "BCPTITNN": {
     "country": "Italy",
     "name": "Banca DI Credito Popolare",
     "address": "C.SO V. Emanuele, 92/100",
@@ -24318,7 +24318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IMCOIT2AXXX": {
+  "IMCOIT2A": {
     "country": "Italy",
     "name": "Banca di Imola SpA",
     "address": "Via Emilia 196",
@@ -24350,7 +24350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCPCIT2PXXX": {
+  "BCPCIT2P": {
     "country": "Italy",
     "name": "Banca DI Piacenza SOC.Coop.PER Azioni",
     "address": "Via Mazzini 20",
@@ -24358,7 +24358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCCFIT33XXX": {
+  "BCCFIT33": {
     "country": "Italy",
     "name": "Banca DI Pisa E Fornacette Credito Cooperativo",
     "address": "Via Tosco Romagnola 101/a",
@@ -24374,7 +24374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPSAIT31XXX": {
+  "BPSAIT31": {
     "country": "Italy",
     "name": "Banca di Sassari",
     "address": "Viale Mancini,2",
@@ -24382,7 +24382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-03"
   },
-  "SCCDIT31XXX": {
+  "SCCDIT31": {
     "country": "Italy",
     "name": "Banca DI Sconto E Conti Correnti DI Santa Maria Capua Vetere S.p.A.",
     "address": "Piazza Mazzini, 54",
@@ -24430,7 +24430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ESPEITMMXXX": {
+  "ESPEITMM": {
     "country": "Italy",
     "name": "Banca Esperia SpA",
     "address": "VIA Filodrammatici 5",
@@ -24438,7 +24438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EUBAITM1XXX": {
+  "EUBAITM1": {
     "country": "Italy",
     "name": "Banca Euromobiliare S.p.A.",
     "address": "Via Santa Margherita, 9",
@@ -24446,7 +24446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FARAITM1XXX": {
+  "FARAITM1": {
     "country": "Italy",
     "name": "Banca Farmafactoring SPA",
     "address": "VIA Domenichino 5",
@@ -24454,7 +24454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "FIBKITMMXXX": {
+  "FIBKITMM": {
     "country": "Italy",
     "name": "Banca Fideuram SPA",
     "address": "P.le Douhet 31",
@@ -24462,7 +24462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-07",
     "instant_readiness": "2017-11-21"
   },
-  "BFINITMMXXX": {
+  "BFINITMM": {
     "country": "Italy",
     "name": "Banca Finanziaria Internazionale S.P.A.",
     "address": "Via Vittorio Alfieri, 1",
@@ -24470,7 +24470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FNATITRRXXX": {
+  "FNATITRR": {
     "country": "Italy",
     "name": "Banca Finnat Euramerica",
     "address": "Piazza del Gesu'. 49",
@@ -24478,7 +24478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GAEOITM1XXX": {
+  "GAEOITM1": {
     "country": "Italy",
     "name": "Banca Galileo S.P.A.",
     "address": "Corso Venezia, 40",
@@ -24486,7 +24486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BGENIT2TXXX": {
+  "BGENIT2T": {
     "country": "Italy",
     "name": "Banca Generali",
     "address": "Via Machiavelli, 4",
@@ -24494,7 +24494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IFIGIT31XXX": {
+  "IFIGIT31": {
     "country": "Italy",
     "name": "Banca Ifigest SPA",
     "address": "Piazza S. Maria Soprano, 1",
@@ -24502,7 +24502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IFISIT2VXXX": {
+  "IFISIT2V": {
     "country": "Italy",
     "name": "Banca Ifis SPA",
     "address": "Via Terraglio 63",
@@ -24510,7 +24510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "CABOITMHXXX": {
+  "CABOITMH": {
     "country": "Italy",
     "name": "Banca IMI S.P.A.",
     "address": "Largo Mattioli 3",
@@ -24518,7 +24518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BIMTITTTXXX": {
+  "BIMTITTT": {
     "country": "Italy",
     "name": "Banca Intermobiliare S.P.A.",
     "address": "VIA Gramsci 7",
@@ -24526,7 +24526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "BLEOITM1XXX": {
+  "BLEOITM1": {
     "country": "Italy",
     "name": "Banca Leonardo SPA",
     "address": "Piazza Cavour, 2 - Palazzo dell'Informazione",
@@ -24534,7 +24534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRACIT31XXX": {
+  "PRACIT31": {
     "country": "Italy",
     "name": "Banca Macerata SPA",
     "address": "67, Carducci",
@@ -24550,7 +24550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MFVGIT21XXX": {
+  "MFVGIT21": {
     "country": "Italy",
     "name": "Banca Mediocredito DEL Friuli Venezia Giulia SPA",
     "address": "Via Aquileia 1",
@@ -24558,7 +24558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "MEDBITMMXXX": {
+  "MEDBITMM": {
     "country": "Italy",
     "name": "Banca Mediolanum SPA",
     "address": "via Francesco Sforza 15",
@@ -24566,7 +24566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PASCITMMXXX": {
+  "PASCITMM": {
     "country": "Italy",
     "name": "Banca Monte dei Paschi di Siena SpA",
     "address": "Piazza Salimbeni 3",
@@ -24574,7 +24574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-09-30"
   },
-  "BNLIITRRXXX": {
+  "BNLIITRR": {
     "country": "Italy",
     "name": "Banca Nazionale DEL Lavoro S.P.A.",
     "address": "Viale Altiero Spinelli 30",
@@ -24582,7 +24582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-20"
   },
-  "PASBITGGXXX": {
+  "PASBITGG": {
     "country": "Italy",
     "name": "Banca Passadore & C.",
     "address": "Via E. Vernazza 27",
@@ -24598,7 +24598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SENVITT1XXX": {
+  "SENVITT1": {
     "country": "Italy",
     "name": "Banca Patrimoni Sella e C. S.p.A.",
     "address": "Piazza CLN, 255",
@@ -24606,7 +24606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "POCAIT3CXXX": {
+  "POCAIT3C": {
     "country": "Italy",
     "name": "Banca Popolare DEL Cassinate S.C.P.A.",
     "address": "Piazza Diaz 14",
@@ -24614,7 +24614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPFRIT3FXXX": {
+  "BPFRIT3F": {
     "country": "Italy",
     "name": "Banca Popolare DEL Frusinate Societa' Cooperativa PER Azioni",
     "address": "Piazzale DE Matthaeis 55",
@@ -24622,7 +24622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPLZIT3VXXX": {
+  "BPLZIT3V": {
     "country": "Italy",
     "name": "Banca Popolare del Lazio",
     "address": "Via Martiri delle Fosse Ardeatine, 9",
@@ -24630,7 +24630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BMEDITN1XXX": {
+  "BMEDITN1": {
     "country": "Italy",
     "name": "Banca Popolare DEL Mediterraneo S.C.P.A.",
     "address": "VIA Depretis 51",
@@ -24638,7 +24638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "BPAAIT2BXXX": {
+  "BPAAIT2B": {
     "country": "Italy",
     "name": "Banca Popolare dell'Alto Adige S.p.A. (Suedtiroler Volksbank AG)",
     "address": "Via del Macello, 55",
@@ -24646,7 +24646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PPMSIT31XXX": {
+  "PPMSIT31": {
     "country": "Italy",
     "name": "Banca Popolare Delle Province Molisane S.C.P.A. A R.L.",
     "address": "Via Insorti d'Ungheria, 30",
@@ -24654,7 +24654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "BPBAIT3BXXX": {
+  "BPBAIT3B": {
     "country": "Italy",
     "name": "Banca Popolare DI Bari Soc. coop. p.a.",
     "address": "Corso Cavour, 19",
@@ -24662,7 +24662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CIVIIT2CXXX": {
+  "CIVIIT2C": {
     "country": "Italy",
     "name": "Banca Popolare DI Cividale",
     "address": "Via Senatore Guglielmo Pelizzo, 8-1",
@@ -24670,7 +24670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POCSIT31XXX": {
+  "POCSIT31": {
     "country": "Italy",
     "name": "Banca Popolare di Cortona ScPA",
     "address": "Via Guelfa, 4 Cortona",
@@ -24678,7 +24678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POFOIT3FXXX": {
+  "POFOIT3F": {
     "country": "Italy",
     "name": "Banca Popolare DI Fondi",
     "address": "VIA G.Lanza,45",
@@ -24686,7 +24686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLJAIT3LXXX": {
+  "BLJAIT3L": {
     "country": "Italy",
     "name": "Banca Popolare di Lajatico S.C.p.A.",
     "address": "Via Guelfi, 2",
@@ -24694,7 +24694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPDMIT3BXXX": {
+  "BPDMIT3B": {
     "country": "Italy",
     "name": "Banca Popolare DI Puglia E Basilicata s.c.p.a.",
     "address": "Via Timmari, 25",
@@ -24702,7 +24702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POSOIT22XXX": {
+  "POSOIT22": {
     "country": "Italy",
     "name": "Banca Popolare DI Sondrio Scpa",
     "address": "Piazza Garibaldi, 16",
@@ -24710,7 +24710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-10"
   },
-  "BPSPIT31XXX": {
+  "BPSPIT31": {
     "country": "Italy",
     "name": "Banca Popolare DI Spoleto SPA",
     "address": "P.ZZA Pianciani, 5",
@@ -24726,7 +24726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPPUIT33XXX": {
+  "BPPUIT33": {
     "country": "Italy",
     "name": "Banca Popolare Pugliese Scpa",
     "address": "VIA Prov.LE PER Matino, 5",
@@ -24734,7 +24734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PSANIT3PXXX": {
+  "PSANIT3P": {
     "country": "Italy",
     "name": "Banca Popolare Sant'Angelo",
     "address": "Corso Vittorio Emanuele,10",
@@ -24742,7 +24742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "BPVMIT2RXXX": {
+  "BPVMIT2R": {
     "country": "Italy",
     "name": "Banca Popolare Valconca S.p.A.",
     "address": "VIA Bucci 61",
@@ -24750,7 +24750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POVEIT33XXX": {
+  "POVEIT33": {
     "country": "Italy",
     "name": "Banca Popolare Vesuviana",
     "address": "Via Passanti 34",
@@ -24758,7 +24758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRLEIT23XXX": {
+  "PRLEIT23": {
     "country": "Italy",
     "name": "Banca Privata Leasing S.p.A.",
     "address": "Via P. Castaldi da Feltre 1/A",
@@ -24766,7 +24766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "PROFITMMXXX": {
+  "PROFITMM": {
     "country": "Italy",
     "name": "Banca Profilo SPA",
     "address": "Via Cerva 28",
@@ -24774,7 +24774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POPHIT21XXX": {
+  "POPHIT21": {
     "country": "Italy",
     "name": "Banca Progetto",
     "address": "Piazza A. Manzoni angolo Via A. Visconti",
@@ -24782,7 +24782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PROSITNNXXX": {
+  "PROSITNN": {
     "country": "Italy",
     "name": "Banca Promos SPA",
     "address": "Viale Gramsci 19",
@@ -24790,7 +24790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BRTOITTTXXX": {
+  "BRTOITTT": {
     "country": "Italy",
     "name": "Banca Reale S.p.A",
     "address": "Corso Giuseppe Siccardi 13",
@@ -24798,7 +24798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BSVIITNNXXX": {
+  "BSVIITNN": {
     "country": "Italy",
     "name": "Banca Regionale di Sviluppo s.p.a.",
     "address": "via verdi 25",
@@ -24830,7 +24830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SGIUIT21XXX": {
+  "SGIUIT21": {
     "country": "Italy",
     "name": "Banca Santa Giulia S.P.A.",
     "address": "VIA Quartieri N. 39",
@@ -24838,7 +24838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-06-06",
     "instant_readiness": null
   },
-  "SELBIT22XXX": {
+  "SELBIT22": {
     "country": "Italy",
     "name": "Banca Sella Holding S.p.A.",
     "address": "via Italia, 2",
@@ -24846,7 +24846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "SELBIT2BXXX": {
+  "SELBIT2B": {
     "country": "Italy",
     "name": "Banca Sella S.p.A.",
     "address": "via Italia, 2",
@@ -24862,7 +24862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "SMSIIT21XXX": {
+  "SMSIIT21": {
     "country": "Italy",
     "name": "Banca Simetica SPA",
     "address": "VIA C. Crosa, 3C",
@@ -24870,7 +24870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-08-05",
     "instant_readiness": null
   },
-  "BSISITMMXXX": {
+  "BSISITMM": {
     "country": "Italy",
     "name": "Banca Sistema SPA",
     "address": "Corso Monforte, 20",
@@ -24878,7 +24878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "STAIIT31XXX": {
+  "STAIIT31": {
     "country": "Italy",
     "name": "Banca Stabiese S.p.A.",
     "address": "VIA Ettore Tito N.1",
@@ -24886,7 +24886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SVTUIT21XXX": {
+  "SVTUIT21": {
     "country": "Italy",
     "name": "Banca Sviluppo Tuscia SPA",
     "address": "Viale F. Baracca 73",
@@ -24894,7 +24894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "UBAIITRRXXX": {
+  "UBAIITRR": {
     "country": "Italy",
     "name": "Banca Ubae",
     "address": "Via Quintino Sella, 2",
@@ -24910,7 +24910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCVAIT2VXXX": {
+  "BCVAIT2V": {
     "country": "Italy",
     "name": "Banca Valsabbina Scpa",
     "address": "VIA Molino 4",
@@ -24934,7 +24934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RUAMIT22XXX": {
+  "RUAMIT22": {
     "country": "Italy",
     "name": "BancaTER Credito Cooperativo FVG",
     "address": "via roma 7",
@@ -24942,7 +24942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAPPIT22XXX": {
+  "BAPPIT22": {
     "country": "Italy",
     "name": "Banco BPM S.p.A.",
     "address": "Piazza F. Meda 4",
@@ -24950,7 +24950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-05-20"
   },
-  "TRVEIT2PXXX": {
+  "TRVEIT2P": {
     "country": "Italy",
     "name": "Banco delle Tre Venezie S.p.A.",
     "address": "Via G.B. Belzoni,65",
@@ -24958,7 +24958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-01",
     "instant_readiness": null
   },
-  "AZZBITT1XXX": {
+  "AZZBITT1": {
     "country": "Italy",
     "name": "Banco di Credito P. Azzoaglio",
     "address": "Via Doria, 17",
@@ -24966,7 +24966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BDBDIT22XXX": {
+  "BDBDIT22": {
     "country": "Italy",
     "name": "Banco DI Desio E Della Brianza SPA",
     "address": "via Rovagnati, 1",
@@ -24974,7 +24974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLUCIT31XXX": {
+  "BLUCIT31": {
     "country": "Italy",
     "name": "Banco DI Lucca E DEL Tirreno",
     "address": "Viale Agostino Marti 443",
@@ -24982,7 +24982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "SARDIT31XXX": {
+  "SARDIT31": {
     "country": "Italy",
     "name": "Banco di Sardegna",
     "address": "Viale Bonaria, 33     09125",
@@ -24990,7 +24990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-03"
   },
-  "BRASITMMXXX": {
+  "BRASITMM": {
     "country": "Italy",
     "name": "Banco DO Brasil S/A",
     "address": "Via Dante 9",
@@ -25014,7 +25014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKCHITMMXXX": {
+  "BKCHITMM": {
     "country": "Italy",
     "name": "Bank of China Ltd Milan Branch",
     "address": "Via Santa Margherita 14/16",
@@ -25022,7 +25022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BOTKITMXXXX": {
+  "BOTKITMX": {
     "country": "Italy",
     "name": "Bank OF Tokyo-Mitsubishi UFJ Ltd Milano Branch",
     "address": "Via della Liberazione, 18",
@@ -25166,7 +25166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRBIIT2BXXX": {
+  "CRBIIT2B": {
     "country": "Italy",
     "name": "Biverbanca Cassa di Risparmio di Biella e Vercelli S.p.A.",
     "address": "VIA Carso, 15",
@@ -25174,7 +25174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPMOIT22XXX": {
+  "BPMOIT22": {
     "country": "Italy",
     "name": "Bper Banca S.p.A.",
     "address": "Via San Carlo 8/20",
@@ -25182,7 +25182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-03"
   },
-  "CBPSIT31XXX": {
+  "CBPSIT31": {
     "country": "Italy",
     "name": "Cabel IP S.p.A.",
     "address": "VIA Piovola 138",
@@ -25190,7 +25190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "CIMTITR1XXX": {
+  "CIMTITR1": {
     "country": "Italy",
     "name": "Cartalis Istituto DI Moneta Elettronica S.P.A.",
     "address": "Viale DEL Campo Boario 56/D",
@@ -25198,7 +25198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "CCRTIT2TXXX": {
+  "CCRTIT2T": {
     "country": "Italy",
     "name": "Cassa Centrale Banca - Credito Cooperativo DEL Nord EST SPA",
     "address": "VIA Segantini, 5",
@@ -25206,7 +25206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CADPITRRXXX": {
+  "CADPITRR": {
     "country": "Italy",
     "name": "Cassa Depositi E Prestiti SPA",
     "address": "VIA Goito 4",
@@ -25214,7 +25214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "CASRIT22XXX": {
+  "CASRIT22": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI Asti SPA",
     "address": "Piazza Liberta',  23",
@@ -25222,7 +25222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRBZIT2BXXX": {
+  "CRBZIT2B": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI Bolzano S.P.A. SueDTIROLER Sparkasse AG",
     "address": "VIA Cassa DI Risparmio, 12/B",
@@ -25230,7 +25230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRBRIT22XXX": {
+  "CRBRIT22": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI BRA SPA",
     "address": "VIA Principi DI Piemonte 12",
@@ -25238,7 +25238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-03"
   },
-  "CRCEIT2CXXX": {
+  "CRCEIT2C": {
     "country": "Italy",
     "name": "Cassa di Risparmio di Cento S.p.A.",
     "address": "Via Matteotti 8/b",
@@ -25246,7 +25246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRFEIT3FXXX": {
+  "CRFEIT3F": {
     "country": "Italy",
     "name": "Cassa di Risparmio di Fermo Spa",
     "address": "Via Don E.Ricci,1",
@@ -25254,7 +25254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRIFIT2FXXX": {
+  "CRIFIT2F": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI Fossano SPA",
     "address": "VIA Roma 122",
@@ -25262,7 +25262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPBAITR1XXX": {
+  "BPBAITR1": {
     "country": "Italy",
     "name": "Cassa di Risparmio di Orvieto S.p.A.",
     "address": "Piazza della Repubblica, 21",
@@ -25270,7 +25270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRSAIT22XXX": {
+  "CRSAIT22": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI Saluzzo S.P.A.",
     "address": "Corso Italia N. 86",
@@ -25278,7 +25278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-03"
   },
-  "CRVOIT3VXXX": {
+  "CRVOIT3V": {
     "country": "Italy",
     "name": "Cassa DI Risparmio DI Volterra SPA",
     "address": "Piazza DEI Priori 16",
@@ -25286,7 +25286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CSRFITR1XXX": {
+  "CSRFITR1": {
     "country": "Italy",
     "name": "Cassa DI Sovvenzioni E Risparmio FRA IL Personale Della Banca D'Italia",
     "address": "VIA Cavour 71",
@@ -25294,7 +25294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LOMCITMMXXX": {
+  "LOMCITMM": {
     "country": "Italy",
     "name": "Cassa Lombarda SPA",
     "address": "VIA Alessandro Manzoni 12/14",
@@ -25518,7 +25518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ACARIT22XXX": {
+  "ACARIT22": {
     "country": "Italy",
     "name": "Cassa Rurale ed Artigiana di Cant\u00f9 Banca di Credito Cooperativo Soc. Coop.",
     "address": "Corso Unit\u00e0 d'Italia 11",
@@ -25662,7 +25662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CCRGIT21XXX": {
+  "CCRGIT21": {
     "country": "Italy",
     "name": "CCN Servizi di Pagamento S.p.A.",
     "address": "Via J.F.Kennedy 5",
@@ -25678,7 +25678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CECVIT22XXX": {
+  "CECVIT22": {
     "country": "Italy",
     "name": "Cereabanca 1897 Credito Cooperativo S.C.",
     "address": "Via Paride da Cerea, 30",
@@ -25686,7 +25686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MICSITM1XXX": {
+  "MICSITM1": {
     "country": "Italy",
     "name": "CheBanca! SpA",
     "address": "Viale Bodio 37",
@@ -25702,7 +25702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CITIITMXXXX": {
+  "CITIITMX": {
     "country": "Italy",
     "name": "Citibank N.A. United Kingdom",
     "address": "Via dei Mercanti 12",
@@ -25710,7 +25710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-10",
     "instant_readiness": null
   },
-  "CIPYIT31XXX": {
+  "CIPYIT31": {
     "country": "Italy",
     "name": "Cityposte Payment SPA",
     "address": "Via G. Pascoli, Zona Artigianale - C.da Ripoli",
@@ -25718,7 +25718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "CMPYITM1XXX": {
+  "CMPYITM1": {
     "country": "Italy",
     "name": "Compass Banca S.p.A.",
     "address": "Via Caldera 21",
@@ -25726,7 +25726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-05-06",
     "instant_readiness": null
   },
-  "CRPPIT2PXXX": {
+  "CRPPIT2P": {
     "country": "Italy",
     "name": "Cr\u00e9dit Agricole Cariparma S.p.A.",
     "address": "Via Universit\u00e0 n.1",
@@ -25734,7 +25734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-09"
   },
-  "BPPNIT2PXXX": {
+  "BPPNIT2P": {
     "country": "Italy",
     "name": "Cr\u00e9dit Agricole Friuladria S.p.A.",
     "address": "Piazza XX Settembre n.2",
@@ -25742,7 +25742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-07-09"
   },
-  "CRESITMMXXX": {
+  "CRESITMM": {
     "country": "Italy",
     "name": "Credit Suisse (Italy) SPA",
     "address": "Via Santa Margherita 3",
@@ -25846,7 +25846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BACRIT22XXX": {
+  "BACRIT22": {
     "country": "Italy",
     "name": "Credito Emiliano S.p.A.",
     "address": "Via Emilia San Pietro, 4",
@@ -25862,7 +25862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CFIUITR2XXX": {
+  "CFIUITR2": {
     "country": "Italy",
     "name": "Credito Fondiario SPA",
     "address": "VIA Piemonte, 38",
@@ -25870,7 +25870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-08-08",
     "instant_readiness": null
   },
-  "CRLVIT21XXX": {
+  "CRLVIT21": {
     "country": "Italy",
     "name": "Credito Lombardo Veneto SPA",
     "address": "VIA Trieste, 25/B",
@@ -25894,7 +25894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPCVIT2SXXX": {
+  "BPCVIT2S": {
     "country": "Italy",
     "name": "Credito Valtellinese S.c.",
     "address": "Piazza Quadrivio, 8",
@@ -25902,7 +25902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-12-11"
   },
-  "CIPBITMMXXX": {
+  "CIPBITMM": {
     "country": "Italy",
     "name": "DEPObank - Banca Depositaria Italiana S.P.A.",
     "address": "Via Anna-Maria Mozzoni  1.1",
@@ -25910,7 +25910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "DEUTITMMXXX": {
+  "DEUTITMM": {
     "country": "Italy",
     "name": "Deutsche Bank S.P.A.",
     "address": "Piazza DEL Calendario 3",
@@ -25918,7 +25918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CROPITRRXXX": {
+  "CROPITRR": {
     "country": "Italy",
     "name": "Dexia Crediop S.p.A.",
     "address": "Via Flavia, 15",
@@ -25926,7 +25926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNGCIT21XXX": {
+  "UNGCIT21": {
     "country": "Italy",
     "name": "doValue S.P.A.",
     "address": "Piazzetta Monte 1",
@@ -25942,7 +25942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EFSSITR1XXX": {
+  "EFSSITR1": {
     "country": "Italy",
     "name": "Enel X Financial Services",
     "address": "Viale di Tor di Quinto 45/47 - CAP 00191",
@@ -25950,7 +25950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-06",
     "instant_readiness": null
   },
-  "EXRRITM1XXX": {
+  "EXRRITM1": {
     "country": "Italy",
     "name": "Extrabanca SPA",
     "address": "VIA Pergolesi 2A",
@@ -25958,7 +25958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-05-09",
     "instant_readiness": null
   },
-  "FCAAIT2TXXX": {
+  "FCAAIT2T": {
     "country": "Italy",
     "name": "FCA Bank SPA",
     "address": "Corso Agnelli 200",
@@ -25966,7 +25966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "FIDMIT31XXX": {
+  "FIDMIT31": {
     "country": "Italy",
     "name": "Findomestic Banca SPA",
     "address": "VIA Jacopo DA Diacceto, 48",
@@ -25974,7 +25974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "FEBIITM1XXX": {
+  "FEBIITM1": {
     "country": "Italy",
     "name": "Finecobank S.p.A.",
     "address": "Piazza Durante 11",
@@ -25990,7 +25990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FEDEIT31XXX": {
+  "FEDEIT31": {
     "country": "Italy",
     "name": "GBM Banca SPA",
     "address": "Via R. Margherita, 60",
@@ -25998,7 +25998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GUBEIT21XXX": {
+  "GUBEIT21": {
     "country": "Italy",
     "name": "Guber Banca S.P.A.",
     "address": "Via Corfu, 102",
@@ -26006,7 +26006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-10",
     "instant_readiness": null
   },
-  "HAABIT2UXXX": {
+  "HAABIT2U": {
     "country": "Italy",
     "name": "Hypo Alpe-Adria-Bank SPA",
     "address": "VIA Alpe Adria 6",
@@ -26014,7 +26014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HYPTIT2BXXX": {
+  "HYPTIT2B": {
     "country": "Italy",
     "name": "Hypo Tirol Bank AG",
     "address": "Waltherplatz 2 - Piazza Walther 2",
@@ -26022,7 +26022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ICRAITRRXXX": {
+  "ICRAITRR": {
     "country": "Italy",
     "name": "Iccrea Banca S.p.A.",
     "address": "via Lucrezia Romana,41/47",
@@ -26038,7 +26038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": null
   },
-  "IFSPIT21XXX": {
+  "IFSPIT21": {
     "country": "Italy",
     "name": "Iconto srl",
     "address": "VIA Morgagni 13",
@@ -26046,7 +26046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-06-09",
     "instant_readiness": null
   },
-  "PDSCIT31XXX": {
+  "PDSCIT31": {
     "country": "Italy",
     "name": "Igea Banca S.P.A.",
     "address": "Via Paisiello 38",
@@ -26054,7 +26054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "ITTPIT2MXXX": {
+  "ITTPIT2M": {
     "country": "Italy",
     "name": "Illimity Bank S.p.A.",
     "address": "Via Soperga 9",
@@ -26062,7 +26062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-04-04",
     "instant_readiness": "2019-07-09"
   },
-  "IMPAITRRXXX": {
+  "IMPAITRR": {
     "country": "Italy",
     "name": "Imprebanca SPA",
     "address": "VIA Cola DI Rienzo, 240",
@@ -26070,7 +26070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "BCITITM3XXX": {
+  "BCITITM3": {
     "country": "Italy",
     "name": "Intesa Sanpaolo Private Banking",
     "address": "Via Ulderico Hoepli, 10",
@@ -26078,7 +26078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BCITITMMXXX": {
+  "BCITITMM": {
     "country": "Italy",
     "name": "Intesa Sanpaolo S.p.A.",
     "address": "Via Langhirano 1",
@@ -26086,7 +26086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "NVESITRRXXX": {
+  "NVESITRR": {
     "country": "Italy",
     "name": "Invest Banca",
     "address": "Via Cherubini, 99",
@@ -26094,7 +26094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IBLBITRRXXX": {
+  "IBLBITRR": {
     "country": "Italy",
     "name": "Istituto Bancario DEL Lavoro SPA (in forma breve 'IBL Banca SPA')",
     "address": "VIA DI Campo Marzio, 46",
@@ -26102,7 +26102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ISCSITRRXXX": {
+  "ISCSITRR": {
     "country": "Italy",
     "name": "Istituto PER IL Credito Sportivo",
     "address": "VIA G. Vico 5",
@@ -26110,7 +26110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "BLPIIT21XXX": {
+  "BLPIIT21": {
     "country": "Italy",
     "name": "IW Bank Private Investments",
     "address": "Piazzale Fratelli Zavattari 12",
@@ -26118,7 +26118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-05-06"
   },
-  "CHASITMXXXX": {
+  "CHASITMX": {
     "country": "Italy",
     "name": "JPMorgan Chase Bank, N.A., Milan Branch",
     "address": "Via Calena Adalberto 4",
@@ -26134,7 +26134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRRAIT2RXXX": {
+  "CRRAIT2R": {
     "country": "Italy",
     "name": "La Cassa di Ravenna S.p.A.",
     "address": "Piazza Giuseppe Garibaldi 6",
@@ -26142,7 +26142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LIIPITM1XXX": {
+  "LIIPITM1": {
     "country": "Italy",
     "name": "LIS Istituto di Pagamento S.p.A.",
     "address": "Via Staro 4",
@@ -26150,7 +26150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": null
   },
-  "MFERITM1XXX": {
+  "MFERITM1": {
     "country": "Italy",
     "name": "Maccorp Financial Services S.r.l.",
     "address": "Via Fatebenefratelli 5",
@@ -26158,7 +26158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-09",
     "instant_readiness": null
   },
-  "BAMEITMMXXX": {
+  "BAMEITMM": {
     "country": "Italy",
     "name": "Mediobanca - Banca DI Credito Finanziario SPA",
     "address": "Piazzetta Cuccia 1",
@@ -26166,7 +26166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "BCITIT61XXX": {
+  "BCITIT61": {
     "country": "Italy",
     "name": "Mediocredito Italiano SPA",
     "address": "Via Cernaia 8/10",
@@ -26182,7 +26182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "MHCBITMMXXX": {
+  "MHCBITMM": {
     "country": "Italy",
     "name": "Mizuho Bank Ltd Milan Branch",
     "address": "Largo Augusto 7",
@@ -26190,7 +26190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "MOETIT31XXX": {
+  "MOETIT31": {
     "country": "Italy",
     "name": "Moneynet S.P.A.",
     "address": "VIA Sacra Famiglia N 18",
@@ -26198,7 +26198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "MPLFIT33XXX": {
+  "MPLFIT33": {
     "country": "Italy",
     "name": "MPS Leasing & Factoring Banca PER I Servizi Finanziari Alle Imprese S.P.A.",
     "address": "Via Aldo Moro, 11/13",
@@ -26206,7 +26206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NEPYITM1XXX": {
+  "NEPYITM1": {
     "country": "Italy",
     "name": "Nexi Payments S.p.A.",
     "address": "Corso Sempione 55",
@@ -26214,7 +26214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "PAYTITM1XXX": {
+  "PAYTITM1": {
     "country": "Italy",
     "name": "Paytipper S.P.A.",
     "address": "Viale Legioni Romane 43",
@@ -26222,7 +26222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "BPPIITRRXXX": {
+  "BPPIITRR": {
     "country": "Italy",
     "name": "Poste Italiane S.p.A.",
     "address": "Viale Europa 190",
@@ -26230,7 +26230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PPAYITR1XXX": {
+  "PPAYITR1": {
     "country": "Italy",
     "name": "PostePay S.p.A.",
     "address": "Viale Europa 190",
@@ -26238,7 +26238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-01",
     "instant_readiness": null
   },
-  "PRRDIT21XXX": {
+  "PRRDIT21": {
     "country": "Italy",
     "name": "Prader Bank SPA",
     "address": "P.tta della Mostra, 2",
@@ -26254,7 +26254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "QUFSITG1XXX": {
+  "QUFSITG1": {
     "country": "Italy",
     "name": "Qui! Financial Services S.p.A.",
     "address": "Via XX settembre 29/7",
@@ -26262,7 +26262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "RZSBIT2BXXX": {
+  "RZSBIT2B": {
     "country": "Italy",
     "name": "Raiffeisen Landesbank Suedtirol AG - Cassa Centrale Raiffeisen dell'Alto Adige SpA",
     "address": "Laurinstrasse 1 - Via Laurin, 1",
@@ -26518,7 +26518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SFSPIT22XXX": {
+  "SFSPIT22": {
     "country": "Italy",
     "name": "Sanfelice 1893 Banca Popolare SOC.Coop.PA.",
     "address": "Piazza Matteotti 23",
@@ -26526,7 +26526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FICUITTTXXX": {
+  "FICUITTT": {
     "country": "Italy",
     "name": "Santander Consumer Bank SPA",
     "address": "Lingotto VIA Nizza 262/26",
@@ -26534,7 +26534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "SEPFIT31XXX": {
+  "SEPFIT31": {
     "country": "Italy",
     "name": "Se.Pa.Fin. S.p.A.",
     "address": "via Nino Bixio",
@@ -26542,7 +26542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-07-04",
     "instant_readiness": null
   },
-  "TWOSITMMXXX": {
+  "TWOSITMM": {
     "country": "Italy",
     "name": "Sgss SPA",
     "address": "MAC 2 VIA Benigno Crespi 19/A",
@@ -26550,7 +26550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "PIRLITM1XXX": {
+  "PIRLITM1": {
     "country": "Italy",
     "name": "SIApay",
     "address": "Via Francesco Gonin 36",
@@ -26558,7 +26558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "SIGPITM1XXX": {
+  "SIGPITM1": {
     "country": "Italy",
     "name": "Sisal Group S.P.A.",
     "address": "Via Tocqueville, 13",
@@ -26566,7 +26566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-12-05",
     "instant_readiness": null
   },
-  "SOEPIT21XXX": {
+  "SOEPIT21": {
     "country": "Italy",
     "name": "Societa Servizi di Pagamento S.p.A.",
     "address": "Via Danimarca 80",
@@ -26574,7 +26574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-09",
     "instant_readiness": null
   },
-  "SOIFIT31XXX": {
+  "SOIFIT31": {
     "country": "Italy",
     "name": "Sogefin S.P.A.",
     "address": "Via A. Manzoni, snc",
@@ -26582,7 +26582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-09",
     "instant_readiness": null
   },
-  "CRDRIT2FXXX": {
+  "CRDRIT2F": {
     "country": "Italy",
     "name": "Solution Bank S.P.A.",
     "address": "Via Ravegnana angolo Via Traiano Imperatore",
@@ -26590,7 +26590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TEAYITR1XXX": {
+  "TEAYITR1": {
     "country": "Italy",
     "name": "Telepass Pay S.p.A.",
     "address": "Via Alberto Bergamini 50",
@@ -26606,7 +26606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UBSWITMMXXX": {
+  "UBSWITMM": {
     "country": "Italy",
     "name": "UBS",
     "address": "Via del Vecchio Politecnico, 3",
@@ -26614,7 +26614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNCRITMMXXX": {
+  "UNCRITMM": {
     "country": "Italy",
     "name": "Unicredit S.p.A.",
     "address": "Piazza Gae Aulenti 3 , Tower A",
@@ -26622,7 +26622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BLOPIT22XXX": {
+  "BLOPIT22": {
     "country": "Italy",
     "name": "Unione di Banche Italiane S.c.p.A.",
     "address": "Piazza Vittorio Veneto, 8",
@@ -26630,7 +26630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-05-06"
   },
-  "BAECIT2BXXX": {
+  "BAECIT2B": {
     "country": "Italy",
     "name": "Unipol Banca S.P.A.",
     "address": "Piazza Della Costituzione, 2",
@@ -26654,7 +26654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRSNIT31XXX": {
+  "CRSNIT31": {
     "country": "Italy",
     "name": "ViViBanca S.p.A.",
     "address": "Via San Pio V, 5",
@@ -26662,7 +26662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "WIDIITMMXXX": {
+  "WIDIITMM": {
     "country": "Italy",
     "name": "Widiba S.p.A.",
     "address": "Via Ippolito Rosellini 16",
@@ -26670,7 +26670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-07-07",
     "instant_readiness": "2019-09-30"
   },
-  "LOYDJE31XXX": {
+  "LOYDJE31": {
     "country": "Jersey",
     "name": "Lloyds Bank (International Services) Limited",
     "address": "11-12 Esplanade",
@@ -26678,7 +26678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-15",
     "instant_readiness": null
   },
-  "LOYDJEH1XXX": {
+  "LOYDJEH1": {
     "country": "Jersey",
     "name": "Lloyds Bank International Limited",
     "address": "PO BOX 160, 25 NEW Street",
@@ -26686,7 +26686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "RBSIGB2LXXX": {
+  "RBSIGB2L": {
     "country": "Jersey",
     "name": "Royal Bank of Scotland International Limited (Jersey)",
     "address": "Royal Bank House, 71 Bath Street",
@@ -26694,7 +26694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-04-03",
     "instant_readiness": null
   },
-  "CBBRLV22XXX": {
+  "CBBRLV22": {
     "country": "Latvia",
     "name": "AS BlueOrange Bank",
     "address": "Smilsu iela 6",
@@ -26702,7 +26702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "LATCLV22XXX": {
+  "LATCLV22": {
     "country": "Latvia",
     "name": "AS Expobank",
     "address": "19 Valdemara Street",
@@ -26710,7 +26710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MULTLV2XXXX": {
+  "MULTLV2X": {
     "country": "Latvia",
     "name": "AS Meridian Trade Bank",
     "address": "57 Elizabetes Iela",
@@ -26718,7 +26718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "LATBLV22XXX": {
+  "LATBLV22": {
     "country": "Latvia",
     "name": "AS Norvik Banka",
     "address": "15 - 2 Elizabetes Street",
@@ -26726,7 +26726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "PRTTLV22XXX": {
+  "PRTTLV22": {
     "country": "Latvia",
     "name": "AS Privatbank",
     "address": "Muitas iela 1",
@@ -26734,7 +26734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNLALV2XXXX": {
+  "UNLALV2X": {
     "country": "Latvia",
     "name": "AS SEB Banka",
     "address": "Meistaru street 1",
@@ -26742,7 +26742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "HABALV22XXX": {
+  "HABALV22": {
     "country": "Latvia",
     "name": "AS Swedbank",
     "address": "Balasta dambis 15",
@@ -26750,7 +26750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-17"
   },
-  "PARXLV22XXX": {
+  "PARXLV22": {
     "country": "Latvia",
     "name": "Joint Stock Company Citadele banka",
     "address": "Republikas laukums 2A",
@@ -26758,7 +26758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BLIBLV22XXX": {
+  "BLIBLV22": {
     "country": "Latvia",
     "name": "JSC \"Baltic International Bank\"",
     "address": "43, Kaleju Street",
@@ -26766,7 +26766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RIBRLV22XXX": {
+  "RIBRLV22": {
     "country": "Latvia",
     "name": "JSC Regionala investiciju banka",
     "address": "2 J.Alunana street",
@@ -26774,7 +26774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LACBLV2XXXX": {
+  "LACBLV2X": {
     "country": "Latvia",
     "name": "Latvijas Banka",
     "address": "KR. Valdemara Street 2A",
@@ -26782,7 +26782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": "2017-11-21"
   },
-  "LAPBLV2XXXX": {
+  "LAPBLV2X": {
     "country": "Latvia",
     "name": "Latvijas Pasta Banka",
     "address": "Brivibas Iela 54",
@@ -26790,7 +26790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "LKJFLV21XXX": {
+  "LKJFLV21": {
     "country": "Latvia",
     "name": "Ltfja KKS Jurnieku Forums",
     "address": "Katrinas Dambis 22A",
@@ -26798,7 +26798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "RTMBLV2XXXX": {
+  "RTMBLV2X": {
     "country": "Latvia",
     "name": "Rietumu Banka",
     "address": "Vesetas iela 7",
@@ -26806,7 +26806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RGNSLV22XXX": {
+  "RGNSLV22": {
     "country": "Latvia",
     "name": "Rigensis Bank AS",
     "address": "3 Teatra Street",
@@ -26814,7 +26814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "DUPYLV21XXX": {
+  "DUPYLV21": {
     "country": "Latvia",
     "name": "SIA Dukascopy Payments",
     "address": "Lacplesa Iela 20A 1",
@@ -26822,7 +26822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "TPROLV22XXX": {
+  "TPROLV22": {
     "country": "Latvia",
     "name": "SIA Transact PRO",
     "address": "Ropazu Street 10",
@@ -26830,7 +26830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "LLBBLV2XXXX": {
+  "LLBBLV2X": {
     "country": "Latvia",
     "name": "Signet Bank AS",
     "address": "Antonijas Street 3",
@@ -26838,7 +26838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "LPNSLV21XXX": {
+  "LPNSLV21": {
     "country": "Latvia",
     "name": "State JSC Latvijas Pasts",
     "address": "Ziemelu Iela 10 Lidosta",
@@ -26846,7 +26846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "TRELLV22XXX": {
+  "TRELLV22": {
     "country": "Latvia",
     "name": "Treasury OF THE Republic OF Latvia, THE",
     "address": "1 Smilsu Street",
@@ -26854,7 +26854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "BALPLI22XXX": {
+  "BALPLI22": {
     "country": "Liechtenstein",
     "name": "Bank Alpinum AG",
     "address": "Staedtle 17",
@@ -26862,7 +26862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BFRILI22XXX": {
+  "BFRILI22": {
     "country": "Liechtenstein",
     "name": "Bank Frick UND CO AG",
     "address": "Landstrasse 8",
@@ -26870,7 +26870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": null
   },
-  "HYIBLI22XXX": {
+  "HYIBLI22": {
     "country": "Liechtenstein",
     "name": "Bendura Bank AG",
     "address": "Schaaner Strasse 27",
@@ -26878,7 +26878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-09-06",
     "instant_readiness": null
   },
-  "EFGBLI22XXX": {
+  "EFGBLI22": {
     "country": "Liechtenstein",
     "name": "EFG Bank VON Ernst AG",
     "address": "Egertastrasse 10",
@@ -26886,7 +26886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": null
   },
-  "SERBLI22XXX": {
+  "SERBLI22": {
     "country": "Liechtenstein",
     "name": "Kaiser Partner Privatbank AG",
     "address": "Herrengasse 23",
@@ -26894,7 +26894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-10",
     "instant_readiness": null
   },
-  "BLFLLI2XXXX": {
+  "BLFLLI2X": {
     "country": "Liechtenstein",
     "name": "LGT Bank AG",
     "address": "12, Herrengasse",
@@ -26902,7 +26902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LILALI2XXXX": {
+  "LILALI2X": {
     "country": "Liechtenstein",
     "name": "Liechtensteinische Landesbank Aktiengesellschaft",
     "address": "44, Staedtle",
@@ -26910,7 +26910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NBANLI22XXX": {
+  "NBANLI22": {
     "country": "Liechtenstein",
     "name": "Neue Bank AG",
     "address": "20 Marktgass",
@@ -26918,7 +26918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-05",
     "instant_readiness": null
   },
-  "RAIBLI22XXX": {
+  "RAIBLI22": {
     "country": "Liechtenstein",
     "name": "Raiffeisen Privatbank, Liechtenstein AG",
     "address": "51, Austrasse",
@@ -26926,7 +26926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VOAGLI22XXX": {
+  "VOAGLI22": {
     "country": "Liechtenstein",
     "name": "Sigma Bank AG",
     "address": "Feldkircher Strasse 2",
@@ -26934,7 +26934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-01-05",
     "instant_readiness": null
   },
-  "UNIVLI22XXX": {
+  "UNIVLI22": {
     "country": "Liechtenstein",
     "name": "Union Bank AG",
     "address": "Austrasse 46 Postfach 1535",
@@ -26942,7 +26942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "VPBVLI2XXXX": {
+  "VPBVLI2X": {
     "country": "Liechtenstein",
     "name": "VP Bank AG",
     "address": "Aeulestr. 6",
@@ -26950,7 +26950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-05",
     "instant_readiness": null
   },
-  "INDULT2XXXX": {
+  "INDULT2X": {
     "country": "Lithuania",
     "name": "AS \"Citadele banka\" Lithuanian branch",
     "address": "K. Kalinausko str. 13",
@@ -26958,7 +26958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CNUALT21XXX": {
+  "CNUALT21": {
     "country": "Lithuania",
     "name": "ConnectPay UAB",
     "address": "Gedimino ave. 20",
@@ -26966,7 +26966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "EUEBLT22XXX": {
+  "EUEBLT22": {
     "country": "Lithuania",
     "name": "European Merchant UAB",
     "address": "Gedimino pr. 35",
@@ -26974,7 +26974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": "2019-06-03"
   },
-  "GLUALT22XXX": {
+  "GLUALT22": {
     "country": "Lithuania",
     "name": "GlobalNetint UAB",
     "address": "Lvovo str 25-104",
@@ -26982,7 +26982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-07-02",
     "instant_readiness": null
   },
-  "INHULT21XXX": {
+  "INHULT21": {
     "country": "Lithuania",
     "name": "International Fintech UAB",
     "address": "Jogailos Str. 4",
@@ -26990,7 +26990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "UADRLT21XXX": {
+  "UADRLT21": {
     "country": "Lithuania",
     "name": "JSC Drauskaita",
     "address": "Seimininskiu str. 21",
@@ -26998,7 +26998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "JCKULT21XXX": {
+  "JCKULT21": {
     "country": "Lithuania",
     "name": "Kooperatin\u0117 bendrov\u0117 Jungtin\u0117 centrin\u0117 kredito unija",
     "address": "J.Jasinskio g. 12",
@@ -27006,7 +27006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-05",
     "instant_readiness": "2018-03-05"
   },
-  "KRUALT21XXX": {
+  "KRUALT21": {
     "country": "Lithuania",
     "name": "Kredito unija \"Taupa\"",
     "address": "Kalvariju g.140",
@@ -27014,7 +27014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-04",
     "instant_readiness": null
   },
-  "KUSRLT21XXX": {
+  "KUSRLT21": {
     "country": "Lithuania",
     "name": "Kredito unija Mano unija",
     "address": "Pusu st. 10",
@@ -27022,7 +27022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "KUPRLT21XXX": {
+  "KUPRLT21": {
     "country": "Lithuania",
     "name": "Kredito Unija Panevezio Regiono Taupomoji Kasa",
     "address": "Vilniaus g.25A",
@@ -27030,7 +27030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "CRUGLT21XXX": {
+  "CRUGLT21": {
     "country": "Lithuania",
     "name": "Kredito unija Saul\u0117gr\u0105\u017ea",
     "address": "Senasis Ukmerg\u0117s kelias 4",
@@ -27038,7 +27038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-12-01",
     "instant_readiness": null
   },
-  "LIABLT2XXXX": {
+  "LIABLT2X": {
     "country": "Lithuania",
     "name": "Lietuvos Bankas (Bank OF Lithuania)",
     "address": "Gedimino 6",
@@ -27054,7 +27054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-02-08",
     "instant_readiness": null
   },
-  "LCKULT22XXX": {
+  "LCKULT22": {
     "country": "Lithuania",
     "name": "Lithuanian Central Credit Union",
     "address": "Savanoriu PR. 336-211",
@@ -27062,7 +27062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-12-07",
     "instant_readiness": null
   },
-  "LTKULT21XXX": {
+  "LTKULT21": {
     "country": "Lithuania",
     "name": "LTL Kredito unija",
     "address": "Sporto g. 18",
@@ -27070,7 +27070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-04",
     "instant_readiness": null
   },
-  "MAABLT21XXX": {
+  "MAABLT21": {
     "country": "Lithuania",
     "name": "Majestic Financial UAB",
     "address": "Mesiniu g. 5",
@@ -27078,7 +27078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "MIEGLT21XXX": {
+  "MIEGLT21": {
     "country": "Lithuania",
     "name": "Mistertango UAB",
     "address": "Perkunkiemio 2",
@@ -27086,7 +27086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "MOTOLT21XXX": {
+  "MOTOLT21": {
     "country": "Lithuania",
     "name": "Mokejimo terminalu sistemos, UAB",
     "address": "Eiguliu str 14",
@@ -27094,7 +27094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-09-17",
     "instant_readiness": null
   },
-  "MOIULT21XXX": {
+  "MOIULT21": {
     "country": "Lithuania",
     "name": "Moneta International UAB",
     "address": "Jogailos Str. 4",
@@ -27102,7 +27102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "EVIULT21XXX": {
+  "EVIULT21": {
     "country": "Lithuania",
     "name": "Paysera LT UAB",
     "address": "Pilaites av. 16",
@@ -27110,7 +27110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": "2018-01-02"
   },
-  "VRKULT21XXX": {
+  "VRKULT21": {
     "country": "Lithuania",
     "name": "Rato kredito unija",
     "address": "Moletu G. 13, Didziosios Rieses K., Vilniaus R.",
@@ -27118,7 +27118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "REVOLT21XXX": {
+  "REVOLT21": {
     "country": "Lithuania",
     "name": "Revolut Payments UAB",
     "address": "9 Jogalios Street",
@@ -27126,7 +27126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-12",
     "instant_readiness": null
   },
-  "STUALT21XXX": {
+  "STUALT21": {
     "country": "Lithuania",
     "name": "Satchelpay UAB",
     "address": "Jogailos G. 4",
@@ -27134,7 +27134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": "2018-08-06"
   },
-  "CBVILT2XXXX": {
+  "CBVILT2X": {
     "country": "Lithuania",
     "name": "SEB Lithuania",
     "address": "Gedimino pr. 12",
@@ -27142,7 +27142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-04-30"
   },
-  "CBSBLT26XXX": {
+  "CBSBLT26": {
     "country": "Lithuania",
     "name": "Siauliu Bankas AB",
     "address": "149, Tilzes Street",
@@ -27150,7 +27150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-04-02"
   },
-  "HABALT22XXX": {
+  "HABALT22": {
     "country": "Lithuania",
     "name": "Swedbank AB",
     "address": "20A Konstitucijos pr.",
@@ -27158,7 +27158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-09-11"
   },
-  "TRYULT21XXX": {
+  "TRYULT21": {
     "country": "Lithuania",
     "name": "Transactive Systems UAB",
     "address": "Upes g.23",
@@ -27166,7 +27166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": "2019-07-16"
   },
-  "UACOLT21XXX": {
+  "UACOLT21": {
     "country": "Lithuania",
     "name": "UAB \"Contabilita\"",
     "address": "A. Vivulskio g.7 - 506",
@@ -27174,7 +27174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "UIPULT21XXX": {
+  "UIPULT21": {
     "country": "Lithuania",
     "name": "UAB \"International Payment Union\"",
     "address": "Mesiniu 5",
@@ -27182,7 +27182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "NEUALT21XXX": {
+  "NEUALT21": {
     "country": "Lithuania",
     "name": "UAB \"NexPay\"",
     "address": "J.Savickio g.4",
@@ -27190,7 +27190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-12-17",
     "instant_readiness": null
   },
-  "PAEOLT21XXX": {
+  "PAEOLT21": {
     "country": "Lithuania",
     "name": "UAB \"PanPay Europe\"",
     "address": "Antano Tumeno g.4",
@@ -27198,7 +27198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-07-02",
     "instant_readiness": null
   },
-  "UAPYLT21XXX": {
+  "UAPYLT21": {
     "country": "Lithuania",
     "name": "UAB Alternative payments",
     "address": "Mesiniu 5",
@@ -27206,7 +27206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "UAAMLT21XXX": {
+  "UAAMLT21": {
     "country": "Lithuania",
     "name": "UAB Argentum mobile",
     "address": "Tuskulenu g. 33C-55",
@@ -27214,7 +27214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-03-07",
     "instant_readiness": "2019-07-16"
   },
-  "UADELT21XXX": {
+  "UADELT21": {
     "country": "Lithuania",
     "name": "UAB deVere E-Money",
     "address": "Mesiniu str. 5",
@@ -27230,7 +27230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-07-08",
     "instant_readiness": "2019-07-08"
   },
-  "UAFOLT21XXX": {
+  "UAFOLT21": {
     "country": "Lithuania",
     "name": "UAB Finolita Unio",
     "address": "Lvovo str 25",
@@ -27238,7 +27238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-12",
     "instant_readiness": null
   },
-  "IBIULT21XXX": {
+  "IBIULT21": {
     "country": "Lithuania",
     "name": "UAB IBS Lithuania",
     "address": "Jogailos g. 9",
@@ -27246,7 +27246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "UAINLT21XXX": {
+  "UAINLT21": {
     "country": "Lithuania",
     "name": "UAB Instarem EU",
     "address": "Mesiniu g.5",
@@ -27254,7 +27254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-07-02",
     "instant_readiness": "2019-04-01"
   },
-  "MNNELT21XXX": {
+  "MNNELT21": {
     "country": "Lithuania",
     "name": "UAB Maneuver LT",
     "address": "Zalgirio 88",
@@ -27262,7 +27262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-05",
     "instant_readiness": null
   },
-  "MDBALT22XXX": {
+  "MDBALT22": {
     "country": "Lithuania",
     "name": "UAB Medicinos Bankas",
     "address": "Pamenkalnio STR. 40",
@@ -27270,7 +27270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-12-14",
     "instant_readiness": null
   },
-  "UAMMLT21XXX": {
+  "UAMMLT21": {
     "country": "Lithuania",
     "name": "UAB Mobilieji mok\u0117jimai",
     "address": "Antano Tumeno g. 4",
@@ -27278,7 +27278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "UANFLT21XXX": {
+  "UANFLT21": {
     "country": "Lithuania",
     "name": "UAB Neo Finance",
     "address": "Verkiu 25C-1",
@@ -27286,7 +27286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-05",
     "instant_readiness": null
   },
-  "UNECLT21XXX": {
+  "UNECLT21": {
     "country": "Lithuania",
     "name": "UAB New Entertainment Technology",
     "address": "Guriu sodu 17-ojl g.45",
@@ -27294,7 +27294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-08",
     "instant_readiness": null
   },
-  "UAPULT21XXX": {
+  "UAPULT21": {
     "country": "Lithuania",
     "name": "UAB Paytend Europe",
     "address": "Mesiniu st. 5",
@@ -27302,7 +27302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-06",
     "instant_readiness": null
   },
-  "PEPGLT21XXX": {
+  "PEPGLT21": {
     "country": "Lithuania",
     "name": "UAB Perlo Paslaugos",
     "address": "Olimpieciu STR. 15-1",
@@ -27310,7 +27310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "UAPELT21XXX": {
+  "UAPELT21": {
     "country": "Lithuania",
     "name": "UAB Pervesk",
     "address": "Ausros al. 68",
@@ -27318,7 +27318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "UAPPLT21XXX": {
+  "UAPPLT21": {
     "country": "Lithuania",
     "name": "UAB Phoenix Payments",
     "address": "Mesiniu str 5",
@@ -27326,7 +27326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-10",
     "instant_readiness": null
   },
-  "UAPLLT21XXX": {
+  "UAPLLT21": {
     "country": "Lithuania",
     "name": "UAB Pyrros Lithuania",
     "address": "Mesiniu st. 5",
@@ -27334,7 +27334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-07-08",
     "instant_readiness": null
   },
-  "SESOLT21XXX": {
+  "SESOLT21": {
     "country": "Lithuania",
     "name": "UAB Seven Seas Europe",
     "address": "Olimpieciu st 1-5",
@@ -27342,7 +27342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-06",
     "instant_readiness": null
   },
-  "SHFRLT21XXX": {
+  "SHFRLT21": {
     "country": "Lithuania",
     "name": "UAB Shift Financial Services LT",
     "address": "Jogalios st. 9",
@@ -27350,7 +27350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-04",
     "instant_readiness": "2019-08-01"
   },
-  "TEUALT22XXX": {
+  "TEUALT22": {
     "country": "Lithuania",
     "name": "UAB TeslaPay",
     "address": "Dariaus ir Gireno 42A",
@@ -27358,7 +27358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "UAWALT21XXX": {
+  "UAWALT21": {
     "country": "Lithuania",
     "name": "UAB Walletto",
     "address": "A.Gostauto g.8-107",
@@ -27366,7 +27366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-06",
     "instant_readiness": null
   },
-  "ZEGOLT21XXX": {
+  "ZEGOLT21": {
     "country": "Lithuania",
     "name": "UAB ZEN.COM",
     "address": "Mesiniu str. 5",
@@ -27374,7 +27374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "VAUALT21XXX": {
+  "VAUALT21": {
     "country": "Lithuania",
     "name": "Valyuz UAB",
     "address": "Vilniaus g. 31/1",
@@ -27382,7 +27382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-12-17",
     "instant_readiness": null
   },
-  "VEPALT21XXX": {
+  "VEPALT21": {
     "country": "Lithuania",
     "name": "Verified Payments JSC",
     "address": "Gedimino Av 20",
@@ -27390,7 +27390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-07-02",
     "instant_readiness": null
   },
-  "VPLALT21XXX": {
+  "VPLALT21": {
     "country": "Lithuania",
     "name": "Verse Payments Lithuania UAB",
     "address": "Vilniaus g. 31",
@@ -27398,7 +27398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": "2019-09-02"
   },
-  "VIPULT22XXX": {
+  "VIPULT22": {
     "country": "Lithuania",
     "name": "Via Payments UAB",
     "address": "\u017dalgirio g. 90",
@@ -27406,7 +27406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "VIKULT21XXX": {
+  "VIKULT21": {
     "country": "Lithuania",
     "name": "Vilniaus kredito unija",
     "address": "Ulonu str. 5",
@@ -27414,7 +27414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "WAUALT21XXX": {
+  "WAUALT21": {
     "country": "Lithuania",
     "name": "Wallter UAB",
     "address": "Lvovo Str.  25 -104",
@@ -27422,7 +27422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "WIUALT22XXX": {
+  "WIUALT22": {
     "country": "Lithuania",
     "name": "Wittix UAB",
     "address": "Lvov g. 25 - 104",
@@ -27430,7 +27430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "ADVZLULLXXX": {
+  "ADVZLULL": {
     "country": "Luxembourg",
     "name": "Advanzia Bank S.A.",
     "address": "9 RUE Gabriel Lipmann, Parc D'Activite Syrdall 2",
@@ -27438,7 +27438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BACALULLXXX": {
+  "BACALULL": {
     "country": "Luxembourg",
     "name": "Andbank Luxembourg S.A.",
     "address": "4, rue Jean Monnet",
@@ -27446,7 +27446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "BPMOLULSXXX": {
+  "BPMOLULS": {
     "country": "Luxembourg",
     "name": "Banca Popolare Dell'Emilia Romagna (Europe) International S.A.",
     "address": "Boulevard Royal 30",
@@ -27454,7 +27454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAERLULUXXX": {
+  "BAERLULU": {
     "country": "Luxembourg",
     "name": "Bank Julius Baer Europe S.A.",
     "address": "25, RUE Edward Steichen / for invoices: Bahnhofstrasse 36, CH 8010 Zurich, Switzerland - see IL032-19",
@@ -27462,7 +27462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKCHLULAXXX": {
+  "BKCHLULA": {
     "country": "Luxembourg",
     "name": "Bank of China (Luxembourg) SA",
     "address": "37-39 boulevard Prince Henri",
@@ -27470,7 +27470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "BKCHLULLXXX": {
+  "BKCHLULL": {
     "country": "Luxembourg",
     "name": "Bank OF China Limited, Luxembourg Branch",
     "address": "37-39, Boulevard du Prince Henri",
@@ -27478,7 +27478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "BKBKLULLXXX": {
+  "BKBKLULL": {
     "country": "Luxembourg",
     "name": "Bankinter Luxembourg S.A.",
     "address": "37, Avenue JF Kennedy",
@@ -27486,7 +27486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BMECLULLXXX": {
+  "BMECLULL": {
     "country": "Luxembourg",
     "name": "Banque BCP S.A. Luxembourg",
     "address": "5 RUE DES Merovingiens",
@@ -27494,7 +27494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLUXLULLXXX": {
+  "BLUXLULL": {
     "country": "Luxembourg",
     "name": "Banque DE Luxembourg S.A.",
     "address": "14, Boulevard Royal",
@@ -27502,7 +27502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DELELULLXXX": {
+  "DELELULL": {
     "country": "Luxembourg",
     "name": "Banque Delen Luxembourg",
     "address": "287, Route D ' Arlon",
@@ -27510,7 +27510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCEELULLXXX": {
+  "BCEELULL": {
     "country": "Luxembourg",
     "name": "Banque ET Caisse D'Epargne DE L'Etat Luxembourg",
     "address": "1, Place DE Metz",
@@ -27518,7 +27518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HAVLLULLXXX": {
+  "HAVLLULL": {
     "country": "Luxembourg",
     "name": "Banque Havilland S.A.",
     "address": "35A, Avenue J.F. Kennedy",
@@ -27526,7 +27526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "BILLLULLXXX": {
+  "BILLLULL": {
     "country": "Luxembourg",
     "name": "Banque Internationale A Luxembourg S.A.",
     "address": "69, Route D ' Esch",
@@ -27534,7 +27534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PRIBLULLXXX": {
+  "PRIBLULL": {
     "country": "Luxembourg",
     "name": "Banque Privee Edmond DE Rothschild Europe",
     "address": "20, Boulevard Emmanuel Servais",
@@ -27542,7 +27542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CCRALULLXXX": {
+  "CCRALULL": {
     "country": "Luxembourg",
     "name": "Banque Raiffeisen S.C.",
     "address": "4, rue Leon Laval",
@@ -27550,7 +27550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-06-01",
     "instant_readiness": null
   },
-  "CMCILUL1XXX": {
+  "CMCILUL1": {
     "country": "Luxembourg",
     "name": "Banque Transatlantique Luxembourg SA",
     "address": "17 Cote D'Eich - BP 884",
@@ -27558,7 +27558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-13",
     "instant_readiness": null
   },
-  "BEMOLULLXXX": {
+  "BEMOLULL": {
     "country": "Luxembourg",
     "name": "Bemo Europe - Banque Privee",
     "address": "18 Boulevard Royal",
@@ -27566,7 +27566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BGLLLULLXXX": {
+  "BGLLLULL": {
     "country": "Luxembourg",
     "name": "BGL BNP Paribas",
     "address": "50, Avenue J. F. Kennedy",
@@ -27574,7 +27574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AGRILULAXXX": {
+  "AGRILULA": {
     "country": "Luxembourg",
     "name": "CA Indosuez Wealth (Europe)",
     "address": "39, Allee Scheffer",
@@ -27582,7 +27582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "INVKLULLXXX": {
+  "INVKLULL": {
     "country": "Luxembourg",
     "name": "Catella Bank S.A.",
     "address": "RUE Pafebruch 38",
@@ -27590,7 +27590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "PCBCLULLXXX": {
+  "PCBCLULL": {
     "country": "Luxembourg",
     "name": "China Construction Bank (Europe) S.A.",
     "address": "1 Boulevard Royal",
@@ -27598,7 +27598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "CBPXLULLXXX": {
+  "CBPXLULL": {
     "country": "Luxembourg",
     "name": "Compagnie de Banque Priv\u00e9e SA",
     "address": "48 Rue Charles Martel",
@@ -27606,7 +27606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "CRESLULLXXX": {
+  "CRESLULL": {
     "country": "Luxembourg",
     "name": "Credit Suisse (Luxembourg) S.A.",
     "address": "5, rue Jean Monnet",
@@ -27614,7 +27614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DABALULLXXX": {
+  "DABALULL": {
     "country": "Luxembourg",
     "name": "Danske Bank International S.A.",
     "address": "13, rue Edward Steichen",
@@ -27622,7 +27622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-08",
     "instant_readiness": "2019-04-01"
   },
-  "DGZFLULIXXX": {
+  "DGZFLULI": {
     "country": "Luxembourg",
     "name": "Dekabank Deutsche Girozentrale Luxembourg S.A.",
     "address": "Rue Lou Hemmer 6",
@@ -27630,7 +27630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "DEUTLULLXXX": {
+  "DEUTLULL": {
     "country": "Luxembourg",
     "name": "Deutsche Bank Luxembourg S.A.",
     "address": "2, Boulevard Konrad Audenauer",
@@ -27638,7 +27638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UBNLLULLXXX": {
+  "UBNLLULL": {
     "country": "Luxembourg",
     "name": "DNB Luxembourg S.A.",
     "address": "13, RUE Goethe",
@@ -27646,7 +27646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-07-09",
     "instant_readiness": null
   },
-  "GENOLULLXXX": {
+  "GENOLULL": {
     "country": "Luxembourg",
     "name": "DZ Privatbank S.A.",
     "address": "4, RUE Thomas Edison",
@@ -27654,7 +27654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EWUBLULLXXX": {
+  "EWUBLULL": {
     "country": "Luxembourg",
     "name": "East-West United Bank S.A.",
     "address": "10 Boulevard Joseph II",
@@ -27662,7 +27662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-12",
     "instant_readiness": null
   },
-  "EFGBLULXXXX": {
+  "EFGBLULX": {
     "country": "Luxembourg",
     "name": "EFG Bank Luxembourg SA",
     "address": "56, Grand-Rue",
@@ -27670,7 +27670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "ERBKLULLXXX": {
+  "ERBKLULL": {
     "country": "Luxembourg",
     "name": "Eurobank Private Bank Luxembourg S.A.",
     "address": "5 RUE Jean Monnet",
@@ -27678,7 +27678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "WBWCLULLXXX": {
+  "WBWCLULL": {
     "country": "Luxembourg",
     "name": "European Depositary Bank SA",
     "address": "2 Place Dargent",
@@ -27686,7 +27686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "FOTNLULLXXX": {
+  "FOTNLULL": {
     "country": "Luxembourg",
     "name": "Fortuna Banque S.C.",
     "address": "130-132 Boulevard DE LA Petrusse",
@@ -27694,7 +27694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "SOPPLULXXXX": {
+  "SOPPLULX": {
     "country": "Luxembourg",
     "name": "Hauck & Aufh\u00e4user Fund Platforms S.A.",
     "address": "1c, rue Gabriel Lippmann",
@@ -27702,7 +27702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HAUKLULLXXX": {
+  "HAUKLULL": {
     "country": "Luxembourg",
     "name": "Hauck und Aufhaeuser Privatbankiers KGaA, Niederlassung Luxemburg",
     "address": "1c, rue Gabriel Lippmann",
@@ -27710,7 +27710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HSHNLULLXXX": {
+  "HSHNLULL": {
     "country": "Luxembourg",
     "name": "Hcob Securities  S.A, Luxembourg",
     "address": "2, RUE Jean Monnet",
@@ -27718,7 +27718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLICLULXXXX": {
+  "BLICLULX": {
     "country": "Luxembourg",
     "name": "Hsbc Private Bank (Luxembourg) S.A.",
     "address": "16 Boulevard d'Avranches",
@@ -27726,7 +27726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "CELLLULLXXX": {
+  "CELLLULL": {
     "country": "Luxembourg",
     "name": "ING Luxembourg S.A.",
     "address": "52, route d ' Esch",
@@ -27734,7 +27734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TDWLLULLXXX": {
+  "TDWLLULL": {
     "country": "Luxembourg",
     "name": "Internaxx Bank S.A.",
     "address": "2, rue Edward Steichen",
@@ -27742,7 +27742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SEBKLULLXXX": {
+  "SEBKLULL": {
     "country": "Luxembourg",
     "name": "Intesa Sanpaolo Bank Luxembourg S.A.",
     "address": "19-21, Bld du Prince Henri",
@@ -27750,7 +27750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CHASLULXXXX": {
+  "CHASLULX": {
     "country": "Luxembourg",
     "name": "J.P. Morgan Bank Luxembourg S.A.",
     "address": "European Bank and Business Centre 6, Route DE Treves",
@@ -27758,7 +27758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-04-04",
     "instant_readiness": null
   },
-  "KBLXLULLXXX": {
+  "KBLXLULL": {
     "country": "Luxembourg",
     "name": "KBL European Private Bankers S.A.",
     "address": "43, Boulevard Royal",
@@ -27766,7 +27766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KEYTLULLXXX": {
+  "KEYTLULL": {
     "country": "Luxembourg",
     "name": "Keytrade Bank Luxembourg",
     "address": "Rue Charles Martel 62",
@@ -27774,7 +27774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-08-14",
     "instant_readiness": null
   },
-  "LOCYLULLXXX": {
+  "LOCYLULL": {
     "country": "Luxembourg",
     "name": "Lombard Odier (Europe) S.A.",
     "address": "291, route d'Arlon",
@@ -27782,7 +27782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "MAGYLUL1XXX": {
+  "MAGYLUL1": {
     "country": "Luxembourg",
     "name": "Mangopay SA",
     "address": "59 Boulevard Royal",
@@ -27790,7 +27790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-07-18",
     "instant_readiness": null
   },
-  "MIRALULLXXX": {
+  "MIRALULL": {
     "country": "Luxembourg",
     "name": "Mirabaud et Cie (Europe) SA",
     "address": "25, avenue de la liberte",
@@ -27806,7 +27806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-04",
     "instant_readiness": null
   },
-  "NIKOLULLXXX": {
+  "NIKOLULL": {
     "country": "Luxembourg",
     "name": "Nikko Bank  (Luxembourg) S.A.",
     "address": "9A, rue Robert Stumper",
@@ -27814,7 +27814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "NOLALULLXXX": {
+  "NOLALULL": {
     "country": "Luxembourg",
     "name": "Nord/LB Luxembourg S.A. Covered Bond Bank",
     "address": "7, rue Lou Hemmer",
@@ -27822,7 +27822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-02",
     "instant_readiness": null
   },
-  "NDEALULLXXX": {
+  "NDEALULL": {
     "country": "Luxembourg",
     "name": "Nordea Bank S.A. Luxembourg",
     "address": "562 RUE DE Neudorf",
@@ -27830,7 +27830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "OPSPFR21XXX": {
+  "OPSPFR21": {
     "country": "Luxembourg",
     "name": "Olkypay",
     "address": "1, rue de Turi",
@@ -27838,7 +27838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "ONPXLULMXXX": {
+  "ONPXLULM": {
     "country": "Luxembourg",
     "name": "Onpex S.A.",
     "address": "59, Boulevard Royal",
@@ -27846,7 +27846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "PICTLULXXXX": {
+  "PICTLULX": {
     "country": "Luxembourg",
     "name": "Pictet et Cie (Europe) S.A.",
     "address": "15A, Avenue J-F Kennedy BP 687",
@@ -27854,7 +27854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "CCPLLULLXXX": {
+  "CCPLLULL": {
     "country": "Luxembourg",
     "name": "Post Luxembourg",
     "address": "Rue de Reims 20",
@@ -27862,7 +27862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RAPSLUL1XXX": {
+  "RAPSLUL1": {
     "country": "Luxembourg",
     "name": "Rakuten Europe Bank S.A.",
     "address": "RUE DU Fosse 2",
@@ -27870,7 +27870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-03-06",
     "instant_readiness": null
   },
-  "FETALULLXXX": {
+  "FETALULL": {
     "country": "Luxembourg",
     "name": "RBC Investor Services Bank S.A.",
     "address": "14, Porte DE France",
@@ -27878,7 +27878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-01-11",
     "instant_readiness": null
   },
-  "SATYLUL1XXX": {
+  "SATYLUL1": {
     "country": "Luxembourg",
     "name": "Satispay Europe SA",
     "address": "Rue Edward Steichen, 2",
@@ -27886,7 +27886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-12",
     "instant_readiness": null
   },
-  "ESSELULLXXX": {
+  "ESSELULL": {
     "country": "Luxembourg",
     "name": "Skandinaviska Enskilda Banken S.A.",
     "address": "6A, Circuit DE LA Foire Internationale",
@@ -27894,7 +27894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SSWILUL1XXX": {
+  "SSWILUL1": {
     "country": "Luxembourg",
     "name": "SnapSwap International S.A.",
     "address": "59, boulevard Royal",
@@ -27902,7 +27902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-12",
     "instant_readiness": null
   },
-  "SGABLULLXXX": {
+  "SGABLULL": {
     "country": "Luxembourg",
     "name": "Societe Generale Bank & Trust S.A.",
     "address": "11, Avenue Emile Reuter",
@@ -27910,7 +27910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UBSWLULLXXX": {
+  "UBSWLULL": {
     "country": "Luxembourg",
     "name": "UBS Luxembourg S.A.",
     "address": "33A Avenue J.F. Kennedy",
@@ -27918,7 +27918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNCRLULLXXX": {
+  "UNCRLULL": {
     "country": "Luxembourg",
     "name": "Unicredit International Bank (Luxembourg) S.A.",
     "address": "1 Allee Scheffer",
@@ -27926,7 +27926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HYVELULLXXX": {
+  "HYVELULL": {
     "country": "Luxembourg",
     "name": "Unicredit Luxembourg S.A.",
     "address": "10, RUE Jean Monnet",
@@ -27934,7 +27934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "DBSALULLXXX": {
+  "DBSALULL": {
     "country": "Luxembourg",
     "name": "Union Bancaire Privee (Europe) S.A.",
     "address": "Route D'Arlon 287-289",
@@ -27942,7 +27942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "VPBVLULLXXX": {
+  "VPBVLULL": {
     "country": "Luxembourg",
     "name": "VP Bank Luxembourg S.A.",
     "address": "26 Avenue DE LA Liberte",
@@ -27950,7 +27950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-01-13",
     "instant_readiness": null
   },
-  "APSBMTMTXXX": {
+  "APSBMTMT": {
     "country": "Malta",
     "name": "APS Bank LTD.",
     "address": "APS House, Tower Road",
@@ -27958,7 +27958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VALLMTMTXXX": {
+  "VALLMTMT": {
     "country": "Malta",
     "name": "Bank OF Valletta P.L.C.",
     "address": "BOV Centre, Cannon Road",
@@ -27966,7 +27966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BNIFMTMTXXX": {
+  "BNIFMTMT": {
     "country": "Malta",
     "name": "BNF Bank plc",
     "address": "203, Level 2, RUE D'Argens",
@@ -27974,7 +27974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "MALTMTMTXXX": {
+  "MALTMTMT": {
     "country": "Malta",
     "name": "Central Bank OF Malta",
     "address": "Castille Place",
@@ -27982,7 +27982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CRXBMTMTXXX": {
+  "CRXBMTMT": {
     "country": "Malta",
     "name": "Credorax Bank Ltd",
     "address": "Palazzo Homedes 80 Strait Street",
@@ -27990,7 +27990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-08",
     "instant_readiness": null
   },
-  "EFTGMTM2XXX": {
+  "EFTGMTM2": {
     "country": "Malta",
     "name": "EFT Global Limited",
     "address": "Palazzo Pietro Stiges 103 Strait Street",
@@ -27998,7 +27998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-09-09",
     "instant_readiness": null
   },
-  "EMONMTM2XXX": {
+  "EMONMTM2": {
     "country": "Malta",
     "name": "Emoney Plc",
     "address": "Regent House 4/45 Bisazza street",
@@ -28006,7 +28006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-02",
     "instant_readiness": "2019-06-03"
   },
-  "FCMFMTMTXXX": {
+  "FCMFMTMT": {
     "country": "Malta",
     "name": "FCM Bank Limited",
     "address": "Suite 3, Tower Business Centre, Tower Street",
@@ -28014,7 +28014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "FEMAMTMTXXX": {
+  "FEMAMTMT": {
     "country": "Malta",
     "name": "Ferratum Bank P.L.C.",
     "address": "Tagliaferro Business Centre, Level 6, 14 High Street,",
@@ -28022,7 +28022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-05-09",
     "instant_readiness": null
   },
-  "FFSMMTM1XXX": {
+  "FFSMMTM1": {
     "country": "Malta",
     "name": "Fexserv Financial Services Limited",
     "address": "Alpine House Naxxar Road",
@@ -28030,7 +28030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "FIMBMTM3XXX": {
+  "FIMBMTM3": {
     "country": "Malta",
     "name": "FIMBank p.l.c.",
     "address": "Mercury Tower, The Exchange Financial And Business Centre, Elia Zammit Street, St. Julians",
@@ -28038,7 +28038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FINDMTMTXXX": {
+  "FINDMTMT": {
     "country": "Malta",
     "name": "Finductive Ltd.",
     "address": "Office 4 - Level 3 - Vjal il-Helsien, 46",
@@ -28046,7 +28046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-08-12",
     "instant_readiness": null
   },
-  "MMEBMTMTXXX": {
+  "MMEBMTMT": {
     "country": "Malta",
     "name": "Hsbc Bank Malta plc",
     "address": "116, Archbishop Street",
@@ -28054,7 +28054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IIGBMTMTXXX": {
+  "IIGBMTMT": {
     "country": "Malta",
     "name": "IIG Bank (Malta) LTD",
     "address": "Level 20, Portomaso Business Tower",
@@ -28062,7 +28062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "IZOLMTMTXXX": {
+  "IZOLMTMT": {
     "country": "Malta",
     "name": "Izola Bank PLC",
     "address": "53-58, East Street",
@@ -28070,7 +28070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LBMAMTMTXXX": {
+  "LBMAMTMT": {
     "country": "Malta",
     "name": "Lombard Bank Malta PLC",
     "address": "67, Republic Street",
@@ -28078,7 +28078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MBWMMTMTXXX": {
+  "MBWMMTMT": {
     "country": "Malta",
     "name": "MeDirect Bank (Malta) plc",
     "address": "The Centre Level 1, Tigne Point",
@@ -28086,7 +28086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MFCBMTMSXXX": {
+  "MFCBMTMS": {
     "country": "Malta",
     "name": "Merkanti Bank Limited",
     "address": "The Plaza Commercial Centre Level 4, Suite 7 Bisazza Street",
@@ -28094,7 +28094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FNNBMTMTXXX": {
+  "FNNBMTMT": {
     "country": "Malta",
     "name": "NBG Bank Malta Limited",
     "address": "302/304, Qui-Si-Sana Seafront",
@@ -28102,7 +28102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": null
   },
-  "VOCBMTMTXXX": {
+  "VOCBMTMT": {
     "country": "Malta",
     "name": "Novum Bank Limited",
     "address": "4th Floor, Global Capital Building, Testaferrata Street, TA'Xbiex",
@@ -28110,7 +28110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "PAPYMTMTXXX": {
+  "PAPYMTMT": {
     "country": "Malta",
     "name": "Papaya LTD",
     "address": "31 Sliema Road",
@@ -28118,7 +28118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "PAUUMTM1XXX": {
+  "PAUUMTM1": {
     "country": "Malta",
     "name": "Paymentworld Europe Limited",
     "address": "Skyway Offices Block A / Suite 3 / 177 Marina street",
@@ -28126,7 +28126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-05-06",
     "instant_readiness": null
   },
-  "PYMXMTMTXXX": {
+  "PYMXMTMT": {
     "country": "Malta",
     "name": "Paymix LTD",
     "address": "The Penthouse, JPR Buildings Triq Taz-Zwejt",
@@ -28134,7 +28134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-08",
     "instant_readiness": "2019-02-08"
   },
-  "PHPYMTM1XXX": {
+  "PHPYMTM1": {
     "country": "Malta",
     "name": "Phoenix Payments Ltd",
     "address": "5th Floor, Valletta Buildings, South Street",
@@ -28142,7 +28142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "STBAMTMTXXX": {
+  "STBAMTMT": {
     "country": "Malta",
     "name": "Satabank PLC",
     "address": "Aragon Business Centre, Dragonara Road",
@@ -28150,7 +28150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": "2017-12-11"
   },
-  "SBMTMTMTXXX": {
+  "SBMTMTMT": {
     "country": "Malta",
     "name": "Sparkasse Bank Malta PLC",
     "address": "101, Townsquare, Ix-Xatt Ta Qui-si-Sana",
@@ -28158,7 +28158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TRPEMTM1XXX": {
+  "TRPEMTM1": {
     "country": "Malta",
     "name": "Truevo Payments Ltd.",
     "address": "MWH Building, 1st Floor - Oratory Street",
@@ -28166,7 +28166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "COPXMTMTXXX": {
+  "COPXMTMT": {
     "country": "Malta",
     "name": "W AND J Coppini AND CO",
     "address": "144, Tower Road",
@@ -28174,7 +28174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "BACAMCMCXXX": {
+  "BACAMCMC": {
     "country": "Monaco",
     "name": "Andbank Monaco SAM",
     "address": "1 Avenue DES Citronniers",
@@ -28190,7 +28190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": "2018-09-14"
   },
-  "HAVLMCMXXXX": {
+  "HAVLMCMX": {
     "country": "Monaco",
     "name": "Banque Havilland (Monaco) S.A.M.",
     "address": "Boulevard DES Moulins 3-9",
@@ -28198,7 +28198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "BJSBMCMXXXX": {
+  "BJSBMCMX": {
     "country": "Monaco",
     "name": "Banque J. Safra Sarasin (Monaco) SA",
     "address": "Belle Epoque 15 bis/ 17 avenue d'Ostende BP 347",
@@ -28206,7 +28206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-01",
     "instant_readiness": null
   },
-  "KBLXMCMCXXX": {
+  "KBLXMCMC": {
     "country": "Monaco",
     "name": "Banque Richelieu Monaco",
     "address": "8, av de Gde Bretagne, B.P. 262",
@@ -28214,7 +28214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-05",
     "instant_readiness": null
   },
-  "BPPBMCMCXXX": {
+  "BPPBMCMC": {
     "country": "Monaco",
     "name": "BNP Paribas Wealth Management Monaco",
     "address": "15-17 av  d'Ostende, B.P. 257",
@@ -28222,7 +28222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-07",
     "instant_readiness": null
   },
-  "CFMOMCMXXXX": {
+  "CFMOMCMX": {
     "country": "Monaco",
     "name": "CFM  Indosuez Wealth Management",
     "address": "11, bd Albert 1er, B.P. 499",
@@ -28230,7 +28230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "CMBMMCMXXXX": {
+  "CMBMMCMX": {
     "country": "Monaco",
     "name": "Compagnie Monegasque de Banque",
     "address": "23, av de la Costa, B.P. 149",
@@ -28238,7 +28238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "CMMDMCM1XXX": {
+  "CMMDMCM1": {
     "country": "Monaco",
     "name": "Credit Mobilier de Monaco SAM",
     "address": "15, av de Gde Bretagne, B.P. 81",
@@ -28246,7 +28246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "BERLMCMCXXX": {
+  "BERLMCMC": {
     "country": "Monaco",
     "name": "Ed de Rothschild  Monaco",
     "address": "2, av de Monte-Carlo, B.P. 317",
@@ -28254,7 +28254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-31",
     "instant_readiness": null
   },
-  "EFGBMCMCXXX": {
+  "EFGBMCMC": {
     "country": "Monaco",
     "name": "EFG Bank (Monaco) SAM",
     "address": "15, av  d'Ostende, Villa Les Aigles",
@@ -28262,7 +28262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-01-04",
     "instant_readiness": null
   },
-  "BAERMCMCXXX": {
+  "BAERMCMC": {
     "country": "Monaco",
     "name": "Julius Baer (Monaco) S.A.M.",
     "address": "Avenue DES Citronniers 1 BP 195",
@@ -28270,7 +28270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-07-01",
     "instant_readiness": null
   },
-  "SGBTMCMCXXX": {
+  "SGBTMCMC": {
     "country": "Monaco",
     "name": "SG Private Banking (Monaco) SAM",
     "address": "13-15 bd des Moulins, B.P. 250",
@@ -28278,7 +28278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-04-01",
     "instant_readiness": null
   },
-  "UBSWMCMXXXX": {
+  "UBSWMCMX": {
     "country": "Monaco",
     "name": "UBS (Monaco) SA",
     "address": "2, av de Gde Bretagne, B.P. 189",
@@ -28286,7 +28286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "ABNANL2AXXX": {
+  "ABNANL2A": {
     "country": "Netherlands",
     "name": "ABN Amro Bank N.V.",
     "address": "Gustav Mahlerlaan 10",
@@ -28294,7 +28294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "ABNCNL2AXXX": {
+  "ABNCNL2A": {
     "country": "Netherlands",
     "name": "ABN Amro Clearing Bank N.V.",
     "address": "Gustav Mahlerlaan 10",
@@ -28302,7 +28302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "ARBNNL22XXX": {
+  "ARBNNL22": {
     "country": "Netherlands",
     "name": "Achmea Bank N.V.",
     "address": "Spoorlaan 298",
@@ -28310,7 +28310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ADYBNL2AXXX": {
+  "ADYBNL2A": {
     "country": "Netherlands",
     "name": "Adyen B.V.",
     "address": "Simon Carmiggeltstraat 6-50 5th floor",
@@ -28318,7 +28318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "AEGONL2UXXX": {
+  "AEGONL2U": {
     "country": "Netherlands",
     "name": "Aegon Bank N.V.",
     "address": "Aegonplein 50",
@@ -28326,7 +28326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-07"
   },
-  "ATBANL2AXXX": {
+  "ATBANL2A": {
     "country": "Netherlands",
     "name": "Amsterdam Trade Bank N.V.",
     "address": "Amsterdam Trade Bank N.V. World Trade Center Tower I, Level 6, Strawinskylaan 1939",
@@ -28334,7 +28334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ANDLNL2AXXX": {
+  "ANDLNL2A": {
     "country": "Netherlands",
     "name": "Anadolubank Nederland N.V.",
     "address": "De Boelelaan 7",
@@ -28342,7 +28342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "ASRBNL2RXXX": {
+  "ASRBNL2R": {
     "country": "Netherlands",
     "name": "ASR Bank NV",
     "address": "10, Archimedeslaan",
@@ -28350,7 +28350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "BKMGNL2AXXX": {
+  "BKMGNL2A": {
     "country": "Netherlands",
     "name": "Bank Mendes Gans N.V.",
     "address": "619, Herengracht",
@@ -28358,7 +28358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BICKNL2AXXX": {
+  "BICKNL2A": {
     "country": "Netherlands",
     "name": "Binckbank N.V.",
     "address": "Barbara Strozzilaan 310",
@@ -28366,7 +28366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BNGHNL2GXXX": {
+  "BNGHNL2G": {
     "country": "Netherlands",
     "name": "BNG Bank N.V.",
     "address": "2, Koninginnegracht",
@@ -28374,7 +28374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BNDANL2AXXX": {
+  "BNDANL2A": {
     "country": "Netherlands",
     "name": "Brand New Day Bank N.V.",
     "address": "Hoogoorddreef 15",
@@ -28382,7 +28382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BUNQNL2AXXX": {
+  "BUNQNL2A": {
     "country": "Netherlands",
     "name": "Bunq B.V.",
     "address": "Naritaweg 131-133",
@@ -28390,7 +28390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-12-08",
     "instant_readiness": "2017-12-11"
   },
-  "CITCNL2AXXX": {
+  "CITCNL2A": {
     "country": "Netherlands",
     "name": "Citco Bank Nederland N.V.",
     "address": "Naritaweg 165, P.O. Box 7241",
@@ -28398,7 +28398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-08-01",
     "instant_readiness": null
   },
-  "FBHLNL2AXXX": {
+  "FBHLNL2A": {
     "country": "Netherlands",
     "name": "Credit Europe Bank N.V.",
     "address": "6A, Karspeldreef",
@@ -28406,7 +28406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FLORNL2AXXX": {
+  "FLORNL2A": {
     "country": "Netherlands",
     "name": "De Nederlandsche Bank N.V.",
     "address": "Westeinde 1",
@@ -28414,7 +28414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SNSBNL2AXXX": {
+  "SNSBNL2A": {
     "country": "Netherlands",
     "name": "De Volksbank N.V.",
     "address": "Croeselaan 1",
@@ -28422,7 +28422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-08"
   },
-  "DHBNNL2RXXX": {
+  "DHBNNL2R": {
     "country": "Netherlands",
     "name": "Demir-Halk Bank (Nederland) N.V.",
     "address": "Weena 780",
@@ -28430,7 +28430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FRNXNL2AXXX": {
+  "FRNXNL2A": {
     "country": "Netherlands",
     "name": "Franx B.V.",
     "address": "Hogehilweg 5 L",
@@ -28438,7 +28438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "UGBINL2AXXX": {
+  "UGBINL2A": {
     "country": "Netherlands",
     "name": "GarantiBank International N.V.",
     "address": "Keizersgracht 569-575",
@@ -28446,7 +28446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HHBANL22XXX": {
+  "HHBANL22": {
     "country": "Netherlands",
     "name": "Hof Hoorneman Bankiers NV",
     "address": "Oosthaven 52",
@@ -28454,7 +28454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-08-09",
     "instant_readiness": null
   },
-  "ICEPNL21XXX": {
+  "ICEPNL21": {
     "country": "Netherlands",
     "name": "Icepay",
     "address": "Nachtwachtlaan 20",
@@ -28462,7 +28462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-10-02",
     "instant_readiness": null
   },
-  "INGBNL2AXXX": {
+  "INGBNL2A": {
     "country": "Netherlands",
     "name": "ING Bank N.V.",
     "address": "Bijlmerplein 888",
@@ -28470,7 +28470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "GILLNL2AXXX": {
+  "GILLNL2A": {
     "country": "Netherlands",
     "name": "InsingerGilissen Bankiers N.V",
     "address": "Herengracht 537",
@@ -28478,7 +28478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CHASNL2XXXX": {
+  "CHASNL2X": {
     "country": "Netherlands",
     "name": "JPMorgan Chase Bank, N.A., Amsterdam Branch",
     "address": "Strawinskylaan 1135",
@@ -28486,7 +28486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "KASANL2AXXX": {
+  "KASANL2A": {
     "country": "Netherlands",
     "name": "KAS Bank N.V",
     "address": "De Entree 500",
@@ -28494,7 +28494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LPLNNL2FXXX": {
+  "LPLNNL2F": {
     "country": "Netherlands",
     "name": "LeasePlan Corporation, t.a.v. LeasePlan Bank",
     "address": "P.J. Oudweg 4",
@@ -28502,7 +28502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-04-08",
     "instant_readiness": null
   },
-  "ICBCNL2AXXX": {
+  "ICBCNL2A": {
     "country": "Netherlands",
     "name": "Mega International Commercial Bank Co Ltd Amsterdam Branch",
     "address": "World Trade Center Strawinskylaan 1203",
@@ -28510,7 +28510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-05-06",
     "instant_readiness": null
   },
-  "MHCBNL2AXXX": {
+  "MHCBNL2A": {
     "country": "Netherlands",
     "name": "Mizuho Bank Europe N.V.",
     "address": "171, Apollolaan",
@@ -28518,7 +28518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BOTKNL2XXXX": {
+  "BOTKNL2X": {
     "country": "Netherlands",
     "name": "Mufg Bank (Europe) N.V.",
     "address": "Strawinskylaan 1887",
@@ -28526,7 +28526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NNBANL2GXXX": {
+  "NNBANL2G": {
     "country": "Netherlands",
     "name": "Nationale-Nederlanden Bank N.V.",
     "address": "Prinses Beatrixlaan 35",
@@ -28534,7 +28534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-07",
     "instant_readiness": null
   },
-  "NWABNL2GXXX": {
+  "NWABNL2G": {
     "country": "Netherlands",
     "name": "Nederlandse Waterschapsbank N.V.",
     "address": "Rooseveltplantsoen 3",
@@ -28542,7 +28542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-08"
   },
-  "DNIBNL2GXXX": {
+  "DNIBNL2G": {
     "country": "Netherlands",
     "name": "Nibc Bank N.V.",
     "address": "Carnegieplein 4",
@@ -28550,7 +28550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-07-06",
     "instant_readiness": null
   },
-  "RABONL2UXXX": {
+  "RABONL2U": {
     "country": "Netherlands",
     "name": "Rabobank Nederland",
     "address": "18, Croeselaan",
@@ -28558,7 +28558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-01-07"
   },
-  "TRIONL2UXXX": {
+  "TRIONL2U": {
     "country": "Netherlands",
     "name": "Triodos Bank N.V.",
     "address": "Nieuweroordweg 1",
@@ -28566,7 +28566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-07-09"
   },
-  "FVLBNL22XXX": {
+  "FVLBNL22": {
     "country": "Netherlands",
     "name": "Van Lanschot N.V.",
     "address": "Hooge Steenweg 29",
@@ -28574,7 +28574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BITSNL2AXXX": {
+  "BITSNL2A": {
     "country": "Netherlands",
     "name": "Verotel Merchant Services B.V.",
     "address": "Danzigerkade 23D",
@@ -28582,7 +28582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "KABANL2AXXX": {
+  "KABANL2A": {
     "country": "Netherlands",
     "name": "Yapi Kredi Bank Nederland N.V.",
     "address": "Rembrandt Tower, Amstelplein  1",
@@ -28590,7 +28590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AASANO21XXX": {
+  "AASANO21": {
     "country": "Norway",
     "name": "Aasen Sparebank",
     "address": "Asen",
@@ -28598,7 +28598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "AFJONO21XXX": {
+  "AFJONO21": {
     "country": "Norway",
     "name": "Afjord Sparebank",
     "address": "Afjord",
@@ -28606,7 +28606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ANBUNO21XXX": {
+  "ANBUNO21": {
     "country": "Norway",
     "name": "Andebu Sparebank",
     "address": "Postboks 10",
@@ -28614,7 +28614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ARENNO21XXX": {
+  "ARENNO21": {
     "country": "Norway",
     "name": "Arendal og Omegns Sparekasse",
     "address": "Postboks 70",
@@ -28622,7 +28622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ASKSNO21XXX": {
+  "ASKSNO21": {
     "country": "Norway",
     "name": "Askim AND Spydeberg Sparebank",
     "address": "Postboks 143",
@@ -28630,7 +28630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "AUSPNO21XXX": {
+  "AUSPNO21": {
     "country": "Norway",
     "name": "Aurland Sparebank",
     "address": "Postboks 13",
@@ -28638,7 +28638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "AUSNNO21XXX": {
+  "AUSNNO21": {
     "country": "Norway",
     "name": "Aurskog Sparebank",
     "address": "Postboks 33",
@@ -28646,7 +28646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "NORWNOK1XXX": {
+  "NORWNOK1": {
     "country": "Norway",
     "name": "Bank Norwegian",
     "address": "2, Lybekkergaten, P.O.Box 338 Sentrum",
@@ -28654,7 +28654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "BTWONOK1XXX": {
+  "BTWONOK1": {
     "country": "Norway",
     "name": "Bank2",
     "address": "Postboks 1394",
@@ -28662,7 +28662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BRGPNO21XXX": {
+  "BRGPNO21": {
     "country": "Norway",
     "name": "Berg Sparebank",
     "address": "Postboks 83",
@@ -28670,7 +28670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BISNNO21XXX": {
+  "BISNNO21": {
     "country": "Norway",
     "name": "Birkenes Sparebank",
     "address": "Postboks 68",
@@ -28678,7 +28678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BJUGNO21XXX": {
+  "BJUGNO21": {
     "country": "Norway",
     "name": "Bjugn Sparebank",
     "address": "Postboks 232",
@@ -28686,7 +28686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BLSANO21XXX": {
+  "BLSANO21": {
     "country": "Norway",
     "name": "Blaker Sparebank",
     "address": "Postboks 163",
@@ -28694,7 +28694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "CULTNOK1XXX": {
+  "CULTNOK1": {
     "country": "Norway",
     "name": "Cultura Sparebank",
     "address": "Postboks 6800 St. Olavs plass",
@@ -28702,7 +28702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "DNBANOKKXXX": {
+  "DNBANOKK": {
     "country": "Norway",
     "name": "DNB Bank ASA",
     "address": "21, Stranden",
@@ -28710,7 +28710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "DRANNO21XXX": {
+  "DRANNO21": {
     "country": "Norway",
     "name": "Drangedal og Tordal Sparebank",
     "address": "Strandgaten 8",
@@ -28718,7 +28718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "EIDSNO21XXX": {
+  "EIDSNO21": {
     "country": "Norway",
     "name": "Eidsberg Sparebank",
     "address": "Postboks 164",
@@ -28726,7 +28726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ETNENO21XXX": {
+  "ETNENO21": {
     "country": "Norway",
     "name": "Etne Sparebank",
     "address": "P.O. Box 4",
@@ -28734,7 +28734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "ETSPNO21XXX": {
+  "ETSPNO21": {
     "country": "Norway",
     "name": "Etnedal Sparebank",
     "address": "Bruflat",
@@ -28742,7 +28742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "EVJENO21XXX": {
+  "EVJENO21": {
     "country": "Norway",
     "name": "Evje og Hornnes Sparebank",
     "address": "Sentrum",
@@ -28750,7 +28750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "FLEKNO21XXX": {
+  "FLEKNO21": {
     "country": "Norway",
     "name": "Flekkefjord Sparebank",
     "address": "Post Boks 204",
@@ -28758,7 +28758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "TELENO21XXX": {
+  "TELENO21": {
     "country": "Norway",
     "name": "Fornebu Sparebank",
     "address": "Snaroyveien 30",
@@ -28766,7 +28766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SGFSNO21XXX": {
+  "SGFSNO21": {
     "country": "Norway",
     "name": "Fron Sparebank",
     "address": "PO Box 260",
@@ -28774,7 +28774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GJASNO21XXX": {
+  "GJASNO21": {
     "country": "Norway",
     "name": "Gjensidige Bank ASA",
     "address": "PO BOX 125",
@@ -28782,7 +28782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "GJSPNO21XXX": {
+  "GJSPNO21": {
     "country": "Norway",
     "name": "Gjerstad Sparebank",
     "address": "Sundebru",
@@ -28790,7 +28790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "GRONNO21XXX": {
+  "GRONNO21": {
     "country": "Norway",
     "name": "Grong Sparebank",
     "address": "Postboks 104",
@@ -28798,7 +28798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "GRUENO21XXX": {
+  "GRUENO21": {
     "country": "Norway",
     "name": "Grue Sparebank",
     "address": "Postboks 93",
@@ -28806,7 +28806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HALTNO21XXX": {
+  "HALTNO21": {
     "country": "Norway",
     "name": "Haltdalen Sparebank",
     "address": "Aunvegen 24",
@@ -28814,7 +28814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HASBNO21XXX": {
+  "HASBNO21": {
     "country": "Norway",
     "name": "Harstad Sparebank",
     "address": "Postboks 70",
@@ -28822,7 +28822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HAUGNO21XXX": {
+  "HAUGNO21": {
     "country": "Norway",
     "name": "Haugesund Sparebank",
     "address": "P.O.Box 203",
@@ -28830,7 +28830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "HESPNOB1XXX": {
+  "HESPNOB1": {
     "country": "Norway",
     "name": "Hegra Sparebank",
     "address": "Einar Bergs veg 1",
@@ -28838,7 +28838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HELGNO21XXX": {
+  "HELGNO21": {
     "country": "Norway",
     "name": "Helgeland Sparebank",
     "address": "P.O.Box 68",
@@ -28846,7 +28846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "HJARNO21XXX": {
+  "HJARNO21": {
     "country": "Norway",
     "name": "Hjartdal og Gransherad Sparebank",
     "address": "Postboks 24",
@@ -28854,7 +28854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HJELNO21XXX": {
+  "HJELNO21": {
     "country": "Norway",
     "name": "Hjelmeland Sparebank",
     "address": "Hjelmeland",
@@ -28862,7 +28862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HOLLNO21XXX": {
+  "HOLLNO21": {
     "country": "Norway",
     "name": "Holand Sparebank",
     "address": "Postboks 54",
@@ -28870,7 +28870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "HOSPNO21XXX": {
+  "HOSPNO21": {
     "country": "Norway",
     "name": "Honefoss Sparebank",
     "address": "Postboks 24",
@@ -28878,7 +28878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "IDRENO21XXX": {
+  "IDRENO21": {
     "country": "Norway",
     "name": "Indre Sogn Sparebank",
     "address": "Postboks 10",
@@ -28886,7 +28886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "KLEPNO21XXX": {
+  "KLEPNO21": {
     "country": "Norway",
     "name": "Jaeren Sparebank",
     "address": "Postboks 53",
@@ -28894,7 +28894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "JERNNO21XXX": {
+  "JERNNO21": {
     "country": "Norway",
     "name": "Jernbanepersonalets Sparebank",
     "address": "Postboks 235",
@@ -28902,7 +28902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "KLBUNO21XXX": {
+  "KLBUNO21": {
     "country": "Norway",
     "name": "Klaebu Sparebank",
     "address": "Postboks 300",
@@ -28910,7 +28910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "KVIDNO21XXX": {
+  "KVIDNO21": {
     "country": "Norway",
     "name": "Kvinesdal Sparebank",
     "address": "Postboks 156",
@@ -28918,7 +28918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "LANDNOK1XXX": {
+  "LANDNOK1": {
     "country": "Norway",
     "name": "Landkreditt Bank AS",
     "address": "Postboks 1842 Vika",
@@ -28926,7 +28926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "LABRNOB1XXX": {
+  "LABRNOB1": {
     "country": "Norway",
     "name": "Larvikbanken Brunlanes Sparebank",
     "address": "Postboks 250",
@@ -28934,7 +28934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "LILLNO21XXX": {
+  "LILLNO21": {
     "country": "Norway",
     "name": "Lillesands Sparebank",
     "address": "P.O. Box 24",
@@ -28942,7 +28942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "LISTNO21XXX": {
+  "LISTNO21": {
     "country": "Norway",
     "name": "LillestromBanken",
     "address": "Postboks 143",
@@ -28950,7 +28950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BOGENO21XXX": {
+  "BOGENO21": {
     "country": "Norway",
     "name": "Lofoten Sparebank",
     "address": "Hovdveien 22",
@@ -28958,7 +28958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "LOSKNO21XXX": {
+  "LOSKNO21": {
     "country": "Norway",
     "name": "LOM OG Skjak Sparebank",
     "address": "Postboks 23",
@@ -28966,7 +28966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LUSKNO21XXX": {
+  "LUSKNO21": {
     "country": "Norway",
     "name": "Luster Sparebank",
     "address": "sentrum",
@@ -28974,7 +28974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "MASPNO21XXX": {
+  "MASPNO21": {
     "country": "Norway",
     "name": "Marker Sparebank",
     "address": "Postboks 144",
@@ -28982,7 +28982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "MELHNO21XXX": {
+  "MELHNO21": {
     "country": "Norway",
     "name": "Melhus Sparebank",
     "address": "Postboks 40",
@@ -28990,7 +28990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "MODUNO21XXX": {
+  "MODUNO21": {
     "country": "Norway",
     "name": "Modum Sparebank",
     "address": "PO Box 114",
@@ -28998,7 +28998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IEVENO21XXX": {
+  "IEVENO21": {
     "country": "Norway",
     "name": "Naeringsbanken ASA",
     "address": "Aasmarkvegen 2",
@@ -29006,7 +29006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-05-07",
     "instant_readiness": null
   },
-  "OBOSNOK1XXX": {
+  "OBOSNOK1": {
     "country": "Norway",
     "name": "Obos Banken AS",
     "address": "Hammersborg Torg 1",
@@ -29014,7 +29014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "ODASNO21XXX": {
+  "ODASNO21": {
     "country": "Norway",
     "name": "Odal Sparebank",
     "address": "Sentrumsveien 20",
@@ -29022,7 +29022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "OFSPNO21XXX": {
+  "OFSPNO21": {
     "country": "Norway",
     "name": "Ofoten Sparebank",
     "address": "Postboks 73",
@@ -29030,7 +29030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "OPPDNO21XXX": {
+  "OPPDNO21": {
     "country": "Norway",
     "name": "Oppdalsbanken",
     "address": "O. Skasliens vei 15",
@@ -29038,7 +29038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "OKDLNO21XXX": {
+  "OKDLNO21": {
     "country": "Norway",
     "name": "Orkdal Sparebank",
     "address": "Orkdalsveien 84",
@@ -29046,7 +29046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ORLANO21XXX": {
+  "ORLANO21": {
     "country": "Norway",
     "name": "orland Sparebank",
     "address": "Postboks 40",
@@ -29054,7 +29054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ORKONO21XXX": {
+  "ORKONO21": {
     "country": "Norway",
     "name": "orskog Sparebank",
     "address": "orskog",
@@ -29062,7 +29062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "PTAANOK1XXX": {
+  "PTAANOK1": {
     "country": "Norway",
     "name": "Pareto Bank ASA",
     "address": "P.O.Box 1823 Vika",
@@ -29070,7 +29070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "RINDNO21XXX": {
+  "RINDNO21": {
     "country": "Norway",
     "name": "Rindal Sparebank",
     "address": "Rindalsveien 15B",
@@ -29078,7 +29078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BFHSNO21XXX": {
+  "BFHSNO21": {
     "country": "Norway",
     "name": "Romsdal Sparebank",
     "address": "Torget 14",
@@ -29086,7 +29086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "RORBNO21XXX": {
+  "RORBNO21": {
     "country": "Norway",
     "name": "RorosBanken Roros Sparebank",
     "address": "Postuttak D",
@@ -29094,7 +29094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SELSNO21XXX": {
+  "SELSNO21": {
     "country": "Norway",
     "name": "Selbu Sparebank",
     "address": "Gjelbakken 3",
@@ -29102,7 +29102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BLSPNO21XXX": {
+  "BLSPNO21": {
     "country": "Norway",
     "name": "Skagerrak Sparebank",
     "address": "Postboks 24",
@@ -29110,7 +29110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SKAANO21XXX": {
+  "SKAANO21": {
     "country": "Norway",
     "name": "Skudenes & Aakra Sparebank",
     "address": "Postboks 24",
@@ -29118,7 +29118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "NEPRNO21XXX": {
+  "NEPRNO21": {
     "country": "Norway",
     "name": "Skue Sparebank",
     "address": "Jordeshagen 5",
@@ -29126,7 +29126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SOGSNO21XXX": {
+  "SOGSNO21": {
     "country": "Norway",
     "name": "Soegne OG Greipstad Sparebank",
     "address": "Postboks 1034",
@@ -29134,7 +29134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SOKNNO21XXX": {
+  "SOKNNO21": {
     "country": "Norway",
     "name": "Soknedal Sparebank",
     "address": "Soknedal",
@@ -29142,7 +29142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VEFONO21XXX": {
+  "VEFONO21": {
     "country": "Norway",
     "name": "Sparebank 1 Buskerud-Vestfold",
     "address": "Postboks 216",
@@ -29150,7 +29150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HAALNO21XXX": {
+  "HAALNO21": {
     "country": "Norway",
     "name": "Sparebank 1 Hallingdal",
     "address": "Postboks 33",
@@ -29158,7 +29158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RYGSNO21XXX": {
+  "RYGSNO21": {
     "country": "Norway",
     "name": "SpareBank 1 Ostfold Akershus",
     "address": "Kongensgate 21",
@@ -29166,7 +29166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPTRNO22XXX": {
+  "SPTRNO22": {
     "country": "Norway",
     "name": "Sparebank 1 SMN",
     "address": "Sondre Gate 4",
@@ -29174,7 +29174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPRONO22XXX": {
+  "SPRONO22": {
     "country": "Norway",
     "name": "Sparebank 1 SR-Bank",
     "address": "P O Box 250",
@@ -29182,7 +29182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BIENNOK1XXX": {
+  "BIENNOK1": {
     "country": "Norway",
     "name": "Sparebanken Bien",
     "address": "Postboks 6790",
@@ -29190,7 +29190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BSPANO21XXX": {
+  "BSPANO21": {
     "country": "Norway",
     "name": "Sparebanken DIN",
     "address": "Postboks 114",
@@ -29198,7 +29198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SHEDNO22XXX": {
+  "SHEDNO22": {
     "country": "Norway",
     "name": "Sparebanken Hedmark",
     "address": "Strandgata   15, P O Box 203",
@@ -29206,7 +29206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HEMNNO21XXX": {
+  "HEMNNO21": {
     "country": "Norway",
     "name": "Sparebanken Hemne",
     "address": "Postboks 44",
@@ -29214,7 +29214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SPARNO22XXX": {
+  "SPARNO22": {
     "country": "Norway",
     "name": "Sparebanken More",
     "address": "International Payments, PO Box 121",
@@ -29222,7 +29222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "NARVNO21XXX": {
+  "NARVNO21": {
     "country": "Norway",
     "name": "Sparebanken Narvik",
     "address": "Postboks 102",
@@ -29230,7 +29230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SNOWNO22XXX": {
+  "SNOWNO22": {
     "country": "Norway",
     "name": "Sparebanken Nord-Norge",
     "address": "P O BOX 6800",
@@ -29238,7 +29238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NORVNO21XXX": {
+  "NORVNO21": {
     "country": "Norway",
     "name": "Sparebanken Nordvest",
     "address": "Postboks 23",
@@ -29246,7 +29246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SAOENO22XXX": {
+  "SAOENO22": {
     "country": "Norway",
     "name": "Sparebanken Oest",
     "address": "Bragernes Torg 2",
@@ -29254,7 +29254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SPSONO22XXX": {
+  "SPSONO22": {
     "country": "Norway",
     "name": "Sparebanken Soer",
     "address": "P.O.Box 200",
@@ -29262,7 +29262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "SOFJNO22XXX": {
+  "SOFJNO22": {
     "country": "Norway",
     "name": "Sparebanken Sogn OG Fjordane",
     "address": "P.O. box 113",
@@ -29270,7 +29270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "SPTLNO21XXX": {
+  "SPTLNO21": {
     "country": "Norway",
     "name": "Sparebanken Telemark",
     "address": "P O Box 186",
@@ -29278,7 +29278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPAVNOBBXXX": {
+  "SPAVNOBB": {
     "country": "Norway",
     "name": "Sparebanken Vest",
     "address": "4, Kaigaten",
@@ -29286,7 +29286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "VOLDNO21XXX": {
+  "VOLDNO21": {
     "country": "Norway",
     "name": "Sparebanken Volda Orsta",
     "address": "Postboks 55",
@@ -29294,7 +29294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPSKNO21XXX": {
+  "SPSKNO21": {
     "country": "Norway",
     "name": "Spareskillingsbanken",
     "address": "Postbox 216",
@@ -29302,7 +29302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "STADNO21XXX": {
+  "STADNO21": {
     "country": "Norway",
     "name": "Stadsbygd Sparebank",
     "address": "Stadsbygd",
@@ -29310,7 +29310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "STFBNOKKXXX": {
+  "STFBNOKK": {
     "country": "Norway",
     "name": "Storebrand Bank ASA",
     "address": "1, Filipstad Brygge",
@@ -29318,7 +29318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "STMMNO21XXX": {
+  "STMMNO21": {
     "country": "Norway",
     "name": "Strommen Sparebank",
     "address": "Postboks 154",
@@ -29326,7 +29326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SUSANO21XXX": {
+  "SUSANO21": {
     "country": "Norway",
     "name": "Sunndal Sparebank",
     "address": "Postboks 14",
@@ -29334,7 +29334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "SURSNO21XXX": {
+  "SURSNO21": {
     "country": "Norway",
     "name": "Surnadal Sparebank",
     "address": "Postboks 54",
@@ -29342,7 +29342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "TINNNO21XXX": {
+  "TINNNO21": {
     "country": "Norway",
     "name": "Tinn Sparebank",
     "address": "Postboks 73",
@@ -29350,7 +29350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "TOSPNO21XXX": {
+  "TOSPNO21": {
     "country": "Norway",
     "name": "Tolga-Os Sparebank",
     "address": "Tolga",
@@ -29358,7 +29358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "TOTENO21XXX": {
+  "TOTENO21": {
     "country": "Norway",
     "name": "Totens Sparebank",
     "address": "Postboks 34",
@@ -29366,7 +29366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "TRSPNO21XXX": {
+  "TRSPNO21": {
     "country": "Norway",
     "name": "Trogstad Sparebank",
     "address": "Postboks 114",
@@ -29374,7 +29374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "TYSSNO21XXX": {
+  "TYSSNO21": {
     "country": "Norway",
     "name": "Tysnes Sparebank",
     "address": "Uggdal",
@@ -29382,7 +29382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VESLNO21XXX": {
+  "VESLNO21": {
     "country": "Norway",
     "name": "Valdres Sparebank",
     "address": "Postboks 24",
@@ -29390,7 +29390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VSPANO21XXX": {
+  "VSPANO21": {
     "country": "Norway",
     "name": "Valle Sparebank",
     "address": "Postboks 53",
@@ -29398,7 +29398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VESPNO21XXX": {
+  "VESPNO21": {
     "country": "Norway",
     "name": "VegArshei Sparebank",
     "address": "VegArshei",
@@ -29406,7 +29406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VISRNO21XXX": {
+  "VISRNO21": {
     "country": "Norway",
     "name": "Vik Sparebank",
     "address": "Postboks 174",
@@ -29414,7 +29414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "VOSKNO21XXX": {
+  "VOSKNO21": {
     "country": "Norway",
     "name": "Voss Sparebank",
     "address": "Postboks 50",
@@ -29422,7 +29422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "VVELNO21XXX": {
+  "VVELNO21": {
     "country": "Norway",
     "name": "Voss Veksel-OG Landmandsbank ASA",
     "address": "Postboks 10",
@@ -29430,7 +29430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "YABANOK1XXX": {
+  "YABANOK1": {
     "country": "Norway",
     "name": "yA Bank",
     "address": "Postboks 7104",
@@ -29438,7 +29438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ALBPPLPWXXX": {
+  "ALBPPLPW": {
     "country": "Poland",
     "name": "Alior Bank SA",
     "address": "ul. Lopuszanska 38D",
@@ -29446,7 +29446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-10",
     "instant_readiness": null
   },
-  "PPABPLPKXXX": {
+  "PPABPLPK": {
     "country": "Poland",
     "name": "Bank BGZ BNP Paribas Spolka Akcyjna",
     "address": "10/16 Kasprzaka",
@@ -29454,7 +29454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "GOSKPLPWXXX": {
+  "GOSKPLPW": {
     "country": "Poland",
     "name": "Bank Gospodarstwa Krajowego",
     "address": "AL. Jerozolimskie 7",
@@ -29462,7 +29462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-05-09",
     "instant_readiness": null
   },
-  "CITIPLPXXXX": {
+  "CITIPLPX": {
     "country": "Poland",
     "name": "Bank Handlowy W Warszawie SA",
     "address": "16, Senatorska",
@@ -29470,7 +29470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BIGBPLPWXXX": {
+  "BIGBPLPW": {
     "country": "Poland",
     "name": "Bank Millennium S.A.",
     "address": "Bank Millennium S.A. ul. Stanislawa Zaryna 2A",
@@ -29478,7 +29478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EBOSPLPWXXX": {
+  "EBOSPLPW": {
     "country": "Poland",
     "name": "Bank Ochrony Srodowiska S.A.",
     "address": "ul. Zelazna 32",
@@ -29486,7 +29486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "PKOPPLPWXXX": {
+  "PKOPPLPW": {
     "country": "Poland",
     "name": "Bank Polska Kasa Opieki SA",
     "address": "53-57 Grzybowska Street",
@@ -29494,7 +29494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-09-30",
     "instant_readiness": null
   },
-  "POLUPLPRXXX": {
+  "POLUPLPR": {
     "country": "Poland",
     "name": "Bank Polskiej Spoldzielczosci S.A.",
     "address": "ul. Grzybowska 81",
@@ -29502,7 +29502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "WBKPPLPPXXX": {
+  "WBKPPLPP": {
     "country": "Poland",
     "name": "Bank Zachodni WBK SA",
     "address": "Rynek 9/11",
@@ -29510,7 +29510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-07-06",
     "instant_readiness": null
   },
-  "AGRIPLPRXXX": {
+  "AGRIPLPR": {
     "country": "Poland",
     "name": "Credit Agricole Bank Polska S.A.",
     "address": "PL. Orlat Lwowskich 1",
@@ -29518,7 +29518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "DEUTPLPXXXX": {
+  "DEUTPLPX": {
     "country": "Poland",
     "name": "Deutsche Bank Polska S.A.",
     "address": "Focus Building: 26, AL. Armii Ludowej",
@@ -29526,7 +29526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MHBFPLPWXXX": {
+  "MHBFPLPW": {
     "country": "Poland",
     "name": "DNB Bank Polska SA",
     "address": "UL. Postepu 15C",
@@ -29534,7 +29534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "EBSAPLPWXXX": {
+  "EBSAPLPW": {
     "country": "Poland",
     "name": "Euro Bank S.A.",
     "address": "ul. sw. Mikolaja 72",
@@ -29542,7 +29542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-10-02",
     "instant_readiness": null
   },
-  "GBGCPLPKXXX": {
+  "GBGCPLPK": {
     "country": "Poland",
     "name": "Getin Noble Bank SA",
     "address": "UL. Domaniewska 39B",
@@ -29550,7 +29550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "HSBCPLPWXXX": {
+  "HSBCPLPW": {
     "country": "Poland",
     "name": "Hsbc Bank Polska S.A.",
     "address": "Rondo ONZ 1",
@@ -29558,7 +29558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-01",
     "instant_readiness": null
   },
-  "IEEAPLPAXXX": {
+  "IEEAPLPA": {
     "country": "Poland",
     "name": "Idea Bank S.A.",
     "address": "ul Domaniewska 39",
@@ -29566,7 +29566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "IGTRPLP1XXX": {
+  "IGTRPLP1": {
     "country": "Poland",
     "name": "Igoria Trade S.A.",
     "address": "111A/109 Pulawska Street",
@@ -29574,7 +29574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": null
   },
-  "INGBPLPWXXX": {
+  "INGBPLPW": {
     "country": "Poland",
     "name": "ING Bank Slaski SA",
     "address": "UL. Sokolska   34",
@@ -29582,7 +29582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KRSPPLPKXXX": {
+  "KRSPPLPK": {
     "country": "Poland",
     "name": "Krakowski Bank Spoldzielczy",
     "address": "Rynek Kleparski 8",
@@ -29590,7 +29590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "BREXPLPWXXX": {
+  "BREXPLPW": {
     "country": "Poland",
     "name": "mBank SA",
     "address": "18, UL. Senatorska Street",
@@ -29598,7 +29598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "NBPLPLPWXXX": {
+  "NBPLPLPW": {
     "country": "Poland",
     "name": "National Bank OF Poland",
     "address": "Swietokrzyska Street 11/21",
@@ -29606,7 +29606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NESBPLPWXXX": {
+  "NESBPLPW": {
     "country": "Poland",
     "name": "Nest Bank SA",
     "address": "Ul. Domaniewska 39A",
@@ -29614,7 +29614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IVSEPLPPXXX": {
+  "IVSEPLPP": {
     "country": "Poland",
     "name": "Plus Bank S.A.",
     "address": "Al. Stanow Zjednoczonych 61 A",
@@ -29622,7 +29622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-03",
     "instant_readiness": null
   },
-  "POCZPLP4XXX": {
+  "POCZPLP4": {
     "country": "Poland",
     "name": "Pocztowy Bank SA",
     "address": "Jagiellonska 17",
@@ -29630,7 +29630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "BPKOPLPWXXX": {
+  "BPKOPLPW": {
     "country": "Poland",
     "name": "Powszechna Kasa Oszczednosci Bank Polski SA",
     "address": "UL. Pulawska   15",
@@ -29638,7 +29638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RCBWPLPWXXX": {
+  "RCBWPLPW": {
     "country": "Poland",
     "name": "Raiffeisen Bank Polska S.A.",
     "address": "ul. Grzybowska 78",
@@ -29646,7 +29646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GBWCPLPPXXX": {
+  "GBWCPLPP": {
     "country": "Poland",
     "name": "SGB Bank SA",
     "address": "ul. Szarych Szeregow 23a",
@@ -29654,7 +29654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "ACTVPTPLXXX": {
+  "ACTVPTPL": {
     "country": "Portugal",
     "name": "Banco Activobank S.A.",
     "address": "Avenida DR Mario Soares (Tagus park),  Edif 9/0",
@@ -29662,7 +29662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "BAPAPTPLXXX": {
+  "BAPAPTPL": {
     "country": "Portugal",
     "name": "Banco Atlantico Europa, SA",
     "address": "Avenida da Liberdade 259",
@@ -29670,7 +29670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": "2019-03-04"
   },
-  "BAIPPTPLXXX": {
+  "BAIPPTPL": {
     "country": "Portugal",
     "name": "Banco BAI Europa, SA",
     "address": "Rua Tierno Galvan, Torre 3, 12\u00ba Piso",
@@ -29678,7 +29678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPNPPTPLXXX": {
+  "BPNPPTPL": {
     "country": "Portugal",
     "name": "Banco BIC Portugues, S A",
     "address": "av. Antonio Augusto de Aguiar 132",
@@ -29686,7 +29686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": "2019-03-04"
   },
-  "BBVAPTPLXXX": {
+  "BBVAPTPL": {
     "country": "Portugal",
     "name": "Banco Bilbao Vizcaya Argentaria (Portugal) S.A.",
     "address": "Av. Liberdade 222",
@@ -29694,7 +29694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "BBPIPTPLXXX": {
+  "BBPIPTPL": {
     "country": "Portugal",
     "name": "Banco BPI, S.A.",
     "address": "Avenida Casal Ribeiro, Numero 59, 7\u00b0",
@@ -29702,7 +29702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "BCOMPTPLXXX": {
+  "BCOMPTPL": {
     "country": "Portugal",
     "name": "Banco Comercial Portugues S.A.",
     "address": "Avenida Prof Dr Cavaco Silva (Tagus park), edif 3, 28 - Piso 2B",
@@ -29710,7 +29710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "CTTVPTPLXXX": {
+  "CTTVPTPL": {
     "country": "Portugal",
     "name": "Banco CTT S.A.",
     "address": "Avenida D. Joao II, No 11, Edificio Adamastor, Torre A, Piso 11",
@@ -29718,7 +29718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "BDIGPTPLXXX": {
+  "BDIGPTPL": {
     "country": "Portugal",
     "name": "Banco DE Investimento Global S.A.",
     "address": "Edificio BiG Av 24 DE Julho 74 76",
@@ -29726,7 +29726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "BGALPTTGXXX": {
+  "BGALPTTG": {
     "country": "Portugal",
     "name": "Banco DE Portugal",
     "address": "Rua do Ouro 27",
@@ -29734,7 +29734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-06-07",
     "instant_readiness": null
   },
-  "EFISPTPLXXX": {
+  "EFISPTPL": {
     "country": "Portugal",
     "name": "Banco Efisa S.A.",
     "address": "Avenida Praia da Vit\u00f3ria 71 5\u00ba Piso Fra\u00e7\u00e3o A",
@@ -29742,7 +29742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BFIAPTPLXXX": {
+  "BFIAPTPL": {
     "country": "Portugal",
     "name": "Banco Finantia S.A.",
     "address": "RUA General Firmino Miguel 5 Floor 1",
@@ -29750,7 +29750,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-09-06",
     "instant_readiness": null
   },
-  "IVVSPTPLXXX": {
+  "IVVSPTPL": {
     "country": "Portugal",
     "name": "Banco Invest S.A.",
     "address": "Avenida Engenheiro Duarte Pacheco Torre 1 11",
@@ -29758,7 +29758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "BLJCPTPTXXX": {
+  "BLJCPTPT": {
     "country": "Portugal",
     "name": "Banco L.J. Carregosa,SA",
     "address": "AV. DA Boavista, 1083",
@@ -29766,7 +29766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-10-08",
     "instant_readiness": null
   },
-  "CRBNPTPLXXX": {
+  "CRBNPTPL": {
     "country": "Portugal",
     "name": "Banco Popular Portugal S.A.",
     "address": "Rua Ramalho Ortigao 51",
@@ -29774,7 +29774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BPGPPTPLXXX": {
+  "BPGPPTPL": {
     "country": "Portugal",
     "name": "Banco Portugues DE Gestao, S.A.",
     "address": "Rua Barata Salgueiro 37, 4 andar",
@@ -29782,7 +29782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "IBNBPTP1XXX": {
+  "IBNBPTP1": {
     "country": "Portugal",
     "name": "Banco Santander Consumer Portugal SA",
     "address": "RUA Castilho 2",
@@ -29790,7 +29790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "TOTAPTPLXXX": {
+  "TOTAPTPL": {
     "country": "Portugal",
     "name": "Banco Santander Totta SA",
     "address": "Rua Da Mesquita 6 - B1B",
@@ -29798,7 +29798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-05"
   },
-  "BESZPTPLXXX": {
+  "BESZPTPL": {
     "country": "Portugal",
     "name": "Best-Banco Electronico DE Servico Total S.A.",
     "address": "Praca Marques Pombal 3A",
@@ -29806,7 +29806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": "2018-06-04"
   },
-  "BNFIPTPLXXX": {
+  "BNFIPTPL": {
     "country": "Portugal",
     "name": "Bison Bank S.A.",
     "address": "Rua Barata Salgueiro 33, Piso 0",
@@ -29814,7 +29814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "BNICPTPLXXX": {
+  "BNICPTPL": {
     "country": "Portugal",
     "name": "BNI - Banco DE Negocios Internacional Europa SA",
     "address": "Av. Eng Duarte Pacheco cc Amoreiras - Torre 1, piso 7",
@@ -29822,7 +29822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": "2019-07-08"
   },
-  "CXBIPTPLXXX": {
+  "CXBIPTPL": {
     "country": "Portugal",
     "name": "Caixa Banco DE Investimento, S.A.",
     "address": "RUA Barata Salgueiro 33",
@@ -29830,7 +29830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "CCCMPTPLXXX": {
+  "CCCMPTPL": {
     "country": "Portugal",
     "name": "Caixa Central DE Credito Agricola Mutuo",
     "address": "233-233A, RUA Castilho",
@@ -29838,7 +29838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "CDCTPTP2XXX": {
+  "CDCTPTP2": {
     "country": "Portugal",
     "name": "Caixa Credito Agricola Mutuo DE Leiria, CRL",
     "address": "Largo Candido dos Reis 19-25",
@@ -29846,7 +29846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "CCCHPTP1XXX": {
+  "CCCHPTP1": {
     "country": "Portugal",
     "name": "Caixa DE Credito Agricola Mutuo DA Chamusca, C.R.L",
     "address": "RUA Direita DE S. Pedro, 216",
@@ -29854,7 +29854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "CERTPTP1XXX": {
+  "CERTPTP1": {
     "country": "Portugal",
     "name": "Caixa de Credito Agricola Mutuo de Bombarral CRL",
     "address": "Rua do  Comercio, 58",
@@ -29862,7 +29862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-11-03",
     "instant_readiness": null
   },
-  "CDOTPTP1XXX": {
+  "CDOTPTP1": {
     "country": "Portugal",
     "name": "Caixa DE Credito Agricola Mutuo DE Mafra CRL",
     "address": "Terreiro D. Joao V",
@@ -29870,7 +29870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-11-21",
     "instant_readiness": null
   },
-  "CTIUPTP1XXX": {
+  "CTIUPTP1": {
     "country": "Portugal",
     "name": "Caixa DE Credito Agricola Mutuo DE Torres Vedras",
     "address": "16A, RUA Santos Bernardes",
@@ -29878,7 +29878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "CEMAPTP2XXX": {
+  "CEMAPTP2": {
     "country": "Portugal",
     "name": "Caixa Economica DA Misericordia DE Angra DO Heroismo",
     "address": "RUA Direita, 118",
@@ -29886,7 +29886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "MPIOPTPLXXX": {
+  "MPIOPTPL": {
     "country": "Portugal",
     "name": "Caixa Economica Montepio Geral",
     "address": "219-241, R Aurea",
@@ -29894,7 +29894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-08-06"
   },
-  "CGDIPTPLXXX": {
+  "CGDIPTPL": {
     "country": "Portugal",
     "name": "Caixa Geral DE Depositos SA",
     "address": "63, Avenida Joao XXI",
@@ -29902,7 +29902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-11-05"
   },
-  "ESSIPTPLXXX": {
+  "ESSIPTPL": {
     "country": "Portugal",
     "name": "Haitong Bank S.A.",
     "address": "RUA Alexandre Herculano, 38",
@@ -29910,7 +29910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-03-05",
     "instant_readiness": null
   },
-  "IGCPPTPLXXX": {
+  "IGCPPTPL": {
     "country": "Portugal",
     "name": "Instituto de Gestao da Tesouraria e do Credito Publico, I.P.",
     "address": "Av. da Republica, 57, 6",
@@ -29918,7 +29918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "BESAPTPAXXX": {
+  "BESAPTPA": {
     "country": "Portugal",
     "name": "Novo Banco DOS Acores S.A.",
     "address": "2-8, RUA Hintze Ribeiro",
@@ -29926,7 +29926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "BESCPTPLXXX": {
+  "BESCPTPL": {
     "country": "Portugal",
     "name": "Novo Banco S.A.",
     "address": "195, Avenida DA Liberdade",
@@ -29934,7 +29934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-06-04"
   },
-  "UIFCPTP1XXX": {
+  "UIFCPTP1": {
     "country": "Portugal",
     "name": "Unicre - Instituicao Financeira DE Credito S.A.",
     "address": "AV. Antonio Augusto DE Aguiar, 122",
@@ -29942,7 +29942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "BUCUROBUXXX": {
+  "BUCUROBU": {
     "country": "Romania",
     "name": "Alpha Bank Romania",
     "address": "Calea Dorobantilor 237B Sector 1",
@@ -29950,7 +29950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BFERROBUXXX": {
+  "BFERROBU": {
     "country": "Romania",
     "name": "Banca Comerciala Feroviara S.A.",
     "address": "62A Popa Tatu Street Tronson A, District 1",
@@ -29958,7 +29958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "WBANRO22XXX": {
+  "WBANRO22": {
     "country": "Romania",
     "name": "Banca Comerciala Intesa Sanpaolo Romania S.A.",
     "address": "Str. Nicolae G. Caramfil,  nr.85A, etaj 4, sector 1",
@@ -29966,7 +29966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "RNCBROBUXXX": {
+  "RNCBROBU": {
     "country": "Romania",
     "name": "Banca Comerciala Romana S.A.",
     "address": "15 Calea Victoriei, District 3",
@@ -29974,7 +29974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EXIMROBUXXX": {
+  "EXIMROBU": {
     "country": "Romania",
     "name": "Banca de Export-Import a Romaniei EximBank S.A.",
     "address": "Str. Barbu Stefanescu Delavrancea nr. 6A, sector 1",
@@ -29982,7 +29982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MINDROBUXXX": {
+  "MINDROBU": {
     "country": "Romania",
     "name": "Banca Romana DE Credite SI Investitii S.A.",
     "address": "Stefan cel Mare Street 3",
@@ -29990,7 +29990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": null
   },
-  "BRMAROBUXXX": {
+  "BRMAROBU": {
     "country": "Romania",
     "name": "Banca Romaneasca S.A. - Member OF THE National Bank OF Greece Group",
     "address": "3 George Constantinescu Str., floors 1, 2 and 3m BoC Building, District 2",
@@ -29998,7 +29998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BTRLRO22XXX": {
+  "BTRLRO22": {
     "country": "Romania",
     "name": "Banca Transilvania S.A.",
     "address": "84, G. Baritiu Street",
@@ -30006,7 +30006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DAFBRO22XXX": {
+  "DAFBRO22": {
     "country": "Romania",
     "name": "Bank Leumi Romania S.A.",
     "address": "45 Aviatorilor Blvd., District 1",
@@ -30014,7 +30014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "BRDEROBUXXX": {
+  "BRDEROBU": {
     "country": "Romania",
     "name": "BRD - Groupe Societe Generale SA",
     "address": "BRD Tower, 1-7 ION Mihalache Boulevard, District 1",
@@ -30022,7 +30022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "CECEROBUXXX": {
+  "CECEROBU": {
     "country": "Romania",
     "name": "CEC Bank S.A.",
     "address": "13-15 Calea Victoriei District 3",
@@ -30030,7 +30030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-03-08",
     "instant_readiness": null
   },
-  "BSEAROBUXXX": {
+  "BSEAROBU": {
     "country": "Romania",
     "name": "Credit Agricole Bank Romania SA",
     "address": "19, Berzei Street, sector 1",
@@ -30038,7 +30038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FNNBROBUXXX": {
+  "FNNBROBU": {
     "country": "Romania",
     "name": "Credit Europe Bank (Romania) S.A.",
     "address": "Timisoara Blvd 26Z, Anchor Plaza bld",
@@ -30046,7 +30046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": null
   },
-  "PIRBROBUXXX": {
+  "PIRBROBU": {
     "country": "Romania",
     "name": "First Bank S.A.",
     "address": "Sos Nicolae Titulescu , nr. 29 -31, sector 1",
@@ -30054,7 +30054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "ROINROBUXXX": {
+  "ROINROBU": {
     "country": "Romania",
     "name": "Idea Bank",
     "address": "Bd. Dimitrie Pompei nr. 5-7, etaj 6, sector 2",
@@ -30062,7 +30062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "BRELROBUXXX": {
+  "BRELROBU": {
     "country": "Romania",
     "name": "Libra Internet Bank SA",
     "address": "6-6A Calea Vitan, tronson B, C, floors 1, 6, 9, 13, Phoenix Tower Building, District no.3",
@@ -30070,7 +30070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "OTPVROBUXXX": {
+  "OTPVROBU": {
     "country": "Romania",
     "name": "OTP Bank Romania S.A.",
     "address": "66-68, STR. Buzesti, District 1",
@@ -30078,7 +30078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CARPRO22XXX": {
+  "CARPRO22": {
     "country": "Romania",
     "name": "Patria Bank SA",
     "address": "Sos. Pipera nr.42, cladirea Globalworth Plaza, etaj 7, 8 si 10, sector 2, Bucharest",
@@ -30086,7 +30086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SSRRROBUXXX": {
+  "SSRRROBU": {
     "country": "Romania",
     "name": "Payment Institution Smith AND Smith SRL",
     "address": "54 Justitiei Street, District 4",
@@ -30094,7 +30094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "PORLROBUXXX": {
+  "PORLROBU": {
     "country": "Romania",
     "name": "Porsche Bank Romania SA",
     "address": "Bd. Pipera nr. 2, cladirea Porsche, parter, et. 1-5, Voluntari",
@@ -30102,7 +30102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "MIROROBUXXX": {
+  "MIROROBU": {
     "country": "Romania",
     "name": "ProCredit Bank S.A.",
     "address": "Buzesti Street 62-64,  Floors  1-2 si 4, District 1",
@@ -30110,7 +30110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "RZBRROBUXXX": {
+  "RZBRROBU": {
     "country": "Romania",
     "name": "Raiffeisen Bank S.A.",
     "address": "Calea Floreasca nr.246 C, Cladirea Sky Tower, etj. 2-7, sector 1",
@@ -30118,7 +30118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BACXROBUXXX": {
+  "BACXROBU": {
     "country": "Romania",
     "name": "Unicredit Bank SA",
     "address": "Bd. Expozitiei, nr. 1F, sector 1",
@@ -30126,7 +30126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "EGNAROBXXXX": {
+  "EGNAROBX": {
     "country": "Romania",
     "name": "Vista Bank Romania",
     "address": "90-92, Emanoil Porumbaru Street, Floors 3-6, district 1",
@@ -30134,7 +30134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BASMSMSMXXX": {
+  "BASMSMSM": {
     "country": "SAN Marino",
     "name": "Banca Agricola Commerciale Istituto Bancario Sammarinese S.p.A.",
     "address": "Via Tre Settembre 316",
@@ -30142,7 +30142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "ICSMSMSMXXX": {
+  "ICSMSMSM": {
     "country": "SAN Marino",
     "name": "Banca Centrale della Repubblica di San Marino",
     "address": "Via del Voltone 120",
@@ -30150,7 +30150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CRRNSMSMXXX": {
+  "CRRNSMSM": {
     "country": "SAN Marino",
     "name": "Banca Cis - Credito Industriale Sammarinese S.p.A.",
     "address": "Piazza G Bertoldi 8",
@@ -30158,7 +30158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "MAOISMSMXXX": {
+  "MAOISMSM": {
     "country": "SAN Marino",
     "name": "Banca di San Marino S.p.A.",
     "address": "Strada della Croce 39",
@@ -30166,7 +30166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BTITSMS1XXX": {
+  "BTITSMS1": {
     "country": "SAN Marino",
     "name": "Banca Impresa di San Marino S.p.A.",
     "address": "Via Consiglio dei Sessanta 99",
@@ -30174,7 +30174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BSDISMSDXXX": {
+  "BSDISMSD": {
     "country": "SAN Marino",
     "name": "Banca Sammarinese di Investimento S.p.A.",
     "address": "Via Monaldo da Falciano 3",
@@ -30182,7 +30182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CSSMSMSMXXX": {
+  "CSSMSMSM": {
     "country": "SAN Marino",
     "name": "Cassa di Risparmio della Repubblica di San Marino S.p.A.",
     "address": "Piazzetta del Titano 2",
@@ -30190,7 +30190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CEKOSKBXXXX": {
+  "CEKOSKBX": {
     "country": "Slovakia",
     "name": "Ceskoslovenska Obchodna Banka A.S.",
     "address": "\u017di\u017ekova 11",
@@ -30198,7 +30198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CITISKBAXXX": {
+  "CITISKBA": {
     "country": "Slovakia",
     "name": "Citibank (Slovakia) A.S.",
     "address": "5, Viedenska Cesta",
@@ -30206,7 +30206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBSPSKBXXXX": {
+  "KBSPSKBX": {
     "country": "Slovakia",
     "name": "Csob Stavebna Sporitelna, A.S.",
     "address": "Zizkova 11",
@@ -30214,7 +30214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "EXSKSKBXXXX": {
+  "EXSKSKBX": {
     "country": "Slovakia",
     "name": "Exportno-importna banka Slovenskej republiky",
     "address": "Grosslingova 1",
@@ -30222,7 +30222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "NBSBSKBXXXX": {
+  "NBSBSKBX": {
     "country": "Slovakia",
     "name": "Narodna Banka Slovenska",
     "address": "Imricha Karvasa 1",
@@ -30230,7 +30230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-06-03",
     "instant_readiness": null
   },
-  "OTPVSKBXXXX": {
+  "OTPVSKBX": {
     "country": "Slovakia",
     "name": "OTP Banka Slovensko, A.S.",
     "address": "Sturova 5",
@@ -30238,7 +30238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "POBNSKBAXXX": {
+  "POBNSKBA": {
     "country": "Slovakia",
     "name": "Postova Banka A.S.",
     "address": "Dvorakovo nabrezie 4",
@@ -30246,7 +30246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-12-05",
     "instant_readiness": null
   },
-  "KOMASK2XXXX": {
+  "KOMASK2X": {
     "country": "Slovakia",
     "name": "Prima Banka Slovensko A.S.",
     "address": "Hodzova 11",
@@ -30254,7 +30254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-08-06",
     "instant_readiness": null
   },
-  "BSLOSK22XXX": {
+  "BSLOSK22": {
     "country": "Slovakia",
     "name": "Privatbanka, A.S.",
     "address": "Einsteinova 25",
@@ -30262,7 +30262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "PRVASKBAXXX": {
+  "PRVASKBA": {
     "country": "Slovakia",
     "name": "Prva Stavebna Sporitelna, A.S.",
     "address": "Bajkalska 30",
@@ -30270,7 +30270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "GIBASKBXXXX": {
+  "GIBASKBX": {
     "country": "Slovakia",
     "name": "Slovenska Sporitelna A.S.",
     "address": "Tomasikova 48",
@@ -30278,7 +30278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SLZBSKBAXXX": {
+  "SLZBSKBA": {
     "country": "Slovakia",
     "name": "Slovenska Zarucna A Rozvojova Banka, A.S.",
     "address": "Stefanikova 27",
@@ -30286,7 +30286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-01",
     "instant_readiness": null
   },
-  "SPSRSKBAXXX": {
+  "SPSRSKBA": {
     "country": "Slovakia",
     "name": "Statna Pokladnica",
     "address": "Radlinskeho 32",
@@ -30294,7 +30294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "TATRSKBXXXX": {
+  "TATRSKBX": {
     "country": "Slovakia",
     "name": "Tatra Banka A.S.",
     "address": "Hodzovo Namestie 3",
@@ -30302,7 +30302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "TPAYSKBXXXX": {
+  "TPAYSKBX": {
     "country": "Slovakia",
     "name": "Trust PAY A.S.",
     "address": "ZA Kasarnou 1",
@@ -30310,7 +30310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "UNCRSKBXXXX": {
+  "UNCRSKBX": {
     "country": "Slovakia",
     "name": "Unicredit Bank Slovakia A. S.",
     "address": "1/A, Sancova",
@@ -30318,7 +30318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SUBASKBXXXX": {
+  "SUBASKBX": {
     "country": "Slovakia",
     "name": "Vseobecna Uverova Banka A.S.",
     "address": "Mlynske Nivy 1",
@@ -30326,7 +30326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "WUSTSKBAXXX": {
+  "WUSTSKBA": {
     "country": "Slovakia",
     "name": "Wustenrot Stavebna Sporitelna A.S.",
     "address": "Grosslingova 77",
@@ -30334,7 +30334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "ABANSI2XXXX": {
+  "ABANSI2X": {
     "country": "Slovenia",
     "name": "Abanka D.D.",
     "address": "58, Slovenska Cesta",
@@ -30342,7 +30342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HAABSI22XXX": {
+  "HAABSI22": {
     "country": "Slovenia",
     "name": "Addiko bank d.d.",
     "address": "117, Dunajska",
@@ -30350,7 +30350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAKOSI2XXXX": {
+  "BAKOSI2X": {
     "country": "Slovenia",
     "name": "Banka Intesa Sanpaolo d.d.",
     "address": "14, Pristaniska Ulica",
@@ -30358,7 +30358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BSLJSI2XXXX": {
+  "BSLJSI2X": {
     "country": "Slovenia",
     "name": "Banka Slovenije",
     "address": "35, Slovenska",
@@ -30366,7 +30366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KSPKSI22XXX": {
+  "KSPKSI22": {
     "country": "Slovenia",
     "name": "Banka Sparkasse D.D.",
     "address": "15, Cesta V Klece",
@@ -30374,7 +30374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HDELSI22XXX": {
+  "HDELSI22": {
     "country": "Slovenia",
     "name": "Delavska Hranilnica D.D. Ljubljana",
     "address": "Miklosiceva 5",
@@ -30382,7 +30382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SZKBSI2XXXX": {
+  "SZKBSI2X": {
     "country": "Slovenia",
     "name": "Dezelna Banka Slovenije D.D.",
     "address": "9, Kolodvorska",
@@ -30390,7 +30390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GORESI2XXXX": {
+  "GORESI2X": {
     "country": "Slovenia",
     "name": "Gorenjska Banka D.D., Kranj",
     "address": "1, Bleiweisova Cesta",
@@ -30398,7 +30398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HKVISI22XXX": {
+  "HKVISI22": {
     "country": "Slovenia",
     "name": "Hranilnica IN Posojilnica Vipava D.D.",
     "address": "15, Glavni TRG",
@@ -30406,7 +30406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "HLONSI22XXX": {
+  "HLONSI22": {
     "country": "Slovenia",
     "name": "Hranilnica LON D.D. Kranj",
     "address": "2, Bleiweisova",
@@ -30414,7 +30414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBMASI2XXXX": {
+  "KBMASI2X": {
     "country": "Slovenia",
     "name": "Nova Kreditna Banka Maribor D.D.",
     "address": "4, Vita Kraigherja",
@@ -30422,7 +30422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "LJBASI2XXXX": {
+  "LJBASI2X": {
     "country": "Slovenia",
     "name": "Nova Ljubljanska Banka D.D.",
     "address": "2, TRG Republike",
@@ -30430,7 +30430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "PBSLSI22XXX": {
+  "PBSLSI22": {
     "country": "Slovenia",
     "name": "Postna Banka Slovenije D.D.",
     "address": "5, Vita Kraigherja",
@@ -30438,7 +30438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SABRSI2XXXX": {
+  "SABRSI2X": {
     "country": "Slovenia",
     "name": "Sberbank Banka D.D.",
     "address": "128A, Dunajska",
@@ -30446,7 +30446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SKBASI2XXXX": {
+  "SKBASI2X": {
     "country": "Slovenia",
     "name": "SKB Banka D.D.",
     "address": "Ajdovscina 4",
@@ -30454,7 +30454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BACXSI22XXX": {
+  "BACXSI22": {
     "country": "Slovenia",
     "name": "Unicredit Banka Slovenija D.D.",
     "address": "140, Smartinska",
@@ -30462,7 +30462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CAGLESMMXXX": {
+  "CAGLESMM": {
     "country": "Spain",
     "name": "Abanca Corporacion Bancaria S.A.",
     "address": "RUA Nueva, 30",
@@ -30470,7 +30470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-27",
     "instant_readiness": "2017-11-21"
   },
-  "BACAESMMXXX": {
+  "BACAESMM": {
     "country": "Spain",
     "name": "Andbank Espana S.A.",
     "address": "Paseo DE LA Castellana, 55 Floor 3",
@@ -30478,7 +30478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "AREBESMMXXX": {
+  "AREBESMM": {
     "country": "Spain",
     "name": "Aresbank, S.A.",
     "address": "257, Paseo DE LA Castellana",
@@ -30486,7 +30486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AYGBESMMXXX": {
+  "AYGBESMM": {
     "country": "Spain",
     "name": "AyG Banca Privada S.A.",
     "address": "P\u00ba de la Castellana, 92",
@@ -30494,7 +30494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "BMARES2MXXX": {
+  "BMARES2M": {
     "country": "Spain",
     "name": "Banca March SA",
     "address": "8, Avenida Alejandro Rossello",
@@ -30502,7 +30502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BAPUES22XXX": {
+  "BAPUES22": {
     "country": "Spain",
     "name": "Banca Pueyo, S.A.",
     "address": "1, Ramon Y Cajal",
@@ -30510,7 +30510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ALCLESMMXXX": {
+  "ALCLESMM": {
     "country": "Spain",
     "name": "Banco Alcala S.A.",
     "address": "23, Goya",
@@ -30518,7 +30518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BBVAESMMXXX": {
+  "BBVAESMM": {
     "country": "Spain",
     "name": "Banco Bilbao Vizcaya Argentaria S.A.",
     "address": "Plaza San Nicolas 4",
@@ -30526,7 +30526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CGDIESMMXXX": {
+  "CGDIESMM": {
     "country": "Spain",
     "name": "Banco Caixa Geral SA",
     "address": "1, Juan Ignacio Luca DE Tena",
@@ -30534,7 +30534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CCOCESMMXXX": {
+  "CCOCESMM": {
     "country": "Spain",
     "name": "Banco Caminos S.A.",
     "address": "8, Calle Almagro",
@@ -30542,7 +30542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCOEESMMXXX": {
+  "BCOEESMM": {
     "country": "Spain",
     "name": "Banco Cooperativo Espanol S.A.",
     "address": "4-6, Virgen DE LOS Peligros",
@@ -30550,7 +30550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BCCAESMMXXX": {
+  "BCCAESMM": {
     "country": "Spain",
     "name": "Banco DE Credito Social Cooperativo S.A.",
     "address": "Paseo de la Castellana 87",
@@ -30558,7 +30558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": "2017-11-21"
   },
-  "BDEPESM1XXX": {
+  "BDEPESM1": {
     "country": "Spain",
     "name": "Banco DE Depositos S.A.",
     "address": "Jos\u00e9 Ortega y Gasset 29",
@@ -30566,7 +30566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "ESPBESMMXXX": {
+  "ESPBESMM": {
     "country": "Spain",
     "name": "Banco DE Espana",
     "address": "48, Alcala",
@@ -30574,7 +30574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NACNESMMXXX": {
+  "NACNESMM": {
     "country": "Spain",
     "name": "Banco DE LA Nacion Argentina, Sucursal Madrid",
     "address": "73, Nunez DE Balboa",
@@ -30582,7 +30582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BSABESBBXXX": {
+  "BSABESBB": {
     "country": "Spain",
     "name": "Banco DE Sabadell S.A.",
     "address": "Placa Sant ROC, 20",
@@ -30598,7 +30598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BRASESMMXXX": {
+  "BRASESMM": {
     "country": "Spain",
     "name": "Banco DO Brasil AG Sucursal EN Espana",
     "address": "Paseo de la Castellana, 259C, Planta 22",
@@ -30606,7 +30606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BEDFESM1XXX": {
+  "BEDFESM1": {
     "country": "Spain",
     "name": "Banco Europeo DE Finanzas S.A.",
     "address": "C/ Bolsa 4, Planta Baja",
@@ -30614,7 +30614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FIOFESM1XXX": {
+  "FIOFESM1": {
     "country": "Spain",
     "name": "Banco Finantia Spain, S.A.",
     "address": "Avenida Menendez Pelayo, 67",
@@ -30622,7 +30622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "INVLESMMXXX": {
+  "INVLESMM": {
     "country": "Spain",
     "name": "Banco Inversis S.A.",
     "address": "AV. DE LA Hispanidad, 6",
@@ -30630,7 +30630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "BFIVESBBXXX": {
+  "BFIVESBB": {
     "country": "Spain",
     "name": "Banco Mediolanum",
     "address": "668-670, Avenida Diagonal",
@@ -30638,7 +30638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "PSTRESMMXXX": {
+  "PSTRESMM": {
     "country": "Spain",
     "name": "Banco Pastor S.A.",
     "address": "Orillamar 71",
@@ -30646,7 +30646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "PICHESMMXXX": {
+  "PICHESMM": {
     "country": "Spain",
     "name": "Banco Pichincha Espana",
     "address": "Calle Serrano, 28 Floor 1, C Y D",
@@ -30654,7 +30654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": "2017-11-21"
   },
-  "POPUESMMXXX": {
+  "POPUESMM": {
     "country": "Spain",
     "name": "Banco Popular Espanol S.A.",
     "address": "Calle Vel\u00e1zquez,34",
@@ -30662,7 +30662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BSCHESMMXXX": {
+  "BSCHESMM": {
     "country": "Spain",
     "name": "Banco Santander S.A.",
     "address": "Ciudad Grupo Santander Edificio Maya, Planta 2",
@@ -30670,7 +30670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BAOFESM1XXX": {
+  "BAOFESM1": {
     "country": "Spain",
     "name": "Bancofar S.A.",
     "address": "c/ Fortuny 51-1\u00b0 F-G",
@@ -30678,7 +30678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEGRESBBXXX": {
+  "DEGRESBB": {
     "country": "Spain",
     "name": "Bank Degroof Petercam Spain S.A.U.",
     "address": "AV Diagonal, 464",
@@ -30686,7 +30686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "CAHMESMMXXX": {
+  "CAHMESMM": {
     "country": "Spain",
     "name": "Bankia S.A.",
     "address": "Pintor Sorolla, 8",
@@ -30694,7 +30694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-01-09",
     "instant_readiness": "2017-11-21"
   },
-  "BKBKESMMXXX": {
+  "BKBKESMM": {
     "country": "Spain",
     "name": "Bankinter S.A.",
     "address": "Paseo DE LA Castellana 29",
@@ -30702,7 +30702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BKOAES22XXX": {
+  "BKOAES22": {
     "country": "Spain",
     "name": "Bankoa S.A.",
     "address": "Avenida DE LA Libertad 5 / Departamento de Organizacion",
@@ -30710,7 +30710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-06-11"
   },
-  "BMCEESMMXXX": {
+  "BMCEESMM": {
     "country": "Spain",
     "name": "Banque Marocaine DU Commerce Exterieur International, S.A.U.",
     "address": "Serrano 59",
@@ -30718,7 +30718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "BMEUESM1XXX": {
+  "BMEUESM1": {
     "country": "Spain",
     "name": "Bmce Euroservices",
     "address": "Calle Alcala 21 11 Izq.",
@@ -30726,7 +30726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BNPAESMMXXX": {
+  "BNPAESMM": {
     "country": "Spain",
     "name": "BNP Paribas Espana S.A.",
     "address": "Ribera DEL Loira, 28",
@@ -30814,7 +30814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CAIXESBBXXX": {
+  "CAIXESBB": {
     "country": "Spain",
     "name": "Caixabank S.A.",
     "address": "Avenida Diagonal 621-629",
@@ -30830,7 +30830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CASDESBBXXX": {
+  "CASDESBB": {
     "country": "Spain",
     "name": "Caja de Arquitectos S. Coop. de Credito",
     "address": "c/ Arcs, 1",
@@ -30838,7 +30838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CDENESBBXXX": {
+  "CDENESBB": {
     "country": "Spain",
     "name": "Caja DE Credito DE LOS Ingenieros S. Coop. DE Credito",
     "address": "Via Laietana, 39",
@@ -30854,7 +30854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CLPEES2MXXX": {
+  "CLPEES2M": {
     "country": "Spain",
     "name": "Caja Laboral Popular Sdad.Coop. DE Credito",
     "address": "S / N, Paseo Jose Maria Arizmendiarrieta",
@@ -31206,7 +31206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CCRIES2AXXX": {
+  "CCRIES2A": {
     "country": "Spain",
     "name": "Cajamar Caja Rural Sociedad Cooperativa DE Credito",
     "address": "NO 5, Plaza DE Barcelona",
@@ -31222,7 +31222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CSURES2CXXX": {
+  "CSURES2C": {
     "country": "Spain",
     "name": "CajaSur Banco S.A.U.",
     "address": "18-24, Ronda DE LOS Tejares",
@@ -31230,7 +31230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "CECAESMMXXX": {
+  "CECAESMM": {
     "country": "Spain",
     "name": "Cecabank S.A.",
     "address": "C/Caballero DE Gracia, No 28/30, 3 a Planta",
@@ -31238,7 +31238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": "2017-11-21"
   },
-  "CITIES2XXXX": {
+  "CITIES2X": {
     "country": "Spain",
     "name": "Citibank Espana S.A.",
     "address": "19, Avenida DE Europa: Parque Empresarial  LA Moraleja",
@@ -31254,7 +31254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DEUTESBBXXX": {
+  "DEUTESBB": {
     "country": "Spain",
     "name": "Deutsche Bank Sociedad Anonima Espanola",
     "address": "Ronda Gereral Mitre 72-74",
@@ -31262,7 +31262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2018-05-16"
   },
-  "PROAESMMXXX": {
+  "PROAESMM": {
     "country": "Spain",
     "name": "EBN Banco DE Negocios, S.A.",
     "address": "Paseo de Recoletos, 29",
@@ -31278,7 +31278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "EVOBESMMXXX": {
+  "EVOBESMM": {
     "country": "Spain",
     "name": "EVO Banco S.A.",
     "address": "C/Serrano, 45",
@@ -31286,7 +31286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-01-13",
     "instant_readiness": "2017-11-21"
   },
-  "CAZRES2ZXXX": {
+  "CAZRES2Z": {
     "country": "Spain",
     "name": "Ibercaja Banco S.A.",
     "address": "Plaza DE Basilio Paraiso 2",
@@ -31294,7 +31294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-10-01",
     "instant_readiness": "2017-11-21"
   },
-  "CHASESM3XXX": {
+  "CHASESM3": {
     "country": "Spain",
     "name": "JPMorgan Chase Bank, N.A., Madrid Branch",
     "address": "C/ Jose Ortega Y Gasset 29",
@@ -31302,7 +31302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "BASKES2BXXX": {
+  "BASKES2B": {
     "country": "Spain",
     "name": "Kutxabank S.A.",
     "address": "Gran VIA 30",
@@ -31326,7 +31326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-01-23",
     "instant_readiness": "2017-11-21"
   },
-  "MIKBESB1XXX": {
+  "MIKBESB1": {
     "country": "Spain",
     "name": "Nuevo Microbank S.A.U.",
     "address": "Calle Alcal\u00e1, 27",
@@ -31334,7 +31334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": "2017-11-21"
   },
-  "OPENESMMXXX": {
+  "OPENESMM": {
     "country": "Spain",
     "name": "Open Bank S.A.",
     "address": "Avda. DE Cantabria S/N, Ciudad Financiera Grupo Santander",
@@ -31342,7 +31342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": "2018-06-04"
   },
-  "POPIESMMXXX": {
+  "POPIESMM": {
     "country": "Spain",
     "name": "Popular Banca Privada S.A.",
     "address": "Juan Ignacio Luca de Tena 11",
@@ -31350,7 +31350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "RENBESMMXXX": {
+  "RENBESMM": {
     "country": "Spain",
     "name": "Renta 4 Banco, S.A.",
     "address": "Paseo DE LA Habana 74",
@@ -31366,7 +31366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2017-11-21"
   },
-  "BSSSESM2XXX": {
+  "BSSSESM2": {
     "country": "Spain",
     "name": "Santander Banco DE Emisiones S.A.",
     "address": "Av. de Cantabria s/n",
@@ -31374,7 +31374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "SCFBESMMXXX": {
+  "SCFBESMM": {
     "country": "Spain",
     "name": "Santander Consumer Finance S.A.",
     "address": "Ciudad Grupo Santander / CGS - Edificio Dehesa",
@@ -31382,7 +31382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "SABNESMMXXX": {
+  "SABNESMM": {
     "country": "Spain",
     "name": "Santander Investment S.A.",
     "address": "AV. DE Cantabria S/N, Edificio Encinar, Planta 1",
@@ -31390,7 +31390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "CMCIESMMXXX": {
+  "CMCIESMM": {
     "country": "Spain",
     "name": "Targobank S.A.",
     "address": "Claudio Coello 123",
@@ -31398,7 +31398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "UBSWESMMXXX": {
+  "UBSWESMM": {
     "country": "Spain",
     "name": "UBS Bank S.A.",
     "address": "Maria de Molina, 4",
@@ -31406,7 +31406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "UCJAES2MXXX": {
+  "UCJAES2M": {
     "country": "Spain",
     "name": "Unicaja Banco SAU",
     "address": "Avenida DE Andalucia 10-12",
@@ -31414,7 +31414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-12-15",
     "instant_readiness": "2017-11-21"
   },
-  "POPLESMMXXX": {
+  "POPLESMM": {
     "country": "Spain",
     "name": "Wizink Bank S.A.",
     "address": "P E La Moraleja. Avda. Europa, 19",
@@ -31422,7 +31422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FTCSSESSXXX": {
+  "FTCSSESS": {
     "country": "Sweden",
     "name": "Financial Transactions Control Systems Sweden AB",
     "address": "c/o KG10 Stockholm AB, Kungsgatan 10, 3 tr",
@@ -31430,7 +31430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-11-06",
     "instant_readiness": null
   },
-  "IBCASES1XXX": {
+  "IBCASES1": {
     "country": "Sweden",
     "name": "ICA Banken AB",
     "address": "H00MBT/1285 Box 4021",
@@ -31446,7 +31446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-16",
     "instant_readiness": null
   },
-  "KLRNSESSXXX": {
+  "KLRNSESS": {
     "country": "Sweden",
     "name": "Klarna Bank AB",
     "address": "Sveavagen 45",
@@ -31454,7 +31454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-04",
     "instant_readiness": null
   },
-  "SKIASESSXXX": {
+  "SKIASESS": {
     "country": "Sweden",
     "name": "Skandiabanken Aktiebolag (publ)",
     "address": "Annika Lindgren Pettersson Fack 410 001 R014",
@@ -31462,7 +31462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-05-04",
     "instant_readiness": null
   },
-  "ESSESESSXXX": {
+  "ESSESESS": {
     "country": "Sweden",
     "name": "Skandinaviska Enskilda Banken AB",
     "address": "Rissneleden 110",
@@ -31470,7 +31470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SPSDSE21XXX": {
+  "SPSDSE21": {
     "country": "Sweden",
     "name": "Sparbanken SYD",
     "address": "Hamngatan 2",
@@ -31478,7 +31478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-06-07",
     "instant_readiness": null
   },
-  "HANDSESSXXX": {
+  "HANDSESS": {
     "country": "Sweden",
     "name": "Svenska Handelsbanken AB (publ)",
     "address": "HIC",
@@ -31486,7 +31486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": "2019-04-01"
   },
-  "SWEDSESSXXX": {
+  "SWEDSESS": {
     "country": "Sweden",
     "name": "Swedbank AB (Publ)",
     "address": "8, Brunkebergstorg",
@@ -31494,7 +31494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBAGCH22XXX": {
+  "KBAGCH22": {
     "country": "Switzerland",
     "name": "Aargauische Kantonalbank",
     "address": "1, Bahnhofplatz",
@@ -31502,7 +31502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ACRGCH22XXX": {
+  "ACRGCH22": {
     "country": "Switzerland",
     "name": "Acrevis Bank AG",
     "address": "1, Marktplatz",
@@ -31510,7 +31510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "AEKTCH22XXX": {
+  "AEKTCH22": {
     "country": "Switzerland",
     "name": "AEK Bank 1826",
     "address": "2, Hofstettenstrasse",
@@ -31518,7 +31518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ARBHCH22XXX": {
+  "ARBHCH22": {
     "country": "Switzerland",
     "name": "Alpha Rheintal Bank",
     "address": "Bahnhofstrasse 2",
@@ -31526,7 +31526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "ABSOCH22XXX": {
+  "ABSOCH22": {
     "country": "Switzerland",
     "name": "Alternative Bank Schweiz AG",
     "address": "Amthausquai 21",
@@ -31534,7 +31534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-09-05",
     "instant_readiness": null
   },
-  "AIKACH22XXX": {
+  "AIKACH22": {
     "country": "Switzerland",
     "name": "Appenzeller Kantonalbank",
     "address": "2, Bankgasse",
@@ -31542,7 +31542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "AQULCHZZXXX": {
+  "AQULCHZZ": {
     "country": "Switzerland",
     "name": "Aquila UND CO. AG",
     "address": "Bahnhofstrasse 28A",
@@ -31550,7 +31550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-09-08",
     "instant_readiness": null
   },
-  "UNCECH22XXX": {
+  "UNCECH22": {
     "country": "Switzerland",
     "name": "Axion Swiss Bank SA",
     "address": "Viale Stefano Franscini 22",
@@ -31558,7 +31558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "KBSOCH22XXX": {
+  "KBSOCH22": {
     "country": "Switzerland",
     "name": "Baloise Bank Soba",
     "address": "4, Amthausplatz",
@@ -31566,7 +31566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCRECH22XXX": {
+  "BCRECH22": {
     "country": "Switzerland",
     "name": "Banca Credinvest SA",
     "address": "VIA Canova 1",
@@ -31574,7 +31574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-09-03",
     "instant_readiness": null
   },
-  "BACECH22XXX": {
+  "BACECH22": {
     "country": "Switzerland",
     "name": "Banca DEL Ceresio SA",
     "address": "13 VIA Pretorio",
@@ -31582,7 +31582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-04-07",
     "instant_readiness": null
   },
-  "BASECH22XXX": {
+  "BASECH22": {
     "country": "Switzerland",
     "name": "Banca DEL Sempione SA",
     "address": "5 VIA Peri",
@@ -31590,7 +31590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "BSCTCH22XXX": {
+  "BSCTCH22": {
     "country": "Switzerland",
     "name": "Banca Dello Stato DEL Cantone Ticino",
     "address": "5, Viale Henri Guisan",
@@ -31598,7 +31598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "POSOCH22XXX": {
+  "POSOCH22": {
     "country": "Switzerland",
     "name": "Banca Popolare DI Sondrio (Suisse)",
     "address": "VIA Maggio 1",
@@ -31606,7 +31606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "EUBACH22XXX": {
+  "EUBACH22": {
     "country": "Switzerland",
     "name": "Banca Zarattini & CO. SA",
     "address": "Via Pretorio 1",
@@ -31622,7 +31622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "CIALCHBBXXX": {
+  "CIALCHBB": {
     "country": "Switzerland",
     "name": "Bank CIC (Switzerland) Ltd",
     "address": "Marktplatz 11 - 13",
@@ -31630,7 +31630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCLRCHBBXXX": {
+  "BCLRCHBB": {
     "country": "Switzerland",
     "name": "Bank Cler AG",
     "address": "Aeschenplatz 3",
@@ -31638,7 +31638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "EEKBCH22XXX": {
+  "EEKBCH22": {
     "country": "Switzerland",
     "name": "Bank EEK AG",
     "address": "Amthausgasse 14",
@@ -31646,7 +31646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-09",
     "instant_readiness": null
   },
-  "EKIICH22XXX": {
+  "EKIICH22": {
     "country": "Switzerland",
     "name": "Bank EKI Genossenschaft",
     "address": "1, Rosenstrasse",
@@ -31654,7 +31654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BGAGCH22XXX": {
+  "BGAGCH22": {
     "country": "Switzerland",
     "name": "Bank Gantrisch Genossenschaft",
     "address": "Bahnhofstrasse 2",
@@ -31670,7 +31670,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "SARACHBBXXX": {
+  "SARACHBB": {
     "country": "Switzerland",
     "name": "Bank J. Safra Sarasin AG",
     "address": "62, Elisabethenstrasse",
@@ -31678,7 +31678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAERCHZZXXX": {
+  "BAERCHZZ": {
     "country": "Switzerland",
     "name": "Bank Julius Baer AND CO.LTD. Zurich",
     "address": "Hohlstrasse 600",
@@ -31694,7 +31694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "LINSCH23XXX": {
+  "LINSCH23": {
     "country": "Switzerland",
     "name": "Bank Linth LLB AG",
     "address": "Zurcherstrasse 3",
@@ -31718,7 +31718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BSZHCHZZXXX": {
+  "BSZHCHZZ": {
     "country": "Switzerland",
     "name": "Bank Sparhafen Zuerich AG",
     "address": "21-23, Fraumunsterstrasse",
@@ -31726,7 +31726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BKTHCH22XXX": {
+  "BKTHCH22": {
     "country": "Switzerland",
     "name": "Bank Thalwil",
     "address": "Gotthardstrasse 14",
@@ -31734,7 +31734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-01-05",
     "instant_readiness": null
   },
-  "VRLLCHZZXXX": {
+  "VRLLCHZZ": {
     "country": "Switzerland",
     "name": "Bank von Roll AG",
     "address": "Bleicherweg 37",
@@ -31742,7 +31742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-01",
     "instant_readiness": null
   },
-  "VONTCHZZXXX": {
+  "VONTCHZZ": {
     "country": "Switzerland",
     "name": "Bank Vontobel AG",
     "address": "Gotthardstr. 43",
@@ -31758,7 +31758,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BZPLCHZZXXX": {
+  "BZPLCHZZ": {
     "country": "Switzerland",
     "name": "bank zweiplus ag",
     "address": "Buckhauserstrasse 22",
@@ -31766,7 +31766,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "BJAGCH2GXXX": {
+  "BJAGCH2G": {
     "country": "Switzerland",
     "name": "Bankhaus Jungholz",
     "address": "Poststrasse 6",
@@ -31774,7 +31774,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "MEDSCHGGXXX": {
+  "MEDSCHGG": {
     "country": "Switzerland",
     "name": "Bankmed Suisse SA",
     "address": "Rue du Mont Blanc 3",
@@ -31782,7 +31782,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-07-08",
     "instant_readiness": null
   },
-  "AEXTCHZZXXX": {
+  "AEXTCHZZ": {
     "country": "Switzerland",
     "name": "Banque Algerienne DU Commerce Exterieur S.A.",
     "address": "41 Talacker",
@@ -31790,7 +31790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BONHCH22XXX": {
+  "BONHCH22": {
     "country": "Switzerland",
     "name": "Banque Bonhote ET CIE S.A.",
     "address": "Quai Ostervald 2",
@@ -31798,7 +31798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-06-03",
     "instant_readiness": null
   },
-  "BEFRCH22XXX": {
+  "BEFRCH22": {
     "country": "Switzerland",
     "name": "Banque Cantonale DE Fribourg",
     "address": "1, Boulevard DE Perolles",
@@ -31806,7 +31806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCGECHGGXXX": {
+  "BCGECHGG": {
     "country": "Switzerland",
     "name": "Banque Cantonale DE Geneve",
     "address": "Quai DE L'ILE, 17 - CP2251",
@@ -31814,7 +31814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "BCJUCH22XXX": {
+  "BCJUCH22": {
     "country": "Switzerland",
     "name": "Banque Cantonale DU Jura",
     "address": "Rue des Malvoisins 23",
@@ -31822,7 +31822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-07",
     "instant_readiness": null
   },
-  "BCVSCH2LXXX": {
+  "BCVSCH2L": {
     "country": "Switzerland",
     "name": "Banque Cantonale DU Valais",
     "address": "8, RUE DES Cedres",
@@ -31830,7 +31830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCNNCH22XXX": {
+  "BCNNCH22": {
     "country": "Switzerland",
     "name": "Banque Cantonale Neuchateloise",
     "address": "4, Place Pury",
@@ -31838,7 +31838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BCVLCH2LXXX": {
+  "BCVLCH2L": {
     "country": "Switzerland",
     "name": "Banque Cantonale Vaudoise",
     "address": "Case Postale 300",
@@ -31846,7 +31846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "CRAMCHGGXXX": {
+  "CRAMCHGG": {
     "country": "Switzerland",
     "name": "Banque Cramer ET CIE SA",
     "address": "Avenue Miremont 22",
@@ -31854,7 +31854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-03",
     "instant_readiness": null
   },
-  "BPCPCHGGXXX": {
+  "BPCPCHGG": {
     "country": "Switzerland",
     "name": "Banque DE Commerce ET DE Placements",
     "address": "RUE DE LA Fontaine 1 P.O. Box 3069",
@@ -31862,7 +31862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "BLEMCHGGXXX": {
+  "BLEMCHGG": {
     "country": "Switzerland",
     "name": "Banque DU Leman SA",
     "address": "Rue F. Bonivard 12",
@@ -31870,7 +31870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "BPGECHGGXXX": {
+  "BPGECHGG": {
     "country": "Switzerland",
     "name": "Banque Havilland (Suisse) S.A.",
     "address": "10 RUE DE Hollande",
@@ -31878,7 +31878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-03-07",
     "instant_readiness": null
   },
-  "HFTCCHGGXXX": {
+  "HFTCCHGG": {
     "country": "Switzerland",
     "name": "Banque Heritage SA",
     "address": "Route de Ch\u00eane 61 Case postale 6600",
@@ -31886,7 +31886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-11-06",
     "instant_readiness": null
   },
-  "LOCYCHGGXXX": {
+  "LOCYCHGG": {
     "country": "Switzerland",
     "name": "Banque Lombard Odier et Cie. SA",
     "address": "Rue de la Corraterie 11",
@@ -31894,7 +31894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-08",
     "instant_readiness": null
   },
-  "BKPBCHGGXXX": {
+  "BKPBCHGG": {
     "country": "Switzerland",
     "name": "Banque Paris Bertrand SA",
     "address": "30, rue du Rh\u00f4ne",
@@ -31902,7 +31902,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": null
   },
-  "PICTCHGGXXX": {
+  "PICTCHGG": {
     "country": "Switzerland",
     "name": "Banque Pictet AND CIE SA",
     "address": "Route DES Acacias 60",
@@ -31910,7 +31910,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "BPDGCHGGXXX": {
+  "BPDGCHGG": {
     "country": "Switzerland",
     "name": "Banque Profil DE Gestion S.A.",
     "address": "11 Cours DE Rive",
@@ -31918,7 +31918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "SYCOCHGGXXX": {
+  "SYCOCHGG": {
     "country": "Switzerland",
     "name": "Banque SYZ SA",
     "address": "Case postale 5015",
@@ -31926,7 +31926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "THALCHGGXXX": {
+  "THALCHGG": {
     "country": "Switzerland",
     "name": "Banque Thaler S.A.",
     "address": "RUE Pierre-Fatio 3",
@@ -31934,7 +31934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "BARCCHGGXXX": {
+  "BARCCHGG": {
     "country": "Switzerland",
     "name": "Barclays Bank (Suisse) S.A.",
     "address": "10, RUE D ' Italie",
@@ -31942,7 +31942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLKBCH22XXX": {
+  "BLKBCH22": {
     "country": "Switzerland",
     "name": "Basellandschaftliche Kantonalbank",
     "address": "7, Rheinstrasse",
@@ -31950,7 +31950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BKBBCHBBXXX": {
+  "BKBBCHBB": {
     "country": "Switzerland",
     "name": "Basler Kantonalbank",
     "address": "Spiegelgasse 1",
@@ -31958,7 +31958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BAUMCHBBXXX": {
+  "BAUMCHBB": {
     "country": "Switzerland",
     "name": "Baumann & Cie KmG",
     "address": "ST. Jakobs-Strasse 46",
@@ -31966,7 +31966,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "BBOBCH22XXX": {
+  "BBOBCH22": {
     "country": "Switzerland",
     "name": "BBO Bank Brienz Oberhasli AG",
     "address": "Hauptstrasse 115",
@@ -31974,7 +31974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-02-04",
     "instant_readiness": null
   },
-  "BBVACHZZXXX": {
+  "BBVACHZZ": {
     "country": "Switzerland",
     "name": "Bbva SA",
     "address": "Selnaustrasse 32/36",
@@ -31982,7 +31982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BEGOCHZZXXX": {
+  "BEGOCHZZ": {
     "country": "Switzerland",
     "name": "Bergos Berenberg AG",
     "address": "Kreuzstrasse 5",
@@ -31990,7 +31990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBBECH22XXX": {
+  "KBBECH22": {
     "country": "Switzerland",
     "name": "Berner Kantonalbank AG",
     "address": "Bundesplatz 8",
@@ -32006,7 +32006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BZSDCH22XXX": {
+  "BZSDCH22": {
     "country": "Switzerland",
     "name": "Bezirks-Sparkasse Dielsdorf",
     "address": "29, Bahnhofstrasse",
@@ -32022,7 +32022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BPPBCHGGXXX": {
+  "BPPBCHGG": {
     "country": "Switzerland",
     "name": "BNP Paribas (Suisse) SA",
     "address": "2, Place DE Hollande",
@@ -32030,7 +32030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BORDCHGGXXX": {
+  "BORDCHGG": {
     "country": "Switzerland",
     "name": "Bordier ET CIE",
     "address": "16 RUE DE Hollande",
@@ -32054,7 +32054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "AGRICHGGXXX": {
+  "AGRICHGG": {
     "country": "Switzerland",
     "name": "CA Indosuez (Switzerland) SA",
     "address": "46 - 48 Chemin de Beree",
@@ -32086,7 +32086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "CAGYCH21XXX": {
+  "CAGYCH21": {
     "country": "Switzerland",
     "name": "Caisse D'Epargne DE Nyon",
     "address": "RUE ST-Jean 11",
@@ -32094,7 +32094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-10-07",
     "instant_readiness": null
   },
-  "CDDVCH21XXX": {
+  "CDDVCH21": {
     "country": "Switzerland",
     "name": "Caisse D'Epargne Riviera",
     "address": "Avenue Paul-Ceresole 3",
@@ -32102,7 +32102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-05",
     "instant_readiness": null
   },
-  "BSSACHGGXXX": {
+  "BSSACHGG": {
     "country": "Switzerland",
     "name": "CBH Compagnie Bancaire Helvetique SA",
     "address": "Boulevard Emile Jaques Dalcroze 7",
@@ -32110,7 +32110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CIMMCHGGXXX": {
+  "CIMMCHGG": {
     "country": "Switzerland",
     "name": "CIM Banque SA",
     "address": "RUE Merle D'Aubigne 16",
@@ -32182,7 +32182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "CBLUCH22XXX": {
+  "CBLUCH22": {
     "country": "Switzerland",
     "name": "Corner Banca S.A.",
     "address": "16 VIA Canova",
@@ -32190,7 +32190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "AGRICHGXXXX": {
+  "AGRICHGX": {
     "country": "Switzerland",
     "name": "Cr\u00e9dit Agricole next bank (Suisse) SA",
     "address": "Esplanade de Pont-Rouge 4-6",
@@ -32198,7 +32198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-03-02",
     "instant_readiness": null
   },
-  "FSUICHGGXXX": {
+  "FSUICHGG": {
     "country": "Switzerland",
     "name": "Credit Europe Bank (Suisse) S.A.",
     "address": "12 RUE DU Mont Blanc",
@@ -32214,7 +32214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "CRESCHZZXXX": {
+  "CRESCHZZ": {
     "country": "Switzerland",
     "name": "Credit Suisse (Schweiz) AG",
     "address": "Sepa Competence Center  P.O.Box 100",
@@ -32222,7 +32222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "DCBECH22XXX": {
+  "DCBECH22": {
     "country": "Switzerland",
     "name": "DC Bank Deposito-Cassa DER Stadt Bern",
     "address": "Schauplatzgasse 21",
@@ -32230,7 +32230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "DEUTCHGGXXX": {
+  "DEUTCHGG": {
     "country": "Switzerland",
     "name": "Deutsche Bank (Suisse) SA",
     "address": "3 Place DES Bergues",
@@ -32238,7 +32238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-11-03",
     "instant_readiness": null
   },
-  "DREYCHBBXXX": {
+  "DREYCHBB": {
     "country": "Switzerland",
     "name": "Dreyfus Sons AND CO Limited Banquiers",
     "address": "16 Aeschenvorstadt",
@@ -32246,7 +32246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-07-08",
     "instant_readiness": null
   },
-  "DUBACHGGXXX": {
+  "DUBACHGG": {
     "country": "Switzerland",
     "name": "Dukascopy Bank SA",
     "address": "Route de Pre-Bois 20",
@@ -32254,7 +32254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-06-04",
     "instant_readiness": null
   },
-  "GENOCHZZXXX": {
+  "GENOCHZZ": {
     "country": "Switzerland",
     "name": "DZ Privatbank (Schweiz) AG",
     "address": "12 Munsterhof",
@@ -32262,7 +32262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-07-05",
     "instant_readiness": null
   },
-  "GUTZCHBBXXX": {
+  "GUTZCHBB": {
     "country": "Switzerland",
     "name": "E. Gutzwiller & Cie, Banquiers",
     "address": "Kaufhausgasse 7",
@@ -32270,7 +32270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "EFGBCHGGXXX": {
+  "EFGBCHGG": {
     "country": "Switzerland",
     "name": "E.F.G. Bank European Financial Group",
     "address": "24, Quai DU Seujet P.O. BOX 2391",
@@ -32278,7 +32278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-04-06",
     "instant_readiness": null
   },
-  "PRIBCHGGXXX": {
+  "PRIBCHGG": {
     "country": "Switzerland",
     "name": "Edmond DE Rothschild (Suisse) S.A.",
     "address": "18, RUE DE Hesse",
@@ -32286,7 +32286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-10-06",
     "instant_readiness": null
   },
-  "EFGBCHZZXXX": {
+  "EFGBCHZZ": {
     "country": "Switzerland",
     "name": "EFG Bank AG",
     "address": "16 Bahnhofstrasse",
@@ -32294,7 +32294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-04-09",
     "instant_readiness": null
   },
-  "RBABCH22XXX": {
+  "RBABCH22": {
     "country": "Switzerland",
     "name": "Entris Banking AG",
     "address": "Postfach",
@@ -32310,7 +32310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "EKRUCH21XXX": {
+  "EKRUCH21": {
     "country": "Switzerland",
     "name": "Ersparniskasse Rueggisberg Genossenschaft",
     "address": "Dorfstrasse 19 Postfach 44",
@@ -32326,7 +32326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "FVLBCHZZXXX": {
+  "FVLBCHZZ": {
     "country": "Switzerland",
     "name": "F. VAN Lanschot Bankiers (Schweiz) AG",
     "address": "Mittelstrasse 10",
@@ -32334,7 +32334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-05-09",
     "instant_readiness": null
   },
-  "UEBECHZZXXX": {
+  "UEBECHZZ": {
     "country": "Switzerland",
     "name": "Falcon Private Bank AG",
     "address": "Pelikanstrasse 37",
@@ -32342,7 +32342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "FBGSCHZZXXX": {
+  "FBGSCHZZ": {
     "country": "Switzerland",
     "name": "Frankfurter Bankgesellschaft (Switzerland) Ltd.",
     "address": "16, Boersenstrasse",
@@ -32350,7 +32350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FRGGCHB1XXX": {
+  "FRGGCHB1": {
     "country": "Switzerland",
     "name": "Freie Gemeinschaftsbank Genossenschaft",
     "address": "Meret Oppenheim-Strasse 10",
@@ -32358,7 +32358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "GLKBCH22XXX": {
+  "GLKBCH22": {
     "country": "Switzerland",
     "name": "Glarner Kantonalbank",
     "address": "21, Hauptstrasse",
@@ -32366,7 +32366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "GLBNCHZZXXX": {
+  "GLBNCHZZ": {
     "country": "Switzerland",
     "name": "Globalance Bank AG",
     "address": "Gartenstrasse 16",
@@ -32374,7 +32374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-07-06",
     "instant_readiness": null
   },
-  "GRKBCH22XXX": {
+  "GRKBCH22": {
     "country": "Switzerland",
     "name": "Graubuendner Kantonalbank",
     "address": "27, Engadinstrasse",
@@ -32390,7 +32390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "HBZUCHZZXXX": {
+  "HBZUCHZZ": {
     "country": "Switzerland",
     "name": "Habib Bank AG Zurich",
     "address": "59, Weinbergstrasse",
@@ -32398,7 +32398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SFBFCH22XXX": {
+  "SFBFCH22": {
     "country": "Switzerland",
     "name": "Helvetische Bank AG",
     "address": "Seefeldstrasse 215",
@@ -32406,7 +32406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "ABSGCHGGXXX": {
+  "ABSGCHGG": {
     "country": "Switzerland",
     "name": "Hinduja Bank (Switzerland) LTD",
     "address": "3BIS, Place DE LA Fusterie",
@@ -32414,7 +32414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BLICCHGGXXX": {
+  "BLICCHGG": {
     "country": "Switzerland",
     "name": "Hsbc Private Bank (Suisse) S.A.",
     "address": "Case postale 2888",
@@ -32430,7 +32430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "CCIECHGGXXX": {
+  "CCIECHGG": {
     "country": "Switzerland",
     "name": "Hyposwiss Private Bank Geneve SA",
     "address": "3 rue du G\u00e9n\u00e9ral-Dufour",
@@ -32438,7 +32438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-10",
     "instant_readiness": null
   },
-  "HYPLCH22XXX": {
+  "HYPLCH22": {
     "country": "Switzerland",
     "name": "Hypothekarbank Lenzburg",
     "address": "2, Bahnhofstrasse",
@@ -32446,7 +32446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IGBKCHGGXXX": {
+  "IGBKCHGG": {
     "country": "Switzerland",
     "name": "IG Bank SA",
     "address": "42 rue du Rhone",
@@ -32454,7 +32454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-04-03",
     "instant_readiness": null
   },
-  "INCOCHZZXXX": {
+  "INCOCHZZ": {
     "country": "Switzerland",
     "name": "InCore Bank AG",
     "address": "Dreikoenigstrasse 8",
@@ -32462,7 +32462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "SPCHCHGGXXX": {
+  "SPCHCHGG": {
     "country": "Switzerland",
     "name": "Intesa Sanpaolo Private Bank (Suisse) Morval SA",
     "address": "Via S.Balestra 12",
@@ -32470,7 +32470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-02-04",
     "instant_readiness": null
   },
-  "MGTCCHGGXXX": {
+  "MGTCCHGG": {
     "country": "Switzerland",
     "name": "J.P. Morgan (Suisse) S.A.",
     "address": "8 RUE DE LA Confederation",
@@ -32486,7 +32486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "BLFLCHBBXXX": {
+  "BLFLCHBB": {
     "country": "Switzerland",
     "name": "LGT Bank (Schweiz) AG",
     "address": "15, Lange Gasse",
@@ -32502,7 +32502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "LUKBCH22XXX": {
+  "LUKBCH22": {
     "country": "Switzerland",
     "name": "Luzerner Kantonalbank",
     "address": "12, Pilatusstrasse",
@@ -32510,7 +32510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MAEBCHZZXXX": {
+  "MAEBCHZZ": {
     "country": "Switzerland",
     "name": "Maerki, Baumann UND CO. AG Bank",
     "address": "6, Dreikonigstrasse",
@@ -32518,7 +32518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MIGRCHZZXXX": {
+  "MIGRCHZZ": {
     "country": "Switzerland",
     "name": "Migros Bank",
     "address": "Seidengasse 12",
@@ -32526,7 +32526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MIRACHGGXXX": {
+  "MIRACHGG": {
     "country": "Switzerland",
     "name": "Mirabaud et Cie. SA",
     "address": "29, Boulevard Georges-Favon",
@@ -32534,7 +32534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "NBOKCHGGXXX": {
+  "NBOKCHGG": {
     "country": "Switzerland",
     "name": "NBK Banque Privee (Suisse) S.A.",
     "address": "Quai DU Mont-Blanc 21",
@@ -32542,7 +32542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-01-04",
     "instant_readiness": null
   },
-  "AHHBCH22XXX": {
+  "AHHBCH22": {
     "country": "Switzerland",
     "name": "Neue Aargauer Bank",
     "address": "Hauptstrasse 1",
@@ -32550,7 +32550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NIKACH22XXX": {
+  "NIKACH22": {
     "country": "Switzerland",
     "name": "Nidwaldner Kantonalbank",
     "address": "54, Stansstaderstrasse",
@@ -32558,7 +32558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "OBWKCH22XXX": {
+  "OBWKCH22": {
     "country": "Switzerland",
     "name": "Obwaldner Kantonalbank",
     "address": "2, Bahnhofstr.",
@@ -32566,7 +32566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BHFBCHZZXXX": {
+  "BHFBCHZZ": {
     "country": "Switzerland",
     "name": "Oddo BHF (Schweiz) AG",
     "address": "6 Schulhausstrasse",
@@ -32574,7 +32574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-09-06",
     "instant_readiness": null
   },
-  "PIGUCH22XXX": {
+  "PIGUCH22": {
     "country": "Switzerland",
     "name": "Piguet Galland & Cie SA",
     "address": "Rue de la Plaine 14",
@@ -32582,7 +32582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-11-02",
     "instant_readiness": null
   },
-  "PKBSCH22XXX": {
+  "PKBSCH22": {
     "country": "Switzerland",
     "name": "PKB Privatbank AG",
     "address": "Via Balestra, 1",
@@ -32590,7 +32590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-06-01",
     "instant_readiness": null
   },
-  "POFICHBEXXX": {
+  "POFICHBE": {
     "country": "Switzerland",
     "name": "PostFinance AG",
     "address": "Mingerstrasse 20",
@@ -32598,7 +32598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "IHZUCHZZXXX": {
+  "IHZUCHZZ": {
     "country": "Switzerland",
     "name": "Privatbank Ihag Zurich AG",
     "address": "18, Bleicherweg",
@@ -32606,7 +32606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "RAHNCHZZXXX": {
+  "RAHNCHZZ": {
     "country": "Switzerland",
     "name": "Rahn UND Bodmer CO.",
     "address": "15 Talstrasse",
@@ -32614,7 +32614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "RAIFCH22XXX": {
+  "RAIFCH22": {
     "country": "Switzerland",
     "name": "Raiffeisen Switzerland Cooperative",
     "address": "Raiffeisenplatz 4",
@@ -32630,7 +32630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "RSOSCH22XXX": {
+  "RSOSCH22": {
     "country": "Switzerland",
     "name": "Regiobank Solothurn",
     "address": "11, Westbahnhofstrasse",
@@ -32638,7 +32638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "REICCH22XXX": {
+  "REICCH22": {
     "country": "Switzerland",
     "name": "Reichmuth Co Privatbankiers",
     "address": "Ruetligasse 1",
@@ -32646,7 +32646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "REYLCHGGXXX": {
+  "REYLCHGG": {
     "country": "Switzerland",
     "name": "Reyl ET CIE S.A.",
     "address": "62, RUE DU Rhone",
@@ -32654,7 +32654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-01-02",
     "instant_readiness": null
   },
-  "ROTACHZZXXX": {
+  "ROTACHZZ": {
     "country": "Switzerland",
     "name": "Rothschild & Co Bank AG",
     "address": "181, Zollikerstrasse",
@@ -32662,7 +32662,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SAXOCHZHXXX": {
+  "SAXOCHZH": {
     "country": "Switzerland",
     "name": "Saxo Bank (Switzerland) SA",
     "address": "Beethovenstrasse 33",
@@ -32678,7 +32678,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "SHKBCH2SXXX": {
+  "SHKBCH2S": {
     "country": "Switzerland",
     "name": "Schaffhauser Kantonalbank",
     "address": "53, Vorstadt",
@@ -32686,7 +32686,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BJHSCHZZXXX": {
+  "BJHSCHZZ": {
     "country": "Switzerland",
     "name": "Schroder & Co Bank AG",
     "address": "Central 2, P.O.Box 1820",
@@ -32694,7 +32694,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "KBSZCH22XXX": {
+  "KBSZCH22": {
     "country": "Switzerland",
     "name": "Schwyzer Kantonalbank (SKB)",
     "address": "Postfach",
@@ -32702,7 +32702,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SCOPCHBBXXX": {
+  "SCOPCHBB": {
     "country": "Switzerland",
     "name": "Scobag Privatbank AG",
     "address": "Gartenstrasse 56",
@@ -32710,7 +32710,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "INSECHZZXXX": {
+  "INSECHZZ": {
     "country": "Switzerland",
     "name": "SIX SIS AG Banking",
     "address": "Brandschenkestrasse 47",
@@ -32718,7 +32718,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-05-05",
     "instant_readiness": null
   },
-  "RUEGCHZZXXX": {
+  "RUEGCHZZ": {
     "country": "Switzerland",
     "name": "Societe Generale Private Banking (Suisse) S.A.",
     "address": "Rue due Rhone 9",
@@ -32726,7 +32726,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-11-09",
     "instant_readiness": null
   },
-  "SLGUCH2MXXX": {
+  "SLGUCH2M": {
     "country": "Switzerland",
     "name": "Spar + Leihkasse Guerbetal AG",
     "address": "19, Dorfstrasse",
@@ -32734,7 +32734,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "SLBUCH22XXX": {
+  "SLBUCH22": {
     "country": "Switzerland",
     "name": "Spar- UND Leihkasse Bucheggberg AG",
     "address": "Hauptstrasse 69",
@@ -32742,7 +32742,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-10-06",
     "instant_readiness": null
   },
-  "SLFFCH22XXX": {
+  "SLFFCH22": {
     "country": "Switzerland",
     "name": "Spar- und Leihkasse Frutigen AG",
     "address": "13, Dorfstrasse",
@@ -32790,7 +32790,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "KBSGCH22XXX": {
+  "KBSGCH22": {
     "country": "Switzerland",
     "name": "ST.Galler Kantonalbank",
     "address": "25, ST Leonhardstrasse, Strasse",
@@ -32798,7 +32798,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SNBZCHZZXXX": {
+  "SNBZCHZZ": {
     "country": "Switzerland",
     "name": "Swiss National Bank",
     "address": "Boersenstrasse 15, PO BOX 2800",
@@ -32806,7 +32806,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "SWQBCHZZXXX": {
+  "SWQBCHZZ": {
     "country": "Switzerland",
     "name": "Swissquote Bank",
     "address": "Chemin de la Cr\u00e9taux 33",
@@ -32814,7 +32814,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-12-01",
     "instant_readiness": null
   },
-  "KBTGCH22XXX": {
+  "KBTGCH22": {
     "country": "Switzerland",
     "name": "Thurgauer Kantonalbank",
     "address": "Bankplatz 1",
@@ -32822,7 +32822,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TRAPCHBBXXX": {
+  "TRAPCHBB": {
     "country": "Switzerland",
     "name": "Trafina Privatbank AG",
     "address": "Rennweg 50, Postfach",
@@ -32830,7 +32830,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-04-03",
     "instant_readiness": null
   },
-  "UBSBCHZZXXX": {
+  "UBSBCHZZ": {
     "country": "Switzerland",
     "name": "UBS AG",
     "address": "45, Bahnhofstrasse",
@@ -32838,7 +32838,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UBSWCHZHXXX": {
+  "UBSWCHZH": {
     "country": "Switzerland",
     "name": "UBS Switzerland AG",
     "address": "45 Bahnhofstrasse",
@@ -32846,7 +32846,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-06-15",
     "instant_readiness": null
   },
-  "UBPGCHGGXXX": {
+  "UBPGCHGG": {
     "country": "Switzerland",
     "name": "Union Bancaire Privee UBP SA",
     "address": "96-98 RUE DU Rhone",
@@ -32854,7 +32854,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "URKNCH22XXX": {
+  "URKNCH22": {
     "country": "Switzerland",
     "name": "Urner Kantonalbank",
     "address": "1, Bahnhofstrasse",
@@ -32862,7 +32862,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "VABECH22XXX": {
+  "VABECH22": {
     "country": "Switzerland",
     "name": "Valiant Bank AG",
     "address": "4, Bundesplatz",
@@ -32870,7 +32870,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "VPBVCHZHXXX": {
+  "VPBVCHZH": {
     "country": "Switzerland",
     "name": "VP Bank (Schweiz) AG",
     "address": "Talstrasse 59",
@@ -32878,7 +32878,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-05-07",
     "instant_readiness": null
   },
-  "VZDBCHZZXXX": {
+  "VZDBCHZZ": {
     "country": "Switzerland",
     "name": "VZ Depotbank AG",
     "address": "Beethovenstrasse 20",
@@ -32886,7 +32886,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-05",
     "instant_readiness": null
   },
-  "WIRBCHBBXXX": {
+  "WIRBCHBB": {
     "country": "Switzerland",
     "name": "WIR Bank Genossenschaft",
     "address": "Auberg 1",
@@ -32894,7 +32894,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "ZAPRCH22XXX": {
+  "ZAPRCH22": {
     "country": "Switzerland",
     "name": "Zaehringer Privatbank AG",
     "address": "Schmiedenplatz 3",
@@ -32918,7 +32918,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBZGCH22XXX": {
+  "KBZGCH22": {
     "country": "Switzerland",
     "name": "Zuger Kantonalbank",
     "address": "Bahnhofstrasse 1",
@@ -32926,7 +32926,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "ABCEGB2LXXX": {
+  "ABCEGB2L": {
     "country": "United Kingdom",
     "name": "ABC International Bank PLC",
     "address": "1-5 Moorgate",
@@ -32934,7 +32934,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-02-07",
     "instant_readiness": null
   },
-  "AIBKGB2LXXX": {
+  "AIBKGB2L": {
     "country": "United Kingdom",
     "name": "AIB plc",
     "address": "PO Box 4, 4 Queen's Square",
@@ -32942,7 +32942,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-03-03",
     "instant_readiness": null
   },
-  "ARBUGB2LXXX": {
+  "ARBUGB2L": {
     "country": "United Kingdom",
     "name": "Arbuthnot Latham AND CO. Limited",
     "address": "7 Wilson Street",
@@ -32950,7 +32950,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "ARPYGB21XXX": {
+  "ARPYGB21": {
     "country": "United Kingdom",
     "name": "ArcaPay Ltd.",
     "address": "Ludgate Hill, 35-37, Office 7",
@@ -32958,7 +32958,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "CRESGIGIXXX": {
+  "CRESGIGI": {
     "country": "United Kingdom",
     "name": "Bank JSS (Gibraltar) Ltd",
     "address": "Neptune House, Marina BAY, P.O. BOX 556",
@@ -32974,7 +32974,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "BOFAGB22XXX": {
+  "BOFAGB22": {
     "country": "United Kingdom",
     "name": "Bank OF America, N.A.",
     "address": "26 Elmfield Road",
@@ -32982,7 +32982,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BRBAGB2LXXX": {
+  "BRBAGB2L": {
     "country": "United Kingdom",
     "name": "Bank OF Beirut (UK) LTD",
     "address": "17A Curzon Street",
@@ -32990,7 +32990,7 @@ SEPA_INFO = {
     "sepa_readiness": "2011-01-14",
     "instant_readiness": null
   },
-  "BOFIGB2BXXX": {
+  "BOFIGB2B": {
     "country": "United Kingdom",
     "name": "Bank OF Ireland (UK) PLC",
     "address": "BOW Bells House 1 Broad Street",
@@ -32998,7 +32998,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "BOFSGB2SXXX": {
+  "BOFSGB2S": {
     "country": "United Kingdom",
     "name": "Bank OF Scotland PLC",
     "address": "The Mound",
@@ -33006,7 +33006,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BOTKGB2LXXX": {
+  "BOTKGB2L": {
     "country": "United Kingdom",
     "name": "Bank OF Tokyo-Mitsubishi UFJ LTD. London Branch",
     "address": "12-15, Finsbury Circus",
@@ -33014,7 +33014,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BARCGB22XXX": {
+  "BARCGB22": {
     "country": "United Kingdom",
     "name": "Barclays Bank PLC",
     "address": "1, Churchill Place",
@@ -33022,7 +33022,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "BUKBGB22XXX": {
+  "BUKBGB22": {
     "country": "United Kingdom",
     "name": "Barclays Bank UK plc",
     "address": "1 Churchill Place",
@@ -33030,7 +33030,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-04-01",
     "instant_readiness": null
   },
-  "BIYSGB2LXXX": {
+  "BIYSGB2L": {
     "country": "United Kingdom",
     "name": "Bilderlings Pay Limited",
     "address": "Daws Lane Business Centre 33-35 Daws Lane",
@@ -33038,7 +33038,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "MEDTGB2LXXX": {
+  "MEDTGB2L": {
     "country": "United Kingdom",
     "name": "Bmce Bank International PLC",
     "address": "26 Upper Brook Street Mayfair",
@@ -33046,7 +33046,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "BUEEGB22XXX": {
+  "BUEEGB22": {
     "country": "United Kingdom",
     "name": "Bureau Buttercrane Ltd",
     "address": "Unit 20, Buttercrane Shopping Centre",
@@ -33054,7 +33054,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-07-08",
     "instant_readiness": null
   },
-  "CIURGB21XXX": {
+  "CIURGB21": {
     "country": "United Kingdom",
     "name": "Cauri LTD",
     "address": "102 Hamilton House 1 Tample Avenue",
@@ -33062,7 +33062,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-12-01",
     "instant_readiness": null
   },
-  "CFZZGB21XXX": {
+  "CFZZGB21": {
     "country": "United Kingdom",
     "name": "CFS-Zipp Limited",
     "address": "790 Uxbridge Road",
@@ -33070,7 +33070,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": "2019-01-07"
   },
-  "CITTGB2LXXX": {
+  "CITTGB2L": {
     "country": "United Kingdom",
     "name": "Citibank Europe PLC United Kingdom",
     "address": "Citigroup Centre, Canada square, Canary Wharf",
@@ -33078,7 +33078,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CITIGB2LXXX": {
+  "CITIGB2L": {
     "country": "United Kingdom",
     "name": "Citibank N.A. London Branch",
     "address": "Citigroup Centre / Canary Wharf:, 33, Canada Square",
@@ -33086,7 +33086,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CLJUGB21XXX": {
+  "CLJUGB21": {
     "country": "United Kingdom",
     "name": "Clear Junction Limited",
     "address": "4th Floor, Imperial House, 15 Kingsway",
@@ -33094,7 +33094,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-10-02",
     "instant_readiness": null
   },
-  "SWISGB2LXXX": {
+  "SWISGB2L": {
     "country": "United Kingdom",
     "name": "Clearstream Funds Centre Limited",
     "address": "Clearstream Banking S.A. London Branch - 11 Westferry Circus - 2nd Floor, Westferry House - Canary Wharf",
@@ -33102,7 +33102,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-02-08",
     "instant_readiness": null
   },
-  "CLYDGB2SXXX": {
+  "CLYDGB2S": {
     "country": "United Kingdom",
     "name": "Clydesdale Bank PLC including where it trades as Yorkshire Bank",
     "address": "40 St Vincent Place",
@@ -33110,7 +33110,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CNNNGB21XXX": {
+  "CNNNGB21": {
     "country": "United Kingdom",
     "name": "Connectum Limited",
     "address": "29th floor 1 Canada Square",
@@ -33118,7 +33118,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-04-03",
     "instant_readiness": null
   },
-  "UFPOLT21XXX": {
+  "UFPOLT21": {
     "country": "United Kingdom",
     "name": "Contis Financial Services Ltd",
     "address": "Navigation House Belmont Wharf Skipton",
@@ -33126,7 +33126,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-08-07",
     "instant_readiness": null
   },
-  "COUTGB31XXX": {
+  "COUTGB31": {
     "country": "United Kingdom",
     "name": "Coutts & CO",
     "address": "440 Strand",
@@ -33134,7 +33134,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-11-30",
     "instant_readiness": null
   },
-  "CSUKGB2LXXX": {
+  "CSUKGB2L": {
     "country": "United Kingdom",
     "name": "Credit Suisse (UK) Ltd",
     "address": "5 Cabot Square",
@@ -33142,7 +33142,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-06-02",
     "instant_readiness": null
   },
-  "DEUTGB4LXXX": {
+  "DEUTGB4L": {
     "country": "United Kingdom",
     "name": "DB UK Bank Limited",
     "address": "Attn Catherine Craven - Winchester House, 1 Great Winchester Street",
@@ -33150,7 +33150,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-09-03",
     "instant_readiness": null
   },
-  "DCTTGB22XXX": {
+  "DCTTGB22": {
     "country": "United Kingdom",
     "name": "Decta Limited",
     "address": "Suite 3 Third Floor 62 Bayswater Road",
@@ -33158,7 +33158,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-08-07",
     "instant_readiness": null
   },
-  "DBUKGB2LXXX": {
+  "DBUKGB2L": {
     "country": "United Kingdom",
     "name": "Diamond Bank (UK) PLC",
     "address": "Leadenhall Street 36-38",
@@ -33166,7 +33166,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-05-05",
     "instant_readiness": null
   },
-  "DIXPGB21XXX": {
+  "DIXPGB21": {
     "country": "United Kingdom",
     "name": "Dixipay",
     "address": "68 King William Str.",
@@ -33174,7 +33174,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-06-05",
     "instant_readiness": null
   },
-  "EBURGB2LXXX": {
+  "EBURGB2L": {
     "country": "United Kingdom",
     "name": "Ebury Partners UK LTD",
     "address": "100 Victoria Street",
@@ -33182,7 +33182,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-09-04",
     "instant_readiness": null
   },
-  "EPMTGB2LXXX": {
+  "EPMTGB2L": {
     "country": "United Kingdom",
     "name": "Epayments Systems Limited",
     "address": "91 Wimpole Street",
@@ -33190,7 +33190,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "PYYPGB21XXX": {
+  "PYYPGB21": {
     "country": "United Kingdom",
     "name": "EU PAY Ltd.",
     "address": "1 Fore Street Avenue",
@@ -33198,7 +33198,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "ARABGB2LXXX": {
+  "ARABGB2L": {
     "country": "United Kingdom",
     "name": "Europe Arab Bank PLC",
     "address": "13-15 Moorgate",
@@ -33206,7 +33206,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "FNHOGB21XXX": {
+  "FNHOGB21": {
     "country": "United Kingdom",
     "name": "Financial House Limited",
     "address": "6 Bevis Marks Building, 1st Floor, Bury Court",
@@ -33214,7 +33214,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": "2019-09-02"
   },
-  "GSBNGIGIXXX": {
+  "GSBNGIGI": {
     "country": "United Kingdom",
     "name": "G-Rock Ltd",
     "address": "Suites 4,5,6 - 2nd Floor / Irish Town",
@@ -33222,7 +33222,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "GIBKGIGIXXX": {
+  "GIBKGIGI": {
     "country": "United Kingdom",
     "name": "Gibraltar International Bank Limited",
     "address": "PO Box 1375, Suite 771, Europort",
@@ -33230,7 +33230,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-05-04",
     "instant_readiness": null
   },
-  "MIDLGB22XXX": {
+  "MIDLGB22": {
     "country": "United Kingdom",
     "name": "Hsbc Bank PLC",
     "address": "8, Canada Square",
@@ -33238,7 +33238,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "SMCOGB2PXXX": {
+  "SMCOGB2P": {
     "country": "United Kingdom",
     "name": "Hsbc Private Bank (UK) Limited",
     "address": "78 St James's Street",
@@ -33246,7 +33246,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-07-07",
     "instant_readiness": null
   },
-  "HBUKGB4BXXX": {
+  "HBUKGB4B": {
     "country": "United Kingdom",
     "name": "Hsbc UK Bank plc",
     "address": "8 Canada Square",
@@ -33254,7 +33254,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-07-02",
     "instant_readiness": null
   },
-  "ICICGB2LXXX": {
+  "ICICGB2L": {
     "country": "United Kingdom",
     "name": "Icici Bank UK Plc",
     "address": "One Thomas More Square, 5 Thomas More Street",
@@ -33262,7 +33262,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-12-07",
     "instant_readiness": null
   },
-  "IVESGB2LXXX": {
+  "IVESGB2L": {
     "country": "United Kingdom",
     "name": "Investec Bank PLC",
     "address": "30 Gresham Street",
@@ -33270,7 +33270,7 @@ SEPA_INFO = {
     "sepa_readiness": "2012-02-06",
     "instant_readiness": null
   },
-  "ORUNGB2LXXX": {
+  "ORUNGB2L": {
     "country": "United Kingdom",
     "name": "Ipagoo LLP",
     "address": "One Aldgate",
@@ -33278,7 +33278,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-08-04",
     "instant_readiness": null
   },
-  "JPMGGB2LXXX": {
+  "JPMGGB2L": {
     "country": "United Kingdom",
     "name": "J.P. Morgan International Bank Limited",
     "address": "1 Knightsbridge",
@@ -33286,7 +33286,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-02-03",
     "instant_readiness": null
   },
-  "CHASGB2LXXX": {
+  "CHASGB2L": {
     "country": "United Kingdom",
     "name": "JPMorgan Chase Bank, N.A., London Branch",
     "address": "125 London Wall",
@@ -33294,7 +33294,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "JYBAGIGIXXX": {
+  "JYBAGIGI": {
     "country": "United Kingdom",
     "name": "Jyske Bank (Gibraltar) LTD.",
     "address": "Jyske House, 76 Main Street",
@@ -33302,7 +33302,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "KBIMGB2LXXX": {
+  "KBIMGB2L": {
     "country": "United Kingdom",
     "name": "Kleinwort Benson Bank Limited",
     "address": "14 ST. George Street",
@@ -33310,7 +33310,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-04-03",
     "instant_readiness": null
   },
-  "LOYDGIB1XXX": {
+  "LOYDGIB1": {
     "country": "United Kingdom",
     "name": "Lloyds Bank (Gibraltar) Limited",
     "address": "Royal Ocean Plaza, Ocean Village",
@@ -33318,7 +33318,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-09-05",
     "instant_readiness": null
   },
-  "LOYDGB2LXXX": {
+  "LOYDGB2L": {
     "country": "United Kingdom",
     "name": "Lloyds TSB Bank plc",
     "address": "25 Gresham Street",
@@ -33326,7 +33326,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MYMBGB2LXXX": {
+  "MYMBGB2L": {
     "country": "United Kingdom",
     "name": "Metro Bank PLC",
     "address": "1 Southampton ROW",
@@ -33334,7 +33334,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-10-11",
     "instant_readiness": null
   },
-  "MHCBGB2LXXX": {
+  "MHCBGB2L": {
     "country": "United Kingdom",
     "name": "Mizuho Bank LTD",
     "address": "Bracken House, One Friday St",
@@ -33342,7 +33342,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "MODRGB21XXX": {
+  "MODRGB21": {
     "country": "United Kingdom",
     "name": "Modulr FS Limited",
     "address": "1 Hammersmith Broadway",
@@ -33350,7 +33350,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-04-03",
     "instant_readiness": null
   },
-  "MOYPGIGIXXX": {
+  "MOYPGIGI": {
     "country": "United Kingdom",
     "name": "Moneycorp Bank Limited",
     "address": "7/b King's Yard Lane",
@@ -33358,7 +33358,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": null
   },
-  "MONZBG2LXXX": {
+  "MONZBG2L": {
     "country": "United Kingdom",
     "name": "Monzo Bank Limited",
     "address": "38 Finsbury Square",
@@ -33366,7 +33366,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "MOOWGB22XXX": {
+  "MOOWGB22": {
     "country": "United Kingdom",
     "name": "Moorwand LTD",
     "address": "28.4, 30 St Mary Axe",
@@ -33374,7 +33374,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-10",
     "instant_readiness": null
   },
-  "MPOSGB2LXXX": {
+  "MPOSGB2L": {
     "country": "United Kingdom",
     "name": "Mypos Europe LTD",
     "address": "The Shard, Level 24, 32 London Bridge Street",
@@ -33382,7 +33382,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-03-05",
     "instant_readiness": "2018-03-05"
   },
-  "NBOKGB2LXXX": {
+  "NBOKGB2L": {
     "country": "United Kingdom",
     "name": "National Bank OF Kuwait France",
     "address": "13 George Street",
@@ -33390,7 +33390,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-11-04",
     "instant_readiness": null
   },
-  "NWBKGB2LXXX": {
+  "NWBKGB2L": {
     "country": "United Kingdom",
     "name": "National Westminster Bank Plc",
     "address": "135 Bishopsgate",
@@ -33398,7 +33398,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "NAIAGB21XXX": {
+  "NAIAGB21": {
     "country": "United Kingdom",
     "name": "Nationwide Building Society",
     "address": "Nationwide House Pipers Way",
@@ -33406,7 +33406,7 @@ SEPA_INFO = {
     "sepa_readiness": "2013-08-05",
     "instant_readiness": null
   },
-  "DABAGB2BXXX": {
+  "DABAGB2B": {
     "country": "United Kingdom",
     "name": "Northern Bank Limited (Trade Name Danske Bank)",
     "address": "Donegall Square West",
@@ -33414,7 +33414,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": "2019-04-01"
   },
-  "CNORGB22XXX": {
+  "CNORGB22": {
     "country": "United Kingdom",
     "name": "Northern Trust Company",
     "address": "50 Bank Street, Canary Wharf",
@@ -33422,7 +33422,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "CNORGB2XXXX": {
+  "CNORGB2X": {
     "country": "United Kingdom",
     "name": "Northern Trust Global Services Limited",
     "address": "50 Bank Street, Canary Wharf",
@@ -33430,7 +33430,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "OPEXGB22XXX": {
+  "OPEXGB22": {
     "country": "United Kingdom",
     "name": "Openax Limited",
     "address": "2nd Floor Regis House, 45 King William Street",
@@ -33438,7 +33438,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": "2019-09-02"
   },
-  "PYYLGB2LXXX": {
+  "PYYLGB2L": {
     "country": "United Kingdom",
     "name": "PayAlly Limited",
     "address": "80 Coleman Street",
@@ -33446,7 +33446,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-02-05",
     "instant_readiness": null
   },
-  "PAOMGB21XXX": {
+  "PAOMGB21": {
     "country": "United Kingdom",
     "name": "Payoma Limited",
     "address": "Level 18, 40 Bank street",
@@ -33454,7 +33454,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-10-08",
     "instant_readiness": "2018-10-08"
   },
-  "PAYRGB21XXX": {
+  "PAYRGB21": {
     "country": "United Kingdom",
     "name": "Payrnet Limited",
     "address": "1-005, WeWork 3 Waterhouse Square, 138 Holborn",
@@ -33462,7 +33462,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-02-06",
     "instant_readiness": null
   },
-  "PAEDGB21XXX": {
+  "PAEDGB21": {
     "country": "United Kingdom",
     "name": "Paysend PLC",
     "address": "1st floor, 8 Golden Square",
@@ -33470,7 +33470,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-01-07",
     "instant_readiness": "2019-09-02"
   },
-  "PPROGB21XXX": {
+  "PPROGB21": {
     "country": "United Kingdom",
     "name": "Ppro Financial LTD",
     "address": "20 Balderton street",
@@ -33478,7 +33478,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-06-05",
     "instant_readiness": null
   },
-  "PRTCGB21XXX": {
+  "PRTCGB21": {
     "country": "United Kingdom",
     "name": "PrePay Technologies Limited",
     "address": "6th Floor, 3 Sheldon Square",
@@ -33486,7 +33486,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "PUNBGB22XXX": {
+  "PUNBGB22": {
     "country": "United Kingdom",
     "name": "Punjab National Bank (International) Limited",
     "address": "1, Moorgate",
@@ -33494,7 +33494,7 @@ SEPA_INFO = {
     "sepa_readiness": "2009-10-05",
     "instant_readiness": null
   },
-  "QNBAGB2LXXX": {
+  "QNBAGB2L": {
     "country": "United Kingdom",
     "name": "Qatar National Bank SAQ London Branch",
     "address": "51 Grosvenor Street",
@@ -33502,7 +33502,7 @@ SEPA_INFO = {
     "sepa_readiness": "2016-11-07",
     "instant_readiness": null
   },
-  "REVOGB21XXX": {
+  "REVOGB21": {
     "country": "United Kingdom",
     "name": "Revolut LTD",
     "address": "1 Canada Square Level 39",
@@ -33510,7 +33510,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-07-03",
     "instant_readiness": null
   },
-  "ABBYGB2LXXX": {
+  "ABBYGB2L": {
     "country": "United Kingdom",
     "name": "Santander UK PLC",
     "address": "17 Islington High Street",
@@ -33518,7 +33518,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-01-05",
     "instant_readiness": null
   },
-  "SELNGB21XXX": {
+  "SELNGB21": {
     "country": "United Kingdom",
     "name": "Sentenial Limited",
     "address": "1 Primrose Street",
@@ -33526,7 +33526,7 @@ SEPA_INFO = {
     "sepa_readiness": "2015-03-09",
     "instant_readiness": "2018-09-03"
   },
-  "SEOUGB21XXX": {
+  "SEOUGB21": {
     "country": "United Kingdom",
     "name": "Settlego Solutions Limited",
     "address": "9th floor, The Shard, 32 London Bridge street",
@@ -33534,7 +33534,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-03-08",
     "instant_readiness": "2019-03-08"
   },
-  "HAMBGIGIXXX": {
+  "HAMBGIGI": {
     "country": "United Kingdom",
     "name": "SG Hambros Bank (Gibraltar) Limited",
     "address": "Hambros House 32 Line Wall Road",
@@ -33542,7 +33542,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-05-08",
     "instant_readiness": null
   },
-  "HAMBGB2LXXX": {
+  "HAMBGB2L": {
     "country": "United Kingdom",
     "name": "SG Hambros Bank Limited",
     "address": "8 St James Square 5th Floor",
@@ -33550,7 +33550,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-05-08",
     "instant_readiness": null
   },
-  "SVBKGB2LXXX": {
+  "SVBKGB2L": {
     "country": "United Kingdom",
     "name": "Silicon Valley Bank",
     "address": "AlphaBeta 14-18 Finsbury Square",
@@ -33558,7 +33558,7 @@ SEPA_INFO = {
     "sepa_readiness": "2014-03-03",
     "instant_readiness": null
   },
-  "SRLGGB3LXXX": {
+  "SRLGGB3L": {
     "country": "United Kingdom",
     "name": "Starling Bank Limited",
     "address": "3rd Floor, 2 Finsbury Avenue",
@@ -33566,7 +33566,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-12-05",
     "instant_readiness": null
   },
-  "SMBCGB2LXXX": {
+  "SMBCGB2L": {
     "country": "United Kingdom",
     "name": "Sumitomo Mitsui Banking Corporation Europe Limited",
     "address": "99, Queen Victoria Street",
@@ -33574,7 +33574,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "CPBKGB22XXX": {
+  "CPBKGB22": {
     "country": "United Kingdom",
     "name": "THE CO-Operative Bank PLC.",
     "address": "PO Box 101, 1 Ballon Street",
@@ -33582,7 +33582,7 @@ SEPA_INFO = {
     "sepa_readiness": "2010-11-01",
     "instant_readiness": null
   },
-  "TCCLGB31XXX": {
+  "TCCLGB31": {
     "country": "United Kingdom",
     "name": "THE Currency Cloud Limited",
     "address": "Steward Buidling 1st Floor 12 Steward Street",
@@ -33590,7 +33590,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-05-08",
     "instant_readiness": null
   },
-  "RBOSGB2LXXX": {
+  "RBOSGB2L": {
     "country": "United Kingdom",
     "name": "The Royal Bank of Scotland plc",
     "address": "36 St Andrew Square",
@@ -33598,7 +33598,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "TRWIGB22XXX": {
+  "TRWIGB22": {
     "country": "United Kingdom",
     "name": "Transferwise Limited",
     "address": "6th Floor - Tea Building, 56 Shoreditch High Street",
@@ -33606,7 +33606,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-08-07",
     "instant_readiness": "2018-08-07"
   },
-  "TSBSGB2AXXX": {
+  "TSBSGB2A": {
     "country": "United Kingdom",
     "name": "TSB Bank PLC",
     "address": "5th Floor 20 Gresham Street",
@@ -33614,7 +33614,7 @@ SEPA_INFO = {
     "sepa_readiness": "2017-09-04",
     "instant_readiness": null
   },
-  "ULSBGB2BXXX": {
+  "ULSBGB2B": {
     "country": "United Kingdom",
     "name": "Ulster Bank Limited",
     "address": "11-16 Donegall Square East",
@@ -33622,7 +33622,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-01-28",
     "instant_readiness": null
   },
-  "UNNIGB21XXX": {
+  "UNNIGB21": {
     "country": "United Kingdom",
     "name": "Unified Finance Ltd.",
     "address": "Suite 6, Lansdowne Business Centre, Bumpers Way",
@@ -33630,7 +33630,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-04-01",
     "instant_readiness": null
   },
-  "VTSSGB2LXXX": {
+  "VTSSGB2L": {
     "country": "United Kingdom",
     "name": "Vitesse PSP Limited",
     "address": "20 Midtown, 2/28 Procter Street",
@@ -33638,7 +33638,7 @@ SEPA_INFO = {
     "sepa_readiness": "2018-01-02",
     "instant_readiness": "2019-06-04"
   },
-  "WEERGB21XXX": {
+  "WEERGB21": {
     "country": "United Kingdom",
     "name": "Webmoney Europe Ltd.",
     "address": "7 Portugal Place",
@@ -33646,7 +33646,7 @@ SEPA_INFO = {
     "sepa_readiness": "2019-09-02",
     "instant_readiness": null
   },
-  "PNBPGB2LXXX": {
+  "PNBPGB2L": {
     "country": "United Kingdom",
     "name": "Wells Fargo Bank N.A. London Branch",
     "address": "1 Plantation Place, 30 Fenchurch Street",
@@ -33654,7 +33654,7 @@ SEPA_INFO = {
     "sepa_readiness": "2008-04-07",
     "instant_readiness": null
   },
-  "IOPRVAVXXXX": {
+  "IOPRVAVX": {
     "country": "Vatican City State",
     "name": "Istituto per le Opere di Religione (IOR)",
     "address": "Cortile Sisto V",

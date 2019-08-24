@@ -31,13 +31,25 @@ def smartcaps(s):
             newwords.append(word.capitalize())
     return "".join(newwords)
 
+def normalize_bic(bic):
+    if bic.endswith("XXX"):
+        return bic[:-3].upper()
+    else:
+        return bic.upper()
+
+def normalize_blz(blz):
+    if len(blz) < 5:
+        return "00000"[len(blz):] + blz
+    else:
+        return blz
+
 blz_map = {
-    oe_bank["Bankleitzahl"]: oe_bank["SWIFT-Code"]
+    normalize_blz(oe_bank["Bankleitzahl"]): normalize_bic(oe_bank["SWIFT-Code"])
     for oe_bank in bank_registry
 }
 
 sepa_info = {
-    sepa_bank["BIC"]: {
+    normalize_bic(sepa_bank["BIC"]): {
         "country": smartcaps(sepa_bank["Country"]),
         "name": smartcaps(sepa_bank["ParticipantName"]),
         "address": smartcaps(sepa_bank["Address"]),
