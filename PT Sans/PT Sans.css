@@ -1,0 +1,45 @@
+/*
+ * PT Sans by ParaType - https://company.paratype.com/pt-sans-pt-serif
+ * License: Paratype-1.2
+ */
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('PT Sans'),
+         url('woff2/PT Sans.woff2') format('woff2'),
+         url('woff/PT Sans.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local('PT Sans'),
+         url('woff2/PT Sans Italic.woff2') format('woff2'),
+         url('woff/PT Sans Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('PT Sans'),
+         url('woff2/PT Sans Bold.woff2') format('woff2'),
+         url('woff/PT Sans Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: local('PT Sans'),
+         url('woff2/PT Sans Bold Italic.woff2') format('woff2'),
+         url('woff/PT Sans Bold Italic.woff') format('woff');
+}
+

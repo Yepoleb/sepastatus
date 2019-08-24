@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>SEPA Status Lookup</title>
+    <link href="PT Sans/PT Sans.css" rel="stylesheet">
+    <style>
+      *, ::before, ::after {
+        box-sizing: border-box;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        max-width: 1000px;
+        padding: 80px 0 30px;
+        margin: auto;
+        color: #eaeaea;
+        background: #262626;
+        font-family: "PT Sans", sans-serif;
+      }
+      main {
+        flex: 1;
+      }
+      input {
+        color: inherit;
+        font-family: inherit;
+      }
+      a, a:link, a:hover, a:focus {
+        color: #ea6400;
+        text-decoration: none;
+      }
+      a:visited {
+        color: #d95d01;
+        text-decoration: none;
+      }
+      .box {
+        width: 100%;
+        padding: 15px 20px;
+        margin: 10px 0;
+        font-size: 2rem;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        border-radius: 4px;
+        background: #2d2d2d;
+      }
+      #bankinfo {
+        font-size: 1.7rem;
+      }
+      #copyright {
+        font-size: 1.3rem;
+      }
+    </style>
+    <script src="bankinfo.js"></script>
+    <script>
+      function iban_to_bic(iban_str)
+      {
+        if (!iban_str.startsWith("AT")) {
+          return;
+        }
+
+        var blz = iban_str.substring(4, 9);
+        return BLZ_MAP[blz];
+      }
+
+      function is_digits(s)
+      {
+        for (var i = 0; i < s.length; i++) {
+          if (s.charAt(i) < '0' || '9' < s.charAt(i)) {
+            return false;
+          }
+        }
+        return true;
+      }
+
+      function checkinput(input_str)
+      {
+        input_str = input_str.replace(/\s/g, "").toUpperCase();
+
+        if ((input_str.length > 11) || is_digits(input_str.substring(3, 5))) {
+          if (input_str.length < 9) {
+            document.getElementById("notfound").style.display = "none";
+            document.getElementById("bankinfo").style.display = "none";
+            return;
+          } else {
+            var bic = iban_to_bic(input_str);
+          }
+        } else {
+          if (input_str.length < 8) {
+            document.getElementById("notfound").style.display = "none";
+            document.getElementById("bankinfo").style.display = "none";
+            return;
+          } else {
+            var bic = input_str;
+          }
+        }
+
+        if (bic in SEPA_INFO) {
+          info = SEPA_INFO[bic];
+          document.getElementById("notfound").style.display = "none";
+          document.getElementById("bankinfo").style.display = "";
+
+          document.getElementById("info-name").innerText = info["name"];
+          document.getElementById("info-address").innerText = info["address"];
+          document.getElementById("info-location").innerText = info["city"];
+          document.getElementById("info-country").innerText = info["country"];
+          document.getElementById("info-bic").innerText = bic;
+          document.getElementById("info-sepa").innerText = info["sepa_readiness"];
+          document.getElementById("info-instant").innerText = info["instant_readiness"];
+        } else {
+          document.getElementById("notfound").style.display = "";
+          document.getElementById("bankinfo").style.display = "none";
+        }
+      }
+
+      function oninput(input_event)
+      {
+        checkinput(input_event.target.value);
+      }
+
+      window.addEventListener("DOMContentLoaded", function() {
+        var iban_elem = document.getElementById("iban")
+        if (Boolean(window.location.hash)) {
+          iban_elem.value = window.location.hash.substring(1);
+        }
+        iban_elem.addEventListener("input", oninput);
+        checkinput(iban_elem.value);
+      })
+    </script>
+  </head>
+  <body>
+    <main>
+      <input type="text" id="iban" placeholder="IBAN or BIC" class="box">
+      <div id="notfound" class="box">
+        Bank not found.
+      </div>
+      <table id="bankinfo" class="box">
+        <tr>
+          <td>Name</td>
+          <td id="info-name"></td>
+        </tr>
+        <tr>
+          <td>Address</td>
+          <td id="info-address"></td>
+        </tr>
+        <tr>
+          <td>Location</td>
+          <td id="info-location"></td>
+        </tr>
+        <tr>
+          <td>Country</td>
+          <td id="info-country"></td>
+        </tr>
+        <tr>
+          <td>BIC</td>
+          <td id="info-bic"></td>
+        </tr>
+        <tr>
+          <td>SEPA since</td>
+          <td id="info-sepa"></td>
+        </tr>
+        <tr>
+          <td>SEPA Instant since</td>
+          <td id="info-instant"></td>
+        </tr>
+      </table>
+    </main>
+    <footer id="copyright" class="box">
+      IBAN data provided by <a href="https://www.oenb.at/idakilz/kiverzeichnis?lang=en">OeNB</a><br>
+      SEPA data provided by <a href="https://www.europeanpaymentscouncil.eu/what-we-do/be-involved/register-participants/registers-participants-sepa-payment-schemes">EPC</a>
+    </footer>
+  </body>
+</html>
